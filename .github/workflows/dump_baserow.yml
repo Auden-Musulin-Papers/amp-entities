@@ -1,0 +1,29 @@
+name: Dump Entities from Baserow
+
+on:
+  workflow_dispatch
+  schedule:
+  - cron: "13 */12 * * *"
+
+jobs:
+  download:
+    name: dump baserow
+    runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
+      BASEROW_USER: ${{secrets.BASEROW_USER}}
+      BASEROW_PW: ${{secrets.BASEROW_PW}}
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+      run: |
+        pip install -r requirements.txt
+    - name: dump the data
+      run: |
+        python dump_data.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Downloaded/Updated Data
