@@ -1,1 +1,1352 @@
-{"1": {"id": 1, "order": "1.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 4, "value": "Kallman, Chester"}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "2": {"id": 2, "order": "2.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 107, "value": "N/A_1, Hugie"}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "3": {"id": 3, "order": "3.00000000000000000000", "random": "", "source": [{"id": 4, "value": "Kallman, Chester"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "4": {"id": 4, "order": "4.00000000000000000000", "random": "", "source": [{"id": 107, "value": "N/A_1, Hugie"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "5": {"id": 5, "order": "5.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 96, "value": "Clark, Tekla"}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "6": {"id": 6, "order": "6.00000000000000000000", "random": "", "source": [{"id": 96, "value": "Clark, Tekla"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "7": {"id": 7, "order": "7.00000000000000000000", "random": "", "source": [{"id": 96, "value": "Clark, Tekla"}], "target": [{"id": 95, "value": "Clark, John"}], "relation_type": {"id": 6659, "value": "married_with", "color": "light-green"}, "start_date": null, "end_date": null}, "8": {"id": 8, "order": "8.00000000000000000000", "random": "", "source": [{"id": 95, "value": "Clark, John"}], "target": [{"id": 96, "value": "Clark, Tekla"}], "relation_type": {"id": 6659, "value": "married_with", "color": "light-green"}, "start_date": null, "end_date": null}, "9": {"id": 9, "order": "9.00000000000000000000", "random": "", "source": [{"id": 16, "value": "Eiermann, Emma"}], "target": [{"id": 17, "value": "Eiermann, Josef"}], "relation_type": {"id": 6671, "value": "is_sister_of", "color": "light-gray"}, "start_date": null, "end_date": null}, "10": {"id": 10, "order": "10.00000000000000000000", "random": "", "source": [{"id": 17, "value": "Eiermann, Josef"}], "target": [{"id": 16, "value": "Eiermann, Emma"}], "relation_type": {"id": 6672, "value": "is_brother_of", "color": "red"}, "start_date": null, "end_date": null}, "11": {"id": 11, "order": "11.00000000000000000000", "random": "", "source": [{"id": 2, "value": "Musulin, Stella"}], "target": [{"id": 94, "value": "Musilin, Marko"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "12": {"id": 12, "order": "12.00000000000000000000", "random": "", "source": [{"id": 94, "value": "Musilin, Marko"}], "target": [{"id": 2, "value": "Musulin, Stella"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "13": {"id": 13, "order": "13.00000000000000000000", "random": "", "source": [{"id": 2, "value": "Musulin, Stella"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6675, "value": "collaborates_with", "color": "light-red"}, "start_date": null, "end_date": null}, "14": {"id": 14, "order": "14.00000000000000000000", "random": "", "source": [{"id": 16, "value": "Eiermann, Emma"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6673, "value": "works_for", "color": "dark-gray"}, "start_date": null, "end_date": null}, "15": {"id": 15, "order": "15.00000000000000000000", "random": "", "source": [{"id": 32, "value": "Strobl, Josefa"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6673, "value": "works_for", "color": "dark-gray"}, "start_date": null, "end_date": null}, "16": {"id": 16, "order": "16.00000000000000000000", "random": "", "source": [{"id": 2, "value": "Musulin, Stella"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6674, "value": "is_friends_with", "color": "green"}, "start_date": null, "end_date": null}, "17": {"id": 17, "order": "17.00000000000000000000", "random": "", "source": [{"id": 96, "value": "Clark, Tekla"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6674, "value": "is_friends_with", "color": "green"}, "start_date": null, "end_date": null}, "18": {"id": 18, "order": "18.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 19, "value": "Heyworth, Peter"}], "relation_type": {"id": 6676, "value": "stays_with", "color": "light-gray"}, "start_date": null, "end_date": null}, "19": {"id": 19, "order": "19.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 4, "value": "Kallman, Chester"}], "relation_type": {"id": 6677, "value": "lives_with", "color": "orange"}, "start_date": null, "end_date": null}, "20": {"id": 20, "order": "20.00000000000000000000", "random": "", "source": [{"id": 4, "value": "Kallman, Chester"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6677, "value": "lives_with", "color": "orange"}, "start_date": null, "end_date": null}, "21": {"id": 21, "order": "21.00000000000000000000", "random": "", "source": [{"id": 23, "value": "Boras, Jean"}], "target": [{"id": 4, "value": "Kallman, Chester"}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "22": {"id": 22, "order": "22.00000000000000000000", "random": "", "source": [{"id": 4, "value": "Kallman, Chester"}], "target": [{"id": 23, "value": "Boras, Jean"}], "relation_type": {"id": 6670, "value": "lover_of", "color": "dark-red"}, "start_date": null, "end_date": null}, "23": {"id": 23, "order": "23.00000000000000000000", "random": "", "source": [{"id": 4, "value": "Kallman, Chester"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6675, "value": "collaborates_with", "color": "light-red"}, "start_date": null, "end_date": null}, "24": {"id": 24, "order": "24.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 4, "value": "Kallman, Chester"}], "relation_type": {"id": 6675, "value": "collaborates_with", "color": "light-red"}, "start_date": null, "end_date": null}, "25": {"id": 25, "order": "25.00000000000000000000", "random": "", "source": [{"id": 3, "value": "Zimmer, Christiane"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6674, "value": "is_friends_with", "color": "green"}, "start_date": null, "end_date": null}, "26": {"id": 26, "order": "26.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 3, "value": "Zimmer, Christiane"}], "relation_type": {"id": 6674, "value": "is_friends_with", "color": "green"}, "start_date": null, "end_date": null}, "27": {"id": 27, "order": "27.00000000000000000000", "random": "", "source": [{"id": 3, "value": "Zimmer, Christiane"}], "target": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "28": {"id": 28, "order": "28.00000000000000000000", "random": "", "source": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "target": [{"id": 3, "value": "Zimmer, Christiane"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "29": {"id": 29, "order": "29.00000000000000000000", "random": "", "source": [{"id": 3, "value": "Zimmer, Christiane"}], "target": [{"id": 43, "value": "Hofmannsthal, Gerty von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "30": {"id": 30, "order": "30.00000000000000000000", "random": "", "source": [{"id": 43, "value": "Hofmannsthal, Gerty von"}], "target": [{"id": 3, "value": "Zimmer, Christiane"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "31": {"id": 31, "order": "31.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 3, "value": "Zimmer, Christiane"}], "relation_type": {"id": 6672, "value": "is_brother_of", "color": "red"}, "start_date": null, "end_date": null}, "32": {"id": 32, "order": "32.00000000000000000000", "random": "", "source": [{"id": 3, "value": "Zimmer, Christiane"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6671, "value": "is_sister_of", "color": "light-gray"}, "start_date": null, "end_date": null}, "33": {"id": 33, "order": "33.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "34": {"id": 34, "order": "34.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 43, "value": "Hofmannsthal, Gerty von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "35": {"id": 35, "order": "35.00000000000000000000", "random": "", "source": [{"id": 43, "value": "Hofmannsthal, Gerty von"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "36": {"id": 36, "order": "36.00000000000000000000", "random": "", "source": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "37": {"id": 37, "order": "37.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "relation_type": {"id": 6659, "value": "married_with", "color": "light-green"}, "start_date": null, "end_date": null}, "38": {"id": 38, "order": "38.00000000000000000000", "random": "", "source": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6659, "value": "married_with", "color": "light-green"}, "start_date": null, "end_date": null}, "39": {"id": 39, "order": "39.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 47, "value": "Hofamannsthal, Octavian von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "40": {"id": 40, "order": "40.00000000000000000000", "random": "", "source": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "target": [{"id": 47, "value": "Hofamannsthal, Octavian von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "41": {"id": 41, "order": "41.00000000000000000000", "random": "", "source": [{"id": 47, "value": "Hofamannsthal, Octavian von"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "42": {"id": 42, "order": "42.00000000000000000000", "random": "", "source": [{"id": 47, "value": "Hofamannsthal, Octavian von"}], "target": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "43": {"id": 43, "order": "43.00000000000000000000", "random": "", "source": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "target": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "relation_type": {"id": 6671, "value": "is_sister_of", "color": "light-gray"}, "start_date": null, "end_date": null}, "44": {"id": 44, "order": "44.00000000000000000000", "random": "", "source": [{"id": 44, "value": "Hofmannsthal, Raimund von"}], "target": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "relation_type": {"id": 6672, "value": "is_brother_of", "color": "red"}, "start_date": null, "end_date": null}, "45": {"id": 45, "order": "45.00000000000000000000", "random": "", "source": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "target": [{"id": 3, "value": "Zimmer, Christiane"}], "relation_type": {"id": 6671, "value": "is_sister_of", "color": "light-gray"}, "start_date": null, "end_date": null}, "46": {"id": 46, "order": "46.00000000000000000000", "random": "", "source": [{"id": 3, "value": "Zimmer, Christiane"}], "target": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "relation_type": {"id": 6671, "value": "is_sister_of", "color": "light-gray"}, "start_date": null, "end_date": null}, "47": {"id": 47, "order": "47.00000000000000000000", "random": "", "source": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "target": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "48": {"id": 48, "order": "48.00000000000000000000", "random": "", "source": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "target": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "relation_type": {"id": 6669, "value": "child_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "49": {"id": 49, "order": "49.00000000000000000000", "random": "", "source": [{"id": 42, "value": "Hofmannsthal, Hugo von"}], "target": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "50": {"id": 50, "order": "50.00000000000000000000", "random": "", "source": [{"id": 45, "value": "Hofmannsthal, Liz von"}], "target": [{"id": 46, "value": "Hofmannsthal, Arabella von"}], "relation_type": {"id": 6668, "value": "parent_of", "color": "light-blue"}, "start_date": null, "end_date": null}, "51": {"id": 51, "order": "51.00000000000000000000", "random": "", "source": [{"id": 8, "value": "Spender, Stephen"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6675, "value": "collaborates_with", "color": "light-red"}, "start_date": null, "end_date": null}, "52": {"id": 52, "order": "52.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 8, "value": "Spender, Stephen"}], "relation_type": {"id": 6675, "value": "collaborates_with", "color": "light-red"}, "start_date": null, "end_date": null}, "53": {"id": 53, "order": "53.00000000000000000000", "random": "", "source": [{"id": 88, "value": "Auden, John"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6672, "value": "is_brother_of", "color": "red"}, "start_date": null, "end_date": null}, "54": {"id": 54, "order": "54.00000000000000000000", "random": "", "source": [{"id": 1, "value": "Auden, W. H."}], "target": [{"id": 88, "value": "Auden, John"}], "relation_type": {"id": 6672, "value": "is_brother_of", "color": "red"}, "start_date": null, "end_date": null}, "55": {"id": 55, "order": "55.00000000000000000000", "random": "", "source": [{"id": 2, "value": "Musulin, Stella"}], "target": [{"id": 93, "value": "Musulin, Elsa"}], "relation_type": null, "start_date": null, "end_date": null}, "56": {"id": 56, "order": "56.00000000000000000000", "random": "", "source": [{"id": 19, "value": "Heyworth, Peter"}], "target": [{"id": 1, "value": "Auden, W. H."}], "relation_type": {"id": 6676, "value": "stays_with", "color": "light-gray"}, "start_date": null, "end_date": null}, "57": {"id": 57, "order": "57.00000000000000000000", "random": "", "source": [], "target": [], "relation_type": null, "start_date": null, "end_date": null}}
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 107,
+        "value": "N/A_1, Hugie"
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 107,
+        "value": "N/A_1, Hugie"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "target": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
+    ],
+    "target": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
+      }
+    ],
+    "target": [
+      {
+        "id": 17,
+        "value": "Eiermann, Josef"
+      }
+    ],
+    "relation_type": {
+      "id": 6671,
+      "value": "is_sister_of",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 17,
+        "value": "Eiermann, Josef"
+      }
+    ],
+    "target": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
+      }
+    ],
+    "relation_type": {
+      "id": 6672,
+      "value": "is_brother_of",
+      "color": "red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
+    ],
+    "target": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6675,
+      "value": "collaborates_with",
+      "color": "light-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6674,
+      "value": "is_friends_with",
+      "color": "green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6674,
+      "value": "is_friends_with",
+      "color": "green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 19,
+        "value": "Heyworth, Peter"
+      }
+    ],
+    "relation_type": {
+      "id": 6676,
+      "value": "stays_with",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "relation_type": {
+      "id": 6677,
+      "value": "lives_with",
+      "color": "orange"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6677,
+      "value": "lives_with",
+      "color": "orange"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 23,
+        "value": "Boras, Jean"
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 23,
+        "value": "Boras, Jean"
+      }
+    ],
+    "relation_type": {
+      "id": 6670,
+      "value": "lover_of",
+      "color": "dark-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6675,
+      "value": "collaborates_with",
+      "color": "light-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "relation_type": {
+      "id": 6675,
+      "value": "collaborates_with",
+      "color": "light-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6674,
+      "value": "is_friends_with",
+      "color": "green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "relation_type": {
+      "id": 6674,
+      "value": "is_friends_with",
+      "color": "green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "target": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "relation_type": {
+      "id": 6672,
+      "value": "is_brother_of",
+      "color": "red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6671,
+      "value": "is_sister_of",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "target": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "relation_type": {
+      "id": 6671,
+      "value": "is_sister_of",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "relation_type": {
+      "id": 6672,
+      "value": "is_brother_of",
+      "color": "red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "relation_type": {
+      "id": 6671,
+      "value": "is_sister_of",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "relation_type": {
+      "id": 6671,
+      "value": "is_sister_of",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6675,
+      "value": "collaborates_with",
+      "color": "light-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
+    ],
+    "relation_type": {
+      "id": 6675,
+      "value": "collaborates_with",
+      "color": "light-red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 88,
+        "value": "Auden, John"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6672,
+      "value": "is_brother_of",
+      "color": "red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 88,
+        "value": "Auden, John"
+      }
+    ],
+    "relation_type": {
+      "id": 6672,
+      "value": "is_brother_of",
+      "color": "red"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 93,
+        "value": "Musulin, Elsa"
+      }
+    ],
+    "relation_type": null,
+    "start_date": null,
+    "end_date": null
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 19,
+        "value": "Heyworth, Peter"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6676,
+      "value": "stays_with",
+      "color": "light-gray"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "random": "",
+    "source": [],
+    "target": [],
+    "relation_type": null,
+    "start_date": null,
+    "end_date": null
+  }
+}
