@@ -132,11 +132,151 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "",
-    "gnd_id": "",
+    "name": "PEN Club",
+    "gnd_id": "https://www.wikidata.org/wiki/Q306362",
     "amp_id": "amp_organization_10",
-    "founded_in_year": null,
+    "founded_in_year": "1923",
     "comments": null,
-    "location": []
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Creditanstalt-Bankverein",
+    "gnd_id": "https://www.wikidata.org/wiki/Q694468",
+    "amp_id": "amp_organization_11",
+    "founded_in_year": "1855",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Random House",
+    "gnd_id": "https://www.wikidata.org/wiki/Q744182",
+    "amp_id": "amp_organization_12",
+    "founded_in_year": "1927",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "U.S"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Virago Press",
+    "gnd_id": "https://www.wikidata.org/wiki/Q370233",
+    "amp_id": "amp_organization_13",
+    "founded_in_year": "1973",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Kunstlerhaus",
+    "gnd_id": "https://www.wikidata.org/wiki/Q284902",
+    "amp_id": "amp_organization_14",
+    "founded_in_year": "1868",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Group Theatre",
+    "gnd_id": "https://www.wikidata.org/wiki/Q378577",
+    "amp_id": "amp_organization_15",
+    "founded_in_year": "1931",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "British Council",
+    "gnd_id": "https://www.wikidata.org/wiki/Q45433",
+    "amp_id": "amp_organization_16",
+    "founded_in_year": "1934",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Beinecke Library",
+    "gnd_id": "https://www.wikidata.org/wiki/Q814779",
+    "amp_id": "amp_organization_17",
+    "founded_in_year": "1963",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "U.S"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Yale University",
+    "gnd_id": "https://www.wikidata.org/wiki/Q49112",
+    "amp_id": "amp_organization_18",
+    "founded_in_year": "1701",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "U.S"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "G.P.O Film Unit",
+    "gnd_id": "https://www.wikidata.org/wiki/Q1337744",
+    "amp_id": "amp_organization_19",
+    "founded_in_year": "1933",
+    "comments": "",
+    "location": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ]
   }
 }

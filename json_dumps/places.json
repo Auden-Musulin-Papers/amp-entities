@@ -57,10 +57,6 @@
       {
         "id": 87,
         "value": "Opel, Adolf"
-      },
-      {
-        "id": 101,
-        "value": "Heer, Friedrich"
       }
     ],
     "persons - death_place": [
@@ -141,8 +137,8 @@
         "value": "Opel, Adolf"
       },
       {
-        "id": 101,
-        "value": "Heer, Friedrich"
+        "id": 134,
+        "value": "Suttner, Bertha"
       }
     ],
     "google_maps_coordinates": null,
@@ -151,6 +147,22 @@
       {
         "id": 9,
         "value": "Gesellschaft für Literatur"
+      },
+      {
+        "id": 10,
+        "value": "PEN Club"
+      },
+      {
+        "id": 11,
+        "value": "Creditanstalt-Bankverein"
+      },
+      {
+        "id": 14,
+        "value": "Kunstlerhaus"
+      },
+      {
+        "id": 16,
+        "value": "British Council"
       }
     ],
     "fiction_real_place": []
@@ -399,6 +411,18 @@
       {
         "id": 3,
         "value": "Episcopalian Church in the States"
+      },
+      {
+        "id": 12,
+        "value": "Random House"
+      },
+      {
+        "id": 17,
+        "value": "Beinecke Library"
+      },
+      {
+        "id": 18,
+        "value": "Yale University"
       }
     ],
     "fiction_real_place": []
@@ -433,7 +457,12 @@
         "value": "Bondy, Francis"
       }
     ],
-    "persons - death_place": [],
+    "persons - death_place": [
+      {
+        "id": 130,
+        "value": "Hitler, Adolf"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
@@ -620,6 +649,10 @@
       {
         "id": 86,
         "value": "Balanchine, George"
+      },
+      {
+        "id": 128,
+        "value": "Vechten, Carl Van"
       }
     ],
     "google_maps_coordinates": "",
@@ -632,6 +665,10 @@
       {
         "id": 8,
         "value": "Simon & Schuster"
+      },
+      {
+        "id": 15,
+        "value": "Group Theatre"
       }
     ],
     "fiction_real_place": []
@@ -1188,11 +1225,20 @@
       {
         "id": 90,
         "value": "Orwell, Sonia"
+      },
+      {
+        "id": 123,
+        "value": "Coldstream, Sir William"
       }
     ],
     "google_maps_coordinates": "",
     "comments": null,
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 13,
+        "value": "Virago Press"
+      }
+    ],
     "fiction_real_place": []
   },
   "57": {
@@ -1621,6 +1667,10 @@
       {
         "id": 56,
         "value": "Gide, André"
+      },
+      {
+        "id": 131,
+        "value": "Gide, André"
       }
     ],
     "persons - death_place": [
@@ -1639,6 +1689,14 @@
       {
         "id": 116,
         "value": "Goldoni, Carlo"
+      },
+      {
+        "id": 131,
+        "value": "Gide, André"
+      },
+      {
+        "id": 132,
+        "value": "Claudel, Paul"
       }
     ],
     "google_maps_coordinates": "",
@@ -1768,6 +1826,10 @@
       {
         "id": 5,
         "value": "Faber and Faber"
+      },
+      {
+        "id": 19,
+        "value": "G.P.O Film Unit"
       }
     ],
     "fiction_real_place": []
@@ -3066,6 +3128,380 @@
     ],
     "persons - death_place": [],
     "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "170": {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "name": "The Vicarage",
+    "amp_id": "amp_place_id_170",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "50.79141203020876, -3.659534580154178",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "171": {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "name": "39 Claremont Ave",
+    "amp_id": "amp_place_id_171",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "40.810125765533726, -73.96418150148406",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "172": {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "name": "Schlösselgasse 8/17",
+    "amp_id": "amp_place_id_172",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.21286685931523, 16.35351725445949",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "173": {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "name": "Kildare Street 22",
+    "amp_id": "amp_place_id_173",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "53.339912120136184, -6.256222616611612",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "174": {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "name": "Lackierergasse 5",
+    "amp_id": "amp_place_id_174",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.21874314648821, 16.356955340964838",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "175": {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "name": "Wienerwald",
+    "amp_id": "amp_place_id_175",
+    "geonames_id": "https://www.geonames.org/2601183/wienerwald.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "176": {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "name": "Riga",
+    "amp_id": "amp_place_id_176",
+    "geonames_id": "https://www.geonames.org/456172/riga.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "177": {
+    "id": 177,
+    "order": "177.00000000000000000000",
+    "name": "Palais Wilczek",
+    "amp_id": "amp_place_id_177",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.20882412668265, 16.36624270048027",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "178": {
+    "id": 178,
+    "order": "178.00000000000000000000",
+    "name": "Lisburn",
+    "amp_id": "amp_place_id_178",
+    "geonames_id": "https://www.geonames.org/2644411/lisburn.html",
+    "persons": [
+      {
+        "id": 120,
+        "value": "Monteith, Charles"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "179": {
+    "id": 179,
+    "order": "179.00000000000000000000",
+    "name": "Kildare",
+    "amp_id": "amp_place_id_179",
+    "geonames_id": "https://www.geonames.org/2963436/kildare.html",
+    "persons": [
+      {
+        "id": 122,
+        "value": "Keane, Molly"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "180": {
+    "id": 180,
+    "order": "180.00000000000000000000",
+    "name": "Ardmore",
+    "amp_id": "amp_place_id_180",
+    "geonames_id": "https://www.geonames.org/9805174/ardmore.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 122,
+        "value": "Keane, Molly"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "181": {
+    "id": 181,
+    "order": "181.00000000000000000000",
+    "name": "Belford",
+    "amp_id": "amp_place_id_181",
+    "geonames_id": "https://www.geonames.org/7300675/belford.html",
+    "persons": [
+      {
+        "id": 123,
+        "value": "Coldstream, Sir William"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "182": {
+    "id": 182,
+    "order": "182.00000000000000000000",
+    "name": "Lianxi District",
+    "amp_id": "amp_place_id_182",
+    "geonames_id": "https://www.geonames.org/10373557/lianxi.html",
+    "persons": [
+      {
+        "id": 124,
+        "value": "Peake, Mervyn"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "183": {
+    "id": 183,
+    "order": "183.00000000000000000000",
+    "name": "Burcot",
+    "amp_id": "amp_place_id_183",
+    "geonames_id": "https://www.geonames.org/countries/GB/united-kingdom.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 124,
+        "value": "Peake, Mervyn"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "184": {
+    "id": 184,
+    "order": "184.00000000000000000000",
+    "name": "Los Angeles",
+    "amp_id": "amp_place_id_184",
+    "geonames_id": "https://www.geonames.org/5368361/los-angeles.html",
+    "persons": [
+      {
+        "id": 126,
+        "value": "Bachardy, Don"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "185": {
+    "id": 185,
+    "order": "185.00000000000000000000",
+    "name": "Petzelsdorf",
+    "amp_id": "amp_place_id_185",
+    "geonames_id": "https://www.geonames.org/2769002/petzelsdorf.html",
+    "persons": [
+      {
+        "id": 127,
+        "value": "Raimund, Prof Hans"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "186": {
+    "id": 186,
+    "order": "186.00000000000000000000",
+    "name": "Cedar Rapids",
+    "amp_id": "amp_place_id_186",
+    "geonames_id": "https://www.geonames.org/4850751/cedar-rapids.html",
+    "persons": [
+      {
+        "id": 128,
+        "value": "Vechten, Carl Van"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "187": {
+    "id": 187,
+    "order": "187.00000000000000000000",
+    "name": "Magdeburg",
+    "amp_id": "amp_place_id_187",
+    "geonames_id": "https://www.geonames.org/2874545/magdeburg.html",
+    "persons": [
+      {
+        "id": 129,
+        "value": "Benning, Achim"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "188": {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "name": "Braunau am Inn",
+    "amp_id": "amp_place_id_188",
+    "geonames_id": "https://www.geonames.org/2781520/braunau-am-inn.html",
+    "persons": [
+      {
+        "id": 130,
+        "value": "Hitler, Adolf"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "189": {
+    "id": 189,
+    "order": "189.00000000000000000000",
+    "name": "Villeneuve-sur-Fère",
+    "amp_id": "amp_place_id_189",
+    "geonames_id": "https://www.geonames.org/2968516/villeneuve-sur-fere.html",
+    "persons": [
+      {
+        "id": 132,
+        "value": "Claudel, Paul"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "190": {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "name": "Havixbeck",
+    "amp_id": "amp_place_id_190",
+    "geonames_id": "https://www.geonames.org/2908597/havixbeck.html",
+    "persons": [
+      {
+        "id": 133,
+        "value": "Droste-Hülshoff, Annette von"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "191": {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "name": "Meersburg",
+    "amp_id": "amp_place_id_191",
+    "geonames_id": "https://www.geonames.org/2872486/meersburg.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 133,
+        "value": "Droste-Hülshoff, Annette von"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "192": {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "name": "The Golz-Kinsky Palace,",
+    "amp_id": "amp_place_id_192",
+    "geonames_id": "",
+    "persons": [
+      {
+        "id": 134,
+        "value": "Suttner, Bertha"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "50.08803132166223, 14.42167365633837",
     "comments": "",
     "organizations": [],
     "fiction_real_place": []

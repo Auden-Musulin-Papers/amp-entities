@@ -3192,34 +3192,6 @@
     "fictional_or_real": null,
     "literary_work": []
   },
-  "101": {
-    "id": 101,
-    "order": "101.00000000000000000000",
-    "name": "Heer, Friedrich",
-    "amp_id": "amp_person_101",
-    "gnd": "https://d-nb.info/gnd/118547666",
-    "birth_year": "1916",
-    "birth_place": [
-      {
-        "id": 1,
-        "value": "Vienna"
-      }
-    ],
-    "birth_day": "1916-04-10",
-    "death_year": "1983",
-    "death_place": [
-      {
-        "id": 1,
-        "value": "Vienna"
-      }
-    ],
-    "death_day": "1983-09-18",
-    "comment": "",
-    "person_person": [],
-    "person_person - target": [],
-    "fictional_or_real": null,
-    "literary_work": []
-  },
   "102": {
     "id": 102,
     "order": "102.00000000000000000000",
@@ -3598,5 +3570,426 @@
         "value": "Archifanfaro"
       }
     ]
+  },
+  "118": {
+    "id": 118,
+    "order": "117.00000000000000000000",
+    "name": "Phillips, John",
+    "amp_id": "amp_person_118",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "119": {
+    "id": 119,
+    "order": "118.00000000000000000000",
+    "name": "Müller, Peter",
+    "amp_id": "amp_person_119",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "120": {
+    "id": 120,
+    "order": "119.00000000000000000000",
+    "name": "Monteith, Charles",
+    "amp_id": "amp_person_120",
+    "gnd": "https://d-nb.info/gnd/1124937285",
+    "birth_year": "1921",
+    "birth_place": [
+      {
+        "id": 178,
+        "value": "Lisburn"
+      }
+    ],
+    "birth_day": "1921-02-09",
+    "death_year": "1995",
+    "death_place": [],
+    "death_day": "1995-05-09",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "121": {
+    "id": 121,
+    "order": "120.00000000000000000000",
+    "name": "Esders, Christa",
+    "amp_id": "amp_person_121",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "122": {
+    "id": 122,
+    "order": "121.00000000000000000000",
+    "name": "Keane, Molly",
+    "amp_id": "amp_person_122",
+    "gnd": "https://d-nb.info/gnd/114173028",
+    "birth_year": "1904",
+    "birth_place": [
+      {
+        "id": 179,
+        "value": "Kildare"
+      }
+    ],
+    "birth_day": "1904-07-20",
+    "death_year": "1996",
+    "death_place": [
+      {
+        "id": 180,
+        "value": "Ardmore"
+      }
+    ],
+    "death_day": "1996-04-22",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 26,
+        "value": "The Rising Tide"
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "order": "122.00000000000000000000",
+    "name": "Coldstream, Sir William",
+    "amp_id": "amp_person_123",
+    "gnd": "https://d-nb.info/gnd/119037505",
+    "birth_year": "1908",
+    "birth_place": [
+      {
+        "id": 181,
+        "value": "Belford"
+      }
+    ],
+    "birth_day": "1908-02-28",
+    "death_year": "1987",
+    "death_place": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ],
+    "death_day": "1987-02-18",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "124": {
+    "id": 124,
+    "order": "123.00000000000000000000",
+    "name": "Peake, Mervyn",
+    "amp_id": "amp_person_124",
+    "gnd": "https://d-nb.info/gnd/118878115",
+    "birth_year": "1911",
+    "birth_place": [
+      {
+        "id": 182,
+        "value": "Lianxi District"
+      }
+    ],
+    "birth_day": "1911-06-09",
+    "death_year": "1968",
+    "death_place": [
+      {
+        "id": 183,
+        "value": "Burcot"
+      }
+    ],
+    "death_day": "1968-11-17",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "125": {
+    "id": 125,
+    "order": "124.00000000000000000000",
+    "name": "Field, Maurice",
+    "amp_id": "amp_person_125",
+    "gnd": "https://www.wikidata.org/wiki/Q6793071",
+    "birth_year": "1905",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1988",
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "126": {
+    "id": 126,
+    "order": "125.00000000000000000000",
+    "name": "Bachardy, Don",
+    "amp_id": "amp_person_126",
+    "gnd": "https://d-nb.info/gnd/123221749",
+    "birth_year": "1934",
+    "birth_place": [
+      {
+        "id": 184,
+        "value": "Los Angeles"
+      }
+    ],
+    "birth_day": "1934-05-18",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "127": {
+    "id": 127,
+    "order": "126.00000000000000000000",
+    "name": "Raimund, Prof Hans",
+    "amp_id": "amp_person_127",
+    "gnd": "https://d-nb.info/gnd/120503026",
+    "birth_year": "1945",
+    "birth_place": [
+      {
+        "id": 185,
+        "value": "Petzelsdorf"
+      }
+    ],
+    "birth_day": "1945-04-05",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "128": {
+    "id": 128,
+    "order": "127.00000000000000000000",
+    "name": "Vechten, Carl Van",
+    "amp_id": "amp_person_128",
+    "gnd": "https://d-nb.info/gnd/119374048",
+    "birth_year": "1880",
+    "birth_place": [
+      {
+        "id": 186,
+        "value": "Cedar Rapids"
+      }
+    ],
+    "birth_day": "1880-06-17",
+    "death_year": "1964",
+    "death_place": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "death_day": "1964-12-21",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "129": {
+    "id": 129,
+    "order": "128.00000000000000000000",
+    "name": "Benning, Achim",
+    "amp_id": "amp_person_129",
+    "gnd": "https://d-nb.info/gnd/119289075",
+    "birth_year": "1935",
+    "birth_place": [
+      {
+        "id": 187,
+        "value": "Magdeburg"
+      }
+    ],
+    "birth_day": "1935-01-20",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "130": {
+    "id": 130,
+    "order": "129.00000000000000000000",
+    "name": "Hitler, Adolf",
+    "amp_id": "amp_person_130",
+    "gnd": "https://d-nb.info/gnd/118551655",
+    "birth_year": "1889",
+    "birth_place": [
+      {
+        "id": 188,
+        "value": "Braunau am Inn"
+      }
+    ],
+    "birth_day": "1889-04-20",
+    "death_year": "1945",
+    "death_place": [
+      {
+        "id": 17,
+        "value": "Berlin"
+      }
+    ],
+    "death_day": "1945-04-30",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "131": {
+    "id": 131,
+    "order": "130.00000000000000000000",
+    "name": "Gide, André",
+    "amp_id": "amp_person_131",
+    "gnd": "https://d-nb.info/gnd/118539124",
+    "birth_year": "1869",
+    "birth_place": [
+      {
+        "id": 84,
+        "value": "Paris"
+      }
+    ],
+    "birth_day": "1869-11-22",
+    "death_year": "1951",
+    "death_place": [
+      {
+        "id": 84,
+        "value": "Paris"
+      }
+    ],
+    "death_day": "1951-02-19",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "132": {
+    "id": 132,
+    "order": "131.00000000000000000000",
+    "name": "Claudel, Paul",
+    "amp_id": "amp_person_132",
+    "gnd": "https://d-nb.info/gnd/118521039",
+    "birth_year": "1868",
+    "birth_place": [
+      {
+        "id": 189,
+        "value": "Villeneuve-sur-Fère"
+      }
+    ],
+    "birth_day": "1868-08-06",
+    "death_year": "1955",
+    "death_place": [
+      {
+        "id": 84,
+        "value": "Paris"
+      }
+    ],
+    "death_day": "1955-02-23",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "133": {
+    "id": 133,
+    "order": "132.00000000000000000000",
+    "name": "Droste-Hülshoff, Annette von",
+    "amp_id": "amp_person_133",
+    "gnd": "https://d-nb.info/gnd/118527533",
+    "birth_year": "1797",
+    "birth_place": [
+      {
+        "id": 190,
+        "value": "Havixbeck"
+      }
+    ],
+    "birth_day": "1797-01-10",
+    "death_year": "1848",
+    "death_place": [
+      {
+        "id": 191,
+        "value": "Meersburg"
+      }
+    ],
+    "death_day": "1848-05-24",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "134": {
+    "id": 134,
+    "order": "133.00000000000000000000",
+    "name": "Suttner, Bertha",
+    "amp_id": "amp_person_134",
+    "gnd": "",
+    "birth_year": "1843",
+    "birth_place": [
+      {
+        "id": 192,
+        "value": "The Golz-Kinsky Palace,"
+      }
+    ],
+    "birth_day": "1843-06-09",
+    "death_year": "1914",
+    "death_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "death_day": "1914-06-21",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
   }
 }
