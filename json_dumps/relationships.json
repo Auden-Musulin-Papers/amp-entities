@@ -1343,9 +1343,143 @@
     "id": 57,
     "order": "57.00000000000000000000",
     "random": "",
-    "source": [],
-    "target": [],
-    "relation_type": null,
+    "source": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "target": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "target": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "target": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "target": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "random": "",
+    "source": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "target": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
     "start_date": null,
     "end_date": null
   }

@@ -828,5 +828,354 @@
       "value": "en",
       "color": "light-red"
     }
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "The Elder Edda",
+    "lit_work_id": "lit_work_id_27",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q205874",
+    "has_year": "1260",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "name": "Italian Journey",
+    "lit_work_id": "lit_work_id_28",
+    "is_written_by": [
+      {
+        "id": 11,
+        "value": "Goethe, Johann Wolfgang von"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6679,
+      "value": "de",
+      "color": "blue"
+    }
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Markings",
+    "lit_work_id": "lit_work_id_29",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1964",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 30,
+        "value": "Vägmärken"
+      }
+    ],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Vägmärken",
+    "lit_work_id": "lit_work_id_30",
+    "is_written_by": [
+      {
+        "id": 131,
+        "value": "Hammarskjöld, Dag"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q7944306",
+    "has_year": "1963",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6690,
+      "value": "danish",
+      "color": "dark-orange"
+    }
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "The Dyer's Hand",
+    "lit_work_id": "lit_work_id_31",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q7731278",
+    "has_year": "1962",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "The Faber Book of Aphorisms",
+    "lit_work_id": "lit_work_id_32",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1964",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "A Certain World: A Commonplace Book",
+    "lit_work_id": "lit_work_id_33",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q4655792",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Nineteenth Century Book of Minor Poets",
+    "lit_work_id": "lit_work_id_34",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1966",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Le Sacre du Printemps",
+    "lit_work_id": "lit_work_id_35",
+    "is_written_by": [
+      {
+        "id": 25,
+        "value": "Stravinsky, Igor"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q206015",
+    "has_year": "1913",
+    "type": [
+      {
+        "id": 6691,
+        "value": "ballet",
+        "color": "dark-red"
+      },
+      {
+        "id": 6692,
+        "value": "orchestral concert",
+        "color": "light-green"
+      }
+    ],
+    "version_of": [],
+    "language": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "The Rise and Fall of the British Nanny",
+    "lit_work_id": "lit_work_id_36",
+    "is_written_by": [
+      {
+        "id": 144,
+        "value": "Gathorne-Hardy, Jonathan"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "The Cave of Making",
+    "lit_work_id": "lit_work_id_37",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1965",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Prologue at Sixty",
+    "lit_work_id": "lit_work_id_38",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1967",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
   }
 }

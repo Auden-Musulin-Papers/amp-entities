@@ -57,6 +57,10 @@
       {
         "id": 87,
         "value": "Opel, Adolf"
+      },
+      {
+        "id": 137,
+        "value": "Kraus, Dr. Wolfgang"
       }
     ],
     "persons - death_place": [
@@ -1533,7 +1537,12 @@
     "name": "Zell-am-See",
     "amp_id": "amp_place_id_74",
     "geonames_id": "https://www.geonames.org/2760634/zell-am-see.html",
-    "persons": [],
+    "persons": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": null,
@@ -1667,10 +1676,6 @@
       {
         "id": 56,
         "value": "Gide, André"
-      },
-      {
-        "id": 131,
-        "value": "Gide, André"
       }
     ],
     "persons - death_place": [
@@ -1689,10 +1694,6 @@
       {
         "id": 116,
         "value": "Goldoni, Carlo"
-      },
-      {
-        "id": 131,
-        "value": "Gide, André"
       },
       {
         "id": 132,
@@ -2145,7 +2146,12 @@
     "name": "Gmunden",
     "amp_id": "amp_place_id_114",
     "geonames_id": "https://www.geonames.org/2778436/gmunden.html",
-    "persons": [],
+    "persons": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
     "persons - death_place": [
       {
         "id": 53,
@@ -3356,7 +3362,12 @@
         "value": "Bachardy, Don"
       }
     ],
-    "persons - death_place": [],
+    "persons - death_place": [
+      {
+        "id": 143,
+        "value": "Huxley, Aldous"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
@@ -3491,7 +3502,7 @@
   "192": {
     "id": 192,
     "order": "192.00000000000000000000",
-    "name": "The Golz-Kinsky Palace,",
+    "name": "The Golz-Kinsky Palace",
     "amp_id": "amp_place_id_192",
     "geonames_id": "",
     "persons": [
@@ -3502,6 +3513,239 @@
     ],
     "persons - death_place": [],
     "google_maps_coordinates": "50.08803132166223, 14.42167365633837",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "193": {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "name": "Lowestoft",
+    "amp_id": "amp_place_id_193",
+    "geonames_id": "https://www.geonames.org/2643490/lowestoft.html",
+    "persons": [
+      {
+        "id": 136,
+        "value": "Britten, Benjamin"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "194": {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "name": "Aldeburgh",
+    "amp_id": "amp_place_id_194",
+    "geonames_id": "https://www.geonames.org/2657557/aldeburgh.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 136,
+        "value": "Britten, Benjamin"
+      },
+      {
+        "id": 144,
+        "value": "Gathorne-Hardy, Jonathan"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "195": {
+    "id": 195,
+    "order": "195.00000000000000000000",
+    "name": "Lienz",
+    "amp_id": "amp_place_id_195",
+    "geonames_id": "https://www.geonames.org/2772505/lienz.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 137,
+        "value": "Kraus, Dr. Wolfgang"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "196": {
+    "id": 196,
+    "order": "196.00000000000000000000",
+    "name": "Mayfair",
+    "amp_id": "amp_place_id_196",
+    "geonames_id": "https://www.geonames.org/2642878/mayfair.html",
+    "persons": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "197": {
+    "id": 197,
+    "order": "197.00000000000000000000",
+    "name": "Balmoral Castle",
+    "amp_id": "amp_place_id_197",
+    "geonames_id": "https://www.geonames.org/2656450/balmoral-castle.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "198": {
+    "id": 198,
+    "order": "198.00000000000000000000",
+    "name": "Hitchin",
+    "amp_id": "amp_place_id_198",
+    "geonames_id": "https://www.geonames.org/2646826/hitchin.html",
+    "persons": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "199": {
+    "id": 199,
+    "order": "199.00000000000000000000",
+    "name": "Royal Lodge",
+    "amp_id": "amp_place_id_199",
+    "geonames_id": "https://www.geonames.org/10341197/royal-hotel-and-lodge.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "200": {
+    "id": 200,
+    "order": "200.00000000000000000000",
+    "name": "Clarence House",
+    "amp_id": "amp_place_id_200",
+    "geonames_id": "https://www.geonames.org/12042054/clarence-house.html",
+    "persons": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "201": {
+    "id": 201,
+    "order": "201.00000000000000000000",
+    "name": "Godalming",
+    "amp_id": "amp_place_id_201",
+    "geonames_id": "https://www.geonames.org/2648372/godalming.html",
+    "persons": [
+      {
+        "id": 143,
+        "value": "Huxley, Aldous"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "202": {
+    "id": 202,
+    "order": "202.00000000000000000000",
+    "name": "Jönköping Town",
+    "amp_id": "amp_place_id_202",
+    "geonames_id": "https://www.geonames.org/2702979/joenkoeping.html",
+    "persons": [
+      {
+        "id": 131,
+        "value": "Hammarskjöld, Dag"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "203": {
+    "id": 203,
+    "order": "203.00000000000000000000",
+    "name": "Ndola",
+    "amp_id": "amp_place_id_203",
+    "geonames_id": "https://www.geonames.org/901344/ndola.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 131,
+        "value": "Hammarskjöld, Dag"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "204": {
+    "id": 204,
+    "order": "204.00000000000000000000",
+    "name": "Edinburgh",
+    "amp_id": "amp_place_id_204",
+    "geonames_id": "https://www.geonames.org/2650225/edinburgh.html",
+    "persons": [
+      {
+        "id": 144,
+        "value": "Gathorne-Hardy, Jonathan"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "205": {
+    "id": 205,
+    "order": "205.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_place_id_205",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
     "fiction_real_place": []
