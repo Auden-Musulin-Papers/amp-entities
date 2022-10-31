@@ -673,6 +673,10 @@
       {
         "id": 15,
         "value": "Group Theatre"
+      },
+      {
+        "id": 21,
+        "value": "The New York Times"
       }
     ],
     "fiction_real_place": []
@@ -1831,6 +1835,10 @@
       {
         "id": 19,
         "value": "G.P.O Film Unit"
+      },
+      {
+        "id": 20,
+        "value": "Sunday Times"
       }
     ],
     "fiction_real_place": []
@@ -3740,11 +3748,34 @@
   "205": {
     "id": 205,
     "order": "205.00000000000000000000",
-    "name": "",
+    "name": "Cincinnati",
     "amp_id": "amp_place_id_205",
-    "geonames_id": "",
-    "persons": [],
+    "geonames_id": "https://www.geonames.org/4508722/cincinnati.html",
+    "persons": [
+      {
+        "id": 145,
+        "value": "Kronenberger, Louis"
+      }
+    ],
     "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": []
+  },
+  "206": {
+    "id": 206,
+    "order": "206.00000000000000000000",
+    "name": "Wellesley",
+    "amp_id": "amp_place_id_206",
+    "geonames_id": "https://www.geonames.org/4954738/wellesley.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 145,
+        "value": "Kronenberger, Louis"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],

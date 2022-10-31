@@ -891,6 +891,10 @@
       {
         "id": 1,
         "value": "Auden, W. H."
+      },
+      {
+        "id": 105,
+        "value": "Sjöberg, Leif"
       }
     ],
     "book_number": null,
@@ -983,6 +987,10 @@
       {
         "id": 1,
         "value": "Auden, W. H."
+      },
+      {
+        "id": 145,
+        "value": "Kronenberger, Louis"
       }
     ],
     "book_number": null,
@@ -1169,6 +1177,35 @@
         "id": 6664,
         "value": "poem",
         "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    }
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "Homage to Clio",
+    "lit_work_id": "lit_work_id_39",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1960",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
       }
     ],
     "version_of": [],

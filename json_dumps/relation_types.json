@@ -1,0 +1,240 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "is_parent_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_child_of",
+    "amp_id": "relation_type__1",
+    "relationships": [
+      {
+        "id": 11,
+        "value": "relationship_id__11"
+      },
+      {
+        "id": 28,
+        "value": "relationship_id__28"
+      },
+      {
+        "id": 30,
+        "value": "relationship_id__30"
+      },
+      {
+        "id": 35,
+        "value": "relationship_id__35"
+      },
+      {
+        "id": 36,
+        "value": "relationship_id__36"
+      },
+      {
+        "id": 39,
+        "value": "relationship_id__39"
+      },
+      {
+        "id": 40,
+        "value": "relationship_id__40"
+      },
+      {
+        "id": 49,
+        "value": "relationship_id__49"
+      },
+      {
+        "id": 50,
+        "value": "relationship_id__50"
+      },
+      {
+        "id": 57,
+        "value": "relationship_id__57"
+      },
+      {
+        "id": 59,
+        "value": "relationship_id__59"
+      },
+      {
+        "id": 61,
+        "value": "relationship_id__61"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "is_related_to",
+    "has_broader": [],
+    "inverse": "is_related_to",
+    "amp_id": "relation_type__2",
+    "relationships": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "is_child_of",
+    "has_broader": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ],
+    "inverse": "is_parent_of",
+    "amp_id": "relation_type__3",
+    "relationships": [
+      {
+        "id": 12,
+        "value": "relationship_id__12"
+      },
+      {
+        "id": 27,
+        "value": "relationship_id__27"
+      },
+      {
+        "id": 29,
+        "value": "relationship_id__29"
+      },
+      {
+        "id": 33,
+        "value": "relationship_id__33"
+      },
+      {
+        "id": 34,
+        "value": "relationship_id__34"
+      },
+      {
+        "id": 41,
+        "value": "relationship_id__41"
+      },
+      {
+        "id": 42,
+        "value": "relationship_id__42"
+      },
+      {
+        "id": 47,
+        "value": "relationship_id__47"
+      },
+      {
+        "id": 48,
+        "value": "relationship_id__48"
+      },
+      {
+        "id": 58,
+        "value": "relationship_id__58"
+      },
+      {
+        "id": 60,
+        "value": "relationship_id__60"
+      },
+      {
+        "id": 62,
+        "value": "relationship_id__62"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "is_mother-in-law_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_daughter-in-law_of",
+    "amp_id": "relation_type__4",
+    "relationships": [
+      {
+        "id": 63,
+        "value": "relationship_id__63"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "is_daughter-in-law_of",
+    "has_broader": [],
+    "inverse": "is_mother-in-law_of",
+    "amp_id": "relation_type__5",
+    "relationships": [
+      {
+        "id": 55,
+        "value": "relationship_id__55"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "is_brother_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_sister_of",
+    "amp_id": "relation_type__6",
+    "relationships": [
+      {
+        "id": 10,
+        "value": "relationship_id__10"
+      },
+      {
+        "id": 31,
+        "value": "relationship_id__31"
+      },
+      {
+        "id": 44,
+        "value": "relationship_id__44"
+      },
+      {
+        "id": 53,
+        "value": "relationship_id__53"
+      },
+      {
+        "id": 54,
+        "value": "relationship_id__54"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "is_sister_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_brother_of",
+    "amp_id": "relation_type__7",
+    "relationships": [
+      {
+        "id": 9,
+        "value": "relationship_id__9"
+      },
+      {
+        "id": 32,
+        "value": "relationship_id__32"
+      },
+      {
+        "id": 43,
+        "value": "relationship_id__43"
+      },
+      {
+        "id": 45,
+        "value": "relationship_id__45"
+      },
+      {
+        "id": 46,
+        "value": "relationship_id__46"
+      }
+    ]
+  }
+}

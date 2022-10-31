@@ -278,5 +278,35 @@
         "value": "UK"
       }
     ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Sunday Times",
+    "gnd_id": "https://www.wikidata.org/wiki/Q221986",
+    "amp_id": "amp_organization_20",
+    "founded_in_year": "1821",
+    "comments": "",
+    "location": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "The New York Times",
+    "gnd_id": "https://www.wikidata.org/wiki/Q9684",
+    "amp_id": "amp_organization_21",
+    "founded_in_year": "1851",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ]
   }
 }
