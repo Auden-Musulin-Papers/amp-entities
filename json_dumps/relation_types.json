@@ -60,7 +60,8 @@
         "id": 61,
         "value": "relationship_id__61"
       }
-    ]
+    ],
+    "works": []
   },
   "2": {
     "id": 2,
@@ -69,7 +70,8 @@
     "has_broader": [],
     "inverse": "is_related_to",
     "amp_id": "relation_type__2",
-    "relationships": []
+    "relationships": [],
+    "works": []
   },
   "3": {
     "id": 3,
@@ -132,7 +134,8 @@
         "id": 62,
         "value": "relationship_id__62"
       }
-    ]
+    ],
+    "works": []
   },
   "4": {
     "id": 4,
@@ -151,7 +154,8 @@
         "id": 63,
         "value": "relationship_id__63"
       }
-    ]
+    ],
+    "works": []
   },
   "5": {
     "id": 5,
@@ -165,7 +169,8 @@
         "id": 55,
         "value": "relationship_id__55"
       }
-    ]
+    ],
+    "works": []
   },
   "6": {
     "id": 6,
@@ -200,7 +205,8 @@
         "id": 54,
         "value": "relationship_id__54"
       }
-    ]
+    ],
+    "works": []
   },
   "7": {
     "id": 7,
@@ -235,6 +241,385 @@
         "id": 46,
         "value": "relationship_id__46"
       }
+    ],
+    "works": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "was_written_by",
+    "has_broader": [
+      {
+        "id": 9,
+        "value": "was_produced_by"
+      }
+    ],
+    "inverse": "wrote",
+    "amp_id": "relation_type__8",
+    "relationships": [],
+    "works": [
+      {
+        "id": 1,
+        "value": "Lucia Novels"
+      },
+      {
+        "id": 2,
+        "value": "Homage to Clio"
+      },
+      {
+        "id": 3,
+        "value": "The Rake's Progress"
+      },
+      {
+        "id": 4,
+        "value": "Elegy for Young Lovers"
+      },
+      {
+        "id": 5,
+        "value": "The Bassarids"
+      },
+      {
+        "id": 6,
+        "value": "Love´s Labours Lost"
+      },
+      {
+        "id": 7,
+        "value": "The Magic Flute"
+      },
+      {
+        "id": 8,
+        "value": "Don Giovanni"
+      },
+      {
+        "id": 9,
+        "value": "Die Sieben Todsünden"
+      },
+      {
+        "id": 10,
+        "value": "Rise and Fall of the City of Mahagonny"
+      },
+      {
+        "id": 11,
+        "value": "Archifanfaro"
+      },
+      {
+        "id": 12,
+        "value": "New Testament"
+      },
+      {
+        "id": 13,
+        "value": "Book of Common Prayer"
+      },
+      {
+        "id": 14,
+        "value": "Corinthians"
+      },
+      {
+        "id": 15,
+        "value": "Corinthians"
+      },
+      {
+        "id": 16,
+        "value": "The Rake's Progress libretto"
+      },
+      {
+        "id": 17,
+        "value": "Elegy for Young Lovers libretto"
+      },
+      {
+        "id": 18,
+        "value": "The Bassarids libretto"
+      },
+      {
+        "id": 19,
+        "value": "Love´s Labours Lost opera"
+      },
+      {
+        "id": 20,
+        "value": "Love's Lavours Lost libretto"
+      },
+      {
+        "id": 21,
+        "value": "The Magic Flute libretto"
+      },
+      {
+        "id": 22,
+        "value": "Don Giovanni libretto"
+      },
+      {
+        "id": 23,
+        "value": "Die Sieben Todsünden libretto"
+      },
+      {
+        "id": 24,
+        "value": "Rise and Fall of the City of Mahagonny libretto"
+      },
+      {
+        "id": 25,
+        "value": "Archifanfaro libretto"
+      },
+      {
+        "id": 26,
+        "value": "The Rising Tide"
+      },
+      {
+        "id": 27,
+        "value": "The Elder Edda"
+      },
+      {
+        "id": 28,
+        "value": "Italian Journey"
+      },
+      {
+        "id": 29,
+        "value": "Markings"
+      },
+      {
+        "id": 30,
+        "value": "Vägmärken"
+      },
+      {
+        "id": 31,
+        "value": "The Dyer's Hand"
+      },
+      {
+        "id": 32,
+        "value": "The Faber Book of Aphorisms"
+      },
+      {
+        "id": 33,
+        "value": "A Certain World: A Commonplace Book"
+      },
+      {
+        "id": 34,
+        "value": "Nineteenth Century Book of Minor Poets"
+      },
+      {
+        "id": 35,
+        "value": "Le Sacre du Printemps"
+      },
+      {
+        "id": 36,
+        "value": "The Rise and Fall of the British Nanny"
+      },
+      {
+        "id": 37,
+        "value": "The Cave of Making"
+      },
+      {
+        "id": 38,
+        "value": "Prologue at Sixty"
+      },
+      {
+        "id": 39,
+        "value": "Homage to Clio"
+      }
     ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "was_produced_by",
+    "has_broader": [],
+    "inverse": "produced",
+    "amp_id": "relation_type__9",
+    "relationships": [],
+    "works": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "is_lover_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_lover_of",
+    "amp_id": "relation_type__10",
+    "relationships": [
+      {
+        "id": 1,
+        "value": "relationship_id__1"
+      },
+      {
+        "id": 2,
+        "value": "relationship_id__2"
+      },
+      {
+        "id": 3,
+        "value": "relationship_id__3"
+      },
+      {
+        "id": 4,
+        "value": "relationship_id__4"
+      },
+      {
+        "id": 5,
+        "value": "relationship_id__5"
+      },
+      {
+        "id": 6,
+        "value": "relationship_id__6"
+      },
+      {
+        "id": 21,
+        "value": "relationship_id__21"
+      },
+      {
+        "id": 22,
+        "value": "relationship_id__22"
+      }
+    ],
+    "works": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "is_married_with",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_married_with",
+    "amp_id": "relation_type__11",
+    "relationships": [
+      {
+        "id": 7,
+        "value": "relationship_id__7"
+      },
+      {
+        "id": 8,
+        "value": "relationship_id__8"
+      },
+      {
+        "id": 37,
+        "value": "relationship_id__37"
+      },
+      {
+        "id": 38,
+        "value": "relationship_id__38"
+      }
+    ],
+    "works": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "works_for",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "",
+    "amp_id": "relation_type__12",
+    "relationships": [
+      {
+        "id": 14,
+        "value": "relationship_id__14"
+      },
+      {
+        "id": 15,
+        "value": "relationship_id__15"
+      }
+    ],
+    "works": []
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "is_friends_with",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "is_friends_with",
+    "amp_id": "relation_type__13",
+    "relationships": [
+      {
+        "id": 16,
+        "value": "relationship_id__16"
+      },
+      {
+        "id": 17,
+        "value": "relationship_id__17"
+      },
+      {
+        "id": 25,
+        "value": "relationship_id__25"
+      },
+      {
+        "id": 26,
+        "value": "relationship_id__26"
+      }
+    ],
+    "works": []
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "collaborates_wirh",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "collaborates_with",
+    "amp_id": "relation_type__14",
+    "relationships": [
+      {
+        "id": 13,
+        "value": "relationship_id__13"
+      },
+      {
+        "id": 23,
+        "value": "relationship_id__23"
+      },
+      {
+        "id": 24,
+        "value": "relationship_id__24"
+      },
+      {
+        "id": 51,
+        "value": "relationship_id__51"
+      },
+      {
+        "id": 52,
+        "value": "relationship_id__52"
+      }
+    ],
+    "works": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "stays_with",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "stays_with",
+    "amp_id": "relation_type__15",
+    "relationships": [
+      {
+        "id": 18,
+        "value": "relationship_id__18"
+      },
+      {
+        "id": 56,
+        "value": "relationship_id__56"
+      }
+    ],
+    "works": []
   }
 }

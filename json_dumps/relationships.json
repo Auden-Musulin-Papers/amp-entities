@@ -23,7 +23,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -49,7 +54,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -75,7 +85,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -101,7 +116,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -127,7 +147,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -153,7 +178,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -179,7 +209,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -205,7 +240,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -371,7 +411,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "collaborates_wirh"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -397,7 +442,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -423,7 +473,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -449,7 +504,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friends_with"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -475,7 +535,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friends_with"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -501,7 +566,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 15,
+        "value": "stays_with"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -579,7 +649,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -605,7 +680,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 10,
+        "value": "is_lover_of"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -631,7 +711,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "collaborates_wirh"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -657,7 +742,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "collaborates_wirh"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -683,7 +773,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friends_with"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -709,7 +804,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friends_with"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -1085,7 +1185,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -1111,7 +1216,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -1557,7 +1667,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "collaborates_wirh"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -1583,7 +1698,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "collaborates_wirh"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -1706,7 +1826,12 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 15,
+        "value": "stays_with"
+      }
+    ]
   },
   "57": {
     "id": 57,
