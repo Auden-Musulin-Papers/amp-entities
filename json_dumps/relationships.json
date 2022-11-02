@@ -2077,5 +2077,145 @@
         "value": "is_mother-in-law_of"
       }
     ]
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "amp_id": "relationship_id__64",
+    "source": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "target": [
+      {
+        "id": 146,
+        "value": "Etthofen, Brigitta von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "amp_id": "relationship_id__65",
+    "source": [
+      {
+        "id": 146,
+        "value": "Etthofen, Brigitta von"
+      }
+    ],
+    "target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "amp_id": "relationship_id__66",
+    "source": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "amp_id": "relationship_id__67",
+    "source": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "target": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
   }
 }

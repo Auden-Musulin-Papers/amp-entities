@@ -61,6 +61,10 @@
       {
         "id": 137,
         "value": "Kraus, Dr. Wolfgang"
+      },
+      {
+        "id": 147,
+        "value": "Windisch-Graetz, Eva"
       }
     ],
     "persons - death_place": [
@@ -169,7 +173,9 @@
         "value": "British Council"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "2": {
     "id": 2,
@@ -182,7 +188,9 @@
     "google_maps_coordinates": "48.181531884216675, 15.811512574434994",
     "comments": "known as Auden Strasse",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "3": {
     "id": 3,
@@ -209,7 +217,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "4": {
     "id": 4,
@@ -227,7 +237,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "5": {
     "id": 5,
@@ -249,7 +261,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "6": {
     "id": 6,
@@ -262,7 +276,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "7": {
     "id": 7,
@@ -275,7 +291,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "8": {
     "id": 8,
@@ -288,7 +306,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "9": {
     "id": 9,
@@ -301,7 +321,9 @@
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "10": {
     "id": 10,
@@ -313,8 +335,15 @@
     "persons - death_place": [],
     "google_maps_coordinates": null,
     "comments": null,
-    "organizations": [],
-    "fiction_real_place": []
+    "organizations": [
+      {
+        "id": 25,
+        "value": "Die Furche"
+      }
+    ],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "11": {
     "id": 11,
@@ -327,7 +356,9 @@
     "google_maps_coordinates": "48.19947103998972, 16.388089895227534",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "12": {
     "id": 12,
@@ -349,7 +380,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "13": {
     "id": 13,
@@ -376,7 +409,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "14": {
     "id": 14,
@@ -394,7 +429,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "15": {
     "id": 15,
@@ -429,7 +466,9 @@
         "value": "Yale University"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "16": {
     "id": 16,
@@ -447,7 +486,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "17": {
     "id": 17,
@@ -470,7 +511,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "18": {
     "id": 18,
@@ -483,7 +526,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "19": {
     "id": 19,
@@ -496,7 +541,9 @@
     "google_maps_coordinates": "52.4790074683944, 13.275646669877162",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "20": {
     "id": 20,
@@ -509,7 +556,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "21": {
     "id": 21,
@@ -527,7 +576,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "22": {
     "id": 22,
@@ -545,7 +596,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "23": {
     "id": 23,
@@ -563,7 +616,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "24": {
     "id": 24,
@@ -576,7 +631,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "25": {
     "id": 25,
@@ -589,7 +646,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "26": {
     "id": 26,
@@ -602,7 +661,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "27": {
     "id": 27,
@@ -615,7 +676,9 @@
     "google_maps_coordinates": "48.21068227039788, 16.355750900000004",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "28": {
     "id": 28,
@@ -677,9 +740,15 @@
       {
         "id": 21,
         "value": "The New York Times"
+      },
+      {
+        "id": 24,
+        "value": "The National Review"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "29": {
     "id": 29,
@@ -692,7 +761,9 @@
     "google_maps_coordinates": "40.72838981926847, -73.983587724666",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "30": {
     "id": 30,
@@ -705,7 +776,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "31": {
     "id": 31,
@@ -723,7 +796,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "32": {
     "id": 32,
@@ -746,7 +821,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "33": {
     "id": 33,
@@ -769,7 +846,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "34": {
     "id": 34,
@@ -787,7 +866,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "35": {
     "id": 35,
@@ -805,7 +886,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "36": {
     "id": 36,
@@ -836,7 +919,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "37": {
     "id": 37,
@@ -854,7 +939,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "38": {
     "id": 38,
@@ -867,7 +954,9 @@
     "google_maps_coordinates": "48.213011564968774, 16.368780393887402",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "39": {
     "id": 39,
@@ -880,7 +969,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "40": {
     "id": 40,
@@ -898,7 +989,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "41": {
     "id": 41,
@@ -911,7 +1004,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "42": {
     "id": 42,
@@ -924,7 +1019,9 @@
     "google_maps_coordinates": "48.20897989117554, 16.375141084659692",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "43": {
     "id": 43,
@@ -942,7 +1039,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "44": {
     "id": 44,
@@ -955,7 +1054,9 @@
     "google_maps_coordinates": "51.5222327499795, -0.1279883",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "45": {
     "id": 45,
@@ -968,7 +1069,9 @@
     "google_maps_coordinates": "51.51814975134741, -0.16166754363554944",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "46": {
     "id": 46,
@@ -1016,7 +1119,9 @@
         "value": "Christ Church"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "47": {
     "id": 47,
@@ -1029,7 +1134,9 @@
     "google_maps_coordinates": "48.19979820714975, 15.908621293769759",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "48": {
     "id": 48,
@@ -1042,7 +1149,9 @@
     "google_maps_coordinates": "48.20181915113065, 16.358312342810045",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "49": {
     "id": 49,
@@ -1055,7 +1164,9 @@
     "google_maps_coordinates": "48.248678311142996, 16.34295339863543",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "50": {
     "id": 50,
@@ -1073,7 +1184,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "51": {
     "id": 51,
@@ -1095,7 +1208,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "52": {
     "id": 52,
@@ -1113,7 +1228,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "53": {
     "id": 53,
@@ -1131,7 +1248,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "54": {
     "id": 54,
@@ -1149,7 +1268,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "55": {
     "id": 55,
@@ -1167,7 +1288,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "56": {
     "id": 56,
@@ -1247,7 +1370,9 @@
         "value": "Virago Press"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "57": {
     "id": 57,
@@ -1265,7 +1390,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "58": {
     "id": 58,
@@ -1283,7 +1410,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "59": {
     "id": 59,
@@ -1301,7 +1430,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "60": {
     "id": 60,
@@ -1319,7 +1450,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "61": {
     "id": 61,
@@ -1337,7 +1470,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "62": {
     "id": 62,
@@ -1350,7 +1485,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "63": {
     "id": 63,
@@ -1373,7 +1510,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "64": {
     "id": 64,
@@ -1391,7 +1530,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "65": {
     "id": 65,
@@ -1409,7 +1550,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "66": {
     "id": 66,
@@ -1427,7 +1570,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "67": {
     "id": 67,
@@ -1445,7 +1590,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "68": {
     "id": 68,
@@ -1463,7 +1610,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "69": {
     "id": 69,
@@ -1476,7 +1625,9 @@
     "google_maps_coordinates": "51.535932430359836, -0.1789514558219421",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "70": {
     "id": 70,
@@ -1494,7 +1645,9 @@
     "google_maps_coordinates": "37.640004454026155, 21.82792838327145",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "71": {
     "id": 71,
@@ -1507,7 +1660,9 @@
     "google_maps_coordinates": "48.19498822750462, 16.393747926634855",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "72": {
     "id": 72,
@@ -1520,7 +1675,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "73": {
     "id": 73,
@@ -1533,7 +1690,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "74": {
     "id": 74,
@@ -1551,7 +1710,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "75": {
     "id": 75,
@@ -1564,7 +1725,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "76": {
     "id": 76,
@@ -1577,7 +1740,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "77": {
     "id": 77,
@@ -1590,7 +1755,9 @@
     "google_maps_coordinates": "",
     "comments": "she meant Hinterholz 6; Holzweg 5 is not valid",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "78": {
     "id": 78,
@@ -1603,7 +1770,9 @@
     "google_maps_coordinates": "48.14965170849973, 15.556407619394733",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "79": {
     "id": 79,
@@ -1616,7 +1785,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "80": {
     "id": 80,
@@ -1629,7 +1800,9 @@
     "google_maps_coordinates": "48.210577455478735, 16.365433890569722",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "81": {
     "id": 81,
@@ -1642,7 +1815,9 @@
     "google_maps_coordinates": "48.20984379239084, 16.366032810986137",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "82": {
     "id": 82,
@@ -1655,7 +1830,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "83": {
     "id": 83,
@@ -1668,7 +1845,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "84": {
     "id": 84,
@@ -1707,7 +1886,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "85": {
     "id": 85,
@@ -1720,7 +1901,9 @@
     "google_maps_coordinates": "48.2064399676074, 16.367798975228684",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "86": {
     "id": 86,
@@ -1733,7 +1916,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "87": {
     "id": 87,
@@ -1746,7 +1931,9 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "88": {
     "id": 88,
@@ -1759,7 +1946,9 @@
     "google_maps_coordinates": "48.20684423396885, 16.367020498634673",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "89": {
     "id": 89,
@@ -1772,7 +1961,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "90": {
     "id": 90,
@@ -1785,7 +1976,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "91": {
     "id": 91,
@@ -1798,7 +1991,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "92": {
     "id": 92,
@@ -1811,7 +2006,9 @@
     "google_maps_coordinates": "48.202139557498505, 16.36923050734781",
     "comments": "It does not exist anymore; the photos from our archive indicate the location",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "93": {
     "id": 93,
@@ -1839,9 +2036,15 @@
       {
         "id": 20,
         "value": "Sunday Times"
+      },
+      {
+        "id": 23,
+        "value": "Financial Times"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "94": {
     "id": 94,
@@ -1854,7 +2057,9 @@
     "google_maps_coordinates": "",
     "comments": "48.06853036632306, 15.46661873099261",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "95": {
     "id": 95,
@@ -1867,7 +2072,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "96": {
     "id": 96,
@@ -1880,7 +2087,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "97": {
     "id": 97,
@@ -1893,7 +2102,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "98": {
     "id": 98,
@@ -1906,7 +2117,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "99": {
     "id": 99,
@@ -1919,7 +2132,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "100": {
     "id": 100,
@@ -1932,7 +2147,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "101": {
     "id": 101,
@@ -1945,7 +2162,9 @@
     "google_maps_coordinates": "48.19881905898747, 16.368451869799543",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "102": {
     "id": 102,
@@ -1958,7 +2177,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "103": {
     "id": 103,
@@ -1971,7 +2192,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "104": {
     "id": 104,
@@ -1984,7 +2207,9 @@
     "google_maps_coordinates": "48.75178718779119, 16.512699051661468",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "105": {
     "id": 105,
@@ -1997,7 +2222,9 @@
     "google_maps_coordinates": "48.2134347836188, 15.627764612451644",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "106": {
     "id": 106,
@@ -2015,7 +2242,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "107": {
     "id": 107,
@@ -2033,7 +2262,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "108": {
     "id": 108,
@@ -2051,7 +2282,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "109": {
     "id": 109,
@@ -2069,7 +2302,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "110": {
     "id": 110,
@@ -2087,7 +2322,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "111": {
     "id": 111,
@@ -2110,7 +2347,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "112": {
     "id": 112,
@@ -2128,7 +2367,9 @@
     "google_maps_coordinates": "51.51081260555309, -0.14461128132633838",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "113": {
     "id": 113,
@@ -2146,7 +2387,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "114": {
     "id": 114,
@@ -2169,7 +2412,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "115": {
     "id": 115,
@@ -2187,7 +2432,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "116": {
     "id": 116,
@@ -2205,7 +2452,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "117": {
     "id": 117,
@@ -2223,7 +2472,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "118": {
     "id": 118,
@@ -2241,7 +2492,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "119": {
     "id": 119,
@@ -2259,7 +2512,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "120": {
     "id": 120,
@@ -2277,7 +2532,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "121": {
     "id": 121,
@@ -2295,7 +2552,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "122": {
     "id": 122,
@@ -2313,7 +2572,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "123": {
     "id": 123,
@@ -2331,7 +2592,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "124": {
     "id": 124,
@@ -2349,7 +2612,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "125": {
     "id": 125,
@@ -2367,7 +2632,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "126": {
     "id": 126,
@@ -2385,7 +2652,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "127": {
     "id": 127,
@@ -2403,7 +2672,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "128": {
     "id": 128,
@@ -2421,7 +2692,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "129": {
     "id": 129,
@@ -2439,7 +2712,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "130": {
     "id": 130,
@@ -2457,7 +2732,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "131": {
     "id": 131,
@@ -2475,7 +2752,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "132": {
     "id": 132,
@@ -2493,7 +2772,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "133": {
     "id": 133,
@@ -2511,7 +2792,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "134": {
     "id": 134,
@@ -2529,7 +2812,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "135": {
     "id": 135,
@@ -2551,7 +2836,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "136": {
     "id": 136,
@@ -2569,7 +2856,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "137": {
     "id": 137,
@@ -2587,7 +2876,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "138": {
     "id": 138,
@@ -2610,7 +2901,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "139": {
     "id": 139,
@@ -2628,7 +2921,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "140": {
     "id": 140,
@@ -2646,7 +2941,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "141": {
     "id": 141,
@@ -2664,7 +2961,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "142": {
     "id": 142,
@@ -2682,7 +2981,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "143": {
     "id": 143,
@@ -2700,7 +3001,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "144": {
     "id": 144,
@@ -2718,7 +3021,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "145": {
     "id": 145,
@@ -2736,7 +3041,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "146": {
     "id": 146,
@@ -2754,7 +3061,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "147": {
     "id": 147,
@@ -2772,7 +3081,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "148": {
     "id": 148,
@@ -2790,7 +3101,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "149": {
     "id": 149,
@@ -2808,7 +3121,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "150": {
     "id": 150,
@@ -2826,7 +3141,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "151": {
     "id": 151,
@@ -2844,7 +3161,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "152": {
     "id": 152,
@@ -2862,7 +3181,9 @@
     "google_maps_coordinates": "",
     "comments": "also known as Tananarive Iarivo Analamanga",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "153": {
     "id": 153,
@@ -2875,7 +3196,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "154": {
     "id": 154,
@@ -2888,7 +3211,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "155": {
     "id": 155,
@@ -2906,7 +3231,9 @@
         "value": "Houghton Mifflin Company"
       }
     ],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "156": {
     "id": 156,
@@ -2919,7 +3246,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "157": {
     "id": 157,
@@ -2932,7 +3261,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "158": {
     "id": 158,
@@ -2945,7 +3276,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "159": {
     "id": 159,
@@ -2958,7 +3291,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "160": {
     "id": 160,
@@ -2971,7 +3306,9 @@
     "google_maps_coordinates": "48.19834902425164, 16.381447374432152",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "161": {
     "id": 161,
@@ -2989,7 +3326,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "162": {
     "id": 162,
@@ -3012,7 +3351,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "163": {
     "id": 163,
@@ -3031,7 +3372,9 @@
         "value": "fictional",
         "color": "light-green"
       }
-    ]
+    ],
+    "is_part_of": [],
+    "relation_types": []
   },
   "164": {
     "id": 164,
@@ -3049,7 +3392,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "165": {
     "id": 165,
@@ -3067,7 +3412,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "166": {
     "id": 166,
@@ -3090,7 +3437,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "167": {
     "id": 167,
@@ -3108,7 +3457,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "168": {
     "id": 168,
@@ -3126,7 +3477,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "169": {
     "id": 169,
@@ -3144,7 +3497,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "170": {
     "id": 170,
@@ -3157,7 +3512,9 @@
     "google_maps_coordinates": "50.79141203020876, -3.659534580154178",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "171": {
     "id": 171,
@@ -3170,7 +3527,9 @@
     "google_maps_coordinates": "40.810125765533726, -73.96418150148406",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "172": {
     "id": 172,
@@ -3183,7 +3542,9 @@
     "google_maps_coordinates": "48.21286685931523, 16.35351725445949",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "173": {
     "id": 173,
@@ -3196,7 +3557,9 @@
     "google_maps_coordinates": "53.339912120136184, -6.256222616611612",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "174": {
     "id": 174,
@@ -3209,7 +3572,9 @@
     "google_maps_coordinates": "48.21874314648821, 16.356955340964838",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "175": {
     "id": 175,
@@ -3222,7 +3587,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "176": {
     "id": 176,
@@ -3235,7 +3602,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "177": {
     "id": 177,
@@ -3248,7 +3617,9 @@
     "google_maps_coordinates": "48.20882412668265, 16.36624270048027",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "178": {
     "id": 178,
@@ -3266,7 +3637,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "179": {
     "id": 179,
@@ -3284,7 +3657,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "180": {
     "id": 180,
@@ -3302,7 +3677,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "181": {
     "id": 181,
@@ -3320,7 +3697,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "182": {
     "id": 182,
@@ -3338,7 +3717,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "183": {
     "id": 183,
@@ -3356,7 +3737,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "184": {
     "id": 184,
@@ -3379,7 +3762,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "185": {
     "id": 185,
@@ -3397,7 +3782,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "186": {
     "id": 186,
@@ -3415,7 +3802,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "187": {
     "id": 187,
@@ -3433,7 +3822,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "188": {
     "id": 188,
@@ -3451,7 +3842,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "189": {
     "id": 189,
@@ -3469,7 +3862,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "190": {
     "id": 190,
@@ -3487,7 +3882,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "191": {
     "id": 191,
@@ -3505,7 +3902,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "192": {
     "id": 192,
@@ -3523,7 +3922,9 @@
     "google_maps_coordinates": "50.08803132166223, 14.42167365633837",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "193": {
     "id": 193,
@@ -3541,7 +3942,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "194": {
     "id": 194,
@@ -3563,7 +3966,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "195": {
     "id": 195,
@@ -3581,7 +3986,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "196": {
     "id": 196,
@@ -3599,7 +4006,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "197": {
     "id": 197,
@@ -3617,7 +4026,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "198": {
     "id": 198,
@@ -3635,7 +4046,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "199": {
     "id": 199,
@@ -3653,7 +4066,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "200": {
     "id": 200,
@@ -3671,7 +4086,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "201": {
     "id": 201,
@@ -3689,7 +4106,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "202": {
     "id": 202,
@@ -3707,7 +4126,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "203": {
     "id": 203,
@@ -3725,7 +4146,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "204": {
     "id": 204,
@@ -3743,7 +4166,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "205": {
     "id": 205,
@@ -3761,7 +4186,9 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   },
   "206": {
     "id": 206,
@@ -3779,6 +4206,143 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "fiction_real_place": []
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "207": {
+    "id": 207,
+    "order": "207.00000000000000000000",
+    "name": "Beinecke Library",
+    "amp_id": "amp_place_id_207",
+    "geonames_id": "https://www.geonames.org/5282166/beinecke-rare-book-and-manuscript-library.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "41.31166478431847, -72.92743824749756",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "208": {
+    "id": 208,
+    "order": "208.00000000000000000000",
+    "name": "Yale University",
+    "amp_id": "amp_place_id_208",
+    "geonames_id": "https://www.geonames.org/4846179/yale-university.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "209": {
+    "id": 209,
+    "order": "209.00000000000000000000",
+    "name": "California",
+    "amp_id": "amp_place_id_209",
+    "geonames_id": "https://www.geonames.org/11071615/southern-california.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 22,
+        "value": "Crossing Cards"
+      }
+    ],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "210": {
+    "id": 210,
+    "order": "210.00000000000000000000",
+    "name": "Traumansburg 19",
+    "amp_id": "amp_place_id_210",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "42.46259177654697, -76.53062245912945",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "211": {
+    "id": 211,
+    "order": "211.00000000000000000000",
+    "name": "Herrengasse 5",
+    "amp_id": "amp_place_id_211",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.208783977078866, 16.36615424096451",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "212": {
+    "id": 212,
+    "order": "212.00000000000000000000",
+    "name": "Figaro Saal",
+    "amp_id": "amp_place_id_212",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 85,
+        "value": "Palais Palffy"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "213.00000000000000000000",
+    "name": "Tenby",
+    "amp_id": "amp_place_id_213",
+    "geonames_id": "https://www.geonames.org/2636104/tenby.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
+  },
+  "214": {
+    "id": 214,
+    "order": "214.00000000000000000000",
+    "name": "Pembrokeshire",
+    "amp_id": "amp_place_id_214",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": []
   }
 }

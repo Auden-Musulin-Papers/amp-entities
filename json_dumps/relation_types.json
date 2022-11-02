@@ -59,9 +59,18 @@
       {
         "id": 61,
         "value": "relationship_id__61"
+      },
+      {
+        "id": 65,
+        "value": "relationship_id__65"
+      },
+      {
+        "id": 67,
+        "value": "relationship_id__67"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "2": {
     "id": 2,
@@ -71,7 +80,8 @@
     "inverse": "is_related_to",
     "amp_id": "relation_type__2",
     "relationships": [],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "3": {
     "id": 3,
@@ -133,9 +143,18 @@
       {
         "id": 62,
         "value": "relationship_id__62"
+      },
+      {
+        "id": 64,
+        "value": "relationship_id__64"
+      },
+      {
+        "id": 66,
+        "value": "relationship_id__66"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "4": {
     "id": 4,
@@ -155,7 +174,8 @@
         "value": "relationship_id__63"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "5": {
     "id": 5,
@@ -170,7 +190,8 @@
         "value": "relationship_id__55"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "6": {
     "id": 6,
@@ -206,7 +227,8 @@
         "value": "relationship_id__54"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "7": {
     "id": 7,
@@ -242,7 +264,8 @@
         "value": "relationship_id__46"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "8": {
     "id": 8,
@@ -257,7 +280,7 @@
     "inverse": "wrote",
     "amp_id": "relation_type__8",
     "relationships": [],
-    "works": [
+    "literary_works": [
       {
         "id": 1,
         "value": "Lucia Novels"
@@ -413,8 +436,13 @@
       {
         "id": 39,
         "value": "Homage to Clio"
+      },
+      {
+        "id": 40,
+        "value": "Auf das Unabwendbare"
       }
-    ]
+    ],
+    "places": []
   },
   "9": {
     "id": 9,
@@ -424,7 +452,8 @@
     "inverse": "produced",
     "amp_id": "relation_type__9",
     "relationships": [],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "10": {
     "id": 10,
@@ -472,7 +501,8 @@
         "value": "relationship_id__22"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "11": {
     "id": 11,
@@ -504,7 +534,8 @@
         "value": "relationship_id__38"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "12": {
     "id": 12,
@@ -528,7 +559,8 @@
         "value": "relationship_id__15"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "13": {
     "id": 13,
@@ -560,7 +592,8 @@
         "value": "relationship_id__26"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "14": {
     "id": 14,
@@ -596,7 +629,8 @@
         "value": "relationship_id__52"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
   },
   "15": {
     "id": 15,
@@ -620,6 +654,28 @@
         "value": "relationship_id__56"
       }
     ],
-    "works": []
+    "literary_works": [],
+    "places": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "is_part_of",
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
+    "inverse": "has",
+    "amp_id": "relation_type__16",
+    "relationships": [],
+    "literary_works": [],
+    "places": [
+      {
+        "id": 212,
+        "value": "Figaro Saal"
+      }
+    ]
   }
 }

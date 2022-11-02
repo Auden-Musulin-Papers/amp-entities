@@ -191,6 +191,14 @@
       {
         "id": 39,
         "value": "Homage to Clio"
+      },
+      {
+        "id": 42,
+        "value": "N.D.R (Neue Rundschau)"
+      },
+      {
+        "id": 43,
+        "value": "STARK BEWÖLKT"
       }
     ]
   },
@@ -443,7 +451,16 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": []
+    "literary_work": [
+      {
+        "id": 40,
+        "value": "Auf das Unabwendbare"
+      },
+      {
+        "id": 41,
+        "value": "Kammermusik"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -1947,7 +1964,7 @@
       }
     ],
     "death_day": "1883-09-18",
-    "comment": "",
+    "comment": "known as Fritz Heer",
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
@@ -3293,24 +3310,6 @@
     "fictional_or_real": null,
     "literary_work": []
   },
-  "104": {
-    "id": 104,
-    "order": "104.00000000000000000000",
-    "name": "Hoffmann, Otto",
-    "amp_id": "amp_person_104",
-    "gnd": "",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
-    "death_place": [],
-    "death_day": null,
-    "comment": "",
-    "person_person": [],
-    "person_person - target": [],
-    "fictional_or_real": null,
-    "literary_work": []
-  },
   "105": {
     "id": 105,
     "order": "105.00000000000000000000",
@@ -4265,12 +4264,28 @@
       {
         "id": 57,
         "value": "relationship_id__57"
+      },
+      {
+        "id": 64,
+        "value": "relationship_id__64"
+      },
+      {
+        "id": 67,
+        "value": "relationship_id__67"
       }
     ],
     "person_person - target": [
       {
         "id": 58,
         "value": "relationship_id__58"
+      },
+      {
+        "id": 65,
+        "value": "relationship_id__65"
+      },
+      {
+        "id": 66,
+        "value": "relationship_id__66"
       }
     ],
     "fictional_or_real": null,
@@ -4298,12 +4313,20 @@
       {
         "id": 58,
         "value": "relationship_id__58"
+      },
+      {
+        "id": 66,
+        "value": "relationship_id__66"
       }
     ],
     "person_person - target": [
       {
         "id": 57,
         "value": "relationship_id__57"
+      },
+      {
+        "id": 67,
+        "value": "relationship_id__67"
       }
     ],
     "fictional_or_real": null,
@@ -4402,5 +4425,74 @@
         "value": "The Faber Book of Aphorisms"
       }
     ]
+  },
+  "146": {
+    "id": 146,
+    "order": "145.00000000000000000000",
+    "name": "Etthofen, Brigitta von",
+    "amp_id": "amp_person_146",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "born as Revené",
+    "person_person": [
+      {
+        "id": 65,
+        "value": "relationship_id__65"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 64,
+        "value": "relationship_id__64"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "147": {
+    "id": 147,
+    "order": "146.00000000000000000000",
+    "name": "Windisch-Graetz, Eva",
+    "amp_id": "amp_person_147",
+    "gnd": "",
+    "birth_year": "1921",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
+  },
+  "148": {
+    "id": 148,
+    "order": "147.00000000000000000000",
+    "name": "N/A_5, Livia",
+    "amp_id": "amp_person_148",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": []
   }
 }

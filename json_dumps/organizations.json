@@ -308,5 +308,65 @@
         "value": "New York City"
       }
     ]
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Crossing Cards",
+    "gnd_id": "https://www.wikidata.org/wiki/Q7699319",
+    "amp_id": "amp_organization_22",
+    "founded_in_year": null,
+    "comments": "formerly known as Crossing Press, now it is acquired by Ten Speed Press",
+    "location": [
+      {
+        "id": 209,
+        "value": "California"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Financial Times",
+    "gnd_id": "https://www.wikidata.org/wiki/Q183399",
+    "amp_id": "amp_organization_23",
+    "founded_in_year": "1888",
+    "comments": "",
+    "location": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "The National Review",
+    "gnd_id": "https://www.wikidata.org/wiki/Q1699649",
+    "amp_id": "amp_organization_24",
+    "founded_in_year": "1955",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Die Furche",
+    "gnd_id": "https://www.wikidata.org/wiki/Q1212798",
+    "amp_id": "amp_organization_25",
+    "founded_in_year": "1945",
+    "comments": "",
+    "location": [
+      {
+        "id": 10,
+        "value": "Austria"
+      }
+    ]
   }
 }

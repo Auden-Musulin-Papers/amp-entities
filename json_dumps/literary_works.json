@@ -1448,5 +1448,145 @@
         "value": "was_written_by"
       }
     ]
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "Auf das Unabwendbare",
+    "lit_work_id": "lit_work_id_40",
+    "is_written_by": [
+      {
+        "id": 5,
+        "value": "Weinheber, Josef"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1936",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6679,
+      "value": "de",
+      "color": "blue"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "Kammermusik",
+    "lit_work_id": "lit_work_id_41",
+    "is_written_by": [
+      {
+        "id": 5,
+        "value": "Weinheber, Josef"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1939",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": []
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "N.D.R (Neue Rundschau)",
+    "lit_work_id": "lit_work_id_42",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": "3",
+    "chapter_number": "76",
+    "is_linked_with": "",
+    "has_year": "1965",
+    "type": [
+      {
+        "id": 6701,
+        "value": "magazine",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6702,
+      "value": "mixed",
+      "color": "dark-red"
+    },
+    "relation_types": []
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "name": "STARK BEWÖLKT",
+    "lit_work_id": "lit_work_id_43",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1971",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": []
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "name": "",
+    "lit_work_id": "lit_work_id_44",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": null,
+    "relation_types": []
   }
 }
