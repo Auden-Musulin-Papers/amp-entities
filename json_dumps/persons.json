@@ -254,7 +254,12 @@
       }
     ],
     "fictional_or_real": null,
-    "literary_work": []
+    "literary_work": [
+      {
+        "id": 45,
+        "value": "Austria and the Austrians"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -1294,7 +1299,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": []
+    "literary_work": [
+      {
+        "id": 44,
+        "value": "The Life and Adventures of Peter Prosch"
+      }
+    ]
   },
   "35": {
     "id": 35,

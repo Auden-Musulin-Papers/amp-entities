@@ -1577,16 +1577,61 @@
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "name": "",
+    "name": "The Life and Adventures of Peter Prosch",
     "lit_work_id": "lit_work_id_44",
-    "is_written_by": [],
+    "is_written_by": [
+      {
+        "id": 34,
+        "value": "Prosch, Peter"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1964",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6679,
+      "value": "de",
+      "color": "blue"
+    },
+    "relation_types": []
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Austria and the Austrians",
+    "lit_work_id": "lit_work_id_45",
+    "is_written_by": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
     "book_number": null,
     "chapter_number": null,
     "is_linked_with": "",
     "has_year": null,
-    "type": [],
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
-    "language": null,
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
     "relation_types": []
   }
 }
