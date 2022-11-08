@@ -298,8 +298,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 6,
+        "value": "Niederösterreich"
       }
     ],
     "relation_types": [
@@ -348,8 +348,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 8,
+        "value": "Obergrafendorf"
       }
     ],
     "relation_types": [
@@ -373,8 +373,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 6,
+        "value": "Niederösterreich"
       }
     ],
     "relation_types": [
@@ -398,8 +398,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 6,
+        "value": "Niederösterreich"
       }
     ],
     "relation_types": [
@@ -1571,8 +1571,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 6,
+        "value": "Niederösterreich"
       }
     ],
     "relation_types": [
@@ -4456,7 +4456,12 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
+    "is_part_of": [
+      {
+        "id": 98,
+        "value": "India"
+      }
+    ],
     "relation_types": []
   },
   "151": {
@@ -4992,8 +4997,18 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
   },
   "172": {
     "id": 172,
