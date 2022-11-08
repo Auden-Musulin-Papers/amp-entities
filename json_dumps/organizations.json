@@ -22,7 +22,12 @@
     "amp_id": "amp_organization_2",
     "founded_in_year": null,
     "comments": null,
-    "location": []
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
   },
   "3": {
     "id": 3,

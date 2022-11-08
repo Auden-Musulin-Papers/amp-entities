@@ -69,10 +69,6 @@
     ],
     "persons - death_place": [
       {
-        "id": 1,
-        "value": "Auden, W. H."
-      },
-      {
         "id": 2,
         "value": "Musulin, Stella"
       },
@@ -153,6 +149,10 @@
     "comments": null,
     "organizations": [
       {
+        "id": 2,
+        "value": "American Academy"
+      },
+      {
         "id": 9,
         "value": "Gesellschaft für Literatur"
       },
@@ -192,7 +192,7 @@
     "order": "2.00000000000000000000",
     "name": "Hinterholz 6",
     "amp_id": "amp_place_id_2",
-    "geonames_id": "https://www.geonames.org/11704028/",
+    "geonames_id": "",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "48.181531884216675, 15.811512574434994",
@@ -201,11 +201,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 10,
-        "value": "Austria"
+        "id": 5,
+        "value": "Kirchstetten"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -275,6 +280,10 @@
     "persons": [],
     "persons - death_place": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 5,
         "value": "Weinheber, Josef"
       },
@@ -318,7 +327,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -338,7 +352,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -358,7 +377,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -378,7 +402,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -403,7 +432,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -423,7 +457,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -452,7 +491,12 @@
         "value": "New York City"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -486,7 +530,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -511,7 +560,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -573,7 +627,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -603,7 +662,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -619,11 +683,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 20,
-        "value": "Germany"
+        "id": 17,
+        "value": "Berlin"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -643,7 +712,12 @@
         "value": "Berlin"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -663,7 +737,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -684,11 +763,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 30,
-        "value": "Europe"
+        "id": 20,
+        "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -713,7 +797,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -738,7 +827,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -758,7 +852,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -778,7 +877,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -798,7 +902,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -818,7 +927,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -893,7 +1007,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -913,7 +1032,12 @@
         "value": "New York City"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -953,7 +1077,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -983,7 +1112,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -1013,7 +1147,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -1038,7 +1177,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -1063,7 +1207,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -1101,7 +1250,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -1126,7 +1280,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -1146,7 +1305,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -1166,7 +1330,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -1191,7 +1360,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -1211,7 +1385,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -1231,7 +1410,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -1256,7 +1440,12 @@
         "value": "New York City"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -1272,11 +1461,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 93,
-        "value": "UK"
+        "id": 56,
+        "value": "London"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -1292,11 +1486,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 93,
-        "value": "UK"
+        "id": 56,
+        "value": "London"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -1351,7 +1550,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "47": {
     "id": 47,
@@ -1371,7 +1575,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -1391,7 +1600,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -1411,7 +1625,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -1436,7 +1655,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -1465,7 +1689,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -1490,7 +1719,12 @@
         "value": "Russia"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -1515,7 +1749,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -1540,7 +1779,12 @@
         "value": "France"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -1565,7 +1809,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -1652,7 +1901,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -1677,7 +1931,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -1702,7 +1961,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -1727,7 +1991,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -1752,7 +2021,12 @@
         "value": "France"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -1777,7 +2051,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -1797,7 +2076,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -1827,7 +2111,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -1852,7 +2141,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -1877,7 +2171,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -1902,7 +2201,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -1927,7 +2231,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -1952,7 +2261,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -1968,11 +2282,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 93,
-        "value": "UK"
+        "id": 56,
+        "value": "London"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -1993,11 +2312,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 30,
-        "value": "Europe"
+        "id": 103,
+        "value": "Arcadia"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -2017,7 +2341,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -2037,7 +2366,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -2057,7 +2391,12 @@
         "value": "Zell-am-See"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -2082,7 +2421,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -2102,7 +2446,12 @@
         "value": "Zell-am-See"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -2122,7 +2471,12 @@
         "value": "Zell-am-See"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -2142,7 +2496,12 @@
         "value": "Kirchstetten"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -2162,7 +2521,12 @@
         "value": "Obergrafendorf"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -2182,7 +2546,12 @@
         "value": "St. Pölten"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -2202,7 +2571,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -2222,7 +2596,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "82": {
     "id": 82,
@@ -2242,7 +2621,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -2262,7 +2646,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -2308,7 +2697,12 @@
         "value": "France"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -2328,7 +2722,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -2348,7 +2747,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -2368,7 +2772,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -2388,7 +2797,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -2402,8 +2816,18 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -2423,7 +2847,12 @@
         "value": "Russia"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -2458,7 +2887,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -2493,8 +2927,18 @@
       }
     ],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -2514,7 +2958,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -2534,7 +2983,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "96": {
     "id": 96,
@@ -2554,7 +3008,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -2574,7 +3033,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "98": {
     "id": 98,
@@ -2624,7 +3088,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "101": {
     "id": 101,
@@ -2644,7 +3113,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -2664,14 +3138,19 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "name": "",
+    "name": "Arcadia",
     "amp_id": "amp_place_id_103",
-    "geonames_id": "",
+    "geonames_id": "https://www.geonames.org/264644/nomos-arkadias.html",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -2699,7 +3178,12 @@
         "value": "Kirchstetten"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "105": {
     "id": 105,
@@ -2719,7 +3203,12 @@
         "value": "St. Pölten"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "106": {
     "id": 106,
@@ -2744,7 +3233,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "107": {
     "id": 107,
@@ -2769,7 +3263,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "108": {
     "id": 108,
@@ -2814,7 +3313,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "110": {
     "id": 110,
@@ -2839,7 +3343,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "111": {
     "id": 111,
@@ -2869,7 +3378,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "112": {
     "id": 112,
@@ -2894,7 +3408,12 @@
         "value": "London"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "113": {
     "id": 113,
@@ -2944,7 +3463,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "115": {
     "id": 115,
@@ -2969,7 +3493,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "116": {
     "id": 116,
@@ -2994,7 +3523,12 @@
         "value": "Italy"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "117": {
     "id": 117,
@@ -3013,8 +3547,18 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 97,
+        "value": "Switzerland"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "118": {
     "id": 118,
@@ -3039,7 +3583,12 @@
         "value": "Switzerland"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -3124,7 +3673,12 @@
         "value": "Switzerland"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "123": {
     "id": 123,
@@ -3149,7 +3703,12 @@
         "value": "Niederösterreich"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "124": {
     "id": 124,
@@ -3174,7 +3733,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "125": {
     "id": 125,
@@ -3199,7 +3763,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "126": {
     "id": 126,
@@ -3224,7 +3793,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "127": {
     "id": 127,
@@ -3249,7 +3823,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -3294,7 +3873,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "130": {
     "id": 130,
@@ -3379,7 +3963,12 @@
         "value": "Switzerland"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "134": {
     "id": 134,
@@ -3404,7 +3993,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "135": {
     "id": 135,
@@ -3433,7 +4027,12 @@
         "value": "Russia"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "136": {
     "id": 136,
@@ -3458,7 +4057,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "137": {
     "id": 137,
@@ -3508,7 +4112,12 @@
         "value": "Russia"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -3533,7 +4142,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -3558,7 +4172,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "141": {
     "id": 141,
@@ -3603,7 +4222,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "143": {
     "id": 143,
@@ -3628,7 +4252,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "144": {
     "id": 144,
@@ -3653,7 +4282,12 @@
         "value": "Niederösterreich"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "145": {
     "id": 145,
@@ -3678,7 +4312,12 @@
         "value": "Switzerland"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "146": {
     "id": 146,
@@ -3703,7 +4342,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "147": {
     "id": 147,
@@ -3728,7 +4372,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "148": {
     "id": 148,
@@ -3753,7 +4402,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "149": {
     "id": 149,
@@ -3778,7 +4432,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "150": {
     "id": 150,
@@ -3823,7 +4482,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -3863,14 +4527,19 @@
         "value": "Dublin"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
-    "name": "",
+    "name": "Prague",
     "amp_id": "amp_place_id_154",
-    "geonames_id": "",
+    "geonames_id": "https://www.geonames.org/3067696/prague.html",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3903,7 +4572,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "156": {
     "id": 156,
@@ -3923,7 +4597,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "157": {
     "id": 157,
@@ -3943,7 +4622,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "158": {
     "id": 158,
@@ -3963,7 +4647,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "159": {
     "id": 159,
@@ -3983,7 +4672,12 @@
         "value": "Europe"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "160": {
     "id": 160,
@@ -4003,7 +4697,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "161": {
     "id": 161,
@@ -4028,7 +4727,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "162": {
     "id": 162,
@@ -4058,7 +4762,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "163": {
     "id": 163,
@@ -4149,7 +4858,12 @@
         "value": "Niederösterreich"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -4174,7 +4888,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "168": {
     "id": 168,
@@ -4199,7 +4918,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "169": {
     "id": 169,
@@ -4224,7 +4948,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -4240,11 +4969,16 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 93,
-        "value": "UK"
+        "id": 216,
+        "value": "Crediton"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "171": {
     "id": 171,
@@ -4258,12 +4992,7 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [
-      {
-        "id": 15,
-        "value": "U.S"
-      }
-    ],
+    "is_part_of": [],
     "relation_types": []
   },
   "172": {
@@ -4284,7 +5013,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "173": {
     "id": 173,
@@ -4304,7 +5038,12 @@
         "value": "Dublin"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "174": {
     "id": 174,
@@ -4324,7 +5063,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "175": {
     "id": 175,
@@ -4344,7 +5088,12 @@
         "value": "Niederösterreich"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -4379,7 +5128,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "178": {
     "id": 178,
@@ -4404,7 +5158,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -4469,7 +5228,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "182": {
     "id": 182,
@@ -4514,7 +5278,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "184": {
     "id": 184,
@@ -4544,7 +5313,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "185": {
     "id": 185,
@@ -4569,7 +5343,12 @@
         "value": "Niederösterreich"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "186": {
     "id": 186,
@@ -4594,7 +5373,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "187": {
     "id": 187,
@@ -4619,7 +5403,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "188": {
     "id": 188,
@@ -4644,7 +5433,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "189": {
     "id": 189,
@@ -4669,7 +5463,12 @@
         "value": "France"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "190": {
     "id": 190,
@@ -4694,7 +5493,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "191": {
     "id": 191,
@@ -4719,7 +5523,12 @@
         "value": "Germany"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "192": {
     "id": 192,
@@ -4738,8 +5547,18 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 154,
+        "value": "Prague"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "193": {
     "id": 193,
@@ -4764,7 +5583,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "194": {
     "id": 194,
@@ -4793,7 +5617,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "195": {
     "id": 195,
@@ -4818,7 +5647,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "196": {
     "id": 196,
@@ -4843,7 +5677,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "197": {
     "id": 197,
@@ -4868,7 +5707,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "198": {
     "id": 198,
@@ -4893,7 +5737,12 @@
         "value": "Austria"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "199": {
     "id": 199,
@@ -4918,7 +5767,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "200": {
     "id": 200,
@@ -4943,7 +5797,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "201": {
     "id": 201,
@@ -4968,7 +5827,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "202": {
     "id": 202,
@@ -5033,7 +5897,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "205": {
     "id": 205,
@@ -5058,7 +5927,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "206": {
     "id": 206,
@@ -5083,7 +5957,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "207": {
     "id": 207,
@@ -5103,7 +5982,12 @@
         "value": "Yale University"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "208": {
     "id": 208,
@@ -5123,7 +6007,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "209": {
     "id": 209,
@@ -5148,7 +6037,12 @@
         "value": "U.S"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "210": {
     "id": 210,
@@ -5168,7 +6062,12 @@
         "value": "New York City"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "211": {
     "id": 211,
@@ -5188,7 +6087,12 @@
         "value": "Vienna"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "212": {
     "id": 212,
@@ -5233,7 +6137,12 @@
         "value": "UK"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "214": {
     "id": 214,
@@ -5253,7 +6162,12 @@
         "value": "Tenby"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "215": {
     "id": 215,
@@ -5273,21 +6187,36 @@
         "value": "Tenby"
       }
     ],
-    "relation_types": []
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   },
   "216": {
     "id": 216,
     "order": "216.00000000000000000000",
-    "name": "",
+    "name": "Crediton",
     "amp_id": "amp_place_id_216",
-    "geonames_id": "",
+    "geonames_id": "https://www.geonames.org/2652034/crediton.html",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": []
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
   }
 }

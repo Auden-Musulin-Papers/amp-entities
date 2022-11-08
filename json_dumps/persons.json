@@ -16,8 +16,8 @@
     "death_year": "1973",
     "death_place": [
       {
-        "id": 1,
-        "value": "Vienna"
+        "id": 5,
+        "value": "Kirchstetten"
       }
     ],
     "death_day": "1973-09-28",
@@ -477,7 +477,7 @@
     "order": "6.00000000000000000000",
     "name": "Williams, Charles",
     "amp_id": "amp_person_6",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/118807439",
     "birth_year": "1886",
     "birth_place": [
       {
@@ -499,7 +499,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q124735"
+    "wikidata": ""
   },
   "7": {
     "id": 7,
@@ -882,7 +882,7 @@
     "order": "19.00000000000000000000",
     "name": "Heyworth, Peter",
     "amp_id": "amp_person_19",
-    "gnd": "https://www.wikidata.org/wiki/Q7174657",
+    "gnd": "https://d-nb.info/gnd/172137276",
     "birth_year": "1921",
     "birth_place": [],
     "birth_day": "1921-06-03",
@@ -1282,7 +1282,7 @@
     "order": "33.00000000000000000000",
     "name": "Johnson, Samuel",
     "amp_id": "amp_person_33",
-    "gnd": "https://www.wikidata.org/wiki/Q19078892",
+    "gnd": "",
     "birth_year": "1709",
     "birth_place": [
       {
@@ -1304,7 +1304,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q19078892"
   },
   "34": {
     "id": 34,
@@ -1650,7 +1650,7 @@
     "order": "44.00000000000000000000",
     "name": "Hofmannsthal, Raimund von",
     "amp_id": "amp_person_44",
-    "gnd": "https://www.wikidata.org/wiki/Q75313732",
+    "gnd": "https://d-nb.info/gnd/1144902630",
     "birth_year": "1906",
     "birth_place": [
       {
@@ -1729,7 +1729,7 @@
     "order": "45.00000000000000000000",
     "name": "Hofmannsthal, Liz von",
     "amp_id": "amp_person_45",
-    "gnd": "https://www.wikidata.org/wiki/Q75311853",
+    "gnd": "",
     "birth_year": "1916",
     "birth_place": [],
     "birth_day": "1916-10-16",
@@ -1767,14 +1767,14 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q75311853"
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
     "name": "Hofmannsthal, Arabella von",
     "amp_id": "amp_person_46",
-    "gnd": "https://www.wikidata.org/wiki/Q75311859",
+    "gnd": "",
     "birth_year": "1942",
     "birth_place": [],
     "birth_day": "1942-01-11",
@@ -1820,14 +1820,14 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q75311859"
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
     "name": "Hofamannsthal, Octavian von",
     "amp_id": "amp_person_47",
-    "gnd": "https://www.wikidata.org/wiki/Q75311857",
+    "gnd": "",
     "birth_year": "1946",
     "birth_place": [],
     "birth_day": "1946-02-13",
@@ -1857,14 +1857,14 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q75311857"
   },
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
     "name": "Cooper, Lady Diana",
     "amp_id": "amp_person_48",
-    "gnd": "https://www.wikidata.org/wiki/Q128576",
+    "gnd": "https://d-nb.info/gnd/105184292",
     "birth_year": "1892",
     "birth_place": [
       {
@@ -1980,7 +1980,7 @@
     "order": "53.00000000000000000000",
     "name": "Bernhard, Thomas",
     "amp_id": "amp_person_53",
-    "gnd": "https://www.wikidata.org/wiki/Q44336",
+    "gnd": "https://d-nb.info/gnd/118509861",
     "birth_year": "1931",
     "birth_place": [
       {
@@ -2154,7 +2154,7 @@
     "order": "59.00000000000000000000",
     "name": "Fritsch, Gerhard",
     "amp_id": "amp_person_59",
-    "gnd": "https://www.wikidata.org/wiki/Q87532",
+    "gnd": "https://d-nb.info/gnd/118536133",
     "birth_year": "1924",
     "birth_place": [
       {
@@ -2183,7 +2183,7 @@
     "order": "60.00000000000000000000",
     "name": "Kont, Paul",
     "amp_id": "amp_person_60",
-    "gnd": "https://www.wikidata.org/wiki/Q87532",
+    "gnd": "https://d-nb.info/gnd/118536133",
     "birth_year": "1920",
     "birth_place": [
       {
@@ -2241,7 +2241,7 @@
     "order": "62.00000000000000000000",
     "name": "Lehmden, Anton",
     "amp_id": "amp_person_62",
-    "gnd": "https://www.wikidata.org/wiki/Q583021",
+    "gnd": "https://d-nb.info/gnd/118727192",
     "birth_year": "1929",
     "birth_place": [
       {
@@ -2270,7 +2270,7 @@
     "order": "63.00000000000000000000",
     "name": "Davy, Gloria",
     "amp_id": "amp_person_63",
-    "gnd": "https://www.wikidata.org/wiki/Q1532072",
+    "gnd": "https://d-nb.info/gnd/134651162",
     "birth_year": "1931",
     "birth_place": [
       {
@@ -2386,7 +2386,7 @@
     "order": "67.00000000000000000000",
     "name": "Hesse, Eva",
     "amp_id": "amp_person_67",
-    "gnd": "https://www.wikidata.org/wiki/Q215457",
+    "gnd": "https://d-nb.info/gnd/118967967",
     "birth_year": "1936",
     "birth_place": [
       {
@@ -2415,7 +2415,7 @@
     "order": "68.00000000000000000000",
     "name": "Pound, Ezra",
     "amp_id": "amp_person_68",
-    "gnd": "https://www.wikidata.org/wiki/Q163366",
+    "gnd": "https://d-nb.info/gnd/118596039",
     "birth_year": "1885",
     "birth_place": [
       {
@@ -2473,7 +2473,7 @@
     "order": "70.00000000000000000000",
     "name": "Bunting, Brian",
     "amp_id": "amp_person_70",
-    "gnd": "https://www.wikidata.org/wiki/Q31739891",
+    "gnd": "https://d-nb.info/gnd/1017201366",
     "birth_year": "1920",
     "birth_place": [
       {
@@ -2502,7 +2502,7 @@
     "order": "71.00000000000000000000",
     "name": "MacNeice Louis",
     "amp_id": "amp_person_71",
-    "gnd": "https://www.wikidata.org/wiki/Q1353378",
+    "gnd": "https://d-nb.info/gnd/118575988",
     "birth_year": "1907",
     "birth_place": [
       {
@@ -2531,7 +2531,7 @@
     "order": "72.00000000000000000000",
     "name": "Mary McCarthy",
     "amp_id": "amp_person_72",
-    "gnd": "https://www.wikidata.org/wiki/Q268147",
+    "gnd": "https://d-nb.info/gnd/118575686",
     "birth_year": "1912",
     "birth_place": [
       {
@@ -2589,7 +2589,7 @@
     "order": "74.00000000000000000000",
     "name": "Etkin, Yefrim of Leningrad",
     "amp_id": "amp_person_74",
-    "gnd": "https://www.wikidata.org/wiki/Q518172",
+    "gnd": "https://d-nb.info/gnd/118531271",
     "birth_year": "1918",
     "birth_place": [
       {
@@ -2772,7 +2772,7 @@
     "order": "80.00000000000000000000",
     "name": "Hogg, Quintin",
     "amp_id": "amp_person_80",
-    "gnd": "https://www.wikidata.org/wiki/Q175366",
+    "gnd": "https://d-nb.info/gnd/118970585",
     "birth_year": "1907",
     "birth_place": [
       {
@@ -2917,7 +2917,7 @@
     "order": "85.00000000000000000000",
     "name": "Spears, Monroe",
     "amp_id": "amp_person_85",
-    "gnd": "https://www.wikidata.org/wiki/Q55590162",
+    "gnd": "",
     "birth_year": "1916",
     "birth_place": [
       {
@@ -2939,14 +2939,14 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q55590162"
   },
   "86": {
     "id": 86,
     "order": "86.00000000000000000000",
     "name": "Balanchine, George",
     "amp_id": "amp_person_86",
-    "gnd": "https://www.wikidata.org/wiki/Q310184",
+    "gnd": "https://d-nb.info/gnd/118652044",
     "birth_year": "1904",
     "birth_place": [
       {
@@ -3004,7 +3004,7 @@
     "order": "88.00000000000000000000",
     "name": "Auden, John",
     "amp_id": "amp_person_88",
-    "gnd": "https://www.wikidata.org/wiki/Q14946819",
+    "gnd": "",
     "birth_year": "1903",
     "birth_place": [
       {
@@ -3031,14 +3031,14 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q14946819"
   },
   "89": {
     "id": 89,
     "order": "89.00000000000000000000",
     "name": "Luke, David",
     "amp_id": "amp_person_89",
-    "gnd": "https://www.wikidata.org/wiki/Q18526943",
+    "gnd": "",
     "birth_year": "1921",
     "birth_place": [],
     "birth_day": null,
@@ -3050,7 +3050,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q18526943"
   },
   "90": {
     "id": 90,
@@ -3086,7 +3086,7 @@
     "order": "91.00000000000000000000",
     "name": "Toynbee. Philipp",
     "amp_id": "amp_person_91",
-    "gnd": "https://www.wikidata.org/wiki/Q7184481",
+    "gnd": "https://d-nb.info/gnd/117421413",
     "birth_year": "1916",
     "birth_place": [
       {
@@ -3115,7 +3115,7 @@
     "order": "92.00000000000000000000",
     "name": "Claude, Simon",
     "amp_id": "amp_person_92",
-    "gnd": "https://www.wikidata.org/wiki/Q131549",
+    "gnd": "https://d-nb.info/gnd/118614452",
     "birth_year": "1913",
     "birth_place": [
       {
@@ -3291,7 +3291,7 @@
     "order": "98.00000000000000000000",
     "name": "Mendelson, Edward",
     "amp_id": "amp_person_98",
-    "gnd": "https://www.wikidata.org/wiki/Q5344431",
+    "gnd": "https://d-nb.info/gnd/14000761X",
     "birth_year": "1946",
     "birth_place": [
       {
@@ -3315,7 +3315,7 @@
     "order": "99.00000000000000000000",
     "name": "O'Sullivan, Michael",
     "amp_id": "amp_person_99",
-    "gnd": "https://www.wikidata.org/wiki/Q16007105",
+    "gnd": "",
     "birth_year": "1934",
     "birth_place": [
       {
@@ -3337,14 +3337,14 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q16007105"
   },
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
     "name": "Carpenter, Humphrey",
     "amp_id": "amp_person_100",
-    "gnd": "https://www.wikidata.org/wiki/Q92775",
+    "gnd": "https://d-nb.info/gnd/123681022",
     "birth_year": "1946",
     "birth_place": [
       {
@@ -3426,7 +3426,7 @@
     "order": "105.00000000000000000000",
     "name": "Sjöberg, Leif",
     "amp_id": "amp_person_105",
-    "gnd": "https://www.wikidata.org/wiki/Q104370574",
+    "gnd": "",
     "birth_year": "1925",
     "birth_place": [],
     "birth_day": null,
@@ -3443,7 +3443,7 @@
         "value": "Markings"
       }
     ],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q104370574"
   },
   "106": {
     "id": 106,
@@ -3559,7 +3559,7 @@
     "order": "111.00000000000000000000",
     "name": "Hippo, Augustine of",
     "amp_id": "amp_person_111",
-    "gnd": "https://www.wikidata.org/wiki/Q8018",
+    "gnd": "https://d-nb.info/gnd/118505114",
     "birth_year": "354",
     "birth_place": [
       {
@@ -3588,7 +3588,7 @@
     "order": "112.00000000000000000000",
     "name": "Maurer, Andreas",
     "amp_id": "amp_person_112",
-    "gnd": "https://www.wikidata.org/wiki/Q87277",
+    "gnd": "https://d-nb.info/gnd/119265311",
     "birth_year": "1919",
     "birth_place": [
       {
@@ -3617,7 +3617,7 @@
     "order": "113.00000000000000000000",
     "name": "Cranmer, Thomas",
     "amp_id": "amp_person_113",
-    "gnd": "https://www.wikidata.org/wiki/Q199894",
+    "gnd": "https://d-nb.info/gnd/118670468",
     "birth_year": "1489",
     "birth_place": [
       {
@@ -3651,7 +3651,7 @@
     "order": "114.00000000000000000000",
     "name": "Kirstein, Lincon",
     "amp_id": "amp_person_114",
-    "gnd": "https://www.wikidata.org/wiki/Q351339",
+    "gnd": "https://d-nb.info/gnd/124923437",
     "birth_year": "1907",
     "birth_place": [
       {
@@ -3719,7 +3719,7 @@
     "order": "116.00000000000000000000",
     "name": "Goldoni, Carlo",
     "amp_id": "amp_person_116",
-    "gnd": "https://www.wikidata.org/wiki/Q165534",
+    "gnd": "https://d-nb.info/gnd/118540505",
     "birth_year": "1707",
     "birth_place": [
       {
@@ -3926,7 +3926,7 @@
     "order": "124.00000000000000000000",
     "name": "Field, Maurice",
     "amp_id": "amp_person_125",
-    "gnd": "https://www.wikidata.org/wiki/Q6793071",
+    "gnd": "",
     "birth_year": "1905",
     "birth_place": [],
     "birth_day": null,
@@ -3938,7 +3938,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q6793071"
   },
   "126": {
     "id": 126,
@@ -4514,7 +4514,7 @@
     "order": "143.00000000000000000000",
     "name": "Gathorne-Hardy, Jonathan",
     "amp_id": "amp_person_144",
-    "gnd": "https://www.wikidata.org/wiki/Q6273178",
+    "gnd": "",
     "birth_year": "1933",
     "birth_place": [
       {
@@ -4541,7 +4541,7 @@
         "value": "The Rise and Fall of the British Nanny"
       }
     ],
-    "wikidata": ""
+    "wikidata": "https://www.wikidata.org/wiki/Q6273178"
   },
   "145": {
     "id": 145,
