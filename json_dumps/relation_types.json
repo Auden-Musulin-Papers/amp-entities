@@ -464,7 +464,12 @@
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "is_lover_of",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "is_lover_of",
     "amp_id": "relation_type__10",
     "relationships": [
@@ -508,7 +513,12 @@
     "id": 11,
     "order": "11.00000000000000000000",
     "name": "is_married_with",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "is_married_with",
     "amp_id": "relation_type__11",
     "relationships": [
@@ -556,7 +566,12 @@
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "is_friends_with",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "is_friends_with",
     "amp_id": "relation_type__13",
     "relationships": [
@@ -584,7 +599,12 @@
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "collaborates_wirh",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "collaborates_with",
     "amp_id": "relation_type__14",
     "relationships": [
@@ -616,7 +636,12 @@
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "stays_with",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "stays_with",
     "amp_id": "relation_type__15",
     "relationships": [
@@ -636,7 +661,12 @@
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "is_part_of",
-    "has_broader": [],
+    "has_broader": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ],
     "inverse": "has_Part",
     "amp_id": "relation_type__16",
     "relationships": [],
