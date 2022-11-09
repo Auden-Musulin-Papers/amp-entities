@@ -1633,5 +1633,104 @@
       "color": "light-red"
     },
     "relation_types": []
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "name": "In Retrospect",
+    "lit_work_id": "lit_work_id_46",
+    "is_written_by": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6703,
+        "value": "text",
+        "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": []
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "name": "The Years in Austria",
+    "lit_work_id": "lit_work_id_47",
+    "is_written_by": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6703,
+        "value": "text",
+        "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": []
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "name": "Auden in Love",
+    "lit_work_id": "lit_work_id_48",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": null,
+    "relation_types": []
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Early Auden",
+    "lit_work_id": "lit_work_id_49",
+    "is_written_by": [
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": []
   }
 }

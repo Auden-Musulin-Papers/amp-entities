@@ -259,6 +259,14 @@
       {
         "id": 45,
         "value": "Austria and the Austrians"
+      },
+      {
+        "id": 46,
+        "value": "In Retrospect"
+      },
+      {
+        "id": 47,
+        "value": "The Years in Austria"
       }
     ],
     "wikidata": ""
@@ -3307,7 +3315,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 49,
+        "value": "Early Auden"
+      }
+    ],
     "wikidata": ""
   },
   "99": {
@@ -4635,6 +4648,48 @@
     "order": "147.00000000000000000000",
     "name": "N/A_5, Livia",
     "amp_id": "amp_person_148",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "148.00000000000000000000",
+    "name": "Grey, Dorian",
+    "amp_id": "amp_person_149",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": {
+      "id": 6661,
+      "value": "fictional",
+      "color": "light-orange"
+    },
+    "literary_work": [],
+    "wikidata": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "149.00000000000000000000",
+    "name": "Farnon, Dorothy J.",
+    "amp_id": "amp_person_150",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],
