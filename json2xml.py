@@ -18,19 +18,23 @@ for x in data:
         template_file = "templates/places.xml"
         obj_cl = ObjectToXml(br_input=arr, filename=filename, template_path=template_file)
         tei =  obj_cl.make_xml_single(save=True)
+        print("listplace.xml created")
     if "persons" in x:
         filename = f"listperson"
         template_file = "templates/persons.xml"
         obj_cl = ObjectToXml(br_input=arr, filename=filename, template_path=template_file)
         tei =  obj_cl.make_xml_single(save=True)
+        print("listperson.xml created")
     if "organizations" in x:
         filename = f"listorg"
         template_file = "templates/orgs.xml"
         obj_cl = ObjectToXml(br_input=arr, filename=filename, template_path=template_file)
         tei =  obj_cl.make_xml_single(save=True)
+        print("listorg.xml created")
     if "literary_works" in x:
         filename = f"listbibl"
         template_file = "templates/bibl.xml"
         obj_cl = ObjectToXml(br_input=arr, filename=filename, template_path=template_file)
         tei =  obj_cl.make_xml_single(save=True)
+        print("listbibl.xml created")
     
