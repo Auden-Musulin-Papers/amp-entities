@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Institutiosn mentioned in Auden Musulin Papers</title>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </editor>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org xml:id="amp_organization_1">
+               <orgName>Ford Foundation</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q1313036</idno>
+            </org>
+            <org xml:id="amp_organization_2">
+               <orgName>American Academy</orgName>
+               <idno type="GND"/>
+            </org>
+            <org xml:id="amp_organization_3">
+               <orgName>Episcopalian Church in the States</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q682443</idno>
+            </org>
+            <org xml:id="amp_organization_4">
+               <orgName>Church of England</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q82708</idno>
+            </org>
+            <org xml:id="amp_organization_5">
+               <orgName>Faber and Faber</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q898097</idno>
+            </org>
+            <org xml:id="amp_organization_6">
+               <orgName>Christ Church</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q745967</idno>
+            </org>
+            <org xml:id="amp_organization_7">
+               <orgName>Houghton Mifflin Company</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q390074</idno>
+            </org>
+            <org xml:id="amp_organization_8">
+               <orgName>Simon &amp; Schuster</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q1756332</idno>
+            </org>
+            <org xml:id="amp_organization_9">
+               <orgName>Gesellschaft für Literatur</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q303236</idno>
+            </org>
+            <org xml:id="amp_organization_10">
+               <orgName>PEN Club</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q306362</idno>
+            </org>
+            <org xml:id="amp_organization_11">
+               <orgName>Creditanstalt-Bankverein</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q694468</idno>
+            </org>
+            <org xml:id="amp_organization_12">
+               <orgName>Random House</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q744182</idno>
+            </org>
+            <org xml:id="amp_organization_13">
+               <orgName>Virago Press</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q370233</idno>
+            </org>
+            <org xml:id="amp_organization_14">
+               <orgName>Kunstlerhaus</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q284902</idno>
+            </org>
+            <org xml:id="amp_organization_15">
+               <orgName>Group Theatre</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q378577</idno>
+            </org>
+            <org xml:id="amp_organization_16">
+               <orgName>British Council</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q45433</idno>
+            </org>
+            <org xml:id="amp_organization_17">
+               <orgName>Beinecke Library</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q814779</idno>
+            </org>
+            <org xml:id="amp_organization_18">
+               <orgName>Yale University</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q49112</idno>
+            </org>
+            <org xml:id="amp_organization_19">
+               <orgName>G.P.O Film Unit</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q1337744</idno>
+            </org>
+            <org xml:id="amp_organization_20">
+               <orgName>Sunday Times</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q221986</idno>
+            </org>
+            <org xml:id="amp_organization_21">
+               <orgName>The New York Times</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q9684</idno>
+            </org>
+            <org xml:id="amp_organization_22">
+               <orgName>Crossing Cards</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q7699319</idno>
+            </org>
+            <org xml:id="amp_organization_23">
+               <orgName>Financial Times</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q183399</idno>
+            </org>
+            <org xml:id="amp_organization_24">
+               <orgName>The National Review</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q1699649</idno>
+            </org>
+            <org xml:id="amp_organization_25">
+               <orgName>Die Furche</orgName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q1212798</idno>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>

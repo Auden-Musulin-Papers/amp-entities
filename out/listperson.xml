@@ -1,0 +1,2423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Persons mentioned in Auden Musulin Papers</title>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </editor>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="amp_person_1">
+               <persName>Auden, W. H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118650963</idno>
+               <birth when="1907-02-21">
+                  1907-02-21
+                  <placeName>
+                     <settlement type="city">York</settlement>
+                  </placeName>
+               </birth>
+               <death when="1973-09-28">
+                  1973-09-28
+                  <placeName>
+                     <settlement type="city">Kirchstetten</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_2">
+               <persName>Musulin, Stella</persName>
+               <idno type="GND">https://d-nb.info/gnd/127246711</idno>
+               <birth when="1915-07-16">
+                  1915-07-16
+                  <placeName>
+                     <settlement type="city">Dale</settlement>
+                  </placeName>
+               </birth>
+               <death when="1996-01-21">
+                  1996-01-21
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_3">
+               <persName>Zimmer, Christiane</persName>
+               <idno type="GND">https://d-nb.info/gnd/118975803</idno>
+               <birth when="1902-05-14">
+                  1902-05-14
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1987-01-05">
+                  1987-01-05
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_4">
+               <persName>Kallman, Chester</persName>
+               <idno type="GND">https://d-nb.info/gnd/119544911</idno>
+               <birth when="1921-01-07">
+                  1921-01-07
+                  <placeName>
+                     <settlement type="city">Brooklyn</settlement>
+                  </placeName>
+               </birth>
+               <death when="1975-01-18">
+                  1975-01-18
+                  <placeName>
+                     <settlement type="city">Athens</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_5">
+               <persName>Weinheber, Josef</persName>
+               <idno type="GND">https://d-nb.info/gnd/118766287</idno>
+               <birth when="1892-03-09">
+                  1892-03-09
+                  <placeName>
+                     <settlement type="city">Ottakring</settlement>
+                  </placeName>
+               </birth>
+               <death when="1945-04-08">
+                  1945-04-08
+                  <placeName>
+                     <settlement type="city">Kirchstetten</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_6">
+               <persName>Williams, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/118807439</idno>
+               <birth when="1886-09-20">
+                  1886-09-20
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </birth>
+               <death when="1945-05-15">
+                  1945-05-15
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_7">
+               <persName>Jägerstätter, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556509</idno>
+               <birth when="1907-05-20">
+                  1907-05-20
+                  <placeName>
+                     <settlement type="city">Sankt Radegund</settlement>
+                  </placeName>
+               </birth>
+               <death when="1943-08-09">
+                  1943-08-09
+                  <placeName>
+                     <settlement type="city">Brandenburg an der Havel</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_8">
+               <persName>Spender, Stephen</persName>
+               <idno type="GND">https://d-nb.info/gnd/118751840</idno>
+               <birth when="1909-02-28">
+                  1909-02-28
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </birth>
+               <death when="1995-07-16">
+                  1995-07-16
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_9">
+               <persName>Dante, Alighieri</persName>
+               <idno type="GND">https://d-nb.info/gnd/118523708</idno>
+               <birth when="1265-05-21">
+                  1265-05-21
+                  <placeName>
+                     <settlement type="city">Florence</settlement>
+                  </placeName>
+               </birth>
+               <death when="1321-09-14">
+                  1321-09-14
+                  <placeName>
+                     <settlement type="city">Ravenna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_10">
+               <persName>Shakespeare, William</persName>
+               <idno type="GND">https://d-nb.info/gnd/118613723</idno>
+               <birth when="1564-04-26">
+                  1564-04-26
+                  <placeName>
+                     <settlement type="city">Stratford-upon-Avon</settlement>
+                  </placeName>
+               </birth>
+               <death when="1616-04-23">
+                  1616-04-23
+                  <placeName>
+                     <settlement type="city">Stratford-upon-Avon</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_11">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118540238</idno>
+               <birth when="1749-08-28">
+                  1749-08-28
+                  <placeName>
+                     <settlement type="city">Frankfurt am Main</settlement>
+                  </placeName>
+               </birth>
+               <death when="1832-03-22">
+                  1832-03-22
+                  <placeName>
+                     <settlement type="city">Weimar</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_12">
+               <persName>Vecellio, Tiziano</persName>
+               <idno type="GND">https://d-nb.info/gnd/118622994</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Pieve di Cadore</settlement>
+                  </placeName>
+               </birth>
+               <death when="1576-08-27">
+                  1576-08-27
+                  <placeName>
+                     <settlement type="city">Venice</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_13">
+               <persName>Mozart, Wolfgang Amadeus</persName>
+               <idno type="GND">https://d-nb.info/gnd/118584596</idno>
+               <birth when="1756-01-27">
+                  1756-01-27
+                  <placeName>
+                     <settlement type="city">Salzburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="1791-12-05">
+                  1791-12-05
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_14">
+               <persName>Redlich, Walter</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_15">
+               <persName>Ramsey, Michael</persName>
+               <idno type="GND">https://d-nb.info/gnd/118927922</idno>
+               <birth when="1904-11-14">
+                  1904-11-14
+                  <placeName>
+                     <settlement type="city">Cambridge</settlement>
+                  </placeName>
+               </birth>
+               <death when="1988-04-23">
+                  1988-04-23
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_16">
+               <persName>Eiermann, Emma</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="1967-11-04">
+                  1967-11-04
+                  <placeName>
+                     <settlement type="city">Kirchstetten</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_17">
+               <persName>Eiermann, Josef</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_18">
+               <persName>Wagner, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118594117</idno>
+               <birth when="1813-05-22">
+                  1813-05-22
+                  <placeName>
+                     <settlement type="city">Leipzig</settlement>
+                  </placeName>
+               </birth>
+               <death when="1883-02-13">
+                  1883-02-13
+                  <placeName>
+                     <settlement type="city">Venice</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_19">
+               <persName>Heyworth, Peter</persName>
+               <idno type="GND">https://d-nb.info/gnd/172137276</idno>
+               <birth when="1921-06-03">
+                  1921-06-03
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="1991-10-02">
+                  1991-10-02
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_20">
+               <persName>Wilde, Oscar</persName>
+               <idno type="GND">https://d-nb.info/gnd/118632779</idno>
+               <birth when="1854-10-16">
+                  1854-10-16
+                  <placeName>
+                     <settlement type="city">Dublin</settlement>
+                  </placeName>
+               </birth>
+               <death when="1900-11-30">
+                  1900-11-30
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_21">
+               <persName>Hoffmann, Otto</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_22">
+               <persName>Enzinger, Josef</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_23">
+               <persName>Boras, Jean</persName>
+               <idno type="GND"/>
+               <birth when="1942-03-03">
+                  1942-03-03
+                  <placeName>
+                     <settlement type="city">Livadaki</settlement>
+                  </placeName>
+               </birth>
+               <death when="1968-12-13">
+                  1968-12-13
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_24">
+               <persName>Palestrina, Giovanni Pierluigi da</persName>
+               <idno type="GND">https://d-nb.info/gnd/118818686</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Palestrina</settlement>
+                  </placeName>
+               </birth>
+               <death when="1594-02-02">
+                  1594-02-02
+                  <placeName>
+                     <settlement type="city">Rome</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_25">
+               <persName>Stravinsky, Igor</persName>
+               <idno type="GND">https://d-nb.info/gnd/118642545</idno>
+               <birth when="1882-06-17">
+                  1882-06-17
+                  <placeName>
+                     <settlement type="city">Lomonosov</settlement>
+                  </placeName>
+               </birth>
+               <death when="1971-04-06">
+                  1971-04-06
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_26">
+               <persName>Picasso, Pablo</persName>
+               <idno type="GND">https://d-nb.info/gnd/118594206</idno>
+               <birth when="1881-10-25">
+                  1881-10-25
+                  <placeName>
+                     <settlement type="city">Málaga</settlement>
+                  </placeName>
+               </birth>
+               <death when="1973-04-08">
+                  1973-04-08
+                  <placeName>
+                     <settlement type="city">Mougins</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_27">
+               <persName>Eliot, T. S.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118529854</idno>
+               <birth when="1888-09-26">
+                  1888-09-26
+                  <placeName>
+                     <settlement type="city">St. Louis</settlement>
+                  </placeName>
+               </birth>
+               <death when="1965-01-04">
+                  1965-01-04
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_28">
+               <persName>Michelangelo, Buonarroti</persName>
+               <idno type="GND">https://d-nb.info/gnd/118582143</idno>
+               <birth when="1475-03-06">
+                  1475-03-06
+                  <placeName>
+                     <settlement type="city">Caprese Michelangelo</settlement>
+                  </placeName>
+               </birth>
+               <death when="1564-02-08">
+                  1564-02-08
+                  <placeName>
+                     <settlement type="city">Rome</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_29">
+               <persName>Beethoven, Ludwig van</persName>
+               <idno type="GND">https://d-nb.info/gnd/118508288</idno>
+               <birth when="1770-12-17">
+                  1770-12-17
+                  <placeName>
+                     <settlement type="city">Bonn</settlement>
+                  </placeName>
+               </birth>
+               <death when="1827-03-26">
+                  1827-03-26
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_30">
+               <persName>Plato</persName>
+               <idno type="GND">https://d-nb.info/gnd/118594893</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Athens</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Athens</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_31">
+               <persName>Lawrence, D. H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118570358</idno>
+               <birth when="1885-09-11">
+                  1885-09-11
+                  <placeName>
+                     <settlement type="city">Eastwood</settlement>
+                  </placeName>
+               </birth>
+               <death when="1930-03-02">
+                  1930-03-02
+                  <placeName>
+                     <settlement type="city">Vence</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_32">
+               <persName>Strobl, Josefa</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_33">
+               <persName>Johnson, Samuel</persName>
+               <idno type="GND"/>
+               <birth when="1709-09-18">
+                  1709-09-18
+                  <placeName>
+                     <settlement type="city">Lichfield</settlement>
+                  </placeName>
+               </birth>
+               <death when="1784-12-13">
+                  1784-12-13
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_34">
+               <persName>Prosch, Peter</persName>
+               <idno type="GND">https://d-nb.info/gnd/118742019</idno>
+               <birth when="1744-07-20">
+                  1744-07-20
+                  <placeName>
+                     <settlement type="city">Ried</settlement>
+                  </placeName>
+               </birth>
+               <death when="1804-01-05">
+                  1804-01-05
+                  <placeName>
+                     <settlement type="city">Ried</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_35">
+               <persName>Bruckner, Anton</persName>
+               <idno type="GND">https://d-nb.info/gnd/118515799</idno>
+               <birth when="1824-09-04">
+                  1824-09-04
+                  <placeName>
+                     <settlement type="city">Ansfelden</settlement>
+                  </placeName>
+               </birth>
+               <death when="1896-10-11">
+                  1896-10-11
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_36">
+               <persName>Stifter, Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118618156</idno>
+               <birth when="1805-10-23">
+                  1805-10-23
+                  <placeName>
+                     <settlement type="city">Horní Planá</settlement>
+                  </placeName>
+               </birth>
+               <death when="1868-01-28">
+                  1868-01-28
+                  <placeName>
+                     <settlement type="city">Linz</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_37">
+               <persName>Raimund, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/118597914</idno>
+               <birth when="1790-06-01">
+                  1790-06-01
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1836-09-05">
+                  1836-09-05
+                  <placeName>
+                     <settlement type="city">Pottenstein</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_38">
+               <persName>Nestroy, Johann</persName>
+               <idno type="GND">https://d-nb.info/gnd/118587080</idno>
+               <birth when="1801-12-07">
+                  1801-12-07
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1862-05-25">
+                  1862-05-25
+                  <placeName>
+                     <settlement type="city">Graz</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_39">
+               <persName>Benson, Edward Frederic</persName>
+               <idno type="GND">https://www.wikidata.org/wiki/Q771698</idno>
+               <birth when="1867-07-24">
+                  1867-07-24
+                  <placeName>
+                     <settlement type="city">Berkshire</settlement>
+                  </placeName>
+               </birth>
+               <death when="1940-02-29">
+                  1940-02-29
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_40">
+               <persName>Weill, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/118630202</idno>
+               <birth when="1900-03-02">
+                  1900-03-02
+                  <placeName>
+                     <settlement type="city">Dessau</settlement>
+                  </placeName>
+               </birth>
+               <death when="1950-04-03">
+                  1950-04-03
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_41">
+               <persName>Tolkien, J. R. R.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118623222</idno>
+               <birth when="1892-01-03">
+                  1892-01-03
+                  <placeName>
+                     <settlement type="city">Bloemfontein</settlement>
+                  </placeName>
+               </birth>
+               <death when="1973-09-02">
+                  1973-09-02
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_42">
+               <persName>Hofmannsthal, Hugo von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118552759</idno>
+               <birth when="1874-02-01">
+                  1874-02-01
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1929-07-15">
+                  1929-07-15
+                  <placeName>
+                     <settlement type="city">Rodau</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_43">
+               <persName>Hofmannsthal, Gerty von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116952199</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_44">
+               <persName>Hofmannsthal, Raimund von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1144902630</idno>
+               <birth when="1906-05-26">
+                  1906-05-26
+                  <placeName>
+                     <settlement type="city">Rodau</settlement>
+                  </placeName>
+               </birth>
+               <death when="1974-03-20">
+                  1974-03-20
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_45">
+               <persName>Hofmannsthal, Liz von</persName>
+               <idno type="GND"/>
+               <birth when="1916-10-16">
+                  1916-10-16
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="1980-03-28">
+                  1980-03-28
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_46">
+               <persName>Hofmannsthal, Arabella von</persName>
+               <idno type="GND"/>
+               <birth when="1942-01-11">
+                  1942-01-11
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_47">
+               <persName>Hofamannsthal, Octavian von</persName>
+               <idno type="GND"/>
+               <birth when="1946-02-13">
+                  1946-02-13
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_48">
+               <persName>Cooper, Lady Diana</persName>
+               <idno type="GND">https://d-nb.info/gnd/105184292</idno>
+               <birth when="1892-08-29">
+                  1892-08-29
+                  <placeName>
+                     <settlement type="city">Bruton Street</settlement>
+                  </placeName>
+               </birth>
+               <death when="1986-06-16">
+                  1986-06-16
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_49">
+               <persName>Wiesenthal, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/118771663</idno>
+               <birth when="1885-12-09">
+                  1885-12-09
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1970-06-22">
+                  1970-06-22
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_51">
+               <persName>Friedell, Egon</persName>
+               <idno type="GND">https://d-nb.info/gnd/118535560</idno>
+               <birth when="1878-01-21">
+                  1878-01-21
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1938-03-16">
+                  1938-03-16
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_52">
+               <persName>Torberg, Friedrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/118623362</idno>
+               <birth when="1908-09-16">
+                  1908-09-16
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1979-11-10">
+                  1979-11-10
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_53">
+               <persName>Bernhard, Thomas</persName>
+               <idno type="GND">https://d-nb.info/gnd/118509861</idno>
+               <birth when="1931-02-09">
+                  1931-02-09
+                  <placeName>
+                     <settlement type="city">Heerlen</settlement>
+                  </placeName>
+               </birth>
+               <death when="1989-02-12">
+                  1989-02-12
+                  <placeName>
+                     <settlement type="city">Gmunden</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_54">
+               <persName>Heer, Friedrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/118547666</idno>
+               <birth when="1916-04-10">
+                  1916-04-10
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1883-09-18">
+                  1883-09-18
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_55">
+               <persName>Mussolini, Benito</persName>
+               <idno type="GND">https://d-nb.info/gnd/118585967</idno>
+               <birth when="1883-07-29">
+                  1883-07-29
+                  <placeName>
+                     <settlement type="city">Predappio</settlement>
+                  </placeName>
+               </birth>
+               <death when="1945-04-28">
+                  1945-04-28
+                  <placeName>
+                     <settlement type="city">Mezzegra</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_56">
+               <persName>Gide, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/118539124</idno>
+               <birth when="1869-11-22">
+                  1869-11-22
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </birth>
+               <death when="1951-02-19">
+                  1951-02-19
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_57">
+               <persName>Kassner, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/118560492</idno>
+               <birth when="1873-09-11">
+                  1873-09-11
+                  <placeName>
+                     <settlement type="city">Velké Pavlovice</settlement>
+                  </placeName>
+               </birth>
+               <death when="1959-04-01">
+                  1959-04-01
+                  <placeName>
+                     <settlement type="city">Sierre</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_58">
+               <persName>Freud, Sigmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/118535315</idno>
+               <birth when="1856-01-01">
+                  1856-01-01
+                  <placeName>
+                     <settlement type="city">Příbor</settlement>
+                  </placeName>
+               </birth>
+               <death when="1939-09-23">
+                  1939-09-23
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_59">
+               <persName>Fritsch, Gerhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118536133</idno>
+               <birth when="1924-03-28">
+                  1924-03-28
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1969-03-22">
+                  1969-03-22
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_60">
+               <persName>Kont, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118536133</idno>
+               <birth when="1920-08-19">
+                  1920-08-19
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="2000-12-26">
+                  2000-12-26
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_61">
+               <persName>Fiechtner, Helmut Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/116499230</idno>
+               <birth when="1911-09-18">
+                  1911-09-18
+                  <placeName>
+                     <settlement type="city">Sarata</settlement>
+                  </placeName>
+               </birth>
+               <death when="1984-06-27">
+                  1984-06-27
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_62">
+               <persName>Lehmden, Anton</persName>
+               <idno type="GND">https://d-nb.info/gnd/118727192</idno>
+               <birth when="1929-01-02">
+                  1929-01-02
+                  <placeName>
+                     <settlement type="city">Nitra</settlement>
+                  </placeName>
+               </birth>
+               <death when="2018-08-07">
+                  2018-08-07
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_63">
+               <persName>Davy, Gloria</persName>
+               <idno type="GND">https://d-nb.info/gnd/134651162</idno>
+               <birth when="1931-03-29">
+                  1931-03-29
+                  <placeName>
+                     <settlement type="city">Brooklyn</settlement>
+                  </placeName>
+               </birth>
+               <death when="2012-11-28">
+                  2012-11-28
+                  <placeName>
+                     <settlement type="city">Geneva</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_64">
+               <persName>Rössl-Majdan, Hilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/13041185X</idno>
+               <birth when="1921-01-30">
+                  1921-01-30
+                  <placeName>
+                     <settlement type="city">Atzenbrugg-Moosbierbaum</settlement>
+                  </placeName>
+               </birth>
+               <death when="2010-12-15">
+                  2010-12-15
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_65">
+               <persName>Grillparzer, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118542192</idno>
+               <birth when="1791-01-15">
+                  1791-01-15
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1872-01-21">
+                  1872-01-21
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_66">
+               <persName>Schröder, Rudolf Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/118610880</idno>
+               <birth when="1878-01-26">
+                  1878-01-26
+                  <placeName>
+                     <settlement type="city">Bremen</settlement>
+                  </placeName>
+               </birth>
+               <death when="1962-08-22">
+                  1962-08-22
+                  <placeName>
+                     <settlement type="city">Bad Wiessee</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_67">
+               <persName>Hesse, Eva</persName>
+               <idno type="GND">https://d-nb.info/gnd/118967967</idno>
+               <birth when="1936-01-11">
+                  1936-01-11
+                  <placeName>
+                     <settlement type="city">Hamburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="1970-05-29">
+                  1970-05-29
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_68">
+               <persName>Pound, Ezra</persName>
+               <idno type="GND">https://d-nb.info/gnd/118596039</idno>
+               <birth when="1885-10-30">
+                  1885-10-30
+                  <placeName>
+                     <settlement type="city">Hailey</settlement>
+                  </placeName>
+               </birth>
+               <death when="1972-11-01">
+                  1972-11-01
+                  <placeName>
+                     <settlement type="city">Venice</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_69">
+               <persName>Tillich, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118622692</idno>
+               <birth when="1886-08-20">
+                  1886-08-20
+                  <placeName>
+                     <settlement type="city">Starosiedle</settlement>
+                  </placeName>
+               </birth>
+               <death when="1965-10-22">
+                  1965-10-22
+                  <placeName>
+                     <settlement type="city">Chicago</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_70">
+               <persName>Bunting, Brian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017201366</idno>
+               <birth when="1920-04-09">
+                  1920-04-09
+                  <placeName>
+                     <settlement type="city">Johannesburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="2008-06-18">
+                  2008-06-18
+                  <placeName>
+                     <settlement type="city">Cape Town</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_71">
+               <persName>MacNeice Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/118575988</idno>
+               <birth when="1907-09-12">
+                  1907-09-12
+                  <placeName>
+                     <settlement type="city">Belfast</settlement>
+                  </placeName>
+               </birth>
+               <death when="1963-09-03">
+                  1963-09-03
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_72">
+               <persName>Mary McCarthy</persName>
+               <idno type="GND">https://d-nb.info/gnd/118575686</idno>
+               <birth when="1912-06-21">
+                  1912-06-21
+                  <placeName>
+                     <settlement type="city">Seattle</settlement>
+                  </placeName>
+               </birth>
+               <death when="1989-10-25">
+                  1989-10-25
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_73">
+               <persName>Bondy, Francis</persName>
+               <idno type="GND">https://d-nb.info/gnd/118840940</idno>
+               <birth when="1915-01-01">
+                  1915-01-01
+                  <placeName>
+                     <settlement type="city">Berlin</settlement>
+                  </placeName>
+               </birth>
+               <death when="2003-05-27">
+                  2003-05-27
+                  <placeName>
+                     <settlement type="city">Zürich</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_74">
+               <persName>Etkin, Yefrim of Leningrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/118531271</idno>
+               <birth when="1918-01-01">
+                  1918-01-01
+                  <placeName>
+                     <settlement type="city">Saint Petersburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="1999-11-22">
+                  1999-11-22
+                  <placeName>
+                     <settlement type="city">Potsdam</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_75">
+               <persName>Reich-Ranicki, Marcel</persName>
+               <idno type="GND">https://d-nb.info/gnd/118599194</idno>
+               <birth when="1920-06-02">
+                  1920-06-02
+                  <placeName>
+                     <settlement type="city">Włocławek</settlement>
+                  </placeName>
+               </birth>
+               <death when="2013-09-18">
+                  2013-09-18
+                  <placeName>
+                     <settlement type="city">Frankfurt am Main</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_76">
+               <persName>Sacharow, Andrej</persName>
+               <idno type="GND">https://d-nb.info/gnd/118642111</idno>
+               <birth when="1921-05-21">
+                  1921-05-21
+                  <placeName>
+                     <settlement type="city">Moscow</settlement>
+                  </placeName>
+               </birth>
+               <death when="1989-12-14">
+                  1989-12-14
+                  <placeName>
+                     <settlement type="city">Moscow</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_77">
+               <persName>Toynbee, Arnold</persName>
+               <idno type="GND">https://d-nb.info/gnd/118623532</idno>
+               <birth when="1889-04-14">
+                  1889-04-14
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </birth>
+               <death when="1975-10-22">
+                  1975-10-22
+                  <placeName>
+                     <settlement type="city">York</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_78">
+               <persName>Spiel, Hilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/118751980</idno>
+               <birth when="1911-10-19">
+                  1911-10-19
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1990-11-30">
+                  1990-11-30
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_79">
+               <persName>Henze, Hans Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/118549383</idno>
+               <birth when="1926-07-01">
+                  1926-07-01
+                  <placeName>
+                     <settlement type="city">Gütersloh</settlement>
+                  </placeName>
+               </birth>
+               <death when="2012-10-27">
+                  2012-10-27
+                  <placeName>
+                     <settlement type="city">Dresden</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_80">
+               <persName>Hogg, Quintin</persName>
+               <idno type="GND">https://d-nb.info/gnd/118970585</idno>
+               <birth when="1907-10-09">
+                  1907-10-09
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </birth>
+               <death when="2001-10-12">
+                  2001-10-12
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_81">
+               <persName>Kraus, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/118566288</idno>
+               <birth when="1874-04-28">
+                  1874-04-28
+                  <placeName>
+                     <settlement type="city">Jičín</settlement>
+                  </placeName>
+               </birth>
+               <death when="1936-06-12">
+                  1936-06-12
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_82">
+               <persName>Moore, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/118583875</idno>
+               <birth when="1898-07-30">
+                  1898-07-30
+                  <placeName>
+                     <settlement type="city">Castleford</settlement>
+                  </placeName>
+               </birth>
+               <death when="1986-08-31">
+                  1986-08-31
+                  <placeName>
+                     <settlement type="city">Perry Green</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_83">
+               <persName>Kokoschka, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/118564722</idno>
+               <birth when="1886-03-01">
+                  1886-03-01
+                  <placeName>
+                     <settlement type="city">Pöchlarn</settlement>
+                  </placeName>
+               </birth>
+               <death when="1980-02-22">
+                  1980-02-22
+                  <placeName>
+                     <settlement type="city">Villeneuve</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_84">
+               <persName>Wilson, Edmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633481</idno>
+               <birth when="1895-05-08">
+                  1895-05-08
+                  <placeName>
+                     <settlement type="city">Red Bank</settlement>
+                  </placeName>
+               </birth>
+               <death when="1972-06-12">
+                  1972-06-12
+                  <placeName>
+                     <settlement type="city">Talcottville</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_85">
+               <persName>Spears, Monroe</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Darlington</settlement>
+                  </placeName>
+               </birth>
+               <death when="1988-05-23">
+                  1988-05-23
+                  <placeName>
+                     <settlement type="city">Winchester</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_86">
+               <persName>Balanchine, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/118652044</idno>
+               <birth when="1904-01-22">
+                  1904-01-22
+                  <placeName>
+                     <settlement type="city">Saint Petersburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="1983-04-30">
+                  1983-04-30
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_87">
+               <persName>Opel, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/115600817</idno>
+               <birth when="1935-06-12">
+                  1935-06-12
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="2018-07-15">
+                  2018-07-15
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_88">
+               <persName>Auden, John</persName>
+               <idno type="GND"/>
+               <birth when="1903-12-14">
+                  1903-12-14
+                  <placeName>
+                     <settlement type="city">York</settlement>
+                  </placeName>
+               </birth>
+               <death when="1903-12-21">
+                  1903-12-21
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_89">
+               <persName>Luke, David</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_90">
+               <persName>Orwell, Sonia</persName>
+               <idno type="GND">https://d-nb.info/gnd/124223478</idno>
+               <birth when="1918-08-25">
+                  1918-08-25
+                  <placeName>
+                     <settlement type="city">Kolkota</settlement>
+                  </placeName>
+               </birth>
+               <death when="1980-12-11">
+                  1980-12-11
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_91">
+               <persName>Toynbee. Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/117421413</idno>
+               <birth when="1916-06-25">
+                  1916-06-25
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </birth>
+               <death when="1981-06-15">
+                  1981-06-15
+                  <placeName>
+                     <settlement type="city">St Briavels</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_92">
+               <persName>Claude, Simon</persName>
+               <idno type="GND">https://d-nb.info/gnd/118614452</idno>
+               <birth when="1913-10-10">
+                  1913-10-10
+                  <placeName>
+                     <settlement type="city">Antananarivo</settlement>
+                  </placeName>
+               </birth>
+               <death when="2005-07-06">
+                  2005-07-06
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_93">
+               <persName>Musulin, Elsa</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_94">
+               <persName>Musilin, Marko</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_95">
+               <persName>Clark, John</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_96">
+               <persName>Clark, Tekla</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_97">
+               <persName>Seitz, Maria</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_98">
+               <persName>Mendelson, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/14000761X</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_99">
+               <persName>O'Sullivan, Michael</persName>
+               <idno type="GND"/>
+               <birth when="1934-03-04">
+                  1934-03-04
+                  <placeName>
+                     <settlement type="city">U.S</settlement>
+                  </placeName>
+               </birth>
+               <death when="1871-07-24">
+                  1871-07-24
+                  <placeName>
+                     <settlement type="city">San Francisco</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_100">
+               <persName>Carpenter, Humphrey</persName>
+               <idno type="GND">https://d-nb.info/gnd/123681022</idno>
+               <birth when="1926-04-29">
+                  1926-04-29
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </birth>
+               <death when="2005-01-04">
+                  2005-01-04
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_102">
+               <persName>Luthen, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/118575449</idno>
+               <birth when="1483-11-14">
+                  1483-11-14
+                  <placeName>
+                     <settlement type="city">Eisleben Lutherstad</settlement>
+                  </placeName>
+               </birth>
+               <death when="1546-02-18">
+                  1546-02-18
+                  <placeName>
+                     <settlement type="city">Eisleben Lutherstad</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_103">
+               <persName>Wandl, Elizabeth</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_105">
+               <persName>Sjöberg, Leif</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_106">
+               <persName>Anderson, Emily</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_107">
+               <persName>N/A_1, Hugie</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_108">
+               <persName>N/A_2, Harrison</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_109">
+               <persName>N/A_3, Father Lustkandl</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_110">
+               <persName>N/A_4, Lucia</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_111">
+               <persName>Hippo, Augustine of</persName>
+               <idno type="GND">https://d-nb.info/gnd/118505114</idno>
+               <birth when="0354-11-13">
+                  0354-11-13
+                  <placeName>
+                     <settlement type="city">Thagaste</settlement>
+                  </placeName>
+               </birth>
+               <death when="0430-08-28">
+                  0430-08-28
+                  <placeName>
+                     <settlement type="city">Hippo Regius</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_112">
+               <persName>Maurer, Andreas</persName>
+               <idno type="GND">https://d-nb.info/gnd/119265311</idno>
+               <birth when="1919-09-07">
+                  1919-09-07
+                  <placeName>
+                     <settlement type="city">Trautmannsdorf an der Leitha</settlement>
+                  </placeName>
+               </birth>
+               <death when="2010-10-25">
+                  2010-10-25
+                  <placeName>
+                     <settlement type="city">Trautmannsdorf an der Leitha</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_113">
+               <persName>Cranmer, Thomas</persName>
+               <idno type="GND">https://d-nb.info/gnd/118670468</idno>
+               <birth when="1489-07-02">
+                  1489-07-02
+                  <placeName>
+                     <settlement type="city">Nottingham</settlement>
+                  </placeName>
+               </birth>
+               <death when="1556-03-21">
+                  1556-03-21
+                  <placeName>
+                     <settlement type="city">Oxford</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_114">
+               <persName>Kirstein, Lincon</persName>
+               <idno type="GND">https://d-nb.info/gnd/124923437</idno>
+               <birth when="1907-05-04">
+                  1907-05-04
+                  <placeName>
+                     <settlement type="city">Rochester</settlement>
+                  </placeName>
+               </birth>
+               <death when="1996-01-05">
+                  1996-01-05
+                  <placeName>
+                     <settlement type="city">Manhattan</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_115">
+               <persName>Brecht, Bertolt</persName>
+               <idno type="GND">https://d-nb.info/gnd/4312008-8</idno>
+               <birth when="1898-02-10">
+                  1898-02-10
+                  <placeName>
+                     <settlement type="city">Augsburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="1956-08-14">
+                  1956-08-14
+                  <placeName>
+                     <settlement type="city">Ost-Berlin</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_116">
+               <persName>Goldoni, Carlo</persName>
+               <idno type="GND">https://d-nb.info/gnd/118540505</idno>
+               <birth when="1707-02-25">
+                  1707-02-25
+                  <placeName>
+                     <settlement type="city">Venice</settlement>
+                  </placeName>
+               </birth>
+               <death when="1793-01-06">
+                  1793-01-06
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_118">
+               <persName>Phillips, John</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_119">
+               <persName>Müller, Peter</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_120">
+               <persName>Monteith, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/1124937285</idno>
+               <birth when="1921-02-09">
+                  1921-02-09
+                  <placeName>
+                     <settlement type="city">Lisburn</settlement>
+                  </placeName>
+               </birth>
+               <death when="1995-05-09">
+                  1995-05-09
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_121">
+               <persName>Esders, Christa</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_122">
+               <persName>Keane, Molly</persName>
+               <idno type="GND">https://d-nb.info/gnd/114173028</idno>
+               <birth when="1904-07-20">
+                  1904-07-20
+                  <placeName>
+                     <settlement type="city">Kildare</settlement>
+                  </placeName>
+               </birth>
+               <death when="1996-04-22">
+                  1996-04-22
+                  <placeName>
+                     <settlement type="city">Ardmore</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_123">
+               <persName>Coldstream, Sir William</persName>
+               <idno type="GND">https://d-nb.info/gnd/119037505</idno>
+               <birth when="1908-02-28">
+                  1908-02-28
+                  <placeName>
+                     <settlement type="city">Belford</settlement>
+                  </placeName>
+               </birth>
+               <death when="1987-02-18">
+                  1987-02-18
+                  <placeName>
+                     <settlement type="city">London</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_124">
+               <persName>Peake, Mervyn</persName>
+               <idno type="GND">https://d-nb.info/gnd/118878115</idno>
+               <birth when="1911-06-09">
+                  1911-06-09
+                  <placeName>
+                     <settlement type="city">Lianxi District</settlement>
+                  </placeName>
+               </birth>
+               <death when="1968-11-17">
+                  1968-11-17
+                  <placeName>
+                     <settlement type="city">Burcot</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_125">
+               <persName>Field, Maurice</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_126">
+               <persName>Bachardy, Don</persName>
+               <idno type="GND">https://d-nb.info/gnd/123221749</idno>
+               <birth when="1934-05-18">
+                  1934-05-18
+                  <placeName>
+                     <settlement type="city">Los Angeles</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_127">
+               <persName>Raimund, Prof Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/120503026</idno>
+               <birth when="1945-04-05">
+                  1945-04-05
+                  <placeName>
+                     <settlement type="city">Petzelsdorf</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_128">
+               <persName>Vechten, Carl Van</persName>
+               <idno type="GND">https://d-nb.info/gnd/119374048</idno>
+               <birth when="1880-06-17">
+                  1880-06-17
+                  <placeName>
+                     <settlement type="city">Cedar Rapids</settlement>
+                  </placeName>
+               </birth>
+               <death when="1964-12-21">
+                  1964-12-21
+                  <placeName>
+                     <settlement type="city">New York City</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_129">
+               <persName>Benning, Achim</persName>
+               <idno type="GND">https://d-nb.info/gnd/119289075</idno>
+               <birth when="1935-01-20">
+                  1935-01-20
+                  <placeName>
+                     <settlement type="city">Magdeburg</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_130">
+               <persName>Hitler, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/118551655</idno>
+               <birth when="1889-04-20">
+                  1889-04-20
+                  <placeName>
+                     <settlement type="city">Braunau am Inn</settlement>
+                  </placeName>
+               </birth>
+               <death when="1945-04-30">
+                  1945-04-30
+                  <placeName>
+                     <settlement type="city">Berlin</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_131">
+               <persName>Hammarskjöld, Dag</persName>
+               <idno type="GND">https://d-nb.info/gnd/118545388</idno>
+               <birth when="1905-04-10">
+                  1905-04-10
+                  <placeName>
+                     <settlement type="city">Jönköping Town</settlement>
+                  </placeName>
+               </birth>
+               <death when="1961-09-18">
+                  1961-09-18
+                  <placeName>
+                     <settlement type="city">Ndola</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_132">
+               <persName>Claudel, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118521039</idno>
+               <birth when="1868-08-06">
+                  1868-08-06
+                  <placeName>
+                     <settlement type="city">Villeneuve-sur-Fère</settlement>
+                  </placeName>
+               </birth>
+               <death when="1955-02-23">
+                  1955-02-23
+                  <placeName>
+                     <settlement type="city">Paris</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_133">
+               <persName>Droste-Hülshoff, Annette von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118527533</idno>
+               <birth when="1797-01-10">
+                  1797-01-10
+                  <placeName>
+                     <settlement type="city">Havixbeck</settlement>
+                  </placeName>
+               </birth>
+               <death when="1848-05-24">
+                  1848-05-24
+                  <placeName>
+                     <settlement type="city">Meersburg</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_134">
+               <persName>Suttner, Bertha</persName>
+               <idno type="GND"/>
+               <birth when="1843-06-09">
+                  1843-06-09
+                  <placeName>
+                     <settlement type="city">The Golz-Kinsky Palace</settlement>
+                  </placeName>
+               </birth>
+               <death when="1914-06-21">
+                  1914-06-21
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_135">
+               <persName>Bronold, Helle</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_136">
+               <persName>Britten, Benjamin</persName>
+               <idno type="GND">https://d-nb.info/gnd/118515527</idno>
+               <birth when="1913-11-22">
+                  1913-11-22
+                  <placeName>
+                     <settlement type="city">Lowestoft</settlement>
+                  </placeName>
+               </birth>
+               <death when="1976-12-04">
+                  1976-12-04
+                  <placeName>
+                     <settlement type="city">Aldeburgh</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_137">
+               <persName>Kraus, Dr. Wolfgang</persName>
+               <idno type="GND">https://d-nb.info/gnd/116413298</idno>
+               <birth when="1924-01-13">
+                  1924-01-13
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="1998-09-19">
+                  1998-09-19
+                  <placeName>
+                     <settlement type="city">Lienz</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_138">
+               <persName>Elizabeth II., Great Britain, Queen</persName>
+               <idno type="GND">https://d-nb.info/gnd/118529889</idno>
+               <birth when="1926-04-21">
+                  1926-04-21
+                  <placeName>
+                     <settlement type="city">Mayfair</settlement>
+                  </placeName>
+               </birth>
+               <death when="2022-09-08">
+                  2022-09-08
+                  <placeName>
+                     <settlement type="city">Balmoral Castle</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_139">
+               <persName>Elizabeth, Great Britain, Queen Mother</persName>
+               <idno type="GND">https://d-nb.info/gnd/118816896</idno>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Hitchin</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Royal Lodge</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_140">
+               <persName>Anne, Great Britain, Princess</persName>
+               <idno type="GND">https://d-nb.info/gnd/118593978</idno>
+               <birth when="1950-08-15">
+                  1950-08-15
+                  <placeName>
+                     <settlement type="city">Clarence House</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_141">
+               <persName>Etthofen, Sonja Maria von</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Gmunden</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_142">
+               <persName>Lanier, Amélie</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Zell-am-See</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_143">
+               <persName>Huxley, Aldous</persName>
+               <idno type="GND">https://d-nb.info/gnd/118555081</idno>
+               <birth when="1894-07-26">
+                  1894-07-26
+                  <placeName>
+                     <settlement type="city">Godalming</settlement>
+                  </placeName>
+               </birth>
+               <death when="1963-11-22">
+                  1963-11-22
+                  <placeName>
+                     <settlement type="city">Los Angeles</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_144">
+               <persName>Gathorne-Hardy, Jonathan</persName>
+               <idno type="GND"/>
+               <birth when="1933-05-17">
+                  1933-05-17
+                  <placeName>
+                     <settlement type="city">Edinburgh</settlement>
+                  </placeName>
+               </birth>
+               <death when="2019-07-16">
+                  2019-07-16
+                  <placeName>
+                     <settlement type="city">Aldeburgh</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_145">
+               <persName>Kronenberger, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/116554762</idno>
+               <birth when="1904-12-09">
+                  1904-12-09
+                  <placeName>
+                     <settlement type="city">Cincinnati</settlement>
+                  </placeName>
+               </birth>
+               <death when="1980-04-30">
+                  1980-04-30
+                  <placeName>
+                     <settlement type="city">Wellesley</settlement>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_146">
+               <persName>Etthofen, Brigitta von</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_147">
+               <persName>Windisch-Graetz, Eva</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_148">
+               <persName>N/A_5, Livia</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_149">
+               <persName>Grey, Dorian</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_150">
+               <persName>Farnon, Dorothy J.</persName>
+               <idno type="GND"/>
+               <birth when="1919-06-29">
+                  1919-06-29
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="2003-10-23">
+                  2003-10-23
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_151">
+               <persName>Silbermann, Edith</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_152">
+               <persName>Breicha, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/116469986</idno>
+               <birth when="1932-07-26">
+                  1932-07-26
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </birth>
+               <death when="2003-12-28">
+                  2003-12-28
+                  <placeName>
+                     <settlement type="city">Vienna</settlement>
+                  </placeName>
+               </death>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
