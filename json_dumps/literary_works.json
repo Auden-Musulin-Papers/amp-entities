@@ -1732,5 +1732,20 @@
       "color": "light-red"
     },
     "relation_types": []
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Auden in Kirchstetten",
+    "lit_work_id": "lit_work_id_50",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": null,
+    "relation_types": []
   }
 }
