@@ -4691,18 +4691,23 @@
     "name": "Farnon, Dorothy J.",
     "amp_id": "amp_person_150",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1919",
     "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
+    "birth_day": "1919-06-29",
+    "death_year": "2003",
     "death_place": [],
-    "death_day": null,
+    "death_day": "2003-10-23",
     "comment": "",
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
-    "wikidata": ""
+    "literary_work": [
+      {
+        "id": 48,
+        "value": "Auden in Love"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q96073363"
   },
   "151": {
     "id": 151,
@@ -4716,6 +4721,35 @@
     "death_year": null,
     "death_place": [],
     "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "151.00000000000000000000",
+    "name": "Breicha, Otto",
+    "amp_id": "amp_person_152",
+    "gnd": "https://d-nb.info/gnd/116469986",
+    "birth_year": "1932",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1932-07-26",
+    "death_year": "2003",
+    "death_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "death_day": "2003-12-28",
     "comment": "",
     "person_person": [],
     "person_person - target": [],

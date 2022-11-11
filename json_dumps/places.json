@@ -65,6 +65,10 @@
       {
         "id": 147,
         "value": "Windisch-Graetz, Eva"
+      },
+      {
+        "id": 152,
+        "value": "Breicha, Otto"
       }
     ],
     "persons - death_place": [
@@ -143,6 +147,10 @@
       {
         "id": 134,
         "value": "Suttner, Bertha"
+      },
+      {
+        "id": 152,
+        "value": "Breicha, Otto"
       }
     ],
     "google_maps_coordinates": null,
@@ -6225,6 +6233,31 @@
       {
         "id": 93,
         "value": "UK"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "order": "217.00000000000000000000",
+    "name": "Alserstrasse 48/31",
+    "amp_id": "amp_place_id_217",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.21561434780695, 16.34315160048035",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
       }
     ],
     "relation_types": [

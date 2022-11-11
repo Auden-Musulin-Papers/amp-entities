@@ -1699,14 +1699,29 @@
     "order": "48.00000000000000000000",
     "name": "Auden in Love",
     "lit_work_id": "lit_work_id_48",
-    "is_written_by": [],
+    "is_written_by": [
+      {
+        "id": 150,
+        "value": "Farnon, Dorothy J."
+      }
+    ],
     "book_number": null,
     "chapter_number": null,
     "is_linked_with": "",
-    "has_year": null,
-    "type": [],
+    "has_year": "1984",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
-    "language": null,
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
     "relation_types": []
   },
   "49": {
