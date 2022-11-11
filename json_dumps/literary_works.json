@@ -1762,5 +1762,105 @@
     "version_of": [],
     "language": null,
     "relation_types": []
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "OED",
+    "lit_work_id": "lit_work_id_51",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": null,
+    "relation_types": []
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "Times",
+    "lit_work_id": "lit_work_id_52",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": null,
+    "relation_types": []
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Forewords and Afterwords",
+    "lit_work_id": "lit_work_id_53",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q5469518",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Lord of the Rings",
+    "lit_work_id": "lit_work_id_54",
+    "is_written_by": [
+      {
+        "id": 41,
+        "value": "Tolkien, J. R. R."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ]
   }
 }

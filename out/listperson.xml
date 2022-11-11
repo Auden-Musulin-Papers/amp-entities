@@ -2417,6 +2417,38 @@
                   </placeName>
                </death>
             </person>
+            <person xml:id="amp_person_153">
+               <persName>Strauss, Richard</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_154">
+               <persName/>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
          </listPerson>
       </body>
    </text>
