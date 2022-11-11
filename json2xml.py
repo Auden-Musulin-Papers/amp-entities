@@ -8,7 +8,7 @@ INPUT = "json_dumps/*"
 
 data = glob.glob(INPUT)
 for x in data:
-    with open(x, "r") as f:
+    with open(x, "rb") as f:
         file = json.load(f)
     arr = []
     for f in file:

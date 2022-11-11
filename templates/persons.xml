@@ -2,7 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index</title>
+            <title type="main">Index of Persons mentioned in Auden Musulin Papers</title>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </editor>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -43,9 +48,26 @@
    </teiHeader>
    <text>
       <body>
+         <listPerson>
          {% for x in objects %}
-            <p>{{ x }}</p>
+            <person xml:id="{{ x.amp_id }}">
+               <persName>{{ x.name }}</persName>
+               <idno type="GND">{{ x.gnd }}</idno>
+               <birth when="{{ x.birth_day }}">
+                  {{ x.birth_day }}
+                  <placeName>
+                     <settlement type="city">{% for p in x.birth_place %}{{ p.value }}{% endfor %}</settlement>
+                  </placeName>
+               </birth>
+               <death when="{{ x.death_day }}">
+                  {{ x.death_day }} 
+                  <placeName>
+                     <settlement type="city">{% for p in x.death_place %}{{ p.value }}{% endfor %}</settlement>
+                  </placeName>
+               </death>
+            </person>
          {% endfor %}
+         </listPerson>
       </body>
    </text>
 </TEI>

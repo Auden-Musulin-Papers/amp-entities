@@ -2,7 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index</title>
+            <title type="main">Index of Places mentioned in Auden Musulin Papers</title>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </editor>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -43,9 +48,17 @@
    </teiHeader>
    <text>
       <body>
+         <listPlace>
          {% for x in objects %}
-            <p>{{ x["amp_id"] }}</p>
+            
+            <place xml:id="{{ x.amp_id }}">
+               <placeName>{{ x.name }}</placeName>
+               <country>{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</country>
+               <idno type="GEONAMES">{{ x.geonames_id }}</idno>
+            </place>
+            
          {% endfor %}
+         </listPlace>
       </body>
    </text>
 </TEI>

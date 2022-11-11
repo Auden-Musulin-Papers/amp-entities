@@ -2,7 +2,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index</title>
+            <title type="main">Index of Literature in Auden Musulin Papers</title>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </editor>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -43,9 +48,15 @@
    </teiHeader>
    <text>
       <body>
+         <listBibl>
          {% for x in objects %}
-            <p>{{ x["lit_work_id"] }}</p>
+            <bibl xml:id="{{ x.lit_work_id }}">
+               <title>{{ x.name }}</title>
+               <author>{% for p in x.is_written_by %}{{ p.value }}{% endfor %}</author>
+               <date>{{ x.has_year }}</date>
+            </bibl>
          {% endfor %}
+      </listBibl>
       </body>
    </text>
 </TEI>
