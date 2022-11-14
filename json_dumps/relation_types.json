@@ -75,6 +75,12 @@
         "id": 171,
         "value": "39 Claremont Ave"
       }
+    ],
+    "places 2": [
+      {
+        "id": 171,
+        "value": "39 Claremont Ave"
+      }
     ]
   },
   "2": {
@@ -86,7 +92,8 @@
     "amp_id": "relation_type__2",
     "relationships": [],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "3": {
     "id": 3,
@@ -159,7 +166,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "4": {
     "id": 4,
@@ -180,7 +188,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "5": {
     "id": 5,
@@ -196,7 +205,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "6": {
     "id": 6,
@@ -233,7 +243,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "7": {
     "id": 7,
@@ -270,7 +281,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "8": {
     "id": 8,
@@ -455,7 +467,8 @@
         "value": "Lord of the Rings"
       }
     ],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "9": {
     "id": 9,
@@ -466,7 +479,8 @@
     "amp_id": "relation_type__9",
     "relationships": [],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "10": {
     "id": 10,
@@ -515,7 +529,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "11": {
     "id": 11,
@@ -548,7 +563,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "12": {
     "id": 12,
@@ -568,7 +584,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "13": {
     "id": 13,
@@ -601,7 +618,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "14": {
     "id": 14,
@@ -638,7 +656,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "15": {
     "id": 15,
@@ -663,7 +682,8 @@
       }
     ],
     "literary_works": [],
-    "places": []
+    "places": [],
+    "places 2": []
   },
   "16": {
     "id": 16,
@@ -680,6 +700,752 @@
     "relationships": [],
     "literary_works": [],
     "places": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      },
+      {
+        "id": 2,
+        "value": "Hinterholz 6"
+      },
+      {
+        "id": 3,
+        "value": "York"
+      },
+      {
+        "id": 5,
+        "value": "Kirchstetten"
+      },
+      {
+        "id": 6,
+        "value": "Niederösterreich"
+      },
+      {
+        "id": 7,
+        "value": "Fridau"
+      },
+      {
+        "id": 8,
+        "value": "Obergrafendorf"
+      },
+      {
+        "id": 9,
+        "value": "St. Pölten"
+      },
+      {
+        "id": 10,
+        "value": "Austria"
+      },
+      {
+        "id": 11,
+        "value": "Neulingasse 26"
+      },
+      {
+        "id": 12,
+        "value": "Brooklyn"
+      },
+      {
+        "id": 13,
+        "value": "Athens"
+      },
+      {
+        "id": 14,
+        "value": "Florence"
+      },
+      {
+        "id": 16,
+        "value": "Ottakring"
+      },
+      {
+        "id": 17,
+        "value": "Berlin"
+      },
+      {
+        "id": 18,
+        "value": "Dahlem"
+      },
+      {
+        "id": 19,
+        "value": "Hubertusbaderstrasse 43"
+      },
+      {
+        "id": 20,
+        "value": "Germany"
+      },
+      {
+        "id": 21,
+        "value": "Ost-Berlin"
+      },
+      {
+        "id": 22,
+        "value": "Sankt Radegund"
+      },
+      {
+        "id": 23,
+        "value": "Brandenburg an der Havel"
+      },
+      {
+        "id": 24,
+        "value": "Sichelbach"
+      },
+      {
+        "id": 25,
+        "value": "Perschling"
+      },
+      {
+        "id": 26,
+        "value": "München"
+      },
+      {
+        "id": 27,
+        "value": "Amerika Haus 6-8"
+      },
+      {
+        "id": 28,
+        "value": "New York City"
+      },
+      {
+        "id": 29,
+        "value": "77 St Mark's Place"
+      },
+      {
+        "id": 31,
+        "value": "Ravenna"
+      },
+      {
+        "id": 32,
+        "value": "Stratford-upon-Avon"
+      },
+      {
+        "id": 33,
+        "value": "Frankfurt am Main"
+      },
+      {
+        "id": 34,
+        "value": "Weimar"
+      },
+      {
+        "id": 35,
+        "value": "Pieve di Cadore"
+      },
+      {
+        "id": 36,
+        "value": "Venice"
+      },
+      {
+        "id": 37,
+        "value": "Salzburg"
+      },
+      {
+        "id": 38,
+        "value": "Wipplingerstrasse 24-26"
+      },
+      {
+        "id": 39,
+        "value": "Canterbury"
+      },
+      {
+        "id": 40,
+        "value": "Cambridge"
+      },
+      {
+        "id": 41,
+        "value": "Pennine Moors"
+      },
+      {
+        "id": 42,
+        "value": "Hotel König von Ungarn"
+      },
+      {
+        "id": 43,
+        "value": "Rochester"
+      },
+      {
+        "id": 44,
+        "value": "Russel Square 24"
+      },
+      {
+        "id": 45,
+        "value": "Bryanston Square 32"
+      },
+      {
+        "id": 46,
+        "value": "Oxford"
+      },
+      {
+        "id": 47,
+        "value": "Neulengbach"
+      },
+      {
+        "id": 48,
+        "value": "Karl Schweighofgasse 4/21"
+      },
+      {
+        "id": 49,
+        "value": "Paradisgasse 55"
+      },
+      {
+        "id": 50,
+        "value": "Palestrina"
+      },
+      {
+        "id": 51,
+        "value": "Rome"
+      },
+      {
+        "id": 52,
+        "value": "Lomonosov"
+      },
+      {
+        "id": 53,
+        "value": "Málaga"
+      },
+      {
+        "id": 54,
+        "value": "Mougins"
+      },
+      {
+        "id": 55,
+        "value": "St. Louis"
+      },
+      {
+        "id": 56,
+        "value": "London"
+      },
+      {
+        "id": 57,
+        "value": "Caprese Michelangelo"
+      },
+      {
+        "id": 58,
+        "value": "Bonn"
+      },
+      {
+        "id": 59,
+        "value": "Eastwood"
+      },
+      {
+        "id": 60,
+        "value": "Vence"
+      },
+      {
+        "id": 61,
+        "value": "Lichfield"
+      },
+      {
+        "id": 62,
+        "value": "Krems"
+      },
+      {
+        "id": 63,
+        "value": "Ried"
+      },
+      {
+        "id": 64,
+        "value": "Ansfelden"
+      },
+      {
+        "id": 65,
+        "value": "Horní Planá"
+      },
+      {
+        "id": 66,
+        "value": "Linz"
+      },
+      {
+        "id": 67,
+        "value": "Pottenstein"
+      },
+      {
+        "id": 68,
+        "value": "Graz"
+      },
+      {
+        "id": 69,
+        "value": "Loudoun Rd 15"
+      },
+      {
+        "id": 70,
+        "value": "Livadaki"
+      },
+      {
+        "id": 71,
+        "value": "Esslarngasse"
+      },
+      {
+        "id": 72,
+        "value": "Lake of Constance"
+      },
+      {
+        "id": 73,
+        "value": "Schloss Prielau"
+      },
+      {
+        "id": 74,
+        "value": "Zell-am-See"
+      },
+      {
+        "id": 75,
+        "value": "Prielau"
+      },
+      {
+        "id": 76,
+        "value": "Schmittenhöhe valley"
+      },
+      {
+        "id": 77,
+        "value": "Holzweg 5"
+      },
+      {
+        "id": 78,
+        "value": "Schloss Fridau"
+      },
+      {
+        "id": 79,
+        "value": "Böheimkirchen"
+      },
+      {
+        "id": 80,
+        "value": "Café Central"
+      },
+      {
+        "id": 81,
+        "value": "Herrenhof"
+      },
+      {
+        "id": 82,
+        "value": "Schönbrunn"
+      },
+      {
+        "id": 83,
+        "value": "France"
+      },
+      {
+        "id": 84,
+        "value": "Paris"
+      },
+      {
+        "id": 85,
+        "value": "Palais Palffy"
+      },
+      {
+        "id": 86,
+        "value": "Budapest"
+      },
+      {
+        "id": 87,
+        "value": "Westminster Abbey"
+      },
+      {
+        "id": 88,
+        "value": "Josefsplatz"
+      },
+      {
+        "id": 89,
+        "value": "Redoutensaal"
+      },
+      {
+        "id": 90,
+        "value": "Leningrad"
+      },
+      {
+        "id": 92,
+        "value": "Opern-Café"
+      },
+      {
+        "id": 93,
+        "value": "UK"
+      },
+      {
+        "id": 94,
+        "value": "River Pielach"
+      },
+      {
+        "id": 95,
+        "value": "Neuer Markt"
+      },
+      {
+        "id": 96,
+        "value": "Jutland"
+      },
+      {
+        "id": 97,
+        "value": "Switzerland"
+      },
+      {
+        "id": 100,
+        "value": "Czechoslovakia"
+      },
+      {
+        "id": 101,
+        "value": "College of Technology"
+      },
+      {
+        "id": 102,
+        "value": "Innsbruck"
+      },
+      {
+        "id": 104,
+        "value": "Catholic Church of Kirchstetten"
+      },
+      {
+        "id": 105,
+        "value": "Hospital in St. Pölten"
+      },
+      {
+        "id": 106,
+        "value": "Berkshire"
+      },
+      {
+        "id": 107,
+        "value": "Leipzig"
+      },
+      {
+        "id": 109,
+        "value": "Dessau"
+      },
+      {
+        "id": 110,
+        "value": "Bloemfontein"
+      },
+      {
+        "id": 111,
+        "value": "Rodau"
+      },
+      {
+        "id": 112,
+        "value": "Bruton Street"
+      },
+      {
+        "id": 114,
+        "value": "Gmunden"
+      },
+      {
+        "id": 115,
+        "value": "Predappio"
+      },
+      {
+        "id": 116,
+        "value": "Mezzegra"
+      },
+      {
+        "id": 117,
+        "value": "Velké Pavlovice"
+      },
+      {
+        "id": 118,
+        "value": "Sierre"
+      },
+      {
+        "id": 122,
+        "value": "Geneva"
+      },
+      {
+        "id": 123,
+        "value": "Atzenbrugg-Moosbierbaum"
+      },
+      {
+        "id": 124,
+        "value": "Bremen"
+      },
+      {
+        "id": 125,
+        "value": "Bad Wiessee"
+      },
+      {
+        "id": 126,
+        "value": "Hamburg"
+      },
+      {
+        "id": 127,
+        "value": "Hailey"
+      },
+      {
+        "id": 129,
+        "value": "Chicago"
+      },
+      {
+        "id": 133,
+        "value": "Zürich"
+      },
+      {
+        "id": 134,
+        "value": "Seattle"
+      },
+      {
+        "id": 135,
+        "value": "Saint Petersburg"
+      },
+      {
+        "id": 136,
+        "value": "Potsdam"
+      },
+      {
+        "id": 138,
+        "value": "Moscow"
+      },
+      {
+        "id": 139,
+        "value": "Gütersloh"
+      },
+      {
+        "id": 140,
+        "value": "Dresden"
+      },
+      {
+        "id": 142,
+        "value": "Castleford"
+      },
+      {
+        "id": 143,
+        "value": "Perry Green"
+      },
+      {
+        "id": 144,
+        "value": "Pöchlarn"
+      },
+      {
+        "id": 145,
+        "value": "Villeneuve"
+      },
+      {
+        "id": 146,
+        "value": "Red Bank"
+      },
+      {
+        "id": 147,
+        "value": "Talcottville"
+      },
+      {
+        "id": 148,
+        "value": "Darlington"
+      },
+      {
+        "id": 149,
+        "value": "Winchester"
+      },
+      {
+        "id": 151,
+        "value": "St Briavels"
+      },
+      {
+        "id": 153,
+        "value": "Trinity College"
+      },
+      {
+        "id": 155,
+        "value": "Boston"
+      },
+      {
+        "id": 156,
+        "value": "Vienna's 3rd Bezirk"
+      },
+      {
+        "id": 157,
+        "value": "Opera"
+      },
+      {
+        "id": 158,
+        "value": "Prater"
+      },
+      {
+        "id": 159,
+        "value": "Italy"
+      },
+      {
+        "id": 160,
+        "value": "British Embassy in Vienna"
+      },
+      {
+        "id": 161,
+        "value": "San Francisco"
+      },
+      {
+        "id": 162,
+        "value": "Eisleben Lutherstad"
+      },
+      {
+        "id": 166,
+        "value": "Trautmannsdorf an der Leitha"
+      },
+      {
+        "id": 167,
+        "value": "Nottingham"
+      },
+      {
+        "id": 168,
+        "value": "Manhattan"
+      },
+      {
+        "id": 169,
+        "value": "Augsburg"
+      },
+      {
+        "id": 170,
+        "value": "The Vicarage"
+      },
+      {
+        "id": 172,
+        "value": "Schlösselgasse 8/17"
+      },
+      {
+        "id": 173,
+        "value": "Kildare Street 22"
+      },
+      {
+        "id": 174,
+        "value": "Lackierergasse 5"
+      },
+      {
+        "id": 175,
+        "value": "Wienerwald"
+      },
+      {
+        "id": 177,
+        "value": "Palais Wilczek"
+      },
+      {
+        "id": 178,
+        "value": "Lisburn"
+      },
+      {
+        "id": 181,
+        "value": "Belford"
+      },
+      {
+        "id": 183,
+        "value": "Burcot"
+      },
+      {
+        "id": 184,
+        "value": "Los Angeles"
+      },
+      {
+        "id": 185,
+        "value": "Petzelsdorf"
+      },
+      {
+        "id": 186,
+        "value": "Cedar Rapids"
+      },
+      {
+        "id": 187,
+        "value": "Magdeburg"
+      },
+      {
+        "id": 188,
+        "value": "Braunau am Inn"
+      },
+      {
+        "id": 189,
+        "value": "Villeneuve-sur-Fère"
+      },
+      {
+        "id": 190,
+        "value": "Havixbeck"
+      },
+      {
+        "id": 191,
+        "value": "Meersburg"
+      },
+      {
+        "id": 192,
+        "value": "The Golz-Kinsky Palace"
+      },
+      {
+        "id": 193,
+        "value": "Lowestoft"
+      },
+      {
+        "id": 194,
+        "value": "Aldeburgh"
+      },
+      {
+        "id": 195,
+        "value": "Lienz"
+      },
+      {
+        "id": 196,
+        "value": "Mayfair"
+      },
+      {
+        "id": 197,
+        "value": "Balmoral Castle"
+      },
+      {
+        "id": 198,
+        "value": "Hitchin"
+      },
+      {
+        "id": 199,
+        "value": "Royal Lodge"
+      },
+      {
+        "id": 200,
+        "value": "Clarence House"
+      },
+      {
+        "id": 201,
+        "value": "Godalming"
+      },
+      {
+        "id": 204,
+        "value": "Edinburgh"
+      },
+      {
+        "id": 205,
+        "value": "Cincinnati"
+      },
+      {
+        "id": 206,
+        "value": "Wellesley"
+      },
+      {
+        "id": 207,
+        "value": "Beinecke Library"
+      },
+      {
+        "id": 208,
+        "value": "Yale University"
+      },
+      {
+        "id": 209,
+        "value": "California"
+      },
+      {
+        "id": 210,
+        "value": "Traumansburg 19"
+      },
+      {
+        "id": 211,
+        "value": "Herrengasse 5"
+      },
+      {
+        "id": 212,
+        "value": "Figaro Saal"
+      },
+      {
+        "id": 213,
+        "value": "Tenby"
+      },
+      {
+        "id": 214,
+        "value": "Pembrokeshire"
+      },
+      {
+        "id": 215,
+        "value": "2 Seaforth St Julian's St"
+      },
+      {
+        "id": 216,
+        "value": "Crediton"
+      },
+      {
+        "id": 217,
+        "value": "Alserstrasse 48/31"
+      }
+    ],
+    "places 2": [
       {
         "id": 1,
         "value": "Vienna"
