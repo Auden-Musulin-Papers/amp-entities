@@ -28,6 +28,18 @@
         "id": 10,
         "value": "is_lover_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
     ]
   },
   "2": {
@@ -58,6 +70,18 @@
       {
         "id": 10,
         "value": "is_lover_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 107,
+        "value": "N/A_1, Hugie"
       }
     ]
   },
@@ -90,6 +114,18 @@
         "id": 10,
         "value": "is_lover_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
     ]
   },
   "4": {
@@ -120,6 +156,18 @@
       {
         "id": 10,
         "value": "is_lover_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 107,
+        "value": "N/A_1, Hugie"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -152,6 +200,18 @@
         "id": 10,
         "value": "is_lover_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
     ]
   },
   "6": {
@@ -182,6 +242,18 @@
       {
         "id": 10,
         "value": "is_lover_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -214,6 +286,18 @@
         "id": 11,
         "value": "is_married_with"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
     ]
   },
   "8": {
@@ -244,6 +328,18 @@
       {
         "id": 11,
         "value": "is_married_with"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
       }
     ]
   },
@@ -280,6 +376,18 @@
         "id": 7,
         "value": "is_sister_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 17,
+        "value": "Eiermann, Josef"
+      }
     ]
   },
   "10": {
@@ -314,6 +422,18 @@
       {
         "id": 6,
         "value": "is_brother_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 17,
+        "value": "Eiermann, Josef"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
       }
     ]
   },
@@ -350,6 +470,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
     ]
   },
   "12": {
@@ -385,6 +517,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
     ]
   },
   "13": {
@@ -415,6 +559,18 @@
       {
         "id": 14,
         "value": "collaborates_wirh"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -447,6 +603,18 @@
         "id": 12,
         "value": "works_for"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 16,
+        "value": "Eiermann, Emma"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
     ]
   },
   "15": {
@@ -477,6 +645,18 @@
       {
         "id": 12,
         "value": "works_for"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -509,6 +689,18 @@
         "id": 13,
         "value": "is_friends_with"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
     ]
   },
   "17": {
@@ -539,6 +731,18 @@
       {
         "id": 13,
         "value": "is_friends_with"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -571,6 +775,18 @@
         "id": 15,
         "value": "stays_with"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 19,
+        "value": "Heyworth, Peter"
+      }
     ]
   },
   "19": {
@@ -597,7 +813,19 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -623,7 +851,19 @@
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [],
+    "persons 2": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -653,6 +893,18 @@
       {
         "id": 10,
         "value": "is_lover_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 23,
+        "value": "Boras, Jean"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
       }
     ]
   },
@@ -685,6 +937,18 @@
         "id": 10,
         "value": "is_lover_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 23,
+        "value": "Boras, Jean"
+      }
     ]
   },
   "23": {
@@ -715,6 +979,18 @@
       {
         "id": 14,
         "value": "collaborates_wirh"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -747,6 +1023,18 @@
         "id": 14,
         "value": "collaborates_wirh"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
     ]
   },
   "25": {
@@ -778,6 +1066,18 @@
         "id": 13,
         "value": "is_friends_with"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
     ]
   },
   "26": {
@@ -808,6 +1108,18 @@
       {
         "id": 13,
         "value": "is_friends_with"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
       }
     ]
   },
@@ -844,6 +1156,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
     ]
   },
   "28": {
@@ -878,6 +1202,18 @@
       {
         "id": 1,
         "value": "is_parent_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
       }
     ]
   },
@@ -914,6 +1250,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
     ]
   },
   "30": {
@@ -948,6 +1296,18 @@
       {
         "id": 1,
         "value": "is_parent_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
       }
     ]
   },
@@ -984,6 +1344,18 @@
         "id": 6,
         "value": "is_brother_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
     ]
   },
   "32": {
@@ -1018,6 +1390,18 @@
       {
         "id": 7,
         "value": "is_sister_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
       }
     ]
   },
@@ -1054,6 +1438,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
     ]
   },
   "34": {
@@ -1088,6 +1484,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
       }
     ]
   },
@@ -1124,6 +1532,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 43,
+        "value": "Hofmannsthal, Gerty von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
     ]
   },
   "36": {
@@ -1159,6 +1579,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
     ]
   },
   "37": {
@@ -1190,6 +1622,18 @@
         "id": 11,
         "value": "is_married_with"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
     ]
   },
   "38": {
@@ -1220,6 +1664,18 @@
       {
         "id": 11,
         "value": "is_married_with"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
       }
     ]
   },
@@ -1256,6 +1712,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
     ]
   },
   "40": {
@@ -1290,6 +1758,18 @@
       {
         "id": 1,
         "value": "is_parent_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
       }
     ]
   },
@@ -1326,6 +1806,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
     ]
   },
   "42": {
@@ -1360,6 +1852,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 47,
+        "value": "Hofamannsthal, Octavian von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
       }
     ]
   },
@@ -1396,6 +1900,18 @@
         "id": 7,
         "value": "is_sister_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
     ]
   },
   "44": {
@@ -1430,6 +1946,18 @@
       {
         "id": 6,
         "value": "is_brother_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 44,
+        "value": "Hofmannsthal, Raimund von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
       }
     ]
   },
@@ -1466,6 +1994,18 @@
         "id": 7,
         "value": "is_sister_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
     ]
   },
   "46": {
@@ -1500,6 +2040,18 @@
       {
         "id": 7,
         "value": "is_sister_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 3,
+        "value": "Zimmer, Christiane"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
       }
     ]
   },
@@ -1536,6 +2088,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
     ]
   },
   "48": {
@@ -1570,6 +2134,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
       }
     ]
   },
@@ -1606,6 +2182,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 42,
+        "value": "Hofmannsthal, Hugo von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
     ]
   },
   "50": {
@@ -1641,6 +2229,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 45,
+        "value": "Hofmannsthal, Liz von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 46,
+        "value": "Hofmannsthal, Arabella von"
+      }
     ]
   },
   "51": {
@@ -1671,6 +2271,18 @@
       {
         "id": 14,
         "value": "collaborates_wirh"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -1703,6 +2315,18 @@
         "id": 14,
         "value": "collaborates_wirh"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
     ]
   },
   "53": {
@@ -1734,6 +2358,18 @@
         "id": 6,
         "value": "is_brother_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 88,
+        "value": "Auden, John"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
     ]
   },
   "54": {
@@ -1764,6 +2400,18 @@
       {
         "id": 6,
         "value": "is_brother_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 88,
+        "value": "Auden, John"
       }
     ]
   },
@@ -1800,6 +2448,18 @@
         "id": 5,
         "value": "is_daughter-in-law_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 93,
+        "value": "Musulin, Elsa"
+      }
     ]
   },
   "56": {
@@ -1830,6 +2490,18 @@
       {
         "id": 15,
         "value": "stays_with"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 19,
+        "value": "Heyworth, Peter"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   },
@@ -1866,6 +2538,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
     ]
   },
   "58": {
@@ -1900,6 +2584,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
       }
     ]
   },
@@ -1936,6 +2632,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
     ]
   },
   "60": {
@@ -1970,6 +2678,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
       }
     ]
   },
@@ -2006,6 +2726,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
     ]
   },
   "62": {
@@ -2040,6 +2772,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
       }
     ]
   },
@@ -2076,6 +2820,18 @@
         "id": 4,
         "value": "is_mother-in-law_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 93,
+        "value": "Musulin, Elsa"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
     ]
   },
   "64": {
@@ -2110,6 +2866,18 @@
       {
         "id": 3,
         "value": "is_child_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 146,
+        "value": "Etthofen, Brigitta von"
       }
     ]
   },
@@ -2146,6 +2914,18 @@
         "id": 1,
         "value": "is_parent_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 146,
+        "value": "Etthofen, Brigitta von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
     ]
   },
   "66": {
@@ -2181,6 +2961,18 @@
         "id": 3,
         "value": "is_child_of"
       }
+    ],
+    "persons 2": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
     ]
   },
   "67": {
@@ -2215,6 +3007,18 @@
       {
         "id": 1,
         "value": "is_parent_of"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 141,
+        "value": "Etthofen, Sonja Maria von"
+      }
+    ],
+    "persons 2 - person_person - target": [
+      {
+        "id": 142,
+        "value": "Lanier, Amélie"
       }
     ]
   }
