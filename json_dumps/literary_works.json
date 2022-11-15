@@ -2056,7 +2056,13 @@
     "chapter_number": null,
     "is_linked_with": "",
     "has_year": null,
-    "type": [],
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
     "language": {
       "id": 6678,
@@ -2081,7 +2087,13 @@
     "chapter_number": null,
     "is_linked_with": "",
     "has_year": null,
-    "type": [],
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
     "language": null,
     "relation_types": [],
@@ -2097,7 +2109,13 @@
     "chapter_number": null,
     "is_linked_with": "",
     "has_year": null,
-    "type": [],
+    "type": [
+      {
+        "id": 6710,
+        "value": "dictionary",
+        "color": "light-gray"
+      }
+    ],
     "version_of": [],
     "language": null,
     "relation_types": [],
@@ -2198,6 +2216,134 @@
       {
         "id": 41,
         "value": "Tolkien, J. R. R."
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "For the Time Being",
+    "lit_work_id": "lit_work_id_55",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1966",
+    "type": [
+      {
+        "id": 6709,
+        "value": "oratorio",
+        "color": "light-green"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Hier und Jetzt",
+    "lit_work_id": "lit_work_id_56",
+    "is_written_by": [
+      {
+        "id": 59,
+        "value": "Fritsch, Gerhard"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1961",
+    "type": [
+      {
+        "id": 6709,
+        "value": "oratorio",
+        "color": "light-green"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 55,
+        "value": "For the Time Being"
+      }
+    ],
+    "language": {
+      "id": 6679,
+      "value": "de",
+      "color": "blue"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 59,
+        "value": "Fritsch, Gerhard"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Doggerel by a Senior Citizen",
+    "lit_work_id": "lit_work_id_57",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": {
+      "id": 6678,
+      "value": "en",
+      "color": "light-red"
+    },
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "persons 2": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
       }
     ]
   }
