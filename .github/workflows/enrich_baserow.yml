@@ -17,6 +17,9 @@ jobs:
       - name: Install Python Packages
         run: |
           pip install -r requirements.txt
-      - name: enrich data
+      - name: enrich data uri
         run: |
           python enrich_data.py
+      - name: enrich data location
+        run: |
+          python geonames.py

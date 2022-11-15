@@ -1,7 +1,8 @@
 import os
 import requests
+import geocoder
 
-from acdh_id_reconciler import gnd_to_wikidata, geonames_to_wikidata
+from acdh_id_reconciler import gnd_to_wikidata, geonames_to_gnd
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from acdh_baserow_pyutils import BaseRowClient
 
@@ -11,6 +12,7 @@ BASEROW_URL="https://baserow.acdh-dev.oeaw.ac.at/api/"
 BASEROW_USER = os.environ.get("BASEROW_USER")
 BASEROW_PW = os.environ.get("BASEROW_PW")
 BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
+GEONAMES_USER = os.environ.get("GEONAMES_USER")
 
 
 br_client = BaseRowClient(BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL)
@@ -41,7 +43,7 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                 norm_id = get_normalized_uri(x[field_name_input["geonames"]])
                 print(norm_id)
                 try:
-                    geo = geonames_to_wikidata(norm_id)
+                    geo = geonames_to_gnd(norm_id)
                     gnd = geo["gnd"]
                     wd = geo["wikidata"]
                     v_geo += 1
@@ -68,3 +70,38 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
         except Exception as err:
             print(err)
     print(f"{v_wd} wikidata uri and {v_geo} geonames uri of {len(table)} table rows matched")
+
+def geonames_to_location(br_table_id, user, field_name_input, field_name_update):
+    table = [x for x in br_client.yield_rows(br_table_id=br_table_id)]
+    br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
+    geo_u = 0
+    for x in table:
+        update = {}
+        if (len(x[field_name_input["geonames"]]) > 0):
+            norm_id = get_normalized_uri(x[field_name_input["geonames"]])
+            print(norm_id)
+            geo_id = norm_id.split('/')[-2]
+            try:
+                g = geocoder.geonames(geo_id, method='details', key=user)
+                lat = g.lat
+                lng = g.lng
+                update[field_name_update["coordinates"]] = f"{lat}, {lng}"
+                geo_u += 1
+                print(f"geonames id {geo_id} found. Updating lat: {lat} and lng: {lng}")
+            except Exception as err:
+                print(err)
+        row_id = x["id"]
+        url = f"{br_rows_url}{row_id}/?user_field_names=true"
+        print(url)
+        try:
+            requests.patch(
+                url,
+                headers={
+                    "Authorization": f"Token {BASEROW_TOKEN}",
+                    "Content-Type": "application/json"
+                },
+                json=update
+            )
+        except Exception as err:
+            print(err)
+    print(f"{geo_u} geonames uri and of {len(table)} table rows matched")
