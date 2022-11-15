@@ -19,7 +19,7 @@ for x in data:
             norm_id = get_normalized_uri(any_id)
             obj["geonames_id"] = norm_id
         except KeyError:
-            continue
+            print()
         arr.append(obj)
     if "places" in x:
         filename = f"listplace"

@@ -3,11 +3,16 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Index of Literature in Auden Musulin Papers</title>
-            <editor>
+            <respStmt>
+               <resp>providing the content</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
                <name>Grigoriou, Dimitra</name>
-            </editor>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -52,8 +57,15 @@
          {% for x in objects %}
             <bibl xml:id="{{ x.lit_work_id }}">
                <title>{{ x.name }}</title>
+               {% if x.is_written_by|length > 0 %}
                <author>{% for p in x.is_written_by %}{{ p.value }}{% endfor %}</author>
-               <date>{{ x.has_year }}</date>
+               {% endif %}
+               {% if x.has_year is string %}
+               <date when="{{ x.has_year }}">{{ x.has_year }}</date>
+               {% endif %}
+               {% if x.is_linked_with|length > 0 %}
+               <idno type="WIKIDATA">{{ x.is_linked_with }}</idno>
+               {% endif %}
             </bibl>
          {% endfor %}
       </listBibl>

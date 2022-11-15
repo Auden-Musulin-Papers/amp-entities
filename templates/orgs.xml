@@ -3,11 +3,16 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Index of Institutiosn mentioned in Auden Musulin Papers</title>
-            <editor>
+            <respStmt>
+               <resp>providing the content</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
                <name>Grigoriou, Dimitra</name>
-            </editor>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -48,14 +53,23 @@
    </teiHeader>
    <text>
       <body>
-         <listOrg>
-         {% for x in objects %}
-            <org xml:id="{{ x.amp_id }}">
-               <orgName>{{ x.name|replace('&', '&amp;') }}</orgName>
-               <idno type="GND">{{ x.gnd_id }}</idno>
-            </org>
-         {% endfor %}
-         </listOrg>
+         <div type="index_organizations">
+            <listOrg xml:id="listorg">
+            {% for x in objects %}
+               <org xml:id="{{ x.amp_id }}">
+                  <orgName>{{ x.name|replace('&', '&amp;') }}</orgName>
+                  {% if x.location|length > 0 %}
+                  <location type="located_in_place">
+                     <placeName key="amp_organization_{% for p in x.location %}{{ p.id }}{% endfor %}">{% for p in x.location %}{{ p.value }}{% endfor %}</placeName>
+                  </location>
+                  {% endif %}
+                  {% if x.gnd_id %}
+                  <idno type="GND">{{ x.gnd_id }}</idno>
+                  {% endif %}
+               </org>
+            {% endfor %}
+            </listOrg>
+         </div>
       </body>
    </text>
 </TEI>

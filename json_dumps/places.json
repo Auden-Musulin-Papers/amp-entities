@@ -194,156 +194,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 3,
-        "value": "Zimmer, Christiane"
-      },
-      {
-        "id": 37,
-        "value": "Raimund, Ferdinand"
-      },
-      {
-        "id": 38,
-        "value": "Nestroy, Johann"
-      },
-      {
-        "id": 42,
-        "value": "Hofmannsthal, Hugo von"
-      },
-      {
-        "id": 49,
-        "value": "Wiesenthal, Grete"
-      },
-      {
-        "id": 51,
-        "value": "Friedell, Egon"
-      },
-      {
-        "id": 52,
-        "value": "Torberg, Friedrich"
-      },
-      {
-        "id": 54,
-        "value": "Heer, Friedrich"
-      },
-      {
-        "id": 59,
-        "value": "Fritsch, Gerhard"
-      },
-      {
-        "id": 60,
-        "value": "Kont, Paul"
-      },
-      {
-        "id": 65,
-        "value": "Grillparzer, Franz"
-      },
-      {
-        "id": 78,
-        "value": "Spiel, Hilde"
-      },
-      {
-        "id": 87,
-        "value": "Opel, Adolf"
-      },
-      {
-        "id": 137,
-        "value": "Kraus, Dr. Wolfgang"
-      },
-      {
-        "id": 147,
-        "value": "Windisch-Graetz, Eva"
-      },
-      {
-        "id": 152,
-        "value": "Breicha, Otto"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      },
-      {
-        "id": 13,
-        "value": "Mozart, Wolfgang Amadeus"
-      },
-      {
-        "id": 23,
-        "value": "Boras, Jean"
-      },
-      {
-        "id": 29,
-        "value": "Beethoven, Ludwig van"
-      },
-      {
-        "id": 35,
-        "value": "Bruckner, Anton"
-      },
-      {
-        "id": 49,
-        "value": "Wiesenthal, Grete"
-      },
-      {
-        "id": 51,
-        "value": "Friedell, Egon"
-      },
-      {
-        "id": 52,
-        "value": "Torberg, Friedrich"
-      },
-      {
-        "id": 54,
-        "value": "Heer, Friedrich"
-      },
-      {
-        "id": 59,
-        "value": "Fritsch, Gerhard"
-      },
-      {
-        "id": 60,
-        "value": "Kont, Paul"
-      },
-      {
-        "id": 61,
-        "value": "Fiechtner, Helmut Albert"
-      },
-      {
-        "id": 62,
-        "value": "Lehmden, Anton"
-      },
-      {
-        "id": 64,
-        "value": "Rössl-Majdan, Hilde"
-      },
-      {
-        "id": 65,
-        "value": "Grillparzer, Franz"
-      },
-      {
-        "id": 78,
-        "value": "Spiel, Hilde"
-      },
-      {
-        "id": 81,
-        "value": "Kraus, Karl"
-      },
-      {
-        "id": 87,
-        "value": "Opel, Adolf"
-      },
-      {
-        "id": 134,
-        "value": "Suttner, Bertha"
-      },
-      {
-        "id": 152,
-        "value": "Breicha, Otto"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q1741",
-    "gnd": "https://d-nb.info/gnd/4066009-6"
+    "gnd": "https://d-nb.info/gnd/4066009-6",
+    "geonames_coordinates": "48.20849, 16.37208"
   },
   "2": {
     "id": 2,
@@ -369,10 +222,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "3": {
     "id": 3,
@@ -412,24 +264,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      },
-      {
-        "id": 88,
-        "value": "Auden, John"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 77,
-        "value": "Toynbee, Arnold"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q42462",
-    "gnd": "https://d-nb.info/gnd/4067205-0"
+    "gnd": "https://d-nb.info/gnd/4067205-0",
+    "geonames_coordinates": "53.95763, -1.08271"
   },
   "4": {
     "id": 4,
@@ -450,15 +287,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.70121, -5.17685"
   },
   "5": {
     "id": 5,
@@ -497,23 +328,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      },
-      {
-        "id": 5,
-        "value": "Weinheber, Josef"
-      },
-      {
-        "id": 16,
-        "value": "Eiermann, Emma"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.22902, 14.11039"
   },
   "6": {
     "id": 6,
@@ -539,10 +356,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q42497",
-    "gnd": "https://d-nb.info/gnd/4075391-8"
+    "gnd": "https://d-nb.info/gnd/4075391-8",
+    "geonames_coordinates": "48.33333, 15.75"
   },
   "7": {
     "id": 7,
@@ -568,10 +384,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.14765, 15.55595"
   },
   "8": {
     "id": 8,
@@ -597,10 +412,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q665490",
-    "gnd": "https://d-nb.info/gnd/4540212-7"
+    "gnd": "https://d-nb.info/gnd/4540212-7",
+    "geonames_coordinates": "48.14651, 15.55345"
   },
   "9": {
     "id": 9,
@@ -626,10 +440,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.2, 15.63333"
   },
   "10": {
     "id": 10,
@@ -660,10 +473,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q40",
-    "gnd": "https://d-nb.info/gnd/4043271-3"
+    "gnd": "https://d-nb.info/gnd/4043271-3",
+    "geonames_coordinates": "47.33333, 13.33333"
   },
   "11": {
     "id": 11,
@@ -689,10 +501,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "12": {
     "id": 12,
@@ -727,19 +538,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 4,
-        "value": "Kallman, Chester"
-      },
-      {
-        "id": 63,
-        "value": "Davy, Gloria"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q18419",
-    "gnd": "https://d-nb.info/gnd/4224069-4"
+    "gnd": "https://d-nb.info/gnd/4224069-4",
+    "geonames_coordinates": "40.6501, -73.94958"
   },
   "13": {
     "id": 13,
@@ -779,24 +580,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 30,
-        "value": "Plato"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 4,
-        "value": "Kallman, Chester"
-      },
-      {
-        "id": 30,
-        "value": "Plato"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q1524",
-    "gnd": "https://d-nb.info/gnd/4003366-1"
+    "gnd": "https://d-nb.info/gnd/4003366-1",
+    "geonames_coordinates": "37.98376, 23.72784"
   },
   "14": {
     "id": 14,
@@ -827,15 +613,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 9,
-        "value": "Dante, Alighieri"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "43.77925, 11.24626"
   },
   "15": {
     "id": 15,
@@ -873,15 +653,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 99,
-        "value": "O'Sullivan, Michael"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q30",
-    "gnd": "https://d-nb.info/gnd/4078704-7"
+    "gnd": "https://d-nb.info/gnd/4078704-7",
+    "geonames_coordinates": "39.76, -98.5"
   },
   "16": {
     "id": 16,
@@ -912,15 +686,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 5,
-        "value": "Weinheber, Josef"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1496772",
-    "gnd": "https://d-nb.info/gnd/4200552-8"
+    "gnd": "https://d-nb.info/gnd/4200552-8",
+    "geonames_coordinates": "48.21667, 16.3"
   },
   "17": {
     "id": 17,
@@ -956,20 +724,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 73,
-        "value": "Bondy, Francis"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 130,
-        "value": "Hitler, Adolf"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q64",
-    "gnd": "https://d-nb.info/gnd/4005728-8"
+    "gnd": "https://d-nb.info/gnd/4005728-8",
+    "geonames_coordinates": "52.52437, 13.41053"
   },
   "18": {
     "id": 18,
@@ -995,10 +752,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q700541",
-    "gnd": "https://d-nb.info/gnd/4087308-0"
+    "gnd": "https://d-nb.info/gnd/4087308-0",
+    "geonames_coordinates": "52.4581, 13.28702"
   },
   "19": {
     "id": 19,
@@ -1024,10 +780,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "20": {
     "id": 20,
@@ -1058,10 +813,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q183",
-    "gnd": "https://d-nb.info/gnd/4011882-4"
+    "gnd": "https://d-nb.info/gnd/4011882-4",
+    "geonames_coordinates": "51.5, 10.5"
   },
   "21": {
     "id": 21,
@@ -1092,15 +846,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 115,
-        "value": "Brecht, Bertolt"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "22": {
     "id": 22,
@@ -1131,15 +879,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 7,
-        "value": "Jägerstätter, Franz"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q669185",
-    "gnd": "https://d-nb.info/gnd/4382796-2"
+    "gnd": "https://d-nb.info/gnd/4382796-2",
+    "geonames_coordinates": "48.09539, 12.77435"
   },
   "23": {
     "id": 23,
@@ -1170,15 +912,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 7,
-        "value": "Jägerstätter, Franz"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "52.41667, 12.55"
   },
   "24": {
     "id": 24,
@@ -1204,10 +940,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.19276, 15.80177"
   },
   "25": {
     "id": 25,
@@ -1233,10 +968,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.26023, 15.79576"
   },
   "26": {
     "id": 26,
@@ -1262,10 +996,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.13743, 11.57549"
   },
   "27": {
     "id": 27,
@@ -1291,10 +1024,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "28": {
     "id": 28,
@@ -1360,6 +1092,14 @@
       {
         "id": 24,
         "value": "The National Review"
+      },
+      {
+        "id": 29,
+        "value": "Curtis Brown Ltd"
+      },
+      {
+        "id": 30,
+        "value": "Columbia University"
       }
     ],
     "fiction_real_place": [],
@@ -1375,44 +1115,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 98,
-        "value": "Mendelson, Edward"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 3,
-        "value": "Zimmer, Christiane"
-      },
-      {
-        "id": 25,
-        "value": "Stravinsky, Igor"
-      },
-      {
-        "id": 40,
-        "value": "Weill, Kurt"
-      },
-      {
-        "id": 67,
-        "value": "Hesse, Eva"
-      },
-      {
-        "id": 72,
-        "value": "Mary McCarthy"
-      },
-      {
-        "id": 86,
-        "value": "Balanchine, George"
-      },
-      {
-        "id": 128,
-        "value": "Vechten, Carl Van"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q60",
-    "gnd": "https://d-nb.info/gnd/4042011-5"
+    "gnd": "https://d-nb.info/gnd/4042011-5",
+    "geonames_coordinates": "40.71427, -74.00597"
   },
   "29": {
     "id": 29,
@@ -1438,10 +1143,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "30": {
     "id": 30,
@@ -1457,10 +1161,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q46",
-    "gnd": "https://d-nb.info/gnd/4015701-5"
+    "gnd": "https://d-nb.info/gnd/4015701-5",
+    "geonames_coordinates": "48.69096, 9.14062"
   },
   "31": {
     "id": 31,
@@ -1491,15 +1194,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 9,
-        "value": "Dante, Alighieri"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "44.41344, 12.20121"
   },
   "32": {
     "id": 32,
@@ -1535,20 +1232,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 10,
-        "value": "Shakespeare, William"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 10,
-        "value": "Shakespeare, William"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q189288",
-    "gnd": "https://d-nb.info/gnd/4118849-4"
+    "gnd": "https://d-nb.info/gnd/4118849-4",
+    "geonames_coordinates": "52.19166, -1.70734"
   },
   "33": {
     "id": 33,
@@ -1584,20 +1270,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 11,
-        "value": "Goethe, Johann Wolfgang von"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 75,
-        "value": "Reich-Ranicki, Marcel"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.11552, 8.68417"
   },
   "34": {
     "id": 34,
@@ -1628,15 +1303,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 11,
-        "value": "Goethe, Johann Wolfgang von"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.9803, 11.32903"
   },
   "35": {
     "id": 35,
@@ -1667,15 +1336,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 12,
-        "value": "Vecellio, Tiziano"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.42466, 12.36416"
   },
   "36": {
     "id": 36,
@@ -1719,28 +1382,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 116,
-        "value": "Goldoni, Carlo"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 12,
-        "value": "Vecellio, Tiziano"
-      },
-      {
-        "id": 18,
-        "value": "Wagner, Richard"
-      },
-      {
-        "id": 68,
-        "value": "Pound, Ezra"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "45.43713, 12.33265"
   },
   "37": {
     "id": 37,
@@ -1771,15 +1415,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 13,
-        "value": "Mozart, Wolfgang Amadeus"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.79941, 13.04399"
   },
   "38": {
     "id": 38,
@@ -1805,10 +1443,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "39": {
     "id": 39,
@@ -1834,10 +1471,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q29303",
-    "gnd": "https://d-nb.info/gnd/4009422-4"
+    "gnd": "https://d-nb.info/gnd/4009422-4",
+    "geonames_coordinates": "51.27904, 1.07992"
   },
   "40": {
     "id": 40,
@@ -1868,15 +1504,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 15,
-        "value": "Ramsey, Michael"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q350",
-    "gnd": "https://d-nb.info/gnd/4009351-7"
+    "gnd": "https://d-nb.info/gnd/4009351-7",
+    "geonames_coordinates": "52.2, 0.11667"
   },
   "41": {
     "id": 41,
@@ -1902,10 +1532,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "None, None"
   },
   "42": {
     "id": 42,
@@ -1931,10 +1560,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "43": {
     "id": 43,
@@ -1965,15 +1593,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 114,
-        "value": "Kirstein, Lincon"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q49218",
-    "gnd": "https://d-nb.info/gnd/4130600-4"
+    "gnd": "https://d-nb.info/gnd/4130600-4",
+    "geonames_coordinates": "43.15478, -77.61556"
   },
   "44": {
     "id": 44,
@@ -1999,10 +1621,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "45": {
     "id": 45,
@@ -2028,10 +1649,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "46": {
     "id": 46,
@@ -2092,40 +1712,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 91,
-        "value": "Toynbee. Philipp"
-      },
-      {
-        "id": 100,
-        "value": "Carpenter, Humphrey"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 6,
-        "value": "Williams, Charles"
-      },
-      {
-        "id": 15,
-        "value": "Ramsey, Michael"
-      },
-      {
-        "id": 41,
-        "value": "Tolkien, J. R. R."
-      },
-      {
-        "id": 100,
-        "value": "Carpenter, Humphrey"
-      },
-      {
-        "id": 113,
-        "value": "Cranmer, Thomas"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q34217",
-    "gnd": "https://d-nb.info/gnd/4044234-2"
+    "gnd": "https://d-nb.info/gnd/4044234-2",
+    "geonames_coordinates": "51.75222, -1.25596"
   },
   "47": {
     "id": 47,
@@ -2151,10 +1740,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "48": {
     "id": 48,
@@ -2180,10 +1768,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "49": {
     "id": 49,
@@ -2209,10 +1796,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "50": {
     "id": 50,
@@ -2243,15 +1829,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 24,
-        "value": "Palestrina, Giovanni Pierluigi da"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "41.83274, 12.88178"
   },
   "51": {
     "id": 51,
@@ -2286,19 +1866,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 24,
-        "value": "Palestrina, Giovanni Pierluigi da"
-      },
-      {
-        "id": 28,
-        "value": "Michelangelo, Buonarroti"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q220",
-    "gnd": "https://d-nb.info/gnd/4050471-2"
+    "gnd": "https://d-nb.info/gnd/4050471-2",
+    "geonames_coordinates": "41.89193, 12.51133"
   },
   "52": {
     "id": 52,
@@ -2329,15 +1899,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 25,
-        "value": "Stravinsky, Igor"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q157688",
-    "gnd": "https://d-nb.info/gnd/4445805-8"
+    "gnd": "https://d-nb.info/gnd/4445805-8",
+    "geonames_coordinates": "59.90612, 29.77253"
   },
   "53": {
     "id": 53,
@@ -2368,15 +1932,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 26,
-        "value": "Picasso, Pablo"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "36.72016, -4.42034"
   },
   "54": {
     "id": 54,
@@ -2407,15 +1965,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 26,
-        "value": "Picasso, Pablo"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q220673",
-    "gnd": "https://d-nb.info/gnd/4534855-8"
+    "gnd": "https://d-nb.info/gnd/4534855-8",
+    "geonames_coordinates": "43.60068, 6.99523"
   },
   "55": {
     "id": 55,
@@ -2446,15 +1998,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 27,
-        "value": "Eliot, T. S."
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q38022",
-    "gnd": "https://d-nb.info/gnd/4118223-6"
+    "gnd": "https://d-nb.info/gnd/4118223-6",
+    "geonames_coordinates": "38.62727, -90.19789"
   },
   "56": {
     "id": 56,
@@ -2547,72 +2093,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 6,
-        "value": "Williams, Charles"
-      },
-      {
-        "id": 8,
-        "value": "Spender, Stephen"
-      },
-      {
-        "id": 77,
-        "value": "Toynbee, Arnold"
-      },
-      {
-        "id": 80,
-        "value": "Hogg, Quintin"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 8,
-        "value": "Spender, Stephen"
-      },
-      {
-        "id": 27,
-        "value": "Eliot, T. S."
-      },
-      {
-        "id": 33,
-        "value": "Johnson, Samuel"
-      },
-      {
-        "id": 39,
-        "value": "Benson, Edward Frederic"
-      },
-      {
-        "id": 44,
-        "value": "Hofmannsthal, Raimund von"
-      },
-      {
-        "id": 48,
-        "value": "Cooper, Lady Diana"
-      },
-      {
-        "id": 58,
-        "value": "Freud, Sigmund"
-      },
-      {
-        "id": 71,
-        "value": "MacNeice Louis"
-      },
-      {
-        "id": 80,
-        "value": "Hogg, Quintin"
-      },
-      {
-        "id": 90,
-        "value": "Orwell, Sonia"
-      },
-      {
-        "id": 123,
-        "value": "Coldstream, Sir William"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q84",
-    "gnd": "https://d-nb.info/gnd/4074335-4"
+    "gnd": "https://d-nb.info/gnd/4074335-4",
+    "geonames_coordinates": "51.50853, -0.12574"
   },
   "57": {
     "id": 57,
@@ -2643,15 +2126,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 28,
-        "value": "Michelangelo, Buonarroti"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "43.64031, 11.98546"
   },
   "58": {
     "id": 58,
@@ -2682,15 +2159,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 29,
-        "value": "Beethoven, Ludwig van"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.73438, 7.09549"
   },
   "59": {
     "id": 59,
@@ -2721,15 +2192,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 31,
-        "value": "Lawrence, D. H."
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q2736112",
-    "gnd": "https://d-nb.info/gnd/4847803-9"
+    "gnd": "https://d-nb.info/gnd/4847803-9",
+    "geonames_coordinates": "53, -1.3"
   },
   "60": {
     "id": 60,
@@ -2760,15 +2225,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 31,
-        "value": "Lawrence, D. H."
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q192368",
-    "gnd": "https://d-nb.info/gnd/4119386-6"
+    "gnd": "https://d-nb.info/gnd/4119386-6",
+    "geonames_coordinates": "43.72254, 7.11183"
   },
   "61": {
     "id": 61,
@@ -2799,15 +2258,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 33,
-        "value": "Johnson, Samuel"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q207371",
-    "gnd": "https://d-nb.info/gnd/4393763-9"
+    "gnd": "https://d-nb.info/gnd/4393763-9",
+    "geonames_coordinates": "52.68154, -1.82549"
   },
   "62": {
     "id": 62,
@@ -2833,10 +2286,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q694399",
-    "gnd": "https://d-nb.info/gnd/4546793-6"
+    "gnd": "https://d-nb.info/gnd/4546793-6",
+    "geonames_coordinates": "48.46582, 15.52093"
   },
   "63": {
     "id": 63,
@@ -2872,20 +2324,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 34,
-        "value": "Prosch, Peter"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 34,
-        "value": "Prosch, Peter"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.3, 11.86667"
   },
   "64": {
     "id": 64,
@@ -2916,15 +2357,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 35,
-        "value": "Bruckner, Anton"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.20969, 14.29004"
   },
   "65": {
     "id": 65,
@@ -2955,15 +2390,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 36,
-        "value": "Stifter, Adalbert"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1628741",
-    "gnd": "https://d-nb.info/gnd/4290244-7"
+    "gnd": "https://d-nb.info/gnd/4290244-7",
+    "geonames_coordinates": "48.76736, 14.03257"
   },
   "66": {
     "id": 66,
@@ -2994,15 +2423,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 36,
-        "value": "Stifter, Adalbert"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q41329",
-    "gnd": "https://d-nb.info/gnd/4074255-6"
+    "gnd": "https://d-nb.info/gnd/4074255-6",
+    "geonames_coordinates": "48.30639, 14.28611"
   },
   "67": {
     "id": 67,
@@ -3033,15 +2456,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 37,
-        "value": "Raimund, Ferdinand"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q693530",
-    "gnd": "https://d-nb.info/gnd/4526721-2"
+    "gnd": "https://d-nb.info/gnd/4526721-2",
+    "geonames_coordinates": "47.95852, 16.05651"
   },
   "68": {
     "id": 68,
@@ -3072,15 +2489,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 38,
-        "value": "Nestroy, Johann"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.06667, 15.45"
   },
   "69": {
     "id": 69,
@@ -3106,10 +2517,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "70": {
     "id": 70,
@@ -3140,15 +2550,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 23,
-        "value": "Boras, Jean"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "71": {
     "id": 71,
@@ -3174,10 +2578,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "72": {
     "id": 72,
@@ -3203,10 +2606,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q4127",
-    "gnd": "https://d-nb.info/gnd/4007403-1"
+    "gnd": "https://d-nb.info/gnd/4007403-1",
+    "geonames_coordinates": "47.58333, 9.46667"
   },
   "73": {
     "id": 73,
@@ -3232,10 +2634,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.33333, 12.8"
   },
   "74": {
     "id": 74,
@@ -3266,15 +2667,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 142,
-        "value": "Lanier, Amélie"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.32306, 12.79839"
   },
   "75": {
     "id": 75,
@@ -3300,10 +2695,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.33917, 12.79821"
   },
   "76": {
     "id": 76,
@@ -3329,10 +2723,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "None, None"
   },
   "77": {
     "id": 77,
@@ -3358,10 +2751,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "78": {
     "id": 78,
@@ -3387,10 +2779,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "79": {
     "id": 79,
@@ -3416,10 +2807,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.19779, 15.76178"
   },
   "80": {
     "id": 80,
@@ -3445,10 +2835,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "81": {
     "id": 81,
@@ -3474,10 +2863,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "82": {
     "id": 82,
@@ -3503,10 +2891,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q131330",
-    "gnd": "https://d-nb.info/gnd/4117646-7"
+    "gnd": "https://d-nb.info/gnd/4117646-7",
+    "geonames_coordinates": "48.18494, 16.31229"
   },
   "83": {
     "id": 83,
@@ -3532,10 +2919,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q142",
-    "gnd": "https://d-nb.info/gnd/4018145-5"
+    "gnd": "https://d-nb.info/gnd/4018145-5",
+    "geonames_coordinates": "46, 2"
   },
   "84": {
     "id": 84,
@@ -3587,36 +2973,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 56,
-        "value": "Gide, André"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 20,
-        "value": "Wilde, Oscar"
-      },
-      {
-        "id": 56,
-        "value": "Gide, André"
-      },
-      {
-        "id": 92,
-        "value": "Claude, Simon"
-      },
-      {
-        "id": 116,
-        "value": "Goldoni, Carlo"
-      },
-      {
-        "id": 132,
-        "value": "Claudel, Paul"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.85341, 2.3488"
   },
   "85": {
     "id": 85,
@@ -3642,10 +3001,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "None, None"
   },
   "86": {
     "id": 86,
@@ -3671,10 +3029,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1781",
-    "gnd": "https://d-nb.info/gnd/4008684-7"
+    "gnd": "https://d-nb.info/gnd/4008684-7",
+    "geonames_coordinates": "47.49835, 19.04045"
   },
   "87": {
     "id": 87,
@@ -3700,10 +3057,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q5933",
-    "gnd": "https://d-nb.info/gnd/4206437-5"
+    "gnd": "https://d-nb.info/gnd/4206437-5",
+    "geonames_coordinates": "51.49937, -0.12846"
   },
   "88": {
     "id": 88,
@@ -3729,10 +3085,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "89": {
     "id": 89,
@@ -3758,10 +3113,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.20692, 16.36707"
   },
   "90": {
     "id": 90,
@@ -3787,10 +3141,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q2191",
-    "gnd": "https://d-nb.info/gnd/4302147-5"
+    "gnd": "https://d-nb.info/gnd/4302147-5",
+    "geonames_coordinates": "60, 32"
   },
   "91": {
     "id": 91,
@@ -3806,10 +3159,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q159",
-    "gnd": "https://d-nb.info/gnd/4076899-5"
+    "gnd": "https://d-nb.info/gnd/4076899-5",
+    "geonames_coordinates": "60, 100"
   },
   "92": {
     "id": 92,
@@ -3835,10 +3187,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "93": {
     "id": 93,
@@ -3870,6 +3221,10 @@
       {
         "id": 23,
         "value": "Financial Times"
+      },
+      {
+        "id": 28,
+        "value": "BBC"
       }
     ],
     "fiction_real_place": [],
@@ -3885,10 +3240,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q145",
-    "gnd": "https://d-nb.info/gnd/4022153-2"
+    "gnd": "https://d-nb.info/gnd/4022153-2",
+    "geonames_coordinates": "54.75844, -2.69531"
   },
   "94": {
     "id": 94,
@@ -3914,10 +3268,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "95": {
     "id": 95,
@@ -3943,10 +3296,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1493443",
-    "gnd": "https://d-nb.info/gnd/4808806-7"
+    "gnd": "https://d-nb.info/gnd/4808806-7",
+    "geonames_coordinates": "48.206, 16.37058"
   },
   "96": {
     "id": 96,
@@ -3972,10 +3324,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "56, 9.25"
   },
   "97": {
     "id": 97,
@@ -4001,10 +3352,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q39",
-    "gnd": "https://d-nb.info/gnd/4053881-3"
+    "gnd": "https://d-nb.info/gnd/4053881-3",
+    "geonames_coordinates": "47.00016, 8.01427"
   },
   "98": {
     "id": 98,
@@ -4020,10 +3370,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q668",
-    "gnd": "https://d-nb.info/gnd/4026722-2"
+    "gnd": "https://d-nb.info/gnd/4026722-2",
+    "geonames_coordinates": "22, 79"
   },
   "99": {
     "id": 99,
@@ -4039,10 +3388,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "100": {
     "id": 100,
@@ -4068,10 +3416,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q33946",
-    "gnd": "https://d-nb.info/gnd/4078435-6"
+    "gnd": "https://d-nb.info/gnd/4078435-6",
+    "geonames_coordinates": "50.08292, 14.46672"
   },
   "101": {
     "id": 101,
@@ -4097,10 +3444,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "None, None"
   },
   "102": {
     "id": 102,
@@ -4126,10 +3472,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.26266, 11.39454"
   },
   "103": {
     "id": 103,
@@ -4145,10 +3490,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q170054",
-    "gnd": "https://d-nb.info/gnd/4002921-9"
+    "gnd": "https://d-nb.info/gnd/4002921-9",
+    "geonames_coordinates": "37.58333, 22.25"
   },
   "104": {
     "id": 104,
@@ -4174,10 +3518,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "105": {
     "id": 105,
@@ -4203,10 +3546,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "106": {
     "id": 106,
@@ -4237,15 +3579,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 39,
-        "value": "Benson, Edward Frederic"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q23220",
-    "gnd": "https://d-nb.info/gnd/4087289-0"
+    "gnd": "https://d-nb.info/gnd/4087289-0",
+    "geonames_coordinates": "51.5, -1.25"
   },
   "107": {
     "id": 107,
@@ -4276,15 +3612,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 18,
-        "value": "Wagner, Richard"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q2079",
-    "gnd": "https://d-nb.info/gnd/4035206-7"
+    "gnd": "https://d-nb.info/gnd/4035206-7",
+    "geonames_coordinates": "51.33962, 12.37129"
   },
   "108": {
     "id": 108,
@@ -4305,15 +3635,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 20,
-        "value": "Wilde, Oscar"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1761",
-    "gnd": "https://d-nb.info/gnd/4013170-1"
+    "gnd": "https://d-nb.info/gnd/4013170-1",
+    "geonames_coordinates": "53.33306, -6.24889"
   },
   "109": {
     "id": 109,
@@ -4344,15 +3668,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 40,
-        "value": "Weill, Kurt"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q487070",
-    "gnd": "https://d-nb.info/gnd/4011536-7"
+    "gnd": "https://d-nb.info/gnd/4011536-7",
+    "geonames_coordinates": "51.83864, 12.24555"
   },
   "110": {
     "id": 110,
@@ -4383,15 +3701,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 41,
-        "value": "Tolkien, J. R. R."
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q37701",
-    "gnd": "https://d-nb.info/gnd/4488274-9"
+    "gnd": "https://d-nb.info/gnd/4488274-9",
+    "geonames_coordinates": "-29.12107, 26.214"
   },
   "111": {
     "id": 111,
@@ -4427,20 +3739,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 44,
-        "value": "Hofmannsthal, Raimund von"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 42,
-        "value": "Hofmannsthal, Hugo von"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.50566, 11.99086"
   },
   "112": {
     "id": 112,
@@ -4471,15 +3772,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 48,
-        "value": "Cooper, Lady Diana"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "113": {
     "id": 113,
@@ -4500,15 +3795,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 53,
-        "value": "Bernhard, Thomas"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.88365, 5.98154"
   },
   "114": {
     "id": 114,
@@ -4544,20 +3833,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 141,
-        "value": "Etthofen, Sonja Maria von"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 53,
-        "value": "Bernhard, Thomas"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.91839, 13.79933"
   },
   "115": {
     "id": 115,
@@ -4588,15 +3866,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 55,
-        "value": "Mussolini, Benito"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "44.1, 11.98333"
   },
   "116": {
     "id": 116,
@@ -4627,15 +3899,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 55,
-        "value": "Mussolini, Benito"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "45.98168, 9.20514"
   },
   "117": {
     "id": 117,
@@ -4666,15 +3932,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 57,
-        "value": "Kassner, Rudolf"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1028003",
-    "gnd": "https://d-nb.info/gnd/7521150-6"
+    "gnd": "https://d-nb.info/gnd/7521150-6",
+    "geonames_coordinates": "48.90469, 16.81605"
   },
   "118": {
     "id": 118,
@@ -4705,15 +3965,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 57,
-        "value": "Kassner, Rudolf"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.29192, 7.53559"
   },
   "119": {
     "id": 119,
@@ -4734,15 +3988,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 58,
-        "value": "Freud, Sigmund"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q654019",
-    "gnd": "https://d-nb.info/gnd/4630931-7"
+    "gnd": "https://d-nb.info/gnd/4630931-7",
+    "geonames_coordinates": "49.64094, 18.14499"
   },
   "120": {
     "id": 120,
@@ -4763,15 +4011,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 61,
-        "value": "Fiechtner, Helmut Albert"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.49582, 26.86916"
   },
   "121": {
     "id": 121,
@@ -4792,15 +4034,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 62,
-        "value": "Lehmden, Anton"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q26397",
-    "gnd": "https://d-nb.info/gnd/4101153-3"
+    "gnd": "https://d-nb.info/gnd/4101153-3",
+    "geonames_coordinates": "48.30763, 18.08453"
   },
   "122": {
     "id": 122,
@@ -4831,15 +4067,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 63,
-        "value": "Davy, Gloria"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.20222, 6.14569"
   },
   "123": {
     "id": 123,
@@ -4870,15 +4100,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 64,
-        "value": "Rössl-Majdan, Hilde"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q6908541",
-    "gnd": "https://d-nb.info/gnd/4809765-2"
+    "gnd": "https://d-nb.info/gnd/4809765-2",
+    "geonames_coordinates": "48.30478, 15.90048"
   },
   "124": {
     "id": 124,
@@ -4909,15 +4133,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 66,
-        "value": "Schröder, Rudolf Alexander"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q24879",
-    "gnd": "https://d-nb.info/gnd/4008135-7"
+    "gnd": "https://d-nb.info/gnd/4008135-7",
+    "geonames_coordinates": "53.07582, 8.80717"
   },
   "125": {
     "id": 125,
@@ -4948,15 +4166,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 66,
-        "value": "Schröder, Rudolf Alexander"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.71667, 11.71667"
   },
   "126": {
     "id": 126,
@@ -4987,15 +4199,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 67,
-        "value": "Hesse, Eva"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1055",
-    "gnd": "https://d-nb.info/gnd/4023118-5"
+    "gnd": "https://d-nb.info/gnd/4023118-5",
+    "geonames_coordinates": "53.55073, 9.99302"
   },
   "127": {
     "id": 127,
@@ -5026,15 +4232,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 68,
-        "value": "Pound, Ezra"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "43.4268, -114.21882"
   },
   "128": {
     "id": 128,
@@ -5055,15 +4255,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 69,
-        "value": "Tillich, Paul"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.85782, 14.82112"
   },
   "129": {
     "id": 129,
@@ -5094,15 +4288,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 69,
-        "value": "Tillich, Paul"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q1297",
-    "gnd": "https://d-nb.info/gnd/4009921-0"
+    "gnd": "https://d-nb.info/gnd/4009921-0",
+    "geonames_coordinates": "41.85003, -87.65005"
   },
   "130": {
     "id": 130,
@@ -5123,15 +4311,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 70,
-        "value": "Bunting, Brian"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q34647",
-    "gnd": "https://d-nb.info/gnd/4028698-8"
+    "gnd": "https://d-nb.info/gnd/4028698-8",
+    "geonames_coordinates": "-26.20227, 28.04363"
   },
   "131": {
     "id": 131,
@@ -5152,15 +4334,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 70,
-        "value": "Bunting, Brian"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q5465",
-    "gnd": "https://d-nb.info/gnd/4029615-5"
+    "gnd": "https://d-nb.info/gnd/4029615-5",
+    "geonames_coordinates": "-33.92584, 18.42322"
   },
   "132": {
     "id": 132,
@@ -5181,15 +4357,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 71,
-        "value": "MacNeice Louis"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q10686",
-    "gnd": "https://d-nb.info/gnd/4080332-6"
+    "gnd": "https://d-nb.info/gnd/4080332-6",
+    "geonames_coordinates": "54.59682, -5.92541"
   },
   "133": {
     "id": 133,
@@ -5220,15 +4390,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 73,
-        "value": "Bondy, Francis"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.36667, 8.55"
   },
   "134": {
     "id": 134,
@@ -5259,15 +4423,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 72,
-        "value": "Mary McCarthy"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q5083",
-    "gnd": "https://d-nb.info/gnd/4054058-3"
+    "gnd": "https://d-nb.info/gnd/4054058-3",
+    "geonames_coordinates": "47.60621, -122.33207"
   },
   "135": {
     "id": 135,
@@ -5302,19 +4460,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 74,
-        "value": "Etkin, Yefrim of Leningrad"
-      },
-      {
-        "id": 86,
-        "value": "Balanchine, George"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q656",
-    "gnd": "https://d-nb.info/gnd/4267026-3"
+    "gnd": "https://d-nb.info/gnd/4267026-3",
+    "geonames_coordinates": "59.93863, 30.31413"
   },
   "136": {
     "id": 136,
@@ -5345,15 +4493,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 74,
-        "value": "Etkin, Yefrim of Leningrad"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q1711",
-    "gnd": "https://d-nb.info/gnd/4046948-7"
+    "gnd": "https://d-nb.info/gnd/4046948-7",
+    "geonames_coordinates": "52.39886, 13.06566"
   },
   "137": {
     "id": 137,
@@ -5374,15 +4516,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 75,
-        "value": "Reich-Ranicki, Marcel"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q106681",
-    "gnd": "https://d-nb.info/gnd/4254356-3"
+    "gnd": "https://d-nb.info/gnd/4254356-3",
+    "geonames_coordinates": "52.64817, 19.0678"
   },
   "138": {
     "id": 138,
@@ -5418,20 +4554,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 76,
-        "value": "Sacharow, Andrej"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 76,
-        "value": "Sacharow, Andrej"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q649",
-    "gnd": "https://d-nb.info/gnd/4074987-3"
+    "gnd": "https://d-nb.info/gnd/4074987-3",
+    "geonames_coordinates": "55.75222, 37.61556"
   },
   "139": {
     "id": 139,
@@ -5462,15 +4587,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 79,
-        "value": "Henze, Hans Werner"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.90693, 8.37853"
   },
   "140": {
     "id": 140,
@@ -5501,15 +4620,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 79,
-        "value": "Henze, Hans Werner"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q1731",
-    "gnd": "https://d-nb.info/gnd/4012995-0"
+    "gnd": "https://d-nb.info/gnd/4012995-0",
+    "geonames_coordinates": "51.05089, 13.73832"
   },
   "141": {
     "id": 141,
@@ -5530,15 +4643,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 81,
-        "value": "Kraus, Karl"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q656603",
-    "gnd": "https://d-nb.info/gnd/4440310-0"
+    "gnd": "https://d-nb.info/gnd/4440310-0",
+    "geonames_coordinates": "50.43723, 15.35162"
   },
   "142": {
     "id": 142,
@@ -5569,15 +4676,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 82,
-        "value": "Moore, Henry"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q546485",
-    "gnd": "https://d-nb.info/gnd/4553760-4"
+    "gnd": "https://d-nb.info/gnd/4553760-4",
+    "geonames_coordinates": "53.72587, -1.36256"
   },
   "143": {
     "id": 143,
@@ -5608,15 +4709,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 82,
-        "value": "Moore, Henry"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.83952, 0.08527"
   },
   "144": {
     "id": 144,
@@ -5647,15 +4742,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 83,
-        "value": "Kokoschka, Oskar"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.2, 15.2"
   },
   "145": {
     "id": 145,
@@ -5686,15 +4775,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 83,
-        "value": "Kokoschka, Oskar"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.39869, 6.92654"
   },
   "146": {
     "id": 146,
@@ -5725,15 +4808,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 84,
-        "value": "Wilson, Edmund"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "40.34705, -74.06431"
   },
   "147": {
     "id": 147,
@@ -5764,15 +4841,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 84,
-        "value": "Wilson, Edmund"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "43.5334, -75.36517"
   },
   "148": {
     "id": 148,
@@ -5803,15 +4874,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 85,
-        "value": "Spears, Monroe"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "34.33235, -79.95769"
   },
   "149": {
     "id": 149,
@@ -5842,15 +4907,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 85,
-        "value": "Spears, Monroe"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "35.18592, -86.11221"
   },
   "150": {
     "id": 150,
@@ -5876,15 +4935,9 @@
       }
     ],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 90,
-        "value": "Orwell, Sonia"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1348",
-    "gnd": "https://d-nb.info/gnd/4029344-0"
+    "gnd": "https://d-nb.info/gnd/4029344-0",
+    "geonames_coordinates": "22.56263, 88.36304"
   },
   "151": {
     "id": 151,
@@ -5915,15 +4968,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 91,
-        "value": "Toynbee. Philipp"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.73455, -2.6384"
   },
   "152": {
     "id": 152,
@@ -5944,15 +4991,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 92,
-        "value": "Claude, Simon"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q3915",
-    "gnd": "https://d-nb.info/gnd/4212652-6"
+    "gnd": "https://d-nb.info/gnd/4212652-6",
+    "geonames_coordinates": "-18.91368, 47.53613"
   },
   "153": {
     "id": 153,
@@ -5978,10 +5019,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "53.34242, -6.25667"
   },
   "154": {
     "id": 154,
@@ -5997,10 +5037,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1085",
-    "gnd": "https://d-nb.info/gnd/4076310-9"
+    "gnd": "https://d-nb.info/gnd/4076310-9",
+    "geonames_coordinates": "50.08804, 14.42076"
   },
   "155": {
     "id": 155,
@@ -6031,10 +5070,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q100",
-    "gnd": "https://d-nb.info/gnd/4007840-1"
+    "gnd": "https://d-nb.info/gnd/4007840-1",
+    "geonames_coordinates": "42.35843, -71.05977"
   },
   "156": {
     "id": 156,
@@ -6060,10 +5098,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q519552",
-    "gnd": "https://d-nb.info/gnd/4196533-4"
+    "gnd": "https://d-nb.info/gnd/4196533-4",
+    "geonames_coordinates": "48.19811, 16.39482"
   },
   "157": {
     "id": 157,
@@ -6089,10 +5126,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.20323, 16.36912"
   },
   "158": {
     "id": 158,
@@ -6118,10 +5154,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q264752",
-    "gnd": "https://d-nb.info/gnd/4108812-8"
+    "gnd": "https://d-nb.info/gnd/4108812-8",
+    "geonames_coordinates": "48.20609, 16.41169"
   },
   "159": {
     "id": 159,
@@ -6147,10 +5182,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q38",
-    "gnd": "https://d-nb.info/gnd/4027833-5"
+    "gnd": "https://d-nb.info/gnd/4027833-5",
+    "geonames_coordinates": "42.83333, 12.83333"
   },
   "160": {
     "id": 160,
@@ -6176,10 +5210,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "161": {
     "id": 161,
@@ -6210,15 +5243,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 99,
-        "value": "O'Sullivan, Michael"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q62",
-    "gnd": "https://d-nb.info/gnd/4051520-5"
+    "gnd": "https://d-nb.info/gnd/4051520-5",
+    "geonames_coordinates": "37.77493, -122.41942"
   },
   "162": {
     "id": 162,
@@ -6254,20 +5281,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 102,
-        "value": "Luthen, Martin"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 102,
-        "value": "Luthen, Martin"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q484870",
-    "gnd": "https://d-nb.info/gnd/4092450-6"
+    "gnd": "https://d-nb.info/gnd/4092450-6",
+    "geonames_coordinates": "51.52754, 11.54835"
   },
   "163": {
     "id": 163,
@@ -6289,10 +5305,9 @@
     ],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "164": {
     "id": 164,
@@ -6313,15 +5328,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 111,
-        "value": "Hippo, Augustine of"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q402992",
-    "gnd": "https://d-nb.info/gnd/1034111582"
+    "gnd": "https://d-nb.info/gnd/1034111582",
+    "geonames_coordinates": "36.28639, 7.95111"
   },
   "165": {
     "id": 165,
@@ -6342,15 +5351,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 111,
-        "value": "Hippo, Augustine of"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "36.86574, 7.73323"
   },
   "166": {
     "id": 166,
@@ -6386,20 +5389,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 112,
-        "value": "Maurer, Andreas"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 112,
-        "value": "Maurer, Andreas"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q670580",
-    "gnd": "https://d-nb.info/gnd/4106928-6"
+    "gnd": "https://d-nb.info/gnd/4106928-6",
+    "geonames_coordinates": "48.03809, 16.66017"
   },
   "167": {
     "id": 167,
@@ -6430,15 +5422,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 113,
-        "value": "Cranmer, Thomas"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q41262",
-    "gnd": "https://d-nb.info/gnd/4117929-8"
+    "gnd": "https://d-nb.info/gnd/4117929-8",
+    "geonames_coordinates": "52.9536, -1.15047"
   },
   "168": {
     "id": 168,
@@ -6469,15 +5455,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 114,
-        "value": "Kirstein, Lincon"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q11299",
-    "gnd": "https://d-nb.info/gnd/4101161-2"
+    "gnd": "https://d-nb.info/gnd/4101161-2",
+    "geonames_coordinates": "40.78343, -73.96625"
   },
   "169": {
     "id": 169,
@@ -6508,15 +5488,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 115,
-        "value": "Brecht, Bertolt"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.37154, 10.89851"
   },
   "170": {
     "id": 170,
@@ -6542,10 +5516,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "171": {
     "id": 171,
@@ -6571,10 +5544,9 @@
         "value": "is_parent_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "172": {
     "id": 172,
@@ -6600,10 +5572,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "173": {
     "id": 173,
@@ -6629,10 +5600,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "174": {
     "id": 174,
@@ -6658,10 +5628,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "175": {
     "id": 175,
@@ -6687,10 +5656,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.2, 16.18333"
   },
   "176": {
     "id": 176,
@@ -6706,10 +5674,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1773",
-    "gnd": "https://d-nb.info/gnd/4050042-1"
+    "gnd": "https://d-nb.info/gnd/4050042-1",
+    "geonames_coordinates": "56.946, 24.10589"
   },
   "177": {
     "id": 177,
@@ -6735,10 +5702,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "178": {
     "id": 178,
@@ -6769,15 +5735,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 120,
-        "value": "Monteith, Charles"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q1828035",
-    "gnd": "https://d-nb.info/gnd/4369637-5"
+    "gnd": "https://d-nb.info/gnd/4369637-5",
+    "geonames_coordinates": "54.52337, -6.03527"
   },
   "179": {
     "id": 179,
@@ -6798,15 +5758,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 122,
-        "value": "Keane, Molly"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "53.15611, -6.91444"
   },
   "180": {
     "id": 180,
@@ -6827,15 +5781,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 122,
-        "value": "Keane, Molly"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "54.19782, -10.01265"
   },
   "181": {
     "id": 181,
@@ -6866,15 +5814,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 123,
-        "value": "Coldstream, Sir William"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "55.58131, -1.83744"
   },
   "182": {
     "id": 182,
@@ -6895,15 +5837,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 124,
-        "value": "Peake, Mervyn"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "28.57101, 110.08464"
   },
   "183": {
     "id": 183,
@@ -6934,15 +5870,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 124,
-        "value": "Peake, Mervyn"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.65855, -1.18112"
   },
   "184": {
     "id": 184,
@@ -6978,20 +5908,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 126,
-        "value": "Bachardy, Don"
-      }
-    ],
-    "persons 2 - death_place": [
-      {
-        "id": 143,
-        "value": "Huxley, Aldous"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q65",
-    "gnd": "https://d-nb.info/gnd/4036361-2"
+    "gnd": "https://d-nb.info/gnd/4036361-2",
+    "geonames_coordinates": "34.05223, -118.24368"
   },
   "185": {
     "id": 185,
@@ -7022,15 +5941,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 127,
-        "value": "Raimund, Prof Hans"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.06776, 15.1553"
   },
   "186": {
     "id": 186,
@@ -7061,15 +5974,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 128,
-        "value": "Vechten, Carl Van"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q486439",
-    "gnd": "https://d-nb.info/gnd/4320055-2"
+    "gnd": "https://d-nb.info/gnd/4320055-2",
+    "geonames_coordinates": "42.00833, -91.64407"
   },
   "187": {
     "id": 187,
@@ -7100,15 +6007,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 129,
-        "value": "Benning, Achim"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "52.12773, 11.62916"
   },
   "188": {
     "id": 188,
@@ -7139,15 +6040,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 130,
-        "value": "Hitler, Adolf"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.25628, 13.04343"
   },
   "189": {
     "id": 189,
@@ -7178,15 +6073,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 132,
-        "value": "Claudel, Paul"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "49.1775, 3.47499"
   },
   "190": {
     "id": 190,
@@ -7217,15 +6106,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 133,
-        "value": "Droste-Hülshoff, Annette von"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.98333, 7.41667"
   },
   "191": {
     "id": 191,
@@ -7256,15 +6139,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 133,
-        "value": "Droste-Hülshoff, Annette von"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "47.69419, 9.27113"
   },
   "192": {
     "id": 192,
@@ -7295,15 +6172,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 134,
-        "value": "Suttner, Bertha"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "193": {
     "id": 193,
@@ -7334,15 +6205,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 136,
-        "value": "Britten, Benjamin"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q986007",
-    "gnd": "https://d-nb.info/gnd/4464686-0"
+    "gnd": "https://d-nb.info/gnd/4464686-0",
+    "geonames_coordinates": "52.47523, 1.75167"
   },
   "194": {
     "id": 194,
@@ -7377,19 +6242,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 136,
-        "value": "Britten, Benjamin"
-      },
-      {
-        "id": 144,
-        "value": "Gathorne-Hardy, Jonathan"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q2077402",
-    "gnd": "https://d-nb.info/gnd/4362984-2"
+    "gnd": "https://d-nb.info/gnd/4362984-2",
+    "geonames_coordinates": "52.15492, 1.60215"
   },
   "195": {
     "id": 195,
@@ -7420,15 +6275,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 137,
-        "value": "Kraus, Dr. Wolfgang"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "46.8289, 12.76903"
   },
   "196": {
     "id": 196,
@@ -7459,15 +6308,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 138,
-        "value": "Elizabeth II., Great Britain, Queen"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.50954, -0.149"
   },
   "197": {
     "id": 197,
@@ -7498,15 +6341,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 138,
-        "value": "Elizabeth II., Great Britain, Queen"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q42049",
-    "gnd": "https://d-nb.info/gnd/4212169-3"
+    "gnd": "https://d-nb.info/gnd/4212169-3",
+    "geonames_coordinates": "57.03333, -3.23333"
   },
   "198": {
     "id": 198,
@@ -7537,15 +6374,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 139,
-        "value": "Elizabeth, Great Britain, Queen Mother"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.94924, -0.28496"
   },
   "199": {
     "id": 199,
@@ -7576,15 +6407,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 139,
-        "value": "Elizabeth, Great Britain, Queen Mother"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "56.1545, -3.9448"
   },
   "200": {
     "id": 200,
@@ -7615,15 +6440,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 140,
-        "value": "Anne, Great Britain, Princess"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.50401, -0.13836"
   },
   "201": {
     "id": 201,
@@ -7654,15 +6473,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 143,
-        "value": "Huxley, Aldous"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q909146",
-    "gnd": "https://d-nb.info/gnd/4666301-0"
+    "gnd": "https://d-nb.info/gnd/4666301-0",
+    "geonames_coordinates": "51.1858, -0.61489"
   },
   "202": {
     "id": 202,
@@ -7683,15 +6496,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [
-      {
-        "id": 131,
-        "value": "Hammarskjöld, Dag"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q25415",
-    "gnd": "https://d-nb.info/gnd/4222134-1"
+    "gnd": "https://d-nb.info/gnd/4222134-1",
+    "geonames_coordinates": "57.78145, 14.15618"
   },
   "203": {
     "id": 203,
@@ -7712,15 +6519,9 @@
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 131,
-        "value": "Hammarskjöld, Dag"
-      }
-    ],
     "wikidata": "http://www.wikidata.org/entity/Q219671",
-    "gnd": "https://d-nb.info/gnd/4394270-2"
+    "gnd": "https://d-nb.info/gnd/4394270-2",
+    "geonames_coordinates": "-12.95867, 28.63659"
   },
   "204": {
     "id": 204,
@@ -7751,15 +6552,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 144,
-        "value": "Gathorne-Hardy, Jonathan"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q23436",
-    "gnd": "https://d-nb.info/gnd/4013557-3"
+    "gnd": "https://d-nb.info/gnd/4013557-3",
+    "geonames_coordinates": "55.95206, -3.19648"
   },
   "205": {
     "id": 205,
@@ -7790,15 +6585,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [
-      {
-        "id": 145,
-        "value": "Kronenberger, Louis"
-      }
-    ],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q43196",
-    "gnd": "https://d-nb.info/gnd/4085269-6"
+    "gnd": "https://d-nb.info/gnd/4085269-6",
+    "geonames_coordinates": "39.12711, -84.51439"
   },
   "206": {
     "id": 206,
@@ -7829,15 +6618,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [
-      {
-        "id": 145,
-        "value": "Kronenberger, Louis"
-      }
-    ],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "42.29649, -71.29256"
   },
   "207": {
     "id": 207,
@@ -7863,10 +6646,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q814779",
-    "gnd": "https://d-nb.info/gnd/1097100-2"
+    "gnd": "https://d-nb.info/gnd/1097100-2",
+    "geonames_coordinates": "41.31149, -72.92705"
   },
   "208": {
     "id": 208,
@@ -7892,10 +6674,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "http://www.wikidata.org/entity/Q49112",
-    "gnd": "https://d-nb.info/gnd/36828-3"
+    "gnd": "https://d-nb.info/gnd/36828-3",
+    "geonames_coordinates": "41.31121, -72.92649"
   },
   "209": {
     "id": 209,
@@ -7926,10 +6707,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "34.68743, -116.78467"
   },
   "210": {
     "id": 210,
@@ -7955,10 +6735,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "211": {
     "id": 211,
@@ -7984,10 +6763,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "212": {
     "id": 212,
@@ -8013,10 +6791,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "213": {
     "id": 213,
@@ -8042,10 +6819,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.67279, -4.70447"
   },
   "214": {
     "id": 214,
@@ -8071,10 +6847,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "51.83333, -4.91667"
   },
   "215": {
     "id": 215,
@@ -8100,10 +6875,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "216": {
     "id": 216,
@@ -8129,10 +6903,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "50.78333, -3.65"
   },
   "217": {
     "id": 217,
@@ -8158,10 +6931,9 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": null
   },
   "218": {
     "id": 218,
@@ -8187,9 +6959,153 @@
         "value": "is_part_of"
       }
     ],
-    "persons 2": [],
-    "persons 2 - death_place": [],
     "wikidata": "",
-    "gnd": ""
+    "gnd": "",
+    "geonames_coordinates": "48.2102, 16.36087"
+  },
+  "219": {
+    "id": 219,
+    "order": "219.00000000000000000000",
+    "name": "Liverpool",
+    "amp_id": "amp_place_id_219",
+    "geonames_id": "https://www.geonames.org/2644210/liverpool.html",
+    "persons": [
+      {
+        "id": 158,
+        "value": "Robinson, Robert"
+      }
+    ],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": ""
+  },
+  "220": {
+    "id": 220,
+    "order": "220.00000000000000000000",
+    "name": "Paddington",
+    "amp_id": "amp_place_id_220",
+    "geonames_id": "https://www.geonames.org/2640692/paddington.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 158,
+        "value": "Robinson, Robert"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": ""
+  },
+  "221": {
+    "id": 221,
+    "order": "221.00000000000000000000",
+    "name": "575 Madison Avenue",
+    "amp_id": "amp_place_id_221",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "40.762125992842755, -73.97248554818371",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 29,
+        "value": "Curtis Brown Ltd"
+      }
+    ],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": ""
+  },
+  "222": {
+    "id": 222,
+    "order": "222.00000000000000000000",
+    "name": "New Haven",
+    "amp_id": "amp_place_id_222",
+    "geonames_id": "https://www.geonames.org/4839366/new-haven.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "U.S"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": ""
+  },
+  "223": {
+    "id": 223,
+    "order": "223.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_place_id_223",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": ""
   }
 }

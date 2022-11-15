@@ -3,11 +3,16 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Index of Places mentioned in Auden Musulin Papers</title>
-            <editor>
+            <respStmt>
+               <resp>providing the content</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
                <name>Grigoriou, Dimitra</name>
-            </editor>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -48,17 +53,35 @@
    </teiHeader>
    <text>
       <body>
-         <listPlace>
-         {% for x in objects %}
-            
-            <place xml:id="{{ x.amp_id }}">
-               <placeName>{{ x.name }}</placeName>
-               <country>{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</country>
-               <idno type="GEONAMES">{{ x.geonames_id }}</idno>
-            </place>
-            
-         {% endfor %}
-         </listPlace>
+         <div type="index_places">
+            <listPlace xml:id="listplace">
+            {% for x in objects %}
+               <place xml:id="{{ x.amp_id }}">
+                  <placeName>{{ x.name }}</placeName>
+                  {% if x.is_part_of|length > 0 %}
+                  <country>{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</country>
+                  {% endif %}
+                  {% if x.geonames_coordinates %}
+                  <location type="coords">
+                     <geo>{{ x.geonames_coordinates }}</geo>
+                  </location>
+                  {% endif %}
+                  {% if x.geonames_id %}
+                  <idno type="GEONAMES">{{ x.geonames_id }}</idno>
+                  {% endif %}
+                  {% if x.wikidata %}
+                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+                  {% if x.gnd %}
+                  <idno type="GND">{{ x.gnd }}</idno>
+                  {% endif %}
+                  {% if x.comments %}
+                  <note>{{ x.comments }}</note>
+                  {% endif %}
+               </place>
+            {% endfor %}
+            </listPlace>
+         </div>
       </body>
    </text>
 </TEI>

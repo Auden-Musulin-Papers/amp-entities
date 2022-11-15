@@ -3,11 +3,16 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Index of Persons mentioned in Auden Musulin Papers</title>
-            <editor>
+            <respStmt>
+               <resp>providing the content</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
                <name>Grigoriou, Dimitra</name>
-            </editor>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -48,8 +53,2701 @@
    </teiHeader>
    <text>
       <body>
-         <listPerson>
-         </listPerson>
+         <div type="index_persons">
+            <listPerson xml:id="listperson">
+               <person xml:id="amp_person_1">
+                  <persName>
+                     <forename>Auden</forename>
+                     <surname> W. H.</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-02-21">1907-02-21</date>
+                     <placeName>
+                        <settlement type="city">York</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1973-09-28">
+                     <date when-iso="1973-09-28">1973-09-28</date>
+                     <placeName>
+                        <settlement type="city">Kirchstetten</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118650963</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q178698</idno>
+                  <listBibl>
+                     <bibl n="2">Homage to Clio</bibl>
+                     <bibl n="16">The Rake's Progress libretto</bibl>
+                     <bibl n="17">Elegy for Young Lovers libretto</bibl>
+                     <bibl n="18">The Bassarids libretto</bibl>
+                     <bibl n="20">Love's Lavours Lost libretto</bibl>
+                     <bibl n="21">The Magic Flute libretto</bibl>
+                     <bibl n="22">Don Giovanni libretto</bibl>
+                     <bibl n="23">Die Sieben Todsünden libretto</bibl>
+                     <bibl n="24">Rise and Fall of the City of Mahagonny libretto</bibl>
+                     <bibl n="25">Archifanfaro libretto</bibl>
+                     <bibl n="29">Markings</bibl>
+                     <bibl n="31">The Dyer's Hand</bibl>
+                     <bibl n="32">The Faber Book of Aphorisms</bibl>
+                     <bibl n="33">A Certain World: A Commonplace Book</bibl>
+                     <bibl n="34">Nineteenth Century Book of Minor Poets</bibl>
+                     <bibl n="37">The Cave of Making</bibl>
+                     <bibl n="38">Prologue at Sixty</bibl>
+                     <bibl n="42">N.D.R (Neue Rundschau)</bibl>
+                     <bibl n="43">STARK BEWÖLKT</bibl>
+                     <bibl n="53">Forewords and Afterwords</bibl>
+                     <bibl n="55">For the Time Being</bibl>
+                     <bibl n="57">Doggerel by a Senior Citizen</bibl>
+                     <bibl n="58">Elegy</bibl>
+                     <bibl n="60">Joseph Weinheber</bibl>
+                     <bibl n="61">Joseph Weinheber</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_2">
+                  <persName>
+                     <forename>Musulin</forename>
+                     <surname> Stella</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1915-07-16">1915-07-16</date>
+                     <placeName>
+                        <settlement type="city">Dale</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1996-01-21">
+                     <date when-iso="1996-01-21">1996-01-21</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/127246711</idno>
+                  <idno type="WIKIDATA"/>
+                  <listBibl>
+                     <bibl n="45">Austria and the Austrians</bibl>
+                     <bibl n="46">In Retrospect</bibl>
+                     <bibl n="47">The Years in Austria</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_3">
+                  <persName>
+                     <forename>Zimmer</forename>
+                     <surname> Christiane</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1902-05-14">1902-05-14</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1987-01-05">
+                     <date when-iso="1987-01-05">1987-01-05</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118975803</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q24260023</idno>
+               </person>
+               <person xml:id="amp_person_4">
+                  <persName>
+                     <forename>Kallman</forename>
+                     <surname> Chester</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-01-07">1921-01-07</date>
+                     <placeName>
+                        <settlement type="city">Brooklyn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1975-01-18">
+                     <date when-iso="1975-01-18">1975-01-18</date>
+                     <placeName>
+                        <settlement type="city">Athens</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119544911</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5093626</idno>
+                  <listBibl>
+                     <bibl n="16">The Rake's Progress libretto</bibl>
+                     <bibl n="17">Elegy for Young Lovers libretto</bibl>
+                     <bibl n="18">The Bassarids libretto</bibl>
+                     <bibl n="20">Love's Lavours Lost libretto</bibl>
+                     <bibl n="21">The Magic Flute libretto</bibl>
+                     <bibl n="22">Don Giovanni libretto</bibl>
+                     <bibl n="23">Die Sieben Todsünden libretto</bibl>
+                     <bibl n="24">Rise and Fall of the City of Mahagonny libretto</bibl>
+                     <bibl n="25">Archifanfaro libretto</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_5">
+                  <persName>
+                     <forename>Weinheber</forename>
+                     <surname> Josef</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1892-03-09">1892-03-09</date>
+                     <placeName>
+                        <settlement type="city">Ottakring</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1945-04-08">
+                     <date when-iso="1945-04-08">1945-04-08</date>
+                     <placeName>
+                        <settlement type="city">Kirchstetten</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118766287</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78776</idno>
+                  <listBibl>
+                     <bibl n="40">Auf das Unabwendbare</bibl>
+                     <bibl n="41">Kammermusik</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_6">
+                  <persName>
+                     <forename>Williams</forename>
+                     <surname> Charles</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1886-09-20">1886-09-20</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1945-05-15">
+                     <date when-iso="1945-05-15">1945-05-15</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118807439</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q124735</idno>
+               </person>
+               <person xml:id="amp_person_7">
+                  <persName>
+                     <forename>Jägerstätter</forename>
+                     <surname> Franz</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-05-20">1907-05-20</date>
+                     <placeName>
+                        <settlement type="city">Sankt Radegund</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1943-08-09">
+                     <date when-iso="1943-08-09">1943-08-09</date>
+                     <placeName>
+                        <settlement type="city">Brandenburg an der Havel</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118556509</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45243</idno>
+               </person>
+               <person xml:id="amp_person_8">
+                  <persName>
+                     <forename>Spender</forename>
+                     <surname> Stephen</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1909-02-28">1909-02-28</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1995-07-16">
+                     <date when-iso="1995-07-16">1995-07-16</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118751840</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q448764</idno>
+               </person>
+               <person xml:id="amp_person_9">
+                  <persName>
+                     <forename>Dante</forename>
+                     <surname> Alighieri</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1265-05-21">1265-05-21</date>
+                     <placeName>
+                        <settlement type="city">Florence</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1321-09-14">
+                     <date when-iso="1321-09-14">1321-09-14</date>
+                     <placeName>
+                        <settlement type="city">Ravenna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118523708</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1067</idno>
+               </person>
+               <person xml:id="amp_person_10">
+                  <persName>
+                     <forename>Shakespeare</forename>
+                     <surname> William</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1564-04-26">1564-04-26</date>
+                     <placeName>
+                        <settlement type="city">Stratford-upon-Avon</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1616-04-23">
+                     <date when-iso="1616-04-23">1616-04-23</date>
+                     <placeName>
+                        <settlement type="city">Stratford-upon-Avon</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118613723</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q692</idno>
+                  <listBibl>
+                     <bibl n="6">Love´s Labours Lost</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_11">
+                  <persName>
+                     <forename>Goethe</forename>
+                     <surname> Johann Wolfgang von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1749-08-28">1749-08-28</date>
+                     <placeName>
+                        <settlement type="city">Frankfurt am Main</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1832-03-22">
+                     <date when-iso="1832-03-22">1832-03-22</date>
+                     <placeName>
+                        <settlement type="city">Weimar</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118540238</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
+                  <listBibl>
+                     <bibl n="28">Italian Journey</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_12">
+                  <persName>
+                     <forename>Vecellio</forename>
+                     <surname> Tiziano</surname>
+                  </persName>
+                  <death when="1576-08-27">
+                     <date when-iso="1576-08-27">1576-08-27</date>
+                     <placeName>
+                        <settlement type="city">Venice</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118622994</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47551</idno>
+               </person>
+               <person xml:id="amp_person_13">
+                  <persName>
+                     <forename>Mozart</forename>
+                     <surname> Wolfgang Amadeus</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1756-01-27">1756-01-27</date>
+                     <placeName>
+                        <settlement type="city">Salzburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1791-12-05">
+                     <date when-iso="1791-12-05">1791-12-05</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118584596</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q254</idno>
+                  <listBibl>
+                     <bibl n="7">The Magic Flute</bibl>
+                     <bibl n="8">Don Giovanni</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_14">
+                  <persName>
+                     <forename>Redlich</forename>
+                     <surname> Walter</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_15">
+                  <persName>
+                     <forename>Ramsey</forename>
+                     <surname> Michael</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1904-11-14">1904-11-14</date>
+                     <placeName>
+                        <settlement type="city">Cambridge</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1988-04-23">
+                     <date when-iso="1988-04-23">1988-04-23</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118927922</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q336569</idno>
+               </person>
+               <person xml:id="amp_person_16">
+                  <persName>
+                     <forename>Eiermann</forename>
+                     <surname> Emma</surname>
+                  </persName>
+                  <death when="1967-11-04">
+                     <date when-iso="1967-11-04">1967-11-04</date>
+                     <placeName>
+                        <settlement type="city">Kirchstetten</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_17">
+                  <persName>
+                     <forename>Eiermann</forename>
+                     <surname> Josef</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_18">
+                  <persName>
+                     <forename>Wagner</forename>
+                     <surname> Richard</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1813-05-22">1813-05-22</date>
+                     <placeName>
+                        <settlement type="city">Leipzig</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1883-02-13">
+                     <date when-iso="1883-02-13">1883-02-13</date>
+                     <placeName>
+                        <settlement type="city">Venice</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118594117</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
+               </person>
+               <person xml:id="amp_person_19">
+                  <persName>
+                     <forename>Heyworth</forename>
+                     <surname> Peter</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-06-03">1921-06-03</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <death when="1991-10-02">
+                     <date when-iso="1991-10-02">1991-10-02</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/172137276</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7174657</idno>
+               </person>
+               <person xml:id="amp_person_20">
+                  <persName>
+                     <forename>Wilde</forename>
+                     <surname> Oscar</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1854-10-16">1854-10-16</date>
+                     <placeName>
+                        <settlement type="city">Dublin</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1900-11-30">
+                     <date when-iso="1900-11-30">1900-11-30</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118632779</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30875</idno>
+               </person>
+               <person xml:id="amp_person_21">
+                  <persName>
+                     <forename>Hoffmann</forename>
+                     <surname> Otto</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_22">
+                  <persName>
+                     <forename>Enzinger</forename>
+                     <surname> Josef</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_23">
+                  <persName>
+                     <forename>Boras</forename>
+                     <surname> Jean</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1942-03-03">1942-03-03</date>
+                     <placeName>
+                        <settlement type="city">Livadaki</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1968-12-13">
+                     <date when-iso="1968-12-13">1968-12-13</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_24">
+                  <persName>
+                     <forename>Palestrina</forename>
+                     <surname> Giovanni Pierluigi da</surname>
+                  </persName>
+                  <death when="1594-02-02">
+                     <date when-iso="1594-02-02">1594-02-02</date>
+                     <placeName>
+                        <settlement type="city">Rome</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118818686</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q179277</idno>
+               </person>
+               <person xml:id="amp_person_25">
+                  <persName>
+                     <forename>Stravinsky</forename>
+                     <surname> Igor</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1882-06-17">1882-06-17</date>
+                     <placeName>
+                        <settlement type="city">Lomonosov</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1971-04-06">
+                     <date when-iso="1971-04-06">1971-04-06</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118642545</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7314</idno>
+                  <listBibl>
+                     <bibl n="3">The Rake's Progress</bibl>
+                     <bibl n="35">Le Sacre du Printemps</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_26">
+                  <persName>
+                     <forename>Picasso</forename>
+                     <surname> Pablo</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1881-10-25">1881-10-25</date>
+                     <placeName>
+                        <settlement type="city">Málaga</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1973-04-08">
+                     <date when-iso="1973-04-08">1973-04-08</date>
+                     <placeName>
+                        <settlement type="city">Mougins</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118594206</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5593</idno>
+               </person>
+               <person xml:id="amp_person_27">
+                  <persName>
+                     <forename>Eliot</forename>
+                     <surname> T. S.</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1888-09-26">1888-09-26</date>
+                     <placeName>
+                        <settlement type="city">St. Louis</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1965-01-04">
+                     <date when-iso="1965-01-04">1965-01-04</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118529854</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37767</idno>
+               </person>
+               <person xml:id="amp_person_28">
+                  <persName>
+                     <forename>Michelangelo</forename>
+                     <surname> Buonarroti</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1475-03-06">1475-03-06</date>
+                     <placeName>
+                        <settlement type="city">Caprese Michelangelo</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1564-02-08">
+                     <date when-iso="1564-02-08">1564-02-08</date>
+                     <placeName>
+                        <settlement type="city">Rome</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118582143</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5592</idno>
+               </person>
+               <person xml:id="amp_person_29">
+                  <persName>
+                     <forename>Beethoven</forename>
+                     <surname> Ludwig van</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1770-12-17">1770-12-17</date>
+                     <placeName>
+                        <settlement type="city">Bonn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1827-03-26">
+                     <date when-iso="1827-03-26">1827-03-26</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118508288</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q255</idno>
+               </person>
+               <person xml:id="amp_person_30">
+                  <persName>
+                     <forename>Plato</forename>
+                     <surname/>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118594893</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
+               </person>
+               <person xml:id="amp_person_31">
+                  <persName>
+                     <forename>Lawrence</forename>
+                     <surname> D. H.</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1885-09-11">1885-09-11</date>
+                     <placeName>
+                        <settlement type="city">Eastwood</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1930-03-02">
+                     <date when-iso="1930-03-02">1930-03-02</date>
+                     <placeName>
+                        <settlement type="city">Vence</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118570358</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q34970</idno>
+               </person>
+               <person xml:id="amp_person_32">
+                  <persName>
+                     <forename>Strobl</forename>
+                     <surname> Josefa</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_33">
+                  <persName>
+                     <forename>Johnson</forename>
+                     <surname> Samuel</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1709-09-18">1709-09-18</date>
+                     <placeName>
+                        <settlement type="city">Lichfield</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1784-12-13">
+                     <date when-iso="1784-12-13">1784-12-13</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q19078892</idno>
+               </person>
+               <person xml:id="amp_person_34">
+                  <persName>
+                     <forename>Prosch</forename>
+                     <surname> Peter</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1744-07-20">1744-07-20</date>
+                     <placeName>
+                        <settlement type="city">Ried</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1804-01-05">
+                     <date when-iso="1804-01-05">1804-01-05</date>
+                     <placeName>
+                        <settlement type="city">Ried</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118742019</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2077624</idno>
+                  <listBibl>
+                     <bibl n="44">The Life and Adventures of Peter Prosch</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_35">
+                  <persName>
+                     <forename>Bruckner</forename>
+                     <surname> Anton</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1824-09-04">1824-09-04</date>
+                     <placeName>
+                        <settlement type="city">Ansfelden</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1896-10-11">
+                     <date when-iso="1896-10-11">1896-10-11</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118515799</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q81752</idno>
+               </person>
+               <person xml:id="amp_person_36">
+                  <persName>
+                     <forename>Stifter</forename>
+                     <surname> Adalbert</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1805-10-23">1805-10-23</date>
+                     <placeName>
+                        <settlement type="city">Horní Planá</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1868-01-28">
+                     <date when-iso="1868-01-28">1868-01-28</date>
+                     <placeName>
+                        <settlement type="city">Linz</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118618156</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q168542</idno>
+               </person>
+               <person xml:id="amp_person_37">
+                  <persName>
+                     <forename>Raimund</forename>
+                     <surname> Ferdinand</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1790-06-01">1790-06-01</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1836-09-05">
+                     <date when-iso="1836-09-05">1836-09-05</date>
+                     <placeName>
+                        <settlement type="city">Pottenstein</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118597914</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45025</idno>
+               </person>
+               <person xml:id="amp_person_38">
+                  <persName>
+                     <forename>Nestroy</forename>
+                     <surname> Johann</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1801-12-07">1801-12-07</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1862-05-25">
+                     <date when-iso="1862-05-25">1862-05-25</date>
+                     <placeName>
+                        <settlement type="city">Graz</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118587080</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44862</idno>
+               </person>
+               <person xml:id="amp_person_39">
+                  <persName>
+                     <forename>Benson</forename>
+                     <surname> Edward Frederic</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1867-07-24">1867-07-24</date>
+                     <placeName>
+                        <settlement type="city">Berkshire</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1940-02-29">
+                     <date when-iso="1940-02-29">1940-02-29</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q771698</idno>
+                  <listBibl>
+                     <bibl n="1">Lucia Novels</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_40">
+                  <persName>
+                     <forename>Weill</forename>
+                     <surname> Kurt</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1900-03-02">1900-03-02</date>
+                     <placeName>
+                        <settlement type="city">Dessau</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1950-04-03">
+                     <date when-iso="1950-04-03">1950-04-03</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118630202</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55004</idno>
+                  <listBibl>
+                     <bibl n="10">Rise and Fall of the City of Mahagonny</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_41">
+                  <persName>
+                     <forename>Tolkien</forename>
+                     <surname> J. R. R.</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1892-01-03">1892-01-03</date>
+                     <placeName>
+                        <settlement type="city">Bloemfontein</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1973-09-02">
+                     <date when-iso="1973-09-02">1973-09-02</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118623222</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q892</idno>
+                  <listBibl>
+                     <bibl n="54">Lord of the Rings</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_42">
+                  <persName>
+                     <forename>Hofmannsthal</forename>
+                     <surname> Hugo von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1874-02-01">1874-02-01</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1929-07-15">
+                     <date when-iso="1929-07-15">1929-07-15</date>
+                     <placeName>
+                        <settlement type="city">Rodau</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118552759</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51513</idno>
+               </person>
+               <person xml:id="amp_person_43">
+                  <persName>
+                     <forename>Hofmannsthal</forename>
+                     <surname> Gerty von</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116952199</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76361745</idno>
+               </person>
+               <person xml:id="amp_person_44">
+                  <persName>
+                     <forename>Hofmannsthal</forename>
+                     <surname> Raimund von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1906-05-26">1906-05-26</date>
+                     <placeName>
+                        <settlement type="city">Rodau</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1974-03-20">
+                     <date when-iso="1974-03-20">1974-03-20</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1144902630</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75313732</idno>
+               </person>
+               <person xml:id="amp_person_45">
+                  <persName>
+                     <forename>Hofmannsthal</forename>
+                     <surname> Liz von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1916-10-16">1916-10-16</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <death when="1980-03-28">
+                     <date when-iso="1980-03-28">1980-03-28</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09</idno>
+               </person>
+               <person xml:id="amp_person_46">
+                  <persName>
+                     <forename>Hofmannsthal</forename>
+                     <surname> Arabella von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1942-01-11">1942-01-11</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_47">
+                  <persName>
+                     <forename>Hofamannsthal</forename>
+                     <surname> Octavian von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1946-02-13">1946-02-13</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_48">
+                  <persName>
+                     <forename>Cooper</forename>
+                     <surname> Lady Diana</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1892-08-29">1892-08-29</date>
+                     <placeName>
+                        <settlement type="city">Bruton Street</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1986-06-16">
+                     <date when-iso="1986-06-16">1986-06-16</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/105184292</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q128576</idno>
+               </person>
+               <person xml:id="amp_person_49">
+                  <persName>
+                     <forename>Wiesenthal</forename>
+                     <surname> Grete</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1885-12-09">1885-12-09</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1970-06-22">
+                     <date when-iso="1970-06-22">1970-06-22</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118771663</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q79178</idno>
+               </person>
+               <person xml:id="amp_person_51">
+                  <persName>
+                     <forename>Friedell</forename>
+                     <surname> Egon</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1878-01-21">1878-01-21</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1938-03-16">
+                     <date when-iso="1938-03-16">1938-03-16</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118535560</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112255</idno>
+               </person>
+               <person xml:id="amp_person_52">
+                  <persName>
+                     <forename>Torberg</forename>
+                     <surname> Friedrich</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1908-09-16">1908-09-16</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1979-11-10">
+                     <date when-iso="1979-11-10">1979-11-10</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118623362</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112880</idno>
+               </person>
+               <person xml:id="amp_person_53">
+                  <persName>
+                     <forename>Bernhard</forename>
+                     <surname> Thomas</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1931-02-09">1931-02-09</date>
+                     <placeName>
+                        <settlement type="city">Heerlen</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1989-02-12">
+                     <date when-iso="1989-02-12">1989-02-12</date>
+                     <placeName>
+                        <settlement type="city">Gmunden</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118509861</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44336</idno>
+               </person>
+               <person xml:id="amp_person_54">
+                  <persName>
+                     <forename>Heer</forename>
+                     <surname> Friedrich</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1916-04-10">1916-04-10</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1883-09-18">
+                     <date when-iso="1883-09-18">1883-09-18</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118547666</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87771</idno>
+               </person>
+               <person xml:id="amp_person_55">
+                  <persName>
+                     <forename>Mussolini</forename>
+                     <surname> Benito</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1883-07-29">1883-07-29</date>
+                     <placeName>
+                        <settlement type="city">Predappio</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1945-04-28">
+                     <date when-iso="1945-04-28">1945-04-28</date>
+                     <placeName>
+                        <settlement type="city">Mezzegra</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118585967</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q23559</idno>
+               </person>
+               <person xml:id="amp_person_56">
+                  <persName>
+                     <forename>Gide</forename>
+                     <surname> André</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1869-11-22">1869-11-22</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1951-02-19">
+                     <date when-iso="1951-02-19">1951-02-19</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118539124</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47484</idno>
+               </person>
+               <person xml:id="amp_person_57">
+                  <persName>
+                     <forename>Kassner</forename>
+                     <surname> Rudolf</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1873-09-11">1873-09-11</date>
+                     <placeName>
+                        <settlement type="city">Velké Pavlovice</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1959-04-01">
+                     <date when-iso="1959-04-01">1959-04-01</date>
+                     <placeName>
+                        <settlement type="city">Sierre</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118560492</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84835</idno>
+               </person>
+               <person xml:id="amp_person_58">
+                  <persName>
+                     <forename>Freud</forename>
+                     <surname> Sigmund</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1856-01-01">1856-01-01</date>
+                     <placeName>
+                        <settlement type="city">Příbor</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1939-09-23">
+                     <date when-iso="1939-09-23">1939-09-23</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118535315</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9215</idno>
+               </person>
+               <person xml:id="amp_person_59">
+                  <persName>
+                     <forename>Fritsch</forename>
+                     <surname> Gerhard</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1924-03-28">1924-03-28</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1969-03-22">
+                     <date when-iso="1969-03-22">1969-03-22</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118536133</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
+                  <listBibl>
+                     <bibl n="56">Hier und Jetzt</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_60">
+                  <persName>
+                     <forename>Kont</forename>
+                     <surname> Paul</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1920-08-19">1920-08-19</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2000-12-26">
+                     <date when-iso="2000-12-26">2000-12-26</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118536133</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
+               </person>
+               <person xml:id="amp_person_61">
+                  <persName>
+                     <forename>Fiechtner</forename>
+                     <surname> Helmut Albert</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1911-09-18">1911-09-18</date>
+                     <placeName>
+                        <settlement type="city">Sarata</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1984-06-27">
+                     <date when-iso="1984-06-27">1984-06-27</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116499230</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59601596</idno>
+               </person>
+               <person xml:id="amp_person_62">
+                  <persName>
+                     <forename>Lehmden</forename>
+                     <surname> Anton</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1929-01-02">1929-01-02</date>
+                     <placeName>
+                        <settlement type="city">Nitra</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2018-08-07">
+                     <date when-iso="2018-08-07">2018-08-07</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118727192</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q583021</idno>
+               </person>
+               <person xml:id="amp_person_63">
+                  <persName>
+                     <forename>Davy</forename>
+                     <surname> Gloria</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1931-03-29">1931-03-29</date>
+                     <placeName>
+                        <settlement type="city">Brooklyn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2012-11-28">
+                     <date when-iso="2012-11-28">2012-11-28</date>
+                     <placeName>
+                        <settlement type="city">Geneva</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/134651162</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1532072</idno>
+               </person>
+               <person xml:id="amp_person_64">
+                  <persName>
+                     <forename>Rössl-Majdan</forename>
+                     <surname> Hilde</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-01-30">1921-01-30</date>
+                     <placeName>
+                        <settlement type="city">Atzenbrugg-Moosbierbaum</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2010-12-15">
+                     <date when-iso="2010-12-15">2010-12-15</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/13041185X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89249</idno>
+               </person>
+               <person xml:id="amp_person_65">
+                  <persName>
+                     <forename>Grillparzer</forename>
+                     <surname> Franz</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1791-01-15">1791-01-15</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1872-01-21">
+                     <date when-iso="1872-01-21">1872-01-21</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118542192</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154438</idno>
+               </person>
+               <person xml:id="amp_person_66">
+                  <persName>
+                     <forename>Schröder</forename>
+                     <surname> Rudolf Alexander</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1878-01-26">1878-01-26</date>
+                     <placeName>
+                        <settlement type="city">Bremen</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1962-08-22">
+                     <date when-iso="1962-08-22">1962-08-22</date>
+                     <placeName>
+                        <settlement type="city">Bad Wiessee</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118610880</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76332</idno>
+               </person>
+               <person xml:id="amp_person_67">
+                  <persName>
+                     <forename>Hesse</forename>
+                     <surname> Eva</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1936-01-11">1936-01-11</date>
+                     <placeName>
+                        <settlement type="city">Hamburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1970-05-29">
+                     <date when-iso="1970-05-29">1970-05-29</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118967967</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215457</idno>
+               </person>
+               <person xml:id="amp_person_68">
+                  <persName>
+                     <forename>Pound</forename>
+                     <surname> Ezra</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1885-10-30">1885-10-30</date>
+                     <placeName>
+                        <settlement type="city">Hailey</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1972-11-01">
+                     <date when-iso="1972-11-01">1972-11-01</date>
+                     <placeName>
+                        <settlement type="city">Venice</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118596039</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q163366</idno>
+               </person>
+               <person xml:id="amp_person_69">
+                  <persName>
+                     <forename>Tillich</forename>
+                     <surname> Paul</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1886-08-20">1886-08-20</date>
+                     <placeName>
+                        <settlement type="city">Starosiedle</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1965-10-22">
+                     <date when-iso="1965-10-22">1965-10-22</date>
+                     <placeName>
+                        <settlement type="city">Chicago</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118622692</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60104</idno>
+               </person>
+               <person xml:id="amp_person_70">
+                  <persName>
+                     <forename>Bunting</forename>
+                     <surname> Brian</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1920-04-09">1920-04-09</date>
+                     <placeName>
+                        <settlement type="city">Johannesburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2008-06-18">
+                     <date when-iso="2008-06-18">2008-06-18</date>
+                     <placeName>
+                        <settlement type="city">Cape Town</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1017201366</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q31739891</idno>
+               </person>
+               <person xml:id="amp_person_71">
+                  <persName>
+                     <forename>MacNeice Louis</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-09-12">1907-09-12</date>
+                     <placeName>
+                        <settlement type="city">Belfast</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1963-09-03">
+                     <date when-iso="1963-09-03">1963-09-03</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118575988</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1353378</idno>
+               </person>
+               <person xml:id="amp_person_72">
+                  <persName>
+                     <forename>Mary McCarthy</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date when-iso="1912-06-21">1912-06-21</date>
+                     <placeName>
+                        <settlement type="city">Seattle</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1989-10-25">
+                     <date when-iso="1989-10-25">1989-10-25</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118575686</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q268147</idno>
+               </person>
+               <person xml:id="amp_person_73">
+                  <persName>
+                     <forename>Bondy</forename>
+                     <surname> Francis</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1915-01-01">1915-01-01</date>
+                     <placeName>
+                        <settlement type="city">Berlin</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2003-05-27">
+                     <date when-iso="2003-05-27">2003-05-27</date>
+                     <placeName>
+                        <settlement type="city">Zürich</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118840940</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q121694</idno>
+               </person>
+               <person xml:id="amp_person_74">
+                  <persName>
+                     <forename>Etkin</forename>
+                     <surname> Yefrim of Leningrad</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1918-01-01">1918-01-01</date>
+                     <placeName>
+                        <settlement type="city">Saint Petersburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1999-11-22">
+                     <date when-iso="1999-11-22">1999-11-22</date>
+                     <placeName>
+                        <settlement type="city">Potsdam</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118531271</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q518172</idno>
+               </person>
+               <person xml:id="amp_person_75">
+                  <persName>
+                     <forename>Reich-Ranicki</forename>
+                     <surname> Marcel</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1920-06-02">1920-06-02</date>
+                     <placeName>
+                        <settlement type="city">Włocławek</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2013-09-18">
+                     <date when-iso="2013-09-18">2013-09-18</date>
+                     <placeName>
+                        <settlement type="city">Frankfurt am Main</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118599194</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q33637</idno>
+               </person>
+               <person xml:id="amp_person_76">
+                  <persName>
+                     <forename>Sacharow</forename>
+                     <surname> Andrej</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-05-21">1921-05-21</date>
+                     <placeName>
+                        <settlement type="city">Moscow</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1989-12-14">
+                     <date when-iso="1989-12-14">1989-12-14</date>
+                     <placeName>
+                        <settlement type="city">Moscow</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118642111</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q997</idno>
+               </person>
+               <person xml:id="amp_person_77">
+                  <persName>
+                     <forename>Toynbee</forename>
+                     <surname> Arnold</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1889-04-14">1889-04-14</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1975-10-22">
+                     <date when-iso="1975-10-22">1975-10-22</date>
+                     <placeName>
+                        <settlement type="city">York</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118623532</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q185381</idno>
+               </person>
+               <person xml:id="amp_person_78">
+                  <persName>
+                     <forename>Spiel</forename>
+                     <surname> Hilde</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1911-10-19">1911-10-19</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1990-11-30">
+                     <date when-iso="1990-11-30">1990-11-30</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118751980</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
+               </person>
+               <person xml:id="amp_person_79">
+                  <persName>
+                     <forename>Henze</forename>
+                     <surname> Hans Werner</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1926-07-01">1926-07-01</date>
+                     <placeName>
+                        <settlement type="city">Gütersloh</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2012-10-27">
+                     <date when-iso="2012-10-27">2012-10-27</date>
+                     <placeName>
+                        <settlement type="city">Dresden</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118549383</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76915</idno>
+                  <listBibl>
+                     <bibl n="4">Elegy for Young Lovers</bibl>
+                     <bibl n="5">The Bassarids</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_80">
+                  <persName>
+                     <forename>Hogg</forename>
+                     <surname> Quintin</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-10-09">1907-10-09</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2001-10-12">
+                     <date when-iso="2001-10-12">2001-10-12</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118970585</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q175366</idno>
+               </person>
+               <person xml:id="amp_person_81">
+                  <persName>
+                     <forename>Kraus</forename>
+                     <surname> Karl</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1874-04-28">1874-04-28</date>
+                     <placeName>
+                        <settlement type="city">Jičín</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1936-06-12">
+                     <date when-iso="1936-06-12">1936-06-12</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118566288</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44328</idno>
+               </person>
+               <person xml:id="amp_person_82">
+                  <persName>
+                     <forename>Moore</forename>
+                     <surname> Henry</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1898-07-30">1898-07-30</date>
+                     <placeName>
+                        <settlement type="city">Castleford</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1986-08-31">
+                     <date when-iso="1986-08-31">1986-08-31</date>
+                     <placeName>
+                        <settlement type="city">Perry Green</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118583875</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151097</idno>
+               </person>
+               <person xml:id="amp_person_83">
+                  <persName>
+                     <forename>Kokoschka</forename>
+                     <surname> Oskar</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1886-03-01">1886-03-01</date>
+                     <placeName>
+                        <settlement type="city">Pöchlarn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1980-02-22">
+                     <date when-iso="1980-02-22">1980-02-22</date>
+                     <placeName>
+                        <settlement type="city">Villeneuve</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118564722</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154260</idno>
+               </person>
+               <person xml:id="amp_person_84">
+                  <persName>
+                     <forename>Wilson</forename>
+                     <surname> Edmund</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1895-05-08">1895-05-08</date>
+                     <placeName>
+                        <settlement type="city">Red Bank</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1972-06-12">
+                     <date when-iso="1972-06-12">1972-06-12</date>
+                     <placeName>
+                        <settlement type="city">Talcottville</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118633481</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q704931</idno>
+               </person>
+               <person xml:id="amp_person_85">
+                  <persName>
+                     <forename>Spears</forename>
+                     <surname> Monroe</surname>
+                  </persName>
+                  <death when="1988-05-23">
+                     <date when-iso="1988-05-23">1988-05-23</date>
+                     <placeName>
+                        <settlement type="city">Winchester</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q55590162</idno>
+               </person>
+               <person xml:id="amp_person_86">
+                  <persName>
+                     <forename>Balanchine</forename>
+                     <surname> George</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1904-01-22">1904-01-22</date>
+                     <placeName>
+                        <settlement type="city">Saint Petersburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1983-04-30">
+                     <date when-iso="1983-04-30">1983-04-30</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118652044</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q310184</idno>
+               </person>
+               <person xml:id="amp_person_87">
+                  <persName>
+                     <forename>Opel</forename>
+                     <surname> Adolf</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1935-06-12">1935-06-12</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2018-07-15">
+                     <date when-iso="2018-07-15">2018-07-15</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/115600817</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q363515</idno>
+               </person>
+               <person xml:id="amp_person_88">
+                  <persName>
+                     <forename>Auden</forename>
+                     <surname> John</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1903-12-14">1903-12-14</date>
+                     <placeName>
+                        <settlement type="city">York</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1903-12-21">
+                     <date when-iso="1903-12-21">1903-12-21</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q14946819</idno>
+               </person>
+               <person xml:id="amp_person_89">
+                  <persName>
+                     <forename>Luke</forename>
+                     <surname> David</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18526943</idno>
+               </person>
+               <person xml:id="amp_person_90">
+                  <persName>
+                     <forename>Orwell</forename>
+                     <surname> Sonia</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1918-08-25">1918-08-25</date>
+                     <placeName>
+                        <settlement type="city">Kolkota</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1980-12-11">
+                     <date when-iso="1980-12-11">1980-12-11</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124223478</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7561744</idno>
+               </person>
+               <person xml:id="amp_person_91">
+                  <persName>
+                     <forename>Toynbee. Philipp</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date when-iso="1916-06-25">1916-06-25</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1981-06-15">
+                     <date when-iso="1981-06-15">1981-06-15</date>
+                     <placeName>
+                        <settlement type="city">St Briavels</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/117421413</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7184481</idno>
+               </person>
+               <person xml:id="amp_person_92">
+                  <persName>
+                     <forename>Claude</forename>
+                     <surname> Simon</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1913-10-10">1913-10-10</date>
+                     <placeName>
+                        <settlement type="city">Antananarivo</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2005-07-06">
+                     <date when-iso="2005-07-06">2005-07-06</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118614452</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131549</idno>
+               </person>
+               <person xml:id="amp_person_93">
+                  <persName>
+                     <forename>Musulin</forename>
+                     <surname> Elsa</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_94">
+                  <persName>
+                     <forename>Musilin</forename>
+                     <surname> Marko</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_95">
+                  <persName>
+                     <forename>Clark</forename>
+                     <surname> John</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_96">
+                  <persName>
+                     <forename>Clark</forename>
+                     <surname> Tekla</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62566483</idno>
+               </person>
+               <person xml:id="amp_person_97">
+                  <persName>
+                     <forename>Seitz</forename>
+                     <surname> Maria</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_98">
+                  <persName>
+                     <forename>Mendelson</forename>
+                     <surname> Edward</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/14000761X</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5344431</idno>
+                  <listBibl>
+                     <bibl n="49">Early Auden</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_99">
+                  <persName>
+                     <forename>O'Sullivan</forename>
+                     <surname> Michael</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1934-03-04">1934-03-04</date>
+                     <placeName>
+                        <settlement type="city">U.S</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1871-07-24">
+                     <date when-iso="1871-07-24">1871-07-24</date>
+                     <placeName>
+                        <settlement type="city">San Francisco</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q16007105</idno>
+               </person>
+               <person xml:id="amp_person_100">
+                  <persName>
+                     <forename>Carpenter</forename>
+                     <surname> Humphrey</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1926-04-29">1926-04-29</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2005-01-04">
+                     <date when-iso="2005-01-04">2005-01-04</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123681022</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q92775</idno>
+                  <listBibl>
+                     <bibl n="39">W.H Auden Biography</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_102">
+                  <persName>
+                     <forename>Luthen</forename>
+                     <surname> Martin</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1483-11-14">1483-11-14</date>
+                     <placeName>
+                        <settlement type="city">Eisleben Lutherstad</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1546-02-18">
+                     <date when-iso="1546-02-18">1546-02-18</date>
+                     <placeName>
+                        <settlement type="city">Eisleben Lutherstad</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118575449</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9554</idno>
+                  <listBibl>
+                     <bibl n="12">New Testament</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_103">
+                  <persName>
+                     <forename>Wandl</forename>
+                     <surname> Elizabeth</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_105">
+                  <persName>
+                     <forename>Sjöberg</forename>
+                     <surname> Leif</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q104370574</idno>
+                  <listBibl>
+                     <bibl n="29">Markings</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_106">
+                  <persName>
+                     <forename>Anderson</forename>
+                     <surname> Emily</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_107">
+                  <persName>
+                     <forename>N/A_1</forename>
+                     <surname> Hugie</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_108">
+                  <persName>
+                     <forename>N/A_2</forename>
+                     <surname> Harrison</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_109">
+                  <persName>
+                     <forename>N/A_3</forename>
+                     <surname> Father Lustkandl</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_110">
+                  <persName>
+                     <forename>N/A_4</forename>
+                     <surname> Lucia</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_111">
+                  <persName>
+                     <forename>Hippo</forename>
+                     <surname> Augustine of</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="0354-11-13">0354-11-13</date>
+                     <placeName>
+                        <settlement type="city">Thagaste</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="0430-08-28">
+                     <date when-iso="0430-08-28">0430-08-28</date>
+                     <placeName>
+                        <settlement type="city">Hippo Regius</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118505114</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8018</idno>
+               </person>
+               <person xml:id="amp_person_112">
+                  <persName>
+                     <forename>Maurer</forename>
+                     <surname> Andreas</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1919-09-07">1919-09-07</date>
+                     <placeName>
+                        <settlement type="city">Trautmannsdorf an der Leitha</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2010-10-25">
+                     <date when-iso="2010-10-25">2010-10-25</date>
+                     <placeName>
+                        <settlement type="city">Trautmannsdorf an der Leitha</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119265311</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87277</idno>
+               </person>
+               <person xml:id="amp_person_113">
+                  <persName>
+                     <forename>Cranmer</forename>
+                     <surname> Thomas</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1489-07-02">1489-07-02</date>
+                     <placeName>
+                        <settlement type="city">Nottingham</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1556-03-21">
+                     <date when-iso="1556-03-21">1556-03-21</date>
+                     <placeName>
+                        <settlement type="city">Oxford</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118670468</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q199894</idno>
+                  <listBibl>
+                     <bibl n="13">Book of Common Prayer</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_114">
+                  <persName>
+                     <forename>Kirstein</forename>
+                     <surname> Lincon</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-05-04">1907-05-04</date>
+                     <placeName>
+                        <settlement type="city">Rochester</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1996-01-05">
+                     <date when-iso="1996-01-05">1996-01-05</date>
+                     <placeName>
+                        <settlement type="city">Manhattan</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/124923437</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q351339</idno>
+                  <listBibl>
+                     <bibl n="19">Love´s Labours Lost opera</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_115">
+                  <persName>
+                     <forename>Brecht</forename>
+                     <surname> Bertolt</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1898-02-10">1898-02-10</date>
+                     <placeName>
+                        <settlement type="city">Augsburg</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1956-08-14">
+                     <date when-iso="1956-08-14">1956-08-14</date>
+                     <placeName>
+                        <settlement type="city">Ost-Berlin</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/4312008-8</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q735889</idno>
+                  <listBibl>
+                     <bibl n="9">Die Sieben Todsünden</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_116">
+                  <persName>
+                     <forename>Goldoni</forename>
+                     <surname> Carlo</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1707-02-25">1707-02-25</date>
+                     <placeName>
+                        <settlement type="city">Venice</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1793-01-06">
+                     <date when-iso="1793-01-06">1793-01-06</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118540505</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q165534</idno>
+                  <listBibl>
+                     <bibl n="11">Archifanfaro</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_118">
+                  <persName>
+                     <forename>Phillips</forename>
+                     <surname> John</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_119">
+                  <persName>
+                     <forename>Müller</forename>
+                     <surname> Peter</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_120">
+                  <persName>
+                     <forename>Monteith</forename>
+                     <surname> Charles</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-02-09">1921-02-09</date>
+                     <placeName>
+                        <settlement type="city">Lisburn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1995-05-09">
+                     <date when-iso="1995-05-09">1995-05-09</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1124937285</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18526885</idno>
+               </person>
+               <person xml:id="amp_person_121">
+                  <persName>
+                     <forename>Esders</forename>
+                     <surname> Christa</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_122">
+                  <persName>
+                     <forename>Keane</forename>
+                     <surname> Molly</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1904-07-20">1904-07-20</date>
+                     <placeName>
+                        <settlement type="city">Kildare</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1996-04-22">
+                     <date when-iso="1996-04-22">1996-04-22</date>
+                     <placeName>
+                        <settlement type="city">Ardmore</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/114173028</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4958431</idno>
+                  <listBibl>
+                     <bibl n="26">The Rising Tide</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_123">
+                  <persName>
+                     <forename>Coldstream</forename>
+                     <surname> Sir William</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1908-02-28">1908-02-28</date>
+                     <placeName>
+                        <settlement type="city">Belford</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1987-02-18">
+                     <date when-iso="1987-02-18">1987-02-18</date>
+                     <placeName>
+                        <settlement type="city">London</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119037505</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2841470</idno>
+               </person>
+               <person xml:id="amp_person_124">
+                  <persName>
+                     <forename>Peake</forename>
+                     <surname> Mervyn</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1911-06-09">1911-06-09</date>
+                     <placeName>
+                        <settlement type="city">Lianxi District</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1968-11-17">
+                     <date when-iso="1968-11-17">1968-11-17</date>
+                     <placeName>
+                        <settlement type="city">Burcot</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118878115</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6515</idno>
+               </person>
+               <person xml:id="amp_person_125">
+                  <persName>
+                     <forename>Field</forename>
+                     <surname> Maurice</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6793071</idno>
+               </person>
+               <person xml:id="amp_person_126">
+                  <persName>
+                     <forename>Bachardy</forename>
+                     <surname> Don</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1934-05-18">1934-05-18</date>
+                     <placeName>
+                        <settlement type="city">Los Angeles</settlement>
+                     </placeName>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/123221749</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q277103</idno>
+               </person>
+               <person xml:id="amp_person_127">
+                  <persName>
+                     <forename>Raimund</forename>
+                     <surname> Prof Hans</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1945-04-05">1945-04-05</date>
+                     <placeName>
+                        <settlement type="city">Petzelsdorf</settlement>
+                     </placeName>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/120503026</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1420740</idno>
+               </person>
+               <person xml:id="amp_person_128">
+                  <persName>
+                     <forename>Vechten</forename>
+                     <surname> Carl Van</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1880-06-17">1880-06-17</date>
+                     <placeName>
+                        <settlement type="city">Cedar Rapids</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1964-12-21">
+                     <date when-iso="1964-12-21">1964-12-21</date>
+                     <placeName>
+                        <settlement type="city">New York City</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119374048</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q312851</idno>
+               </person>
+               <person xml:id="amp_person_129">
+                  <persName>
+                     <forename>Benning</forename>
+                     <surname> Achim</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1935-01-20">1935-01-20</date>
+                     <placeName>
+                        <settlement type="city">Magdeburg</settlement>
+                     </placeName>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/119289075</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q104573</idno>
+               </person>
+               <person xml:id="amp_person_130">
+                  <persName>
+                     <forename>Hitler</forename>
+                     <surname> Adolf</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1889-04-20">1889-04-20</date>
+                     <placeName>
+                        <settlement type="city">Braunau am Inn</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1945-04-30">
+                     <date when-iso="1945-04-30">1945-04-30</date>
+                     <placeName>
+                        <settlement type="city">Berlin</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118551655</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q352</idno>
+               </person>
+               <person xml:id="amp_person_131">
+                  <persName>
+                     <forename>Hammarskjöld</forename>
+                     <surname> Dag</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1905-04-10">1905-04-10</date>
+                     <placeName>
+                        <settlement type="city">Jönköping Town</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1961-09-18">
+                     <date when-iso="1961-09-18">1961-09-18</date>
+                     <placeName>
+                        <settlement type="city">Ndola</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118545388</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1267</idno>
+                  <listBibl>
+                     <bibl n="30">Vägmärken</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_132">
+                  <persName>
+                     <forename>Claudel</forename>
+                     <surname> Paul</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1868-08-06">1868-08-06</date>
+                     <placeName>
+                        <settlement type="city">Villeneuve-sur-Fère</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1955-02-23">
+                     <date when-iso="1955-02-23">1955-02-23</date>
+                     <placeName>
+                        <settlement type="city">Paris</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118521039</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q295830</idno>
+               </person>
+               <person xml:id="amp_person_133">
+                  <persName>
+                     <forename>Droste-Hülshoff</forename>
+                     <surname> Annette von</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1797-01-10">1797-01-10</date>
+                     <placeName>
+                        <settlement type="city">Havixbeck</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1848-05-24">
+                     <date when-iso="1848-05-24">1848-05-24</date>
+                     <placeName>
+                        <settlement type="city">Meersburg</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118527533</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57307</idno>
+               </person>
+               <person xml:id="amp_person_134">
+                  <persName>
+                     <forename>Suttner</forename>
+                     <surname> Bertha</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1843-06-09">1843-06-09</date>
+                     <placeName>
+                        <settlement type="city">The Golz-Kinsky Palace</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1914-06-21">
+                     <date when-iso="1914-06-21">1914-06-21</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_135">
+                  <persName>
+                     <forename>Bronold</forename>
+                     <surname> Helle</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_136">
+                  <persName>
+                     <forename>Britten</forename>
+                     <surname> Benjamin</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1913-11-22">1913-11-22</date>
+                     <placeName>
+                        <settlement type="city">Lowestoft</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1976-12-04">
+                     <date when-iso="1976-12-04">1976-12-04</date>
+                     <placeName>
+                        <settlement type="city">Aldeburgh</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118515527</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
+               </person>
+               <person xml:id="amp_person_137">
+                  <persName>
+                     <forename>Kraus</forename>
+                     <surname> Dr. Wolfgang</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1924-01-13">1924-01-13</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1998-09-19">
+                     <date when-iso="1998-09-19">1998-09-19</date>
+                     <placeName>
+                        <settlement type="city">Lienz</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116413298</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1123315</idno>
+               </person>
+               <person xml:id="amp_person_138">
+                  <persName>
+                     <forename>Elizabeth II.</forename>
+                     <surname> Great Britain</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1926-04-21">1926-04-21</date>
+                     <placeName>
+                        <settlement type="city">Mayfair</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2022-09-08">
+                     <date when-iso="2022-09-08">2022-09-08</date>
+                     <placeName>
+                        <settlement type="city">Balmoral Castle</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118529889</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9682</idno>
+               </person>
+               <person xml:id="amp_person_139">
+                  <persName>
+                     <forename>Elizabeth</forename>
+                     <surname> Great Britain</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118816896</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q10633</idno>
+               </person>
+               <person xml:id="amp_person_140">
+                  <persName>
+                     <forename>Anne</forename>
+                     <surname> Great Britain</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1950-08-15">1950-08-15</date>
+                     <placeName>
+                        <settlement type="city">Clarence House</settlement>
+                     </placeName>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/118593978</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151754</idno>
+               </person>
+               <person xml:id="amp_person_141">
+                  <persName>
+                     <forename>Etthofen</forename>
+                     <surname> Sonja Maria von</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_142">
+                  <persName>
+                     <forename>Lanier</forename>
+                     <surname> Amélie</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_143">
+                  <persName>
+                     <forename>Huxley</forename>
+                     <surname> Aldous</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1894-07-26">1894-07-26</date>
+                     <placeName>
+                        <settlement type="city">Godalming</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1963-11-22">
+                     <date when-iso="1963-11-22">1963-11-22</date>
+                     <placeName>
+                        <settlement type="city">Los Angeles</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118555081</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q81447</idno>
+               </person>
+               <person xml:id="amp_person_144">
+                  <persName>
+                     <forename>Gathorne-Hardy</forename>
+                     <surname> Jonathan</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1933-05-17">1933-05-17</date>
+                     <placeName>
+                        <settlement type="city">Edinburgh</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2019-07-16">
+                     <date when-iso="2019-07-16">2019-07-16</date>
+                     <placeName>
+                        <settlement type="city">Aldeburgh</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6273178</idno>
+                  <listBibl>
+                     <bibl n="36">The Rise and Fall of the British Nanny</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_145">
+                  <persName>
+                     <forename>Kronenberger</forename>
+                     <surname> Louis</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1904-12-09">1904-12-09</date>
+                     <placeName>
+                        <settlement type="city">Cincinnati</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="1980-04-30">
+                     <date when-iso="1980-04-30">1980-04-30</date>
+                     <placeName>
+                        <settlement type="city">Wellesley</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116554762</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6687573</idno>
+                  <listBibl>
+                     <bibl n="32">The Faber Book of Aphorisms</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_146">
+                  <persName>
+                     <forename>Etthofen</forename>
+                     <surname> Brigitta von</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_147">
+                  <persName>
+                     <forename>Windisch-Graetz</forename>
+                     <surname> Eva</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_148">
+                  <persName>
+                     <forename>N/A_5</forename>
+                     <surname> Livia</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_149">
+                  <persName>
+                     <forename>Grey</forename>
+                     <surname> Dorian</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_150">
+                  <persName>
+                     <forename>Farnon</forename>
+                     <surname> Dorothy J.</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1919-06-29">1919-06-29</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <death when="2003-10-23">
+                     <date when-iso="2003-10-23">2003-10-23</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q96073363</idno>
+                  <listBibl>
+                     <bibl n="48">Auden in Love</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_151">
+                  <persName>
+                     <forename>Silbermann</forename>
+                     <surname> Edith</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_152">
+                  <persName>
+                     <forename>Breicha</forename>
+                     <surname> Otto</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1932-07-26">1932-07-26</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2003-12-28">
+                     <date when-iso="2003-12-28">2003-12-28</date>
+                     <placeName>
+                        <settlement type="city">Vienna</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116469986</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2038348</idno>
+               </person>
+               <person xml:id="amp_person_153">
+                  <persName>
+                     <forename>Strauss</forename>
+                     <surname> Richard</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_154">
+                  <persName>
+                     <forename>Jacobsen</forename>
+                     <surname> Cornelia</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_155">
+                  <persName>
+                     <forename>Langers</forename>
+                     <surname> N/A</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_156">
+                  <persName>
+                     <forename>Duncan</forename>
+                     <surname> Bruce</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1938-01-28">1938-01-28</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q39073705</idno>
+               </person>
+               <person xml:id="amp_person_157">
+                  <persName>
+                     <forename>Mayer</forename>
+                     <surname> Eliza</surname>
+                  </persName>
+                  <death when="1970-03-14">
+                     <date when-iso="1970-03-14">1970-03-14</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5363177</idno>
+               </person>
+               <person xml:id="amp_person_158">
+                  <persName>
+                     <forename>Robinson</forename>
+                     <surname> Robert</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1927-12-17">1927-12-17</date>
+                     <placeName>
+                        <settlement type="city">Liverpool</settlement>
+                     </placeName>
+                  </birth>
+                  <death when="2011-08-12">
+                     <date when-iso="2011-08-12">2011-08-12</date>
+                     <placeName>
+                        <settlement type="city">Paddington</settlement>
+                     </placeName>
+                  </death>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q408758</idno>
+               </person>
+               <person xml:id="amp_person_159">
+                  <persName>
+                     <forename>Walters</forename>
+                     <surname> Maureen</surname>
+                  </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+            </listPerson>
+         </div>
       </body>
    </text>
 </TEI>
