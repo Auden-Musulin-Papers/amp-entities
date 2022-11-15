@@ -659,7 +659,7 @@
             </person>
             <person xml:id="amp_person_39">
                <persName>Benson, Edward Frederic</persName>
-               <idno type="GND">https://www.wikidata.org/wiki/Q771698</idno>
+               <idno type="GND"/>
                <birth when="1867-07-24">
                   1867-07-24
                   <placeName>
@@ -2434,7 +2434,23 @@
                </death>
             </person>
             <person xml:id="amp_person_154">
-               <persName/>
+               <persName>Jacobsen, Cornelia</persName>
+               <idno type="GND"/>
+               <birth when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </birth>
+               <death when="None">
+                  None
+                  <placeName>
+                     <settlement type="city"/>
+                  </placeName>
+               </death>
+            </person>
+            <person xml:id="amp_person_155">
+               <persName>Langers, N/A</persName>
                <idno type="GND"/>
                <birth when="None">
                   None

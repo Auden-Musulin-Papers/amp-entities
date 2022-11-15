@@ -1872,7 +1872,7 @@
     "order": "39.00000000000000000000",
     "name": "Benson, Edward Frederic",
     "amp_id": "amp_person_39",
-    "gnd": "",
+    "gnd": "https://www.wikidata.org/wiki/Q771698",
     "birth_year": "1867",
     "birth_place": [
       {
@@ -1899,7 +1899,7 @@
         "value": "Lucia Novels"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q771698",
+    "wikidata": "",
     "places 2": [
       {
         "id": 106,
@@ -2245,7 +2245,7 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09",
+    "wikidata": "https://www.wikidata.org/wiki/Q75311853",
     "places 2": [],
     "places 2 - persons - death_place": []
   },
@@ -2300,7 +2300,7 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q75311859",
     "places 2": [],
     "places 2 - persons - death_place": []
   },
@@ -2339,7 +2339,7 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q75311857",
     "places 2": [],
     "places 2 - persons - death_place": []
   },
@@ -4619,7 +4619,7 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": {
-      "id": 6661,
+      "id": 6708,
       "value": "fictional",
       "color": "light-orange"
     },
@@ -6073,7 +6073,7 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": {
-      "id": 6661,
+      "id": 6708,
       "value": "fictional",
       "color": "light-orange"
     },
@@ -6194,29 +6194,8 @@
   "154": {
     "id": 154,
     "order": "153.00000000000000000000",
-    "name": "Jacobsen, Cornelia",
+    "name": "",
     "amp_id": "amp_person_154",
-    "gnd": "",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
-    "death_place": [],
-    "death_day": null,
-    "comment": "",
-    "person_person": [],
-    "person_person - target": [],
-    "fictional_or_real": null,
-    "literary_work": [],
-    "wikidata": "",
-    "places 2": [],
-    "places 2 - persons - death_place": []
-  },
-  "155": {
-    "id": 155,
-    "order": "154.00000000000000000000",
-    "name": "Langers, N/A",
-    "amp_id": "amp_person_155",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

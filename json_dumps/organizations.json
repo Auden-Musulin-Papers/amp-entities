@@ -523,5 +523,26 @@
         "value": "Austria"
       }
     ]
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Europa Verlag",
+    "gnd_id": "https://www.wikidata.org/wiki/Q1375237",
+    "amp_id": "amp_organization_26",
+    "founded_in_year": "1933",
+    "comments": "",
+    "location": [
+      {
+        "id": 20,
+        "value": "Germany"
+      }
+    ],
+    "places 2": [
+      {
+        "id": 20,
+        "value": "Germany"
+      }
+    ]
   }
 }
