@@ -447,5 +447,45 @@
         "value": "New York City"
       }
     ]
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "University of Dublin",
+    "gnd_id": "https://www.wikidata.org/wiki/Q2496094",
+    "amp_id": "amp_organization_31",
+    "founded_in_year": "1592",
+    "comments": "",
+    "location": [
+      {
+        "id": 108,
+        "value": "Dublin"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "Trinity College",
+    "gnd_id": "https://www.wikidata.org/wiki/Q258464",
+    "amp_id": "amp_organization_32",
+    "founded_in_year": "1592",
+    "comments": "",
+    "location": [
+      {
+        "id": 108,
+        "value": "Dublin"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "",
+    "gnd_id": "",
+    "amp_id": "amp_organization_33",
+    "founded_in_year": null,
+    "comments": "",
+    "location": []
   }
 }

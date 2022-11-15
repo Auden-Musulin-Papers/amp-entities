@@ -2617,8 +2617,8 @@
                </person>
                <person xml:id="amp_person_150">
                   <persName>
-                     <forename>Farnon</forename>
-                     <surname>Dorothy J.</surname>
+                     <forename>Farnan</forename>
+                     <surname>Dorothy Jean</surname>
                   </persName>
                   <birth>
                      <date when-iso="1919-06-29">1919-06-29</date>
@@ -2743,6 +2743,34 @@
                      <forename>Walters</forename>
                      <surname>Maureen</surname>
                   </persName>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA"/>
+               </person>
+               <person xml:id="amp_person_160">
+                  <persName>
+                     <forename>Kallman</forename>
+                     <surname>Edward</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1892-01-01">1892-01-01</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </birth>
+                  <idno type="GND"/>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q96073350</idno>
+               </person>
+               <person xml:id="amp_person_161">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+                  <death when="2004-10-23">
+                     <date when-iso="2004-10-23">2004-10-23</date>
+                     <placeName>
+                        <settlement type="city"/>
+                     </placeName>
+                  </death>
                   <idno type="GND"/>
                   <idno type="WIKIDATA"/>
                </person>

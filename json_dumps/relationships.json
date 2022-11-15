@@ -2217,5 +2217,137 @@
         "value": "is_parent_of"
       }
     ]
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "amp_id": "relationship_id__68",
+    "source": [
+      {
+        "id": 160,
+        "value": "Kallman, Edward"
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "amp_id": "relationship_id__69",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 160,
+        "value": "Kallman, Edward"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "amp_id": "relationship_id__70",
+    "source": [
+      {
+        "id": 160,
+        "value": "Kallman, Edward"
+      }
+    ],
+    "target": [
+      {
+        "id": 150,
+        "value": "Farnan, Dorothy Jean"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "amp_id": "relationship_id__71",
+    "source": [
+      {
+        "id": 150,
+        "value": "Farnan, Dorothy Jean"
+      }
+    ],
+    "target": [
+      {
+        "id": 160,
+        "value": "Kallman, Edward"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   }
 }

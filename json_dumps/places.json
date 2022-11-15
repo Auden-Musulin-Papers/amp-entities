@@ -3631,7 +3631,16 @@
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 31,
+        "value": "University of Dublin"
+      },
+      {
+        "id": 32,
+        "value": "Trinity College"
+      }
+    ],
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
@@ -7093,7 +7102,7 @@
   "223": {
     "id": 223,
     "order": "223.00000000000000000000",
-    "name": "",
+    "name": "Kunstlerhaus",
     "amp_id": "amp_place_id_223",
     "geonames_id": "",
     "persons": [],
