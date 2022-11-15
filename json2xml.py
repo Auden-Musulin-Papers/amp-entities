@@ -2,6 +2,7 @@ import glob
 import json
 
 from acdh_obj2xml_pyutils import ObjectToXml
+from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
 
 INPUT = "json_dumps/*"
@@ -12,7 +13,14 @@ for x in data:
         file = json.load(f)
     arr = []
     for f in file:
-        arr.append(file[f])
+        obj = file[f]
+        try:
+            any_id = obj["geonames_id"]
+            norm_id = get_normalized_uri(any_id)
+            obj["geonames_id"] = norm_id
+        except KeyError:
+            continue
+        arr.append(obj)
     if "places" in x:
         filename = f"listplace"
         template_file = "templates/places.xml"
