@@ -274,7 +274,11 @@
                   <idno type="GND">https://www.wikidata.org/wiki/Q258464</idno>
                </org>
                <org xml:id="amp_organization_33">
-                  <orgName/>
+                  <orgName>Group Theatre</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_organization_28">New York City</placeName>
+                  </location>
+                  <idno type="GND">https://www.wikidata.org/wiki/Q378577</idno>
                </org>
             </listOrg>
          </div>

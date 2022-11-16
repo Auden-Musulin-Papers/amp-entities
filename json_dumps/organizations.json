@@ -481,11 +481,16 @@
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "",
-    "gnd_id": "",
+    "name": "Group Theatre",
+    "gnd_id": "https://www.wikidata.org/wiki/Q378577",
     "amp_id": "amp_organization_33",
-    "founded_in_year": null,
+    "founded_in_year": "1931",
     "comments": "",
-    "location": []
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ]
   }
 }
