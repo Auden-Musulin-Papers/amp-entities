@@ -49,6 +49,9 @@
                </licence>
             </availability>
          </publicationStmt>
+         <sourceDesc>
+            <p>Literature in Auden Musulin Papers</p>
+         </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
@@ -58,13 +61,24 @@
             <bibl xml:id="{{ x.lit_work_id }}">
                <title>{{ x.name }}</title>
                {% if x.is_written_by|length > 0 %}
-               <author>{% for p in x.is_written_by %}{{ p.value }}{% endfor %}</author>
+               <author ref="#amp_person_{% for p in x.is_written_by %}{{ p.id }}{% endfor %}">
+                  <persName>{% for p in x.is_written_by %}{{ p.value }}{% endfor %}</persName>
+               </author>
                {% endif %}
                {% if x.has_year is string %}
                <date when="{{ x.has_year }}">{{ x.has_year }}</date>
                {% endif %}
-               {% if x.is_linked_with|length > 0 %}
+               {% if x.book_number %}
+               <biblScope type="volume">{{ x.book_number }}</biblScope>
+               {% endif %}
+               {% if x.chapter_number %}
+               <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
+               {% endif %}
+               {% if x.is_linked_with is string %}
                <idno type="WIKIDATA">{{ x.is_linked_with }}</idno>
+               {% endif %}
+               {% if x.language %}
+               <lang>{{ x.language["value"] }}</lang>
                {% endif %}
             </bibl>
          {% endfor %}

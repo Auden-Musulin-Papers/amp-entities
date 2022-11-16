@@ -49,6 +49,9 @@
                </licence>
             </availability>
          </publicationStmt>
+         <sourceDesc>
+            <p>Persons mentioned in Auden Musulin Papers</p>
+         </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
@@ -64,29 +67,32 @@
                   {% if x.birth_day is string %}
                   <birth>
                      <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
-                     <placeName>
-                        <settlement type="city">{% for p in x.birth_place %}{{ p.value }}{% endfor %}</settlement>
-                     </placeName>
+                     <settlement key="amp_place_id_{% for p in x.birth_place %}{{ p.id }}{% endfor %}">
+                        <placeName>{% for p in x.birth_place %}{{ p.value }}{% endfor %}</placeName>
+                     </settlement>
                   </birth>
                   {% endif %}
                   {% if x.death_day is string %}
-                  <death when="{{ x.death_day }}">
+                  <death>
                      <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
-                     <placeName>
-                        <settlement type="city">{% for p in x.death_place %}{{ p.value }}{% endfor %}</settlement>
-                     </placeName>
+                     <settlement key="amp_place_id_{% for p in x.death_place %}{{ p.id }}{% endfor %}">
+                        <placeName>{% for p in x.death_place %}{{ p.value }}{% endfor %}</placeName>
+                     </settlement>
                   </death>
                   {% endif %}
-                  {% if x.gnd is string %}
+                  {% if x.gnd|length > 0 %}
                   <idno type="GND">{{ x.gnd }}</idno>
                   {% endif %}
-                  {% if x.wikidata is string %}
+                  {% if x.wikidata|length > 0 %}
                   <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+                  {% if x.comments is string %}
+                  <note>{{ x.comments }}</note>
                   {% endif %}
                   {% if x.literary_work|length > 0 %}
                   <listBibl>
                      {% for b in x.literary_work %}
-                     <bibl n="{{ b.id }}">{{ b.value }}</bibl>
+                     <bibl n="lit_work_id_{{ b.id }}">{{ b.value }}</bibl>
                      {% endfor %}
                   </listBibl>
                   {% endif %}

@@ -55,6 +55,7 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                     print(f"no match for {norm_id} found.")
                 update[field_name_update["gnd"]] = f"https://d-nb.info/gnd/{gnd}"
                 update[field_name_update["wikidata"]] = wd
+                update[field_name_update["geonames"]] = norm_id
         row_id = x["id"]
         url = f"{br_rows_url}{row_id}/?user_field_names=true"
         print(url)
@@ -85,7 +86,15 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
                 g = geocoder.geonames(geo_id, method='details', key=user)
                 lat = g.lat
                 lng = g.lng
+                typ = g.class_description
+                typ_c = g.feature_class
+                ctry_c = g.country_code
+                ctry = g.country
                 update[field_name_update["coordinates"]] = f"{lat}, {lng}"
+                update[field_name_update["place_type"]] = typ
+                update[field_name_update["place_type_class"]] = typ_c
+                update[field_name_update["country"]] = ctry
+                update[field_name_update["country_code"]] = ctry_c
                 geo_u += 1
                 print(f"geonames id {geo_id} found. Updating lat: {lat} and lng: {lng}")
             except Exception as err:

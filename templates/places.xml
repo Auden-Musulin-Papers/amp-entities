@@ -49,6 +49,9 @@
                </licence>
             </availability>
          </publicationStmt>
+         <sourceDesc>
+            <p>Places mentioned in Auden Musulin Papers</p>
+         </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
@@ -57,25 +60,37 @@
             <listPlace xml:id="listplace">
             {% for x in objects %}
                <place xml:id="{{ x.amp_id }}">
+                  {% if x.place_type_class %}
+                  <settlement type="{{ x.place_type_class }}">
+                     <placeName>{{ x.name }}</placeName>
+                  </settlement>
+                  <desc type="entity_type">{{ x.place_type }}</desc>
+                  {% else %}
                   <placeName>{{ x.name }}</placeName>
-                  {% if x.is_part_of|length > 0 %}
-                  <country>{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</country>
                   {% endif %}
-                  {% if x.geonames_coordinates %}
+                  {% if x.country %}
+                  <country>{{ x.country_code }}, {{ x.country }}</country>
+                  {% endif %}
+                  {% if x.is_part_of|length > 0 %}
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_{% for p in x.is_part_of %}{{ p.id }}{% endfor %}">{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</placeName>
+                  </location>
+                  {% endif %}
+                  {% if x.geonames_coordinates is string %}
                   <location type="coords">
                      <geo>{{ x.geonames_coordinates }}</geo>
                   </location>
                   {% endif %}
-                  {% if x.geonames_id %}
+                  {% if x.geonames_id|length > 0 %}
                   <idno type="GEONAMES">{{ x.geonames_id }}</idno>
                   {% endif %}
-                  {% if x.wikidata %}
+                  {% if x.wikidata|length > 0 %}
                   <idno type="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
-                  {% if x.gnd %}
+                  {% if x.gnd|length > 0 %}
                   <idno type="GND">{{ x.gnd }}</idno>
                   {% endif %}
-                  {% if x.comments %}
+                  {% if x.comments is string %}
                   <note>{{ x.comments }}</note>
                   {% endif %}
                </place>

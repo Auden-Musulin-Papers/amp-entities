@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Vienna",
     "amp_id": "amp_place_id_1",
-    "geonames_id": "https://www.geonames.org/2761369",
+    "geonames_id": "https://sws.geonames.org/2761369/",
     "persons": [
       {
         "id": 3,
@@ -69,6 +69,10 @@
       {
         "id": 152,
         "value": "Breicha, Otto"
+      },
+      {
+        "id": 161,
+        "value": "Hundertwasser, Friedensreich"
       }
     ],
     "persons - death_place": [
@@ -196,7 +200,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1741",
     "gnd": "https://d-nb.info/gnd/4066009-6",
-    "geonames_coordinates": "48.20849, 16.37208"
+    "geonames_coordinates": "48.20849, 16.37208",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "2": {
     "id": 2,
@@ -224,14 +232,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "York",
     "amp_id": "amp_place_id_3",
-    "geonames_id": "https://www.geonames.org/2633352",
+    "geonames_id": "https://sws.geonames.org/2633352/",
     "persons": [
       {
         "id": 1,
@@ -266,7 +278,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q42462",
     "gnd": "https://d-nb.info/gnd/4067205-0",
-    "geonames_coordinates": "53.95763, -1.08271"
+    "geonames_coordinates": "53.95763, -1.08271",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "4": {
     "id": 4,
@@ -289,7 +305,11 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.70121, -5.17685"
+    "geonames_coordinates": "51.70121, -5.17685",
+    "place_type": "country, state, region,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "A"
   },
   "5": {
     "id": 5,
@@ -330,14 +350,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.22902, 14.11039"
+    "geonames_coordinates": "48.22902, 14.11039",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Niederösterreich",
     "amp_id": "amp_place_id_6",
-    "geonames_id": "https://www.geonames.org/2770542/niederoesterreich.html",
+    "geonames_id": "https://sws.geonames.org/2770542/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": null,
@@ -358,7 +382,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q42497",
     "gnd": "https://d-nb.info/gnd/4075391-8",
-    "geonames_coordinates": "48.33333, 15.75"
+    "geonames_coordinates": "48.33333, 15.75",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "7": {
     "id": 7,
@@ -386,14 +414,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.14765, 15.55595"
+    "geonames_coordinates": "48.14765, 15.55595",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Obergrafendorf",
     "amp_id": "amp_place_id_8",
-    "geonames_id": "https://www.geonames.org/7873019/ober-grafendorf.html",
+    "geonames_id": "https://sws.geonames.org/7873019/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": null,
@@ -414,7 +446,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q665490",
     "gnd": "https://d-nb.info/gnd/4540212-7",
-    "geonames_coordinates": "48.14651, 15.55345"
+    "geonames_coordinates": "48.14651, 15.55345",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "9": {
     "id": 9,
@@ -442,14 +478,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.2, 15.63333"
+    "geonames_coordinates": "48.2, 15.63333",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "Austria",
     "amp_id": "amp_place_id_10",
-    "geonames_id": "https://www.geonames.org/2782113/republic-of-austria.html",
+    "geonames_id": "https://sws.geonames.org/2782113/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": null,
@@ -475,7 +515,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q40",
     "gnd": "https://d-nb.info/gnd/4043271-3",
-    "geonames_coordinates": "47.33333, 13.33333"
+    "geonames_coordinates": "47.33333, 13.33333",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "11": {
     "id": 11,
@@ -503,14 +547,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
     "name": "Brooklyn",
     "amp_id": "amp_place_id_12",
-    "geonames_id": "https://www.geonames.org/5110302/brooklyn.html",
+    "geonames_id": "https://sws.geonames.org/5110302/",
     "persons": [
       {
         "id": 4,
@@ -540,14 +588,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q18419",
     "gnd": "https://d-nb.info/gnd/4224069-4",
-    "geonames_coordinates": "40.6501, -73.94958"
+    "geonames_coordinates": "40.6501, -73.94958",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Athens",
     "amp_id": "amp_place_id_13",
-    "geonames_id": "https://www.geonames.org/264371/athens.html",
+    "geonames_id": "https://sws.geonames.org/264371/",
     "persons": [
       {
         "id": 30,
@@ -582,7 +634,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1524",
     "gnd": "https://d-nb.info/gnd/4003366-1",
-    "geonames_coordinates": "37.98376, 23.72784"
+    "geonames_coordinates": "37.98376, 23.72784",
+    "place_type": "city, village,...",
+    "country": "Greece",
+    "country_code": "GR",
+    "place_type_class": "P"
   },
   "14": {
     "id": 14,
@@ -615,14 +671,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "43.77925, 11.24626"
+    "geonames_coordinates": "43.77925, 11.24626",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "U.S",
     "amp_id": "amp_place_id_15",
-    "geonames_id": "https://www.geonames.org/6252001/united-states.html",
+    "geonames_id": "https://sws.geonames.org/6252001/",
     "persons": [
       {
         "id": 99,
@@ -655,14 +715,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q30",
     "gnd": "https://d-nb.info/gnd/4078704-7",
-    "geonames_coordinates": "39.76, -98.5"
+    "geonames_coordinates": "39.76, -98.5",
+    "place_type": "country, state, region,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "A"
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "Ottakring",
     "amp_id": "amp_place_id_16",
-    "geonames_id": "https://www.geonames.org/2769359/ottakring.html",
+    "geonames_id": "https://sws.geonames.org/2769359/",
     "persons": [
       {
         "id": 5,
@@ -688,14 +752,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1496772",
     "gnd": "https://d-nb.info/gnd/4200552-8",
-    "geonames_coordinates": "48.21667, 16.3"
+    "geonames_coordinates": "48.21667, 16.3",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
     "name": "Berlin",
     "amp_id": "amp_place_id_17",
-    "geonames_id": "https://www.geonames.org/2950159/berlin.html",
+    "geonames_id": "https://sws.geonames.org/2950159/",
     "persons": [
       {
         "id": 73,
@@ -726,14 +794,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q64",
     "gnd": "https://d-nb.info/gnd/4005728-8",
-    "geonames_coordinates": "52.52437, 13.41053"
+    "geonames_coordinates": "52.52437, 13.41053",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
     "name": "Dahlem",
     "amp_id": "amp_place_id_18",
-    "geonames_id": "https://www.geonames.org/2939440/dahlem.html",
+    "geonames_id": "https://sws.geonames.org/2939440/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -754,7 +826,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q700541",
     "gnd": "https://d-nb.info/gnd/4087308-0",
-    "geonames_coordinates": "52.4581, 13.28702"
+    "geonames_coordinates": "52.4581, 13.28702",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "19": {
     "id": 19,
@@ -782,14 +858,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
     "name": "Germany",
     "amp_id": "amp_place_id_20",
-    "geonames_id": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+    "geonames_id": "https://sws.geonames.org/2921044/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -815,7 +895,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q183",
     "gnd": "https://d-nb.info/gnd/4011882-4",
-    "geonames_coordinates": "51.5, 10.5"
+    "geonames_coordinates": "51.5, 10.5",
+    "place_type": "country, state, region,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "A"
   },
   "21": {
     "id": 21,
@@ -848,14 +932,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
     "name": "Sankt Radegund",
     "amp_id": "amp_place_id_22",
-    "geonames_id": "https://www.geonames.org/7873111/sankt-radegund.html",
+    "geonames_id": "https://sws.geonames.org/7873111/",
     "persons": [
       {
         "id": 7,
@@ -881,7 +969,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q669185",
     "gnd": "https://d-nb.info/gnd/4382796-2",
-    "geonames_coordinates": "48.09539, 12.77435"
+    "geonames_coordinates": "48.09539, 12.77435",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "23": {
     "id": 23,
@@ -914,7 +1006,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "52.41667, 12.55"
+    "geonames_coordinates": "52.41667, 12.55",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "24": {
     "id": 24,
@@ -942,7 +1038,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.19276, 15.80177"
+    "geonames_coordinates": "48.19276, 15.80177",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "25": {
     "id": 25,
@@ -970,7 +1070,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.26023, 15.79576"
+    "geonames_coordinates": "48.26023, 15.79576",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "26": {
     "id": 26,
@@ -998,7 +1102,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.13743, 11.57549"
+    "geonames_coordinates": "48.13743, 11.57549",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "27": {
     "id": 27,
@@ -1026,14 +1134,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
     "name": "New York City",
     "amp_id": "amp_place_id_28",
-    "geonames_id": "https://www.geonames.org/5128581/new-york-city.html",
+    "geonames_id": "https://sws.geonames.org/5128581/",
     "persons": [
       {
         "id": 98,
@@ -1100,6 +1212,10 @@
       {
         "id": 30,
         "value": "Columbia University"
+      },
+      {
+        "id": 33,
+        "value": "Group Theatre"
       }
     ],
     "fiction_real_place": [],
@@ -1117,7 +1233,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q60",
     "gnd": "https://d-nb.info/gnd/4042011-5",
-    "geonames_coordinates": "40.71427, -74.00597"
+    "geonames_coordinates": "40.71427, -74.00597",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "29": {
     "id": 29,
@@ -1145,14 +1265,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "Europe",
     "amp_id": "amp_place_id_30",
-    "geonames_id": "https://www.geonames.org/6255148/europe.html",
+    "geonames_id": "https://sws.geonames.org/6255148/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -1163,7 +1287,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q46",
     "gnd": "https://d-nb.info/gnd/4015701-5",
-    "geonames_coordinates": "48.69096, 9.14062"
+    "geonames_coordinates": "48.69096, 9.14062",
+    "place_type": "parks,area, ...",
+    "country": null,
+    "country_code": null,
+    "place_type_class": "L"
   },
   "31": {
     "id": 31,
@@ -1196,14 +1324,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "44.41344, 12.20121"
+    "geonames_coordinates": "44.41344, 12.20121",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Stratford-upon-Avon",
     "amp_id": "amp_place_id_32",
-    "geonames_id": "https://www.geonames.org/2636713/stratford-upon-avon.html",
+    "geonames_id": "https://sws.geonames.org/2636713/",
     "persons": [
       {
         "id": 10,
@@ -1234,7 +1366,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q189288",
     "gnd": "https://d-nb.info/gnd/4118849-4",
-    "geonames_coordinates": "52.19166, -1.70734"
+    "geonames_coordinates": "52.19166, -1.70734",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "33": {
     "id": 33,
@@ -1272,7 +1408,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.11552, 8.68417"
+    "geonames_coordinates": "50.11552, 8.68417",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "34": {
     "id": 34,
@@ -1305,7 +1445,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.9803, 11.32903"
+    "geonames_coordinates": "50.9803, 11.32903",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "35": {
     "id": 35,
@@ -1338,7 +1482,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.42466, 12.36416"
+    "geonames_coordinates": "46.42466, 12.36416",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "36": {
     "id": 36,
@@ -1384,7 +1532,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "45.43713, 12.33265"
+    "geonames_coordinates": "45.43713, 12.33265",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "37": {
     "id": 37,
@@ -1417,7 +1569,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.79941, 13.04399"
+    "geonames_coordinates": "47.79941, 13.04399",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "38": {
     "id": 38,
@@ -1445,14 +1601,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
     "name": "Canterbury",
     "amp_id": "amp_place_id_39",
-    "geonames_id": "https://www.geonames.org/2653877/canterbury.html",
+    "geonames_id": "https://sws.geonames.org/2653877/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -1473,14 +1633,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q29303",
     "gnd": "https://d-nb.info/gnd/4009422-4",
-    "geonames_coordinates": "51.27904, 1.07992"
+    "geonames_coordinates": "51.27904, 1.07992",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
     "name": "Cambridge",
     "amp_id": "amp_place_id_40",
-    "geonames_id": "https://www.geonames.org/2653941/cambridge.html",
+    "geonames_id": "https://sws.geonames.org/2653941/",
     "persons": [
       {
         "id": 15,
@@ -1506,7 +1670,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q350",
     "gnd": "https://d-nb.info/gnd/4009351-7",
-    "geonames_coordinates": "52.2, 0.11667"
+    "geonames_coordinates": "52.2, 0.11667",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "41": {
     "id": 41,
@@ -1534,7 +1702,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "None, None"
+    "geonames_coordinates": "None, None",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "42": {
     "id": 42,
@@ -1562,14 +1734,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
     "name": "Rochester",
     "amp_id": "amp_place_id_43",
-    "geonames_id": "https://www.geonames.org/5134086/rochester.html",
+    "geonames_id": "https://sws.geonames.org/5134086/",
     "persons": [
       {
         "id": 114,
@@ -1595,7 +1771,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q49218",
     "gnd": "https://d-nb.info/gnd/4130600-4",
-    "geonames_coordinates": "43.15478, -77.61556"
+    "geonames_coordinates": "43.15478, -77.61556",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "44": {
     "id": 44,
@@ -1623,7 +1803,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "45": {
     "id": 45,
@@ -1651,14 +1835,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
     "name": "Oxford",
     "amp_id": "amp_place_id_46",
-    "geonames_id": "https://www.geonames.org/2640729/oxford.html",
+    "geonames_id": "https://sws.geonames.org/2640729/",
     "persons": [
       {
         "id": 91,
@@ -1714,7 +1902,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q34217",
     "gnd": "https://d-nb.info/gnd/4044234-2",
-    "geonames_coordinates": "51.75222, -1.25596"
+    "geonames_coordinates": "51.75222, -1.25596",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "47": {
     "id": 47,
@@ -1742,7 +1934,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "48": {
     "id": 48,
@@ -1770,7 +1966,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "49": {
     "id": 49,
@@ -1798,7 +1998,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "50": {
     "id": 50,
@@ -1831,14 +2035,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "41.83274, 12.88178"
+    "geonames_coordinates": "41.83274, 12.88178",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
     "name": "Rome",
     "amp_id": "amp_place_id_51",
-    "geonames_id": "https://www.geonames.org/3169070/rome.html",
+    "geonames_id": "https://sws.geonames.org/3169070/",
     "persons": [],
     "persons - death_place": [
       {
@@ -1868,14 +2076,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q220",
     "gnd": "https://d-nb.info/gnd/4050471-2",
-    "geonames_coordinates": "41.89193, 12.51133"
+    "geonames_coordinates": "41.89193, 12.51133",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
     "name": "Lomonosov",
     "amp_id": "amp_place_id_52",
-    "geonames_id": "https://www.geonames.org/534341/lomonosov.html",
+    "geonames_id": "https://sws.geonames.org/534341/",
     "persons": [
       {
         "id": 25,
@@ -1901,7 +2113,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q157688",
     "gnd": "https://d-nb.info/gnd/4445805-8",
-    "geonames_coordinates": "59.90612, 29.77253"
+    "geonames_coordinates": "59.90612, 29.77253",
+    "place_type": "city, village,...",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "P"
   },
   "53": {
     "id": 53,
@@ -1934,14 +2150,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "36.72016, -4.42034"
+    "geonames_coordinates": "36.72016, -4.42034",
+    "place_type": "city, village,...",
+    "country": "Spain",
+    "country_code": "ES",
+    "place_type_class": "P"
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
     "name": "Mougins",
     "amp_id": "amp_place_id_54",
-    "geonames_id": "https://www.geonames.org/2991551/mougins.html",
+    "geonames_id": "https://sws.geonames.org/2991551/",
     "persons": [],
     "persons - death_place": [
       {
@@ -1967,14 +2187,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q220673",
     "gnd": "https://d-nb.info/gnd/4534855-8",
-    "geonames_coordinates": "43.60068, 6.99523"
+    "geonames_coordinates": "43.60068, 6.99523",
+    "place_type": "city, village,...",
+    "country": "France",
+    "country_code": "FR",
+    "place_type_class": "P"
   },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
     "name": "St. Louis",
     "amp_id": "amp_place_id_55",
-    "geonames_id": "https://www.geonames.org/4407066/st-louis.html",
+    "geonames_id": "https://sws.geonames.org/4407066/",
     "persons": [
       {
         "id": 27,
@@ -2000,14 +2224,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q38022",
     "gnd": "https://d-nb.info/gnd/4118223-6",
-    "geonames_coordinates": "38.62727, -90.19789"
+    "geonames_coordinates": "38.62727, -90.19789",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
     "name": "London",
     "amp_id": "amp_place_id_56",
-    "geonames_id": "https://www.geonames.org/2643743/london.html",
+    "geonames_id": "https://sws.geonames.org/2643743/",
     "persons": [
       {
         "id": 6,
@@ -2095,7 +2323,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q84",
     "gnd": "https://d-nb.info/gnd/4074335-4",
-    "geonames_coordinates": "51.50853, -0.12574"
+    "geonames_coordinates": "51.50853, -0.12574",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "57": {
     "id": 57,
@@ -2128,7 +2360,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "43.64031, 11.98546"
+    "geonames_coordinates": "43.64031, 11.98546",
+    "place_type": "city, village,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "P"
   },
   "58": {
     "id": 58,
@@ -2161,14 +2397,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.73438, 7.09549"
+    "geonames_coordinates": "50.73438, 7.09549",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
     "name": "Eastwood",
     "amp_id": "amp_place_id_59",
-    "geonames_id": "https://www.geonames.org/2650309/eastwood.html",
+    "geonames_id": "https://sws.geonames.org/2650309/",
     "persons": [
       {
         "id": 31,
@@ -2194,14 +2434,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q2736112",
     "gnd": "https://d-nb.info/gnd/4847803-9",
-    "geonames_coordinates": "53, -1.3"
+    "geonames_coordinates": "53, -1.3",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
     "name": "Vence",
     "amp_id": "amp_place_id_60",
-    "geonames_id": "https://www.geonames.org/2970148/vence.html",
+    "geonames_id": "https://sws.geonames.org/2970148/",
     "persons": [],
     "persons - death_place": [
       {
@@ -2227,14 +2471,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q192368",
     "gnd": "https://d-nb.info/gnd/4119386-6",
-    "geonames_coordinates": "43.72254, 7.11183"
+    "geonames_coordinates": "43.72254, 7.11183",
+    "place_type": "city, village,...",
+    "country": "France",
+    "country_code": "FR",
+    "place_type_class": "P"
   },
   "61": {
     "id": 61,
     "order": "61.00000000000000000000",
     "name": "Lichfield",
     "amp_id": "amp_place_id_61",
-    "geonames_id": "https://www.geonames.org/2644531/lichfield.html",
+    "geonames_id": "https://sws.geonames.org/2644531/",
     "persons": [
       {
         "id": 33,
@@ -2260,14 +2508,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q207371",
     "gnd": "https://d-nb.info/gnd/4393763-9",
-    "geonames_coordinates": "52.68154, -1.82549"
+    "geonames_coordinates": "52.68154, -1.82549",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "62": {
     "id": 62,
     "order": "62.00000000000000000000",
     "name": "Krems",
     "amp_id": "amp_place_id_62",
-    "geonames_id": "https://www.geonames.org/2773548/politischer-bezirk-krems.html",
+    "geonames_id": "https://sws.geonames.org/2773548/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -2288,7 +2540,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q694399",
     "gnd": "https://d-nb.info/gnd/4546793-6",
-    "geonames_coordinates": "48.46582, 15.52093"
+    "geonames_coordinates": "48.46582, 15.52093",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "63": {
     "id": 63,
@@ -2326,7 +2582,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.3, 11.86667"
+    "geonames_coordinates": "47.3, 11.86667",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "64": {
     "id": 64,
@@ -2359,14 +2619,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.20969, 14.29004"
+    "geonames_coordinates": "48.20969, 14.29004",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "65": {
     "id": 65,
     "order": "65.00000000000000000000",
     "name": "Horní Planá",
     "amp_id": "amp_place_id_65",
-    "geonames_id": "https://www.geonames.org/3075262/horni-plana.html",
+    "geonames_id": "https://sws.geonames.org/3075262/",
     "persons": [
       {
         "id": 36,
@@ -2392,14 +2656,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1628741",
     "gnd": "https://d-nb.info/gnd/4290244-7",
-    "geonames_coordinates": "48.76736, 14.03257"
+    "geonames_coordinates": "48.76736, 14.03257",
+    "place_type": "city, village,...",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "place_type_class": "P"
   },
   "66": {
     "id": 66,
     "order": "66.00000000000000000000",
     "name": "Linz",
     "amp_id": "amp_place_id_66",
-    "geonames_id": "https://www.geonames.org/2772400/linz.html",
+    "geonames_id": "https://sws.geonames.org/2772400/",
     "persons": [],
     "persons - death_place": [
       {
@@ -2425,14 +2693,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q41329",
     "gnd": "https://d-nb.info/gnd/4074255-6",
-    "geonames_coordinates": "48.30639, 14.28611"
+    "geonames_coordinates": "48.30639, 14.28611",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "67": {
     "id": 67,
     "order": "67.00000000000000000000",
     "name": "Pottenstein",
     "amp_id": "amp_place_id_67",
-    "geonames_id": "https://www.geonames.org/7871714/pottenstein.html",
+    "geonames_id": "https://sws.geonames.org/7871714/",
     "persons": [],
     "persons - death_place": [
       {
@@ -2458,7 +2730,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q693530",
     "gnd": "https://d-nb.info/gnd/4526721-2",
-    "geonames_coordinates": "47.95852, 16.05651"
+    "geonames_coordinates": "47.95852, 16.05651",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "68": {
     "id": 68,
@@ -2491,7 +2767,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.06667, 15.45"
+    "geonames_coordinates": "47.06667, 15.45",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "69": {
     "id": 69,
@@ -2519,7 +2799,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "70": {
     "id": 70,
@@ -2552,7 +2836,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "71": {
     "id": 71,
@@ -2580,14 +2868,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
     "name": "Lake of Constance",
     "amp_id": "amp_place_id_72",
-    "geonames_id": "https://www.geonames.org/2659347/bodensee.html",
+    "geonames_id": "https://sws.geonames.org/2659347/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -2608,7 +2900,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q4127",
     "gnd": "https://d-nb.info/gnd/4007403-1",
-    "geonames_coordinates": "47.58333, 9.46667"
+    "geonames_coordinates": "47.58333, 9.46667",
+    "place_type": "stream, lake, ...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "H"
   },
   "73": {
     "id": 73,
@@ -2636,7 +2932,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.33333, 12.8"
+    "geonames_coordinates": "47.33333, 12.8",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "74": {
     "id": 74,
@@ -2669,7 +2969,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.32306, 12.79839"
+    "geonames_coordinates": "47.32306, 12.79839",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "75": {
     "id": 75,
@@ -2697,7 +3001,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.33917, 12.79821"
+    "geonames_coordinates": "47.33917, 12.79821",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "76": {
     "id": 76,
@@ -2725,7 +3033,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "None, None"
+    "geonames_coordinates": "None, None",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "77": {
     "id": 77,
@@ -2753,7 +3065,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "78": {
     "id": 78,
@@ -2781,7 +3097,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "79": {
     "id": 79,
@@ -2809,7 +3129,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.19779, 15.76178"
+    "geonames_coordinates": "48.19779, 15.76178",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "80": {
     "id": 80,
@@ -2837,7 +3161,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "81": {
     "id": 81,
@@ -2865,14 +3193,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "82": {
     "id": 82,
     "order": "82.00000000000000000000",
     "name": "Schönbrunn",
     "amp_id": "amp_place_id_82",
-    "geonames_id": "https://www.geonames.org/6354998/schloss-schoenbrunn.html",
+    "geonames_id": "https://sws.geonames.org/6354998/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -2893,14 +3225,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q131330",
     "gnd": "https://d-nb.info/gnd/4117646-7",
-    "geonames_coordinates": "48.18494, 16.31229"
+    "geonames_coordinates": "48.18494, 16.31229",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "83": {
     "id": 83,
     "order": "83.00000000000000000000",
     "name": "France",
     "amp_id": "amp_place_id_83",
-    "geonames_id": "https://www.geonames.org/3017382/republic-of-france.html",
+    "geonames_id": "https://sws.geonames.org/3017382/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -2921,7 +3257,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q142",
     "gnd": "https://d-nb.info/gnd/4018145-5",
-    "geonames_coordinates": "46, 2"
+    "geonames_coordinates": "46, 2",
+    "place_type": "country, state, region,...",
+    "country": "France",
+    "country_code": "FR",
+    "place_type_class": "A"
   },
   "84": {
     "id": 84,
@@ -2975,7 +3315,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.85341, 2.3488"
+    "geonames_coordinates": "48.85341, 2.3488",
+    "place_type": "city, village,...",
+    "country": "France",
+    "country_code": "FR",
+    "place_type_class": "P"
   },
   "85": {
     "id": 85,
@@ -3003,14 +3347,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "None, None"
+    "geonames_coordinates": "None, None",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "86": {
     "id": 86,
     "order": "86.00000000000000000000",
     "name": "Budapest",
     "amp_id": "amp_place_id_86",
-    "geonames_id": "https://www.geonames.org/3054643/budapest.html",
+    "geonames_id": "https://sws.geonames.org/3054643/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3031,14 +3379,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1781",
     "gnd": "https://d-nb.info/gnd/4008684-7",
-    "geonames_coordinates": "47.49835, 19.04045"
+    "geonames_coordinates": "47.49835, 19.04045",
+    "place_type": "city, village,...",
+    "country": "Hungary",
+    "country_code": "HU",
+    "place_type_class": "P"
   },
   "87": {
     "id": 87,
     "order": "87.00000000000000000000",
     "name": "Westminster Abbey",
     "amp_id": "amp_place_id_87",
-    "geonames_id": "https://www.geonames.org/6618996/westminster-abbey.html",
+    "geonames_id": "https://sws.geonames.org/6618996/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3059,7 +3411,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5933",
     "gnd": "https://d-nb.info/gnd/4206437-5",
-    "geonames_coordinates": "51.49937, -0.12846"
+    "geonames_coordinates": "51.49937, -0.12846",
+    "place_type": "spot, building, farm",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "S"
   },
   "88": {
     "id": 88,
@@ -3087,7 +3443,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "89": {
     "id": 89,
@@ -3115,14 +3475,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.20692, 16.36707"
+    "geonames_coordinates": "48.20692, 16.36707",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "90": {
     "id": 90,
     "order": "90.00000000000000000000",
     "name": "Leningrad",
     "amp_id": "amp_place_id_90",
-    "geonames_id": "https://www.geonames.org/536199/leningrad-oblast.html",
+    "geonames_id": "https://sws.geonames.org/536199/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3143,14 +3507,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q2191",
     "gnd": "https://d-nb.info/gnd/4302147-5",
-    "geonames_coordinates": "60, 32"
+    "geonames_coordinates": "60, 32",
+    "place_type": "country, state, region,...",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "A"
   },
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
     "name": "Russia",
     "amp_id": "amp_place_id_91",
-    "geonames_id": "https://www.geonames.org/2017370/russian-federation.html",
+    "geonames_id": "https://sws.geonames.org/2017370/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3161,7 +3529,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q159",
     "gnd": "https://d-nb.info/gnd/4076899-5",
-    "geonames_coordinates": "60, 100"
+    "geonames_coordinates": "60, 100",
+    "place_type": "country, state, region,...",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "A"
   },
   "92": {
     "id": 92,
@@ -3189,14 +3561,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",
     "name": "UK",
     "amp_id": "amp_place_id_93",
-    "geonames_id": "https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html",
+    "geonames_id": "https://sws.geonames.org/2635167/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3242,7 +3618,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q145",
     "gnd": "https://d-nb.info/gnd/4022153-2",
-    "geonames_coordinates": "54.75844, -2.69531"
+    "geonames_coordinates": "54.75844, -2.69531",
+    "place_type": "country, state, region,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "A"
   },
   "94": {
     "id": 94,
@@ -3270,14 +3650,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "95": {
     "id": 95,
     "order": "95.00000000000000000000",
     "name": "Neuer Markt",
     "amp_id": "amp_place_id_95",
-    "geonames_id": "https://www.geonames.org/10244820/neuer-markt.html",
+    "geonames_id": "https://sws.geonames.org/10244820/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3298,7 +3682,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1493443",
     "gnd": "https://d-nb.info/gnd/4808806-7",
-    "geonames_coordinates": "48.206, 16.37058"
+    "geonames_coordinates": "48.206, 16.37058",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "96": {
     "id": 96,
@@ -3326,14 +3714,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "56, 9.25"
+    "geonames_coordinates": "56, 9.25",
+    "place_type": "parks,area, ...",
+    "country": "Denmark",
+    "country_code": "DK",
+    "place_type_class": "L"
   },
   "97": {
     "id": 97,
     "order": "97.00000000000000000000",
     "name": "Switzerland",
     "amp_id": "amp_place_id_97",
-    "geonames_id": "https://www.geonames.org/2658434/switzerland.html",
+    "geonames_id": "https://sws.geonames.org/2658434/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3354,14 +3746,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q39",
     "gnd": "https://d-nb.info/gnd/4053881-3",
-    "geonames_coordinates": "47.00016, 8.01427"
+    "geonames_coordinates": "47.00016, 8.01427",
+    "place_type": "country, state, region,...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "A"
   },
   "98": {
     "id": 98,
     "order": "98.00000000000000000000",
     "name": "India",
     "amp_id": "amp_place_id_98",
-    "geonames_id": "https://www.geonames.org/1269750/republic-of-india.html",
+    "geonames_id": "https://sws.geonames.org/1269750/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3372,7 +3768,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q668",
     "gnd": "https://d-nb.info/gnd/4026722-2",
-    "geonames_coordinates": "22, 79"
+    "geonames_coordinates": "22, 79",
+    "place_type": "country, state, region,...",
+    "country": "India",
+    "country_code": "IN",
+    "place_type_class": "A"
   },
   "99": {
     "id": 99,
@@ -3390,14 +3790,18 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
     "name": "Czechoslovakia",
     "amp_id": "amp_place_id_100",
-    "geonames_id": "https://www.geonames.org/8505031/czechoslovakia.html",
+    "geonames_id": "https://sws.geonames.org/8505031/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3418,7 +3822,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q33946",
     "gnd": "https://d-nb.info/gnd/4078435-6",
-    "geonames_coordinates": "50.08292, 14.46672"
+    "geonames_coordinates": "50.08292, 14.46672",
+    "place_type": "country, state, region,...",
+    "country": "",
+    "country_code": "CS",
+    "place_type_class": "A"
   },
   "101": {
     "id": 101,
@@ -3446,7 +3854,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "None, None"
+    "geonames_coordinates": "None, None",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "102": {
     "id": 102,
@@ -3474,14 +3886,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.26266, 11.39454"
+    "geonames_coordinates": "47.26266, 11.39454",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
     "name": "Arcadia",
     "amp_id": "amp_place_id_103",
-    "geonames_id": "https://www.geonames.org/264644/nomos-arkadias.html",
+    "geonames_id": "https://sws.geonames.org/264644/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -3492,7 +3908,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q170054",
     "gnd": "https://d-nb.info/gnd/4002921-9",
-    "geonames_coordinates": "37.58333, 22.25"
+    "geonames_coordinates": "37.58333, 22.25",
+    "place_type": "country, state, region,...",
+    "country": "Greece",
+    "country_code": "GR",
+    "place_type_class": "A"
   },
   "104": {
     "id": 104,
@@ -3520,7 +3940,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "105": {
     "id": 105,
@@ -3548,14 +3972,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "106": {
     "id": 106,
     "order": "106.00000000000000000000",
     "name": "Berkshire",
     "amp_id": "amp_place_id_106",
-    "geonames_id": "https://www.geonames.org/2655856/berkshire.html",
+    "geonames_id": "https://sws.geonames.org/2655856/",
     "persons": [
       {
         "id": 39,
@@ -3581,14 +4009,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q23220",
     "gnd": "https://d-nb.info/gnd/4087289-0",
-    "geonames_coordinates": "51.5, -1.25"
+    "geonames_coordinates": "51.5, -1.25",
+    "place_type": "parks,area, ...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "L"
   },
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
     "name": "Leipzig",
     "amp_id": "amp_place_id_107",
-    "geonames_id": "https://www.geonames.org/2879139/leipzig.html",
+    "geonames_id": "https://sws.geonames.org/2879139/",
     "persons": [
       {
         "id": 18,
@@ -3614,14 +4046,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q2079",
     "gnd": "https://d-nb.info/gnd/4035206-7",
-    "geonames_coordinates": "51.33962, 12.37129"
+    "geonames_coordinates": "51.33962, 12.37129",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "108": {
     "id": 108,
     "order": "108.00000000000000000000",
     "name": "Dublin",
     "amp_id": "amp_place_id_108",
-    "geonames_id": "https://www.geonames.org/2964574/dublin.html",
+    "geonames_id": "https://sws.geonames.org/2964574/",
     "persons": [
       {
         "id": 20,
@@ -3631,20 +4067,33 @@
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 31,
+        "value": "University of Dublin"
+      },
+      {
+        "id": 32,
+        "value": "Trinity College"
+      }
+    ],
     "fiction_real_place": [],
     "is_part_of": [],
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q1761",
     "gnd": "https://d-nb.info/gnd/4013170-1",
-    "geonames_coordinates": "53.33306, -6.24889"
+    "geonames_coordinates": "53.33306, -6.24889",
+    "place_type": "city, village,...",
+    "country": "Ireland",
+    "country_code": "IE",
+    "place_type_class": "P"
   },
   "109": {
     "id": 109,
     "order": "109.00000000000000000000",
     "name": "Dessau",
     "amp_id": "amp_place_id_109",
-    "geonames_id": "https://www.geonames.org/2937959/dessau.html",
+    "geonames_id": "https://sws.geonames.org/2937959/",
     "persons": [
       {
         "id": 40,
@@ -3670,14 +4119,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q487070",
     "gnd": "https://d-nb.info/gnd/4011536-7",
-    "geonames_coordinates": "51.83864, 12.24555"
+    "geonames_coordinates": "51.83864, 12.24555",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "110": {
     "id": 110,
     "order": "110.00000000000000000000",
     "name": "Bloemfontein",
     "amp_id": "amp_place_id_110",
-    "geonames_id": "https://www.geonames.org/1018725/bloemfontein.html",
+    "geonames_id": "https://sws.geonames.org/1018725/",
     "persons": [
       {
         "id": 41,
@@ -3703,7 +4156,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q37701",
     "gnd": "https://d-nb.info/gnd/4488274-9",
-    "geonames_coordinates": "-29.12107, 26.214"
+    "geonames_coordinates": "-29.12107, 26.214",
+    "place_type": "city, village,...",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "place_type_class": "P"
   },
   "111": {
     "id": 111,
@@ -3741,7 +4198,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.50566, 11.99086"
+    "geonames_coordinates": "50.50566, 11.99086",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "112": {
     "id": 112,
@@ -3774,7 +4235,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "113": {
     "id": 113,
@@ -3797,7 +4262,11 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.88365, 5.98154"
+    "geonames_coordinates": "50.88365, 5.98154",
+    "place_type": "city, village,...",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "place_type_class": "P"
   },
   "114": {
     "id": 114,
@@ -3835,7 +4304,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.91839, 13.79933"
+    "geonames_coordinates": "47.91839, 13.79933",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "115": {
     "id": 115,
@@ -3868,7 +4341,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "44.1, 11.98333"
+    "geonames_coordinates": "44.1, 11.98333",
+    "place_type": "country, state, region,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "A"
   },
   "116": {
     "id": 116,
@@ -3901,14 +4378,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "45.98168, 9.20514"
+    "geonames_coordinates": "45.98168, 9.20514",
+    "place_type": "country, state, region,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "A"
   },
   "117": {
     "id": 117,
     "order": "117.00000000000000000000",
     "name": "Velké Pavlovice",
     "amp_id": "amp_place_id_117",
-    "geonames_id": "https://www.geonames.org/3063192/velke-pavlovice.html",
+    "geonames_id": "https://sws.geonames.org/3063192/",
     "persons": [
       {
         "id": 57,
@@ -3934,7 +4415,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1028003",
     "gnd": "https://d-nb.info/gnd/7521150-6",
-    "geonames_coordinates": "48.90469, 16.81605"
+    "geonames_coordinates": "48.90469, 16.81605",
+    "place_type": "city, village,...",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "place_type_class": "P"
   },
   "118": {
     "id": 118,
@@ -3967,14 +4452,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.29192, 7.53559"
+    "geonames_coordinates": "46.29192, 7.53559",
+    "place_type": "city, village,...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "P"
   },
   "119": {
     "id": 119,
     "order": "119.00000000000000000000",
     "name": "Příbor",
     "amp_id": "amp_place_id_119",
-    "geonames_id": "https://www.geonames.org/3067544/pribor.html",
+    "geonames_id": "https://sws.geonames.org/3067544/",
     "persons": [
       {
         "id": 58,
@@ -3990,7 +4479,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q654019",
     "gnd": "https://d-nb.info/gnd/4630931-7",
-    "geonames_coordinates": "49.64094, 18.14499"
+    "geonames_coordinates": "49.64094, 18.14499",
+    "place_type": "city, village,...",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "place_type_class": "P"
   },
   "120": {
     "id": 120,
@@ -4013,14 +4506,18 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.49582, 26.86916"
+    "geonames_coordinates": "46.49582, 26.86916",
+    "place_type": "country, state, region,...",
+    "country": "Romania",
+    "country_code": "RO",
+    "place_type_class": "A"
   },
   "121": {
     "id": 121,
     "order": "121.00000000000000000000",
     "name": "Nitra",
     "amp_id": "amp_place_id_121",
-    "geonames_id": "https://www.geonames.org/3058531/nitra.html",
+    "geonames_id": "https://sws.geonames.org/3058531/",
     "persons": [
       {
         "id": 62,
@@ -4036,7 +4533,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q26397",
     "gnd": "https://d-nb.info/gnd/4101153-3",
-    "geonames_coordinates": "48.30763, 18.08453"
+    "geonames_coordinates": "48.30763, 18.08453",
+    "place_type": "city, village,...",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "place_type_class": "P"
   },
   "122": {
     "id": 122,
@@ -4069,14 +4570,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.20222, 6.14569"
+    "geonames_coordinates": "46.20222, 6.14569",
+    "place_type": "city, village,...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "P"
   },
   "123": {
     "id": 123,
     "order": "123.00000000000000000000",
     "name": "Atzenbrugg-Moosbierbaum",
     "amp_id": "amp_place_id_123",
-    "geonames_id": "https://www.geonames.org/2771246/moosbierbaum.html",
+    "geonames_id": "https://sws.geonames.org/2771246/",
     "persons": [
       {
         "id": 64,
@@ -4102,14 +4607,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q6908541",
     "gnd": "https://d-nb.info/gnd/4809765-2",
-    "geonames_coordinates": "48.30478, 15.90048"
+    "geonames_coordinates": "48.30478, 15.90048",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "124": {
     "id": 124,
     "order": "124.00000000000000000000",
     "name": "Bremen",
     "amp_id": "amp_place_id_124",
-    "geonames_id": "https://www.geonames.org/2944388/bremen.html",
+    "geonames_id": "https://sws.geonames.org/2944388/",
     "persons": [
       {
         "id": 66,
@@ -4135,7 +4644,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q24879",
     "gnd": "https://d-nb.info/gnd/4008135-7",
-    "geonames_coordinates": "53.07582, 8.80717"
+    "geonames_coordinates": "53.07582, 8.80717",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "125": {
     "id": 125,
@@ -4168,14 +4681,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.71667, 11.71667"
+    "geonames_coordinates": "47.71667, 11.71667",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "126": {
     "id": 126,
     "order": "126.00000000000000000000",
     "name": "Hamburg",
     "amp_id": "amp_place_id_126",
-    "geonames_id": "https://www.geonames.org/2911298/hamburg.html",
+    "geonames_id": "https://sws.geonames.org/2911298/",
     "persons": [
       {
         "id": 67,
@@ -4201,7 +4718,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1055",
     "gnd": "https://d-nb.info/gnd/4023118-5",
-    "geonames_coordinates": "53.55073, 9.99302"
+    "geonames_coordinates": "53.55073, 9.99302",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "127": {
     "id": 127,
@@ -4234,7 +4755,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "43.4268, -114.21882"
+    "geonames_coordinates": "43.4268, -114.21882",
+    "place_type": "parks,area, ...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "L"
   },
   "128": {
     "id": 128,
@@ -4257,14 +4782,18 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.85782, 14.82112"
+    "geonames_coordinates": "51.85782, 14.82112",
+    "place_type": "city, village,...",
+    "country": "Poland",
+    "country_code": "PL",
+    "place_type_class": "P"
   },
   "129": {
     "id": 129,
     "order": "129.00000000000000000000",
     "name": "Chicago",
     "amp_id": "amp_place_id_129",
-    "geonames_id": "https://www.geonames.org/4887398/chicago.html",
+    "geonames_id": "https://sws.geonames.org/4887398/",
     "persons": [],
     "persons - death_place": [
       {
@@ -4290,14 +4819,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1297",
     "gnd": "https://d-nb.info/gnd/4009921-0",
-    "geonames_coordinates": "41.85003, -87.65005"
+    "geonames_coordinates": "41.85003, -87.65005",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "130": {
     "id": 130,
     "order": "130.00000000000000000000",
     "name": "Johannesburg",
     "amp_id": "amp_place_id_130",
-    "geonames_id": "https://www.geonames.org/993800/johannesburg.html",
+    "geonames_id": "https://sws.geonames.org/993800/",
     "persons": [
       {
         "id": 70,
@@ -4313,14 +4846,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q34647",
     "gnd": "https://d-nb.info/gnd/4028698-8",
-    "geonames_coordinates": "-26.20227, 28.04363"
+    "geonames_coordinates": "-26.20227, 28.04363",
+    "place_type": "city, village,...",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "place_type_class": "P"
   },
   "131": {
     "id": 131,
     "order": "131.00000000000000000000",
     "name": "Cape Town",
     "amp_id": "amp_place_id_131",
-    "geonames_id": "https://www.geonames.org/3369157/cape-town.html",
+    "geonames_id": "https://sws.geonames.org/3369157/",
     "persons": [],
     "persons - death_place": [
       {
@@ -4336,14 +4873,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q5465",
     "gnd": "https://d-nb.info/gnd/4029615-5",
-    "geonames_coordinates": "-33.92584, 18.42322"
+    "geonames_coordinates": "-33.92584, 18.42322",
+    "place_type": "city, village,...",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "place_type_class": "P"
   },
   "132": {
     "id": 132,
     "order": "132.00000000000000000000",
     "name": "Belfast",
     "amp_id": "amp_place_id_132",
-    "geonames_id": "https://www.geonames.org/2655984/belfast.html",
+    "geonames_id": "https://sws.geonames.org/2655984/",
     "persons": [
       {
         "id": 71,
@@ -4359,7 +4900,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q10686",
     "gnd": "https://d-nb.info/gnd/4080332-6",
-    "geonames_coordinates": "54.59682, -5.92541"
+    "geonames_coordinates": "54.59682, -5.92541",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "133": {
     "id": 133,
@@ -4392,14 +4937,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.36667, 8.55"
+    "geonames_coordinates": "47.36667, 8.55",
+    "place_type": "city, village,...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "P"
   },
   "134": {
     "id": 134,
     "order": "134.00000000000000000000",
     "name": "Seattle",
     "amp_id": "amp_place_id_134",
-    "geonames_id": "https://www.geonames.org/5809844/seattle.html",
+    "geonames_id": "https://sws.geonames.org/5809844/",
     "persons": [
       {
         "id": 72,
@@ -4425,14 +4974,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5083",
     "gnd": "https://d-nb.info/gnd/4054058-3",
-    "geonames_coordinates": "47.60621, -122.33207"
+    "geonames_coordinates": "47.60621, -122.33207",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "135": {
     "id": 135,
     "order": "135.00000000000000000000",
     "name": "Saint Petersburg",
     "amp_id": "amp_place_id_135",
-    "geonames_id": "https://www.geonames.org/498817/saint-petersburg.html",
+    "geonames_id": "https://sws.geonames.org/498817/",
     "persons": [
       {
         "id": 74,
@@ -4462,14 +5015,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q656",
     "gnd": "https://d-nb.info/gnd/4267026-3",
-    "geonames_coordinates": "59.93863, 30.31413"
+    "geonames_coordinates": "59.93863, 30.31413",
+    "place_type": "city, village,...",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "P"
   },
   "136": {
     "id": 136,
     "order": "136.00000000000000000000",
     "name": "Potsdam",
     "amp_id": "amp_place_id_136",
-    "geonames_id": "https://www.geonames.org/2852458/potsdam.html",
+    "geonames_id": "https://sws.geonames.org/2852458/",
     "persons": [],
     "persons - death_place": [
       {
@@ -4495,14 +5052,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1711",
     "gnd": "https://d-nb.info/gnd/4046948-7",
-    "geonames_coordinates": "52.39886, 13.06566"
+    "geonames_coordinates": "52.39886, 13.06566",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "137": {
     "id": 137,
     "order": "137.00000000000000000000",
     "name": "Włocławek",
     "amp_id": "amp_place_id_137",
-    "geonames_id": "https://www.geonames.org/3081741/wloclawek.html",
+    "geonames_id": "https://sws.geonames.org/3081741/",
     "persons": [
       {
         "id": 75,
@@ -4518,14 +5079,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q106681",
     "gnd": "https://d-nb.info/gnd/4254356-3",
-    "geonames_coordinates": "52.64817, 19.0678"
+    "geonames_coordinates": "52.64817, 19.0678",
+    "place_type": "city, village,...",
+    "country": "Poland",
+    "country_code": "PL",
+    "place_type_class": "P"
   },
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
     "name": "Moscow",
     "amp_id": "amp_place_id_138",
-    "geonames_id": "https://www.geonames.org/524901/moscow.html",
+    "geonames_id": "https://sws.geonames.org/524901/",
     "persons": [
       {
         "id": 76,
@@ -4556,7 +5121,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q649",
     "gnd": "https://d-nb.info/gnd/4074987-3",
-    "geonames_coordinates": "55.75222, 37.61556"
+    "geonames_coordinates": "55.75222, 37.61556",
+    "place_type": "city, village,...",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "P"
   },
   "139": {
     "id": 139,
@@ -4589,14 +5158,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.90693, 8.37853"
+    "geonames_coordinates": "51.90693, 8.37853",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "140": {
     "id": 140,
     "order": "140.00000000000000000000",
     "name": "Dresden",
     "amp_id": "amp_place_id_140",
-    "geonames_id": "https://www.geonames.org/2935022/dresden.html",
+    "geonames_id": "https://sws.geonames.org/2935022/",
     "persons": [],
     "persons - death_place": [
       {
@@ -4622,14 +5195,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1731",
     "gnd": "https://d-nb.info/gnd/4012995-0",
-    "geonames_coordinates": "51.05089, 13.73832"
+    "geonames_coordinates": "51.05089, 13.73832",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "141": {
     "id": 141,
     "order": "141.00000000000000000000",
     "name": "Jičín",
     "amp_id": "amp_place_id_141",
-    "geonames_id": "https://www.geonames.org/3074204/jicin.html",
+    "geonames_id": "https://sws.geonames.org/3074204/",
     "persons": [
       {
         "id": 81,
@@ -4645,14 +5222,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q656603",
     "gnd": "https://d-nb.info/gnd/4440310-0",
-    "geonames_coordinates": "50.43723, 15.35162"
+    "geonames_coordinates": "50.43723, 15.35162",
+    "place_type": "city, village,...",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "place_type_class": "P"
   },
   "142": {
     "id": 142,
     "order": "142.00000000000000000000",
     "name": "Castleford",
     "amp_id": "amp_place_id_142",
-    "geonames_id": "https://www.geonames.org/2653584/castleford.html",
+    "geonames_id": "https://sws.geonames.org/2653584/",
     "persons": [
       {
         "id": 82,
@@ -4678,7 +5259,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q546485",
     "gnd": "https://d-nb.info/gnd/4553760-4",
-    "geonames_coordinates": "53.72587, -1.36256"
+    "geonames_coordinates": "53.72587, -1.36256",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "143": {
     "id": 143,
@@ -4711,7 +5296,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.83952, 0.08527"
+    "geonames_coordinates": "51.83952, 0.08527",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "144": {
     "id": 144,
@@ -4744,7 +5333,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.2, 15.2"
+    "geonames_coordinates": "48.2, 15.2",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "145": {
     "id": 145,
@@ -4777,7 +5370,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.39869, 6.92654"
+    "geonames_coordinates": "46.39869, 6.92654",
+    "place_type": "city, village,...",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "place_type_class": "P"
   },
   "146": {
     "id": 146,
@@ -4810,7 +5407,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "40.34705, -74.06431"
+    "geonames_coordinates": "40.34705, -74.06431",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "147": {
     "id": 147,
@@ -4843,7 +5444,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "43.5334, -75.36517"
+    "geonames_coordinates": "43.5334, -75.36517",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "148": {
     "id": 148,
@@ -4876,7 +5481,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "34.33235, -79.95769"
+    "geonames_coordinates": "34.33235, -79.95769",
+    "place_type": "country, state, region,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "A"
   },
   "149": {
     "id": 149,
@@ -4909,14 +5518,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "35.18592, -86.11221"
+    "geonames_coordinates": "35.18592, -86.11221",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "150": {
     "id": 150,
     "order": "150.00000000000000000000",
     "name": "Kolkota",
     "amp_id": "amp_place_id_150",
-    "geonames_id": "https://www.geonames.org/1275004/kolkata.html",
+    "geonames_id": "https://sws.geonames.org/1275004/",
     "persons": [
       {
         "id": 90,
@@ -4937,7 +5550,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q1348",
     "gnd": "https://d-nb.info/gnd/4029344-0",
-    "geonames_coordinates": "22.56263, 88.36304"
+    "geonames_coordinates": "22.56263, 88.36304",
+    "place_type": "city, village,...",
+    "country": "India",
+    "country_code": "IN",
+    "place_type_class": "P"
   },
   "151": {
     "id": 151,
@@ -4970,14 +5587,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.73455, -2.6384"
+    "geonames_coordinates": "51.73455, -2.6384",
+    "place_type": "country, state, region,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "A"
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
     "name": "Antananarivo",
     "amp_id": "amp_place_id_152",
-    "geonames_id": "https://www.geonames.org/1070940/antananarivo.html",
+    "geonames_id": "https://sws.geonames.org/1070940/",
     "persons": [
       {
         "id": 92,
@@ -4993,7 +5614,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q3915",
     "gnd": "https://d-nb.info/gnd/4212652-6",
-    "geonames_coordinates": "-18.91368, 47.53613"
+    "geonames_coordinates": "-18.91368, 47.53613",
+    "place_type": "city, village,...",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "place_type_class": "P"
   },
   "153": {
     "id": 153,
@@ -5021,14 +5646,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "53.34242, -6.25667"
+    "geonames_coordinates": "53.34242, -6.25667",
+    "place_type": "spot, building, farm",
+    "country": "Ireland",
+    "country_code": "IE",
+    "place_type_class": "S"
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
     "name": "Prague",
     "amp_id": "amp_place_id_154",
-    "geonames_id": "https://www.geonames.org/3067696/prague.html",
+    "geonames_id": "https://sws.geonames.org/3067696/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5039,14 +5668,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q1085",
     "gnd": "https://d-nb.info/gnd/4076310-9",
-    "geonames_coordinates": "50.08804, 14.42076"
+    "geonames_coordinates": "50.08804, 14.42076",
+    "place_type": "city, village,...",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "place_type_class": "P"
   },
   "155": {
     "id": 155,
     "order": "155.00000000000000000000",
     "name": "Boston",
     "amp_id": "amp_place_id_155",
-    "geonames_id": "https://www.geonames.org/4930956/boston.html",
+    "geonames_id": "https://sws.geonames.org/4930956/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5072,14 +5705,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q100",
     "gnd": "https://d-nb.info/gnd/4007840-1",
-    "geonames_coordinates": "42.35843, -71.05977"
+    "geonames_coordinates": "42.35843, -71.05977",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "156": {
     "id": 156,
     "order": "156.00000000000000000000",
     "name": "Vienna's 3rd Bezirk",
     "amp_id": "amp_place_id_156",
-    "geonames_id": "https://www.geonames.org/2773040/gemeindebezirk-landstrasse.html",
+    "geonames_id": "https://sws.geonames.org/2773040/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5100,7 +5737,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q519552",
     "gnd": "https://d-nb.info/gnd/4196533-4",
-    "geonames_coordinates": "48.19811, 16.39482"
+    "geonames_coordinates": "48.19811, 16.39482",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "157": {
     "id": 157,
@@ -5128,14 +5769,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.20323, 16.36912"
+    "geonames_coordinates": "48.20323, 16.36912",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "158": {
     "id": 158,
     "order": "158.00000000000000000000",
     "name": "Prater",
     "amp_id": "amp_place_id_158",
-    "geonames_id": "https://www.geonames.org/3322725/prater.html",
+    "geonames_id": "https://sws.geonames.org/3322725/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5156,14 +5801,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q264752",
     "gnd": "https://d-nb.info/gnd/4108812-8",
-    "geonames_coordinates": "48.20609, 16.41169"
+    "geonames_coordinates": "48.20609, 16.41169",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "159": {
     "id": 159,
     "order": "159.00000000000000000000",
     "name": "Italy",
     "amp_id": "amp_place_id_159",
-    "geonames_id": "https://www.geonames.org/3175395/italian-republic.html",
+    "geonames_id": "https://sws.geonames.org/3175395/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5184,7 +5833,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q38",
     "gnd": "https://d-nb.info/gnd/4027833-5",
-    "geonames_coordinates": "42.83333, 12.83333"
+    "geonames_coordinates": "42.83333, 12.83333",
+    "place_type": "country, state, region,...",
+    "country": "Italy",
+    "country_code": "IT",
+    "place_type_class": "A"
   },
   "160": {
     "id": 160,
@@ -5212,14 +5865,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "161": {
     "id": 161,
     "order": "161.00000000000000000000",
     "name": "San Francisco",
     "amp_id": "amp_place_id_161",
-    "geonames_id": "https://www.geonames.org/5391959/san-francisco.html",
+    "geonames_id": "https://sws.geonames.org/5391959/",
     "persons": [],
     "persons - death_place": [
       {
@@ -5245,14 +5902,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q62",
     "gnd": "https://d-nb.info/gnd/4051520-5",
-    "geonames_coordinates": "37.77493, -122.41942"
+    "geonames_coordinates": "37.77493, -122.41942",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "162": {
     "id": 162,
     "order": "162.00000000000000000000",
     "name": "Eisleben Lutherstad",
     "amp_id": "amp_place_id_162",
-    "geonames_id": "https://www.geonames.org/7284571/eisleben-lutherstadt.html",
+    "geonames_id": "https://sws.geonames.org/7284571/",
     "persons": [
       {
         "id": 102,
@@ -5283,7 +5944,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q484870",
     "gnd": "https://d-nb.info/gnd/4092450-6",
-    "geonames_coordinates": "51.52754, 11.54835"
+    "geonames_coordinates": "51.52754, 11.54835",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "163": {
     "id": 163,
@@ -5307,14 +5972,18 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "164": {
     "id": 164,
     "order": "164.00000000000000000000",
     "name": "Thagaste",
     "amp_id": "amp_place_id_164",
-    "geonames_id": "https://www.geonames.org/2479215/souk-ahras.html",
+    "geonames_id": "https://sws.geonames.org/2479215/",
     "persons": [
       {
         "id": 111,
@@ -5330,7 +5999,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q402992",
     "gnd": "https://d-nb.info/gnd/1034111582",
-    "geonames_coordinates": "36.28639, 7.95111"
+    "geonames_coordinates": "36.28639, 7.95111",
+    "place_type": "city, village,...",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "place_type_class": "P"
   },
   "165": {
     "id": 165,
@@ -5353,14 +6026,18 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "36.86574, 7.73323"
+    "geonames_coordinates": "36.86574, 7.73323",
+    "place_type": "city, village,...",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "place_type_class": "P"
   },
   "166": {
     "id": 166,
     "order": "166.00000000000000000000",
     "name": "Trautmannsdorf an der Leitha",
     "amp_id": "amp_place_id_166",
-    "geonames_id": "https://www.geonames.org/7871726/trautmannsdorf-an-der-leitha.html",
+    "geonames_id": "https://sws.geonames.org/7871726/",
     "persons": [
       {
         "id": 112,
@@ -5391,14 +6068,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q670580",
     "gnd": "https://d-nb.info/gnd/4106928-6",
-    "geonames_coordinates": "48.03809, 16.66017"
+    "geonames_coordinates": "48.03809, 16.66017",
+    "place_type": "country, state, region,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "A"
   },
   "167": {
     "id": 167,
     "order": "167.00000000000000000000",
     "name": "Nottingham",
     "amp_id": "amp_place_id_167",
-    "geonames_id": "https://www.geonames.org/2641170/nottingham.html",
+    "geonames_id": "https://sws.geonames.org/2641170/",
     "persons": [
       {
         "id": 113,
@@ -5424,14 +6105,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q41262",
     "gnd": "https://d-nb.info/gnd/4117929-8",
-    "geonames_coordinates": "52.9536, -1.15047"
+    "geonames_coordinates": "52.9536, -1.15047",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "168": {
     "id": 168,
     "order": "168.00000000000000000000",
     "name": "Manhattan",
     "amp_id": "amp_place_id_168",
-    "geonames_id": "https://www.geonames.org/5125771/manhattan.html",
+    "geonames_id": "https://sws.geonames.org/5125771/",
     "persons": [],
     "persons - death_place": [
       {
@@ -5457,7 +6142,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q11299",
     "gnd": "https://d-nb.info/gnd/4101161-2",
-    "geonames_coordinates": "40.78343, -73.96625"
+    "geonames_coordinates": "40.78343, -73.96625",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "169": {
     "id": 169,
@@ -5490,7 +6179,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.37154, 10.89851"
+    "geonames_coordinates": "48.37154, 10.89851",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "170": {
     "id": 170,
@@ -5518,7 +6211,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "171": {
     "id": 171,
@@ -5546,7 +6243,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "172": {
     "id": 172,
@@ -5574,7 +6275,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "173": {
     "id": 173,
@@ -5602,7 +6307,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "174": {
     "id": 174,
@@ -5630,7 +6339,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "175": {
     "id": 175,
@@ -5658,14 +6371,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.2, 16.18333"
+    "geonames_coordinates": "48.2, 16.18333",
+    "place_type": "parks,area, ...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "L"
   },
   "176": {
     "id": 176,
     "order": "176.00000000000000000000",
     "name": "Riga",
     "amp_id": "amp_place_id_176",
-    "geonames_id": "https://www.geonames.org/456172/riga.html",
+    "geonames_id": "https://sws.geonames.org/456172/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -5676,7 +6393,11 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q1773",
     "gnd": "https://d-nb.info/gnd/4050042-1",
-    "geonames_coordinates": "56.946, 24.10589"
+    "geonames_coordinates": "56.946, 24.10589",
+    "place_type": "city, village,...",
+    "country": "Latvia",
+    "country_code": "LV",
+    "place_type_class": "P"
   },
   "177": {
     "id": 177,
@@ -5704,14 +6425,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "178": {
     "id": 178,
     "order": "178.00000000000000000000",
     "name": "Lisburn",
     "amp_id": "amp_place_id_178",
-    "geonames_id": "https://www.geonames.org/2644411/lisburn.html",
+    "geonames_id": "https://sws.geonames.org/2644411/",
     "persons": [
       {
         "id": 120,
@@ -5737,7 +6462,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1828035",
     "gnd": "https://d-nb.info/gnd/4369637-5",
-    "geonames_coordinates": "54.52337, -6.03527"
+    "geonames_coordinates": "54.52337, -6.03527",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "179": {
     "id": 179,
@@ -5760,7 +6489,11 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "53.15611, -6.91444"
+    "geonames_coordinates": "53.15611, -6.91444",
+    "place_type": "city, village,...",
+    "country": "Ireland",
+    "country_code": "IE",
+    "place_type_class": "P"
   },
   "180": {
     "id": 180,
@@ -5783,7 +6516,11 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "54.19782, -10.01265"
+    "geonames_coordinates": "54.19782, -10.01265",
+    "place_type": "city, village,...",
+    "country": "Ireland",
+    "country_code": "IE",
+    "place_type_class": "P"
   },
   "181": {
     "id": 181,
@@ -5816,7 +6553,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "55.58131, -1.83744"
+    "geonames_coordinates": "55.58131, -1.83744",
+    "place_type": "country, state, region,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "A"
   },
   "182": {
     "id": 182,
@@ -5839,7 +6580,11 @@
     "relation_types": [],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "28.57101, 110.08464"
+    "geonames_coordinates": "28.57101, 110.08464",
+    "place_type": "city, village,...",
+    "country": "China",
+    "country_code": "CN",
+    "place_type_class": "P"
   },
   "183": {
     "id": 183,
@@ -5872,14 +6617,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.65855, -1.18112"
+    "geonames_coordinates": "51.65855, -1.18112",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "184": {
     "id": 184,
     "order": "184.00000000000000000000",
     "name": "Los Angeles",
     "amp_id": "amp_place_id_184",
-    "geonames_id": "https://www.geonames.org/5368361/los-angeles.html",
+    "geonames_id": "https://sws.geonames.org/5368361/",
     "persons": [
       {
         "id": 126,
@@ -5910,7 +6659,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q65",
     "gnd": "https://d-nb.info/gnd/4036361-2",
-    "geonames_coordinates": "34.05223, -118.24368"
+    "geonames_coordinates": "34.05223, -118.24368",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "185": {
     "id": 185,
@@ -5943,14 +6696,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.06776, 15.1553"
+    "geonames_coordinates": "48.06776, 15.1553",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "186": {
     "id": 186,
     "order": "186.00000000000000000000",
     "name": "Cedar Rapids",
     "amp_id": "amp_place_id_186",
-    "geonames_id": "https://www.geonames.org/4850751/cedar-rapids.html",
+    "geonames_id": "https://sws.geonames.org/4850751/",
     "persons": [
       {
         "id": 128,
@@ -5976,7 +6733,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q486439",
     "gnd": "https://d-nb.info/gnd/4320055-2",
-    "geonames_coordinates": "42.00833, -91.64407"
+    "geonames_coordinates": "42.00833, -91.64407",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "187": {
     "id": 187,
@@ -6009,7 +6770,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "52.12773, 11.62916"
+    "geonames_coordinates": "52.12773, 11.62916",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "188": {
     "id": 188,
@@ -6042,7 +6807,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "48.25628, 13.04343"
+    "geonames_coordinates": "48.25628, 13.04343",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "189": {
     "id": 189,
@@ -6075,7 +6844,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "49.1775, 3.47499"
+    "geonames_coordinates": "49.1775, 3.47499",
+    "place_type": "city, village,...",
+    "country": "France",
+    "country_code": "FR",
+    "place_type_class": "P"
   },
   "190": {
     "id": 190,
@@ -6108,7 +6881,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.98333, 7.41667"
+    "geonames_coordinates": "51.98333, 7.41667",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "191": {
     "id": 191,
@@ -6141,7 +6918,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "47.69419, 9.27113"
+    "geonames_coordinates": "47.69419, 9.27113",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P"
   },
   "192": {
     "id": 192,
@@ -6174,14 +6955,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "193": {
     "id": 193,
     "order": "193.00000000000000000000",
     "name": "Lowestoft",
     "amp_id": "amp_place_id_193",
-    "geonames_id": "https://www.geonames.org/2643490/lowestoft.html",
+    "geonames_id": "https://sws.geonames.org/2643490/",
     "persons": [
       {
         "id": 136,
@@ -6207,14 +6992,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q986007",
     "gnd": "https://d-nb.info/gnd/4464686-0",
-    "geonames_coordinates": "52.47523, 1.75167"
+    "geonames_coordinates": "52.47523, 1.75167",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "194": {
     "id": 194,
     "order": "194.00000000000000000000",
     "name": "Aldeburgh",
     "amp_id": "amp_place_id_194",
-    "geonames_id": "https://www.geonames.org/2657557/aldeburgh.html",
+    "geonames_id": "https://sws.geonames.org/2657557/",
     "persons": [],
     "persons - death_place": [
       {
@@ -6244,7 +7033,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q2077402",
     "gnd": "https://d-nb.info/gnd/4362984-2",
-    "geonames_coordinates": "52.15492, 1.60215"
+    "geonames_coordinates": "52.15492, 1.60215",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "195": {
     "id": 195,
@@ -6277,7 +7070,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "46.8289, 12.76903"
+    "geonames_coordinates": "46.8289, 12.76903",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P"
   },
   "196": {
     "id": 196,
@@ -6310,14 +7107,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.50954, -0.149"
+    "geonames_coordinates": "51.50954, -0.149",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "197": {
     "id": 197,
     "order": "197.00000000000000000000",
     "name": "Balmoral Castle",
     "amp_id": "amp_place_id_197",
-    "geonames_id": "https://www.geonames.org/2656450/balmoral-castle.html",
+    "geonames_id": "https://sws.geonames.org/2656450/",
     "persons": [],
     "persons - death_place": [
       {
@@ -6343,7 +7144,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q42049",
     "gnd": "https://d-nb.info/gnd/4212169-3",
-    "geonames_coordinates": "57.03333, -3.23333"
+    "geonames_coordinates": "57.03333, -3.23333",
+    "place_type": "spot, building, farm",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "S"
   },
   "198": {
     "id": 198,
@@ -6376,7 +7181,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.94924, -0.28496"
+    "geonames_coordinates": "51.94924, -0.28496",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "199": {
     "id": 199,
@@ -6409,7 +7218,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "56.1545, -3.9448"
+    "geonames_coordinates": "56.1545, -3.9448",
+    "place_type": "spot, building, farm",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "S"
   },
   "200": {
     "id": 200,
@@ -6442,14 +7255,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.50401, -0.13836"
+    "geonames_coordinates": "51.50401, -0.13836",
+    "place_type": "spot, building, farm",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "S"
   },
   "201": {
     "id": 201,
     "order": "201.00000000000000000000",
     "name": "Godalming",
     "amp_id": "amp_place_id_201",
-    "geonames_id": "https://www.geonames.org/2648372/godalming.html",
+    "geonames_id": "https://sws.geonames.org/2648372/",
     "persons": [
       {
         "id": 143,
@@ -6475,14 +7292,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q909146",
     "gnd": "https://d-nb.info/gnd/4666301-0",
-    "geonames_coordinates": "51.1858, -0.61489"
+    "geonames_coordinates": "51.1858, -0.61489",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "202": {
     "id": 202,
     "order": "202.00000000000000000000",
     "name": "Jönköping Town",
     "amp_id": "amp_place_id_202",
-    "geonames_id": "https://www.geonames.org/2702979/joenkoeping.html",
+    "geonames_id": "https://sws.geonames.org/2702979/",
     "persons": [
       {
         "id": 131,
@@ -6498,14 +7319,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q25415",
     "gnd": "https://d-nb.info/gnd/4222134-1",
-    "geonames_coordinates": "57.78145, 14.15618"
+    "geonames_coordinates": "57.78145, 14.15618",
+    "place_type": "city, village,...",
+    "country": "Sweden",
+    "country_code": "SE",
+    "place_type_class": "P"
   },
   "203": {
     "id": 203,
     "order": "203.00000000000000000000",
     "name": "Ndola",
     "amp_id": "amp_place_id_203",
-    "geonames_id": "https://www.geonames.org/901344/ndola.html",
+    "geonames_id": "https://sws.geonames.org/901344/",
     "persons": [],
     "persons - death_place": [
       {
@@ -6521,14 +7346,18 @@
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q219671",
     "gnd": "https://d-nb.info/gnd/4394270-2",
-    "geonames_coordinates": "-12.95867, 28.63659"
+    "geonames_coordinates": "-12.95867, 28.63659",
+    "place_type": "city, village,...",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "place_type_class": "P"
   },
   "204": {
     "id": 204,
     "order": "204.00000000000000000000",
     "name": "Edinburgh",
     "amp_id": "amp_place_id_204",
-    "geonames_id": "https://www.geonames.org/2650225/edinburgh.html",
+    "geonames_id": "https://sws.geonames.org/2650225/",
     "persons": [
       {
         "id": 144,
@@ -6554,14 +7383,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q23436",
     "gnd": "https://d-nb.info/gnd/4013557-3",
-    "geonames_coordinates": "55.95206, -3.19648"
+    "geonames_coordinates": "55.95206, -3.19648",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "205": {
     "id": 205,
     "order": "205.00000000000000000000",
     "name": "Cincinnati",
     "amp_id": "amp_place_id_205",
-    "geonames_id": "https://www.geonames.org/4508722/cincinnati.html",
+    "geonames_id": "https://sws.geonames.org/4508722/",
     "persons": [
       {
         "id": 145,
@@ -6587,7 +7420,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q43196",
     "gnd": "https://d-nb.info/gnd/4085269-6",
-    "geonames_coordinates": "39.12711, -84.51439"
+    "geonames_coordinates": "39.12711, -84.51439",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "206": {
     "id": 206,
@@ -6620,14 +7457,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "42.29649, -71.29256"
+    "geonames_coordinates": "42.29649, -71.29256",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "207": {
     "id": 207,
     "order": "207.00000000000000000000",
     "name": "Beinecke Library",
     "amp_id": "amp_place_id_207",
-    "geonames_id": "https://www.geonames.org/5282166/beinecke-rare-book-and-manuscript-library.html",
+    "geonames_id": "https://sws.geonames.org/5282166/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "41.31166478431847, -72.92743824749756",
@@ -6648,14 +7489,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q814779",
     "gnd": "https://d-nb.info/gnd/1097100-2",
-    "geonames_coordinates": "41.31149, -72.92705"
+    "geonames_coordinates": "41.31149, -72.92705",
+    "place_type": "spot, building, farm",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "S"
   },
   "208": {
     "id": 208,
     "order": "208.00000000000000000000",
     "name": "Yale University",
     "amp_id": "amp_place_id_208",
-    "geonames_id": "https://www.geonames.org/4846179/yale-university.html",
+    "geonames_id": "https://sws.geonames.org/4846179/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -6676,7 +7521,11 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q49112",
     "gnd": "https://d-nb.info/gnd/36828-3",
-    "geonames_coordinates": "41.31121, -72.92649"
+    "geonames_coordinates": "41.31121, -72.92649",
+    "place_type": "spot, building, farm",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "S"
   },
   "209": {
     "id": 209,
@@ -6709,7 +7558,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "34.68743, -116.78467"
+    "geonames_coordinates": "34.68743, -116.78467",
+    "place_type": "parks,area, ...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "L"
   },
   "210": {
     "id": 210,
@@ -6737,7 +7590,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "211": {
     "id": 211,
@@ -6765,7 +7622,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "212": {
     "id": 212,
@@ -6793,7 +7654,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "213": {
     "id": 213,
@@ -6821,7 +7686,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.67279, -4.70447"
+    "geonames_coordinates": "51.67279, -4.70447",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "214": {
     "id": 214,
@@ -6849,7 +7718,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "51.83333, -4.91667"
+    "geonames_coordinates": "51.83333, -4.91667",
+    "place_type": "country, state, region,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "A"
   },
   "215": {
     "id": 215,
@@ -6877,7 +7750,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "216": {
     "id": 216,
@@ -6905,7 +7782,11 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "50.78333, -3.65"
+    "geonames_coordinates": "50.78333, -3.65",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "217": {
     "id": 217,
@@ -6933,14 +7814,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": null
+    "geonames_coordinates": null,
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "218": {
     "id": 218,
     "order": "218.00000000000000000000",
     "name": "Burgtheater",
     "amp_id": "amp_place_id_218",
-    "geonames_id": "https://www.geonames.org/6354992/burgtheater.html",
+    "geonames_id": "https://sws.geonames.org/6354992/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -6959,16 +7844,20 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
-    "geonames_coordinates": "48.2102, 16.36087"
+    "wikidata": "http://www.wikidata.org/entity/Q109377820",
+    "gnd": "https://d-nb.info/gnd/1031490280",
+    "geonames_coordinates": "48.2102, 16.36087",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S"
   },
   "219": {
     "id": 219,
     "order": "219.00000000000000000000",
     "name": "Liverpool",
     "amp_id": "amp_place_id_219",
-    "geonames_id": "https://www.geonames.org/2644210/liverpool.html",
+    "geonames_id": "https://sws.geonames.org/2644210/",
     "persons": [
       {
         "id": 158,
@@ -6992,16 +7881,20 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
-    "geonames_coordinates": ""
+    "wikidata": "http://www.wikidata.org/entity/Q24826",
+    "gnd": "https://d-nb.info/gnd/4036068-4",
+    "geonames_coordinates": "53.41058, -2.97794",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "220": {
     "id": 220,
     "order": "220.00000000000000000000",
     "name": "Paddington",
     "amp_id": "amp_place_id_220",
-    "geonames_id": "https://www.geonames.org/2640692/paddington.html",
+    "geonames_id": "https://sws.geonames.org/2640692/",
     "persons": [],
     "persons - death_place": [
       {
@@ -7025,9 +7918,13 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
-    "geonames_coordinates": ""
+    "wikidata": "http://www.wikidata.org/entity/Q124230",
+    "gnd": "https://d-nb.info/gnd/7639614-9",
+    "geonames_coordinates": "51.51558, -0.1763",
+    "place_type": "city, village,...",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "place_type_class": "P"
   },
   "221": {
     "id": 221,
@@ -7060,14 +7957,18 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": ""
+    "geonames_coordinates": "",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   },
   "222": {
     "id": 222,
     "order": "222.00000000000000000000",
     "name": "New Haven",
     "amp_id": "amp_place_id_222",
-    "geonames_id": "https://www.geonames.org/4839366/new-haven.html",
+    "geonames_id": "https://sws.geonames.org/4839366/",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -7086,26 +7987,108 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
-    "geonames_coordinates": ""
+    "wikidata": "http://www.wikidata.org/entity/Q49145",
+    "gnd": "https://d-nb.info/gnd/4117854-3",
+    "geonames_coordinates": "41.30815, -72.92816",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P"
   },
   "223": {
     "id": 223,
     "order": "223.00000000000000000000",
-    "name": "",
+    "name": "Kunstlerhaus",
     "amp_id": "amp_place_id_223",
     "geonames_id": "",
     "persons": [],
     "persons - death_place": [],
-    "google_maps_coordinates": "",
+    "google_maps_coordinates": "48.20120839568255, 16.371684430683988",
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": ""
+    "geonames_coordinates": "",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
+  },
+  "224": {
+    "id": 224,
+    "order": "224.00000000000000000000",
+    "name": "Johann-Strauß-Gasse 28",
+    "amp_id": "amp_place_id_224",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.18723668171942, 16.36847668650523",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
+  },
+  "225": {
+    "id": 225,
+    "order": "225.00000000000000000000",
+    "name": "Hotel \"Altenburger Hof\"",
+    "amp_id": "amp_place_id_225",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.20378854425725, 16.37118272746974",
+    "comments": "https://www.geschichtewiki.wien.gv.at/Altenburger_Hof",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.geschichtewiki.wien.gv.at/Altenburger_Hof",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": null,
+    "country": null,
+    "country_code": null,
+    "place_type_class": null
   }
 }

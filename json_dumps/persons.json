@@ -219,6 +219,10 @@
       {
         "id": 61,
         "value": "Joseph Weinheber"
+      },
+      {
+        "id": 62,
+        "value": "Joseph Weinheber"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698"
@@ -401,6 +405,10 @@
       {
         "id": 23,
         "value": "relationship_id__23"
+      },
+      {
+        "id": 69,
+        "value": "relationship_id__69"
       }
     ],
     "person_person - target": [
@@ -419,6 +427,10 @@
       {
         "id": 24,
         "value": "relationship_id__24"
+      },
+      {
+        "id": 68,
+        "value": "relationship_id__68"
       }
     ],
     "fictional_or_real": null,
@@ -4723,7 +4735,7 @@
   "150": {
     "id": 150,
     "order": "149.00000000000000000000",
-    "name": "Farnon, Dorothy J.",
+    "name": "Farnan, Dorothy Jean",
     "amp_id": "amp_person_150",
     "gnd": "",
     "birth_year": "1919",
@@ -4733,8 +4745,18 @@
     "death_place": [],
     "death_day": "2003-10-23",
     "comment": "",
-    "person_person": [],
-    "person_person - target": [],
+    "person_person": [
+      {
+        "id": 71,
+        "value": "relationship_id__71"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 70,
+        "value": "relationship_id__70"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [
       {
@@ -4934,5 +4956,66 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": ""
+  },
+  "160": {
+    "id": 160,
+    "order": "159.00000000000000000000",
+    "name": "Kallman, Edward",
+    "amp_id": "amp_person_160",
+    "gnd": "",
+    "birth_year": "1892",
+    "birth_place": [],
+    "birth_day": "1892-01-01",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [
+      {
+        "id": 68,
+        "value": "relationship_id__68"
+      },
+      {
+        "id": 70,
+        "value": "relationship_id__70"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 69,
+        "value": "relationship_id__69"
+      },
+      {
+        "id": 71,
+        "value": "relationship_id__71"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q96073350"
+  },
+  "161": {
+    "id": 161,
+    "order": "160.00000000000000000000",
+    "name": "Hundertwasser, Friedensreich",
+    "amp_id": "amp_person_161",
+    "gnd": "https://d-nb.info/gnd/118554786",
+    "birth_year": "1928",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1928-12-15",
+    "death_year": "2000",
+    "death_place": [],
+    "death_day": "2000-02-19",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q151836"
   }
 }
