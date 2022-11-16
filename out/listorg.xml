@@ -342,6 +342,27 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q378577</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_31">
+                  <orgName>University of Dublin</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_organization_108">Dublin</placeName>
+                  </location>
+                  <idno type="GND">https://www.wikidata.org/wiki/Q2496094</idno>
+               </org>
+               <org xml:id="amp_organization_32">
+                  <orgName>Trinity College</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_organization_108">Dublin</placeName>
+                  </location>
+                  <idno type="GND">https://www.wikidata.org/wiki/Q258464</idno>
+               </org>
+               <org xml:id="amp_organization_33">
+                  <orgName>Group Theatre</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_organization_28">New York City</placeName>
+                  </location>
+                  <idno type="GND">https://www.wikidata.org/wiki/Q378577</idno>
+               </org>
             </listOrg>
          </div>
       </body>
