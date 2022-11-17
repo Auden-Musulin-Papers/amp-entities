@@ -1,4 +1,5 @@
-from config import GEONAMES_USER, geonames_to_location
+from config import GEONAMES_USER
+from baserow_utils import geonames_to_location
 
 
 TABLE_ID = "1483"
