@@ -2349,5 +2349,87 @@
         "value": "is_married_with"
       }
     ]
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "amp_id": "relationship_id__72",
+    "source": [
+      {
+        "id": 162,
+        "value": "Lloyd-Philipps, Stella Mary Bellairs"
+      }
+    ],
+    "target": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "amp_id": "relationship_id__73",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 162,
+        "value": "Lloyd-Philipps, Stella Mary Bellairs"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "amp_id": "relationship_id__74",
+    "source": [],
+    "target": [],
+    "relation_type": null,
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": []
   }
 }

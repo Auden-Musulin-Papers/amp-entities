@@ -194,7 +194,7 @@
       },
       {
         "id": 43,
-        "value": "STARK BEWÖLKT"
+        "value": "Stark Bewölkt"
       },
       {
         "id": 53,
@@ -218,10 +218,6 @@
       },
       {
         "id": 61,
-        "value": "Joseph Weinheber"
-      },
-      {
-        "id": 62,
         "value": "Joseph Weinheber"
       },
       {
@@ -270,6 +266,10 @@
       {
         "id": 55,
         "value": "relationship_id__55"
+      },
+      {
+        "id": 73,
+        "value": "relationship_id__73"
       }
     ],
     "person_person - target": [
@@ -280,6 +280,10 @@
       {
         "id": 63,
         "value": "relationship_id__63"
+      },
+      {
+        "id": 72,
+        "value": "relationship_id__72"
       }
     ],
     "fictional_or_real": null,
@@ -5021,5 +5025,34 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/wiki/Q151836"
+  },
+  "162": {
+    "id": 162,
+    "order": "161.00000000000000000000",
+    "name": "Lloyd-Philipps, Stella Mary Bellairs",
+    "amp_id": "amp_person_162",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [
+      {
+        "id": 72,
+        "value": "relationship_id__72"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 73,
+        "value": "relationship_id__73"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
   }
 }

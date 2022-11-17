@@ -96,7 +96,7 @@
                      <bibl n="lit_work_id_37">The Cave of Making</bibl>
                      <bibl n="lit_work_id_38">Prologue at Sixty</bibl>
                      <bibl n="lit_work_id_42">N.D.R (Neue Rundschau)</bibl>
-                     <bibl n="lit_work_id_43">STARK BEWÖLKT</bibl>
+                     <bibl n="lit_work_id_43">Stark Bewölkt</bibl>
                      <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_55">For the Time Being</bibl>
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
@@ -2696,6 +2696,12 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118554786</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q151836</idno>
+               </person>
+               <person xml:id="amp_person_162">
+                  <persName>
+                     <forename>Lloyd-Philipps</forename>
+                     <surname>Stella Mary Bellairs</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
