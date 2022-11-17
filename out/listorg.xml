@@ -301,7 +301,10 @@
                   <orgName>Curtis Brown Ltd</orgName>
                   <desc>Was founded in year 1914.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_28221">New York City575 Madison Avenue</placeName>
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_221">575 Madison Avenue</placeName>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>

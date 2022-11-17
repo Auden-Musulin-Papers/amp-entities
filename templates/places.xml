@@ -72,9 +72,11 @@
                   <country>{{ x.country_code }}, {{ x.country }}</country>
                   {% endif %}
                   {% if x.is_part_of|length > 0 %}
+                  {% for p in x.is_part_of %}
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_{% for p in x.is_part_of %}{{ p.id }}{% endfor %}">{% for p in x.is_part_of %}{{ p.value }}{% endfor %}</placeName>
+                     <placeName key="amp_place_id_{{ p.id }}">{{ p.value }}</placeName>
                   </location>
+                  {% endfor %}
                   {% endif %}
                   {% if x.geonames_coordinates is string %}
                   <location type="coords">

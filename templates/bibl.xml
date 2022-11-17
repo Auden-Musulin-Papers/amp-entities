@@ -61,9 +61,11 @@
             <bibl xml:id="{{ x.lit_work_id }}">
                <title>{{ x.name }}</title>
                {% if x.is_written_by|length > 0 %}
-               <author ref="#amp_person_{% for p in x.is_written_by %}{{ p.id }}{% endfor %}">
-                  <persName>{% for p in x.is_written_by %}{{ p.value }}{% endfor %}</persName>
+               {% for p in x.is_written_by %}
+               <author ref="#amp_person_{{ p.id }}">
+                  <persName>{{ p.value }}</persName>
                </author>
+               {% endfor %}
                {% endif %}
                {% if x.has_year is string %}
                <date when="{{ x.has_year }}">{{ x.has_year }}</date>
