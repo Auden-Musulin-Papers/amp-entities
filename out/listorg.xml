@@ -285,6 +285,9 @@
                </org>
                <org xml:id="amp_organization_27">
                   <orgName>British Embassy</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <idno type="WIKIDATA"/>
                   <note/>
                </org>
@@ -343,6 +346,15 @@
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q378577</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_34">
+                  <orgName>Senate of Berlin</orgName>
+                  <desc>Was founded in year 1307.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q540130</idno>
                   <note/>
                </org>
             </listOrg>

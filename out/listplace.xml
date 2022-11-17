@@ -3141,6 +3141,42 @@
                   <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</idno>
                   <note>https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</note>
                </place>
+               <place xml:id="amp_place_id_226">
+                  <placeName>Edom</placeName>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208475</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4355330-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_227">
+                  <placeName>Jericho</placeName>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/284899/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4028579-0</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_228">
+                  <placeName>Neuilly-sur-Seine</placeName>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2990611/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q48958</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4267827-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_229">
+                  <placeName/>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

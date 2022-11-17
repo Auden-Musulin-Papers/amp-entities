@@ -223,6 +223,10 @@
       {
         "id": 62,
         "value": "Joseph Weinheber"
+      },
+      {
+        "id": 71,
+        "value": "Italian Journey"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698"
@@ -710,6 +714,10 @@
       {
         "id": 28,
         "value": "Italian Journey"
+      },
+      {
+        "id": 70,
+        "value": "Italienische Reise"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5879"
@@ -784,7 +792,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Redlich, Walter",
+    "name": "Redlich, Dr Walter",
     "amp_id": "amp_person_14",
     "gnd": "",
     "birth_year": null,
@@ -1182,7 +1190,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 68,
+        "value": "Murder in Cathedral"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q37767"
   },
   "28": {
@@ -2494,7 +2507,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 69,
+        "value": "The Cantos"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q163366"
   },
   "69": {
@@ -2552,13 +2570,18 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 72,
+        "value": "The Rise of the South African Reich"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q31739891"
   },
   "71": {
     "id": 71,
     "order": "71.00000000000000000000",
-    "name": "MacNeice Louis",
+    "name": "MacNeice, Louis",
     "amp_id": "amp_person_71",
     "gnd": "https://d-nb.info/gnd/118575988",
     "birth_year": "1907",
@@ -2587,7 +2610,7 @@
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
-    "name": "Mary McCarthy",
+    "name": "McCarthy, Mary",
     "amp_id": "amp_person_72",
     "gnd": "https://d-nb.info/gnd/118575686",
     "birth_year": "1912",
@@ -3142,7 +3165,7 @@
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "name": "Toynbee. Philipp",
+    "name": "Toynbee, Philipp",
     "amp_id": "amp_person_91",
     "gnd": "https://d-nb.info/gnd/117421413",
     "birth_year": "1916",
@@ -4914,7 +4937,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 71,
+        "value": "Italian Journey"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/wiki/Q5363177"
   },
   "158": {
@@ -5054,5 +5082,116 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "162.00000000000000000000",
+    "name": "Jacobsen, Cornelia",
+    "amp_id": "amp_person_163",
+    "gnd": "https://d-nb.info/gnd/118608460",
+    "birth_year": "1934",
+    "birth_place": [
+      {
+        "id": 17,
+        "value": "Berlin"
+      }
+    ],
+    "birth_day": "1934-11-11",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q103529"
+  },
+  "164": {
+    "id": 164,
+    "order": "163.00000000000000000000",
+    "name": "Qualtinger, Helmut",
+    "amp_id": "amp_person_164",
+    "gnd": "https://d-nb.info/gnd/118828983",
+    "birth_year": "1928",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1928-10-08",
+    "death_year": "1986",
+    "death_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "death_day": "1986-09-29",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q45233"
+  },
+  "165": {
+    "id": 165,
+    "order": "164.00000000000000000000",
+    "name": "Herod",
+    "amp_id": "amp_person_165",
+    "gnd": "https://d-nb.info/gnd/118549847",
+    "birth_year": "-74",
+    "birth_place": [
+      {
+        "id": 226,
+        "value": "Edom"
+      }
+    ],
+    "birth_day": null,
+    "death_year": "-4",
+    "death_place": [
+      {
+        "id": 227,
+        "value": "Jericho"
+      }
+    ],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q5687"
+  },
+  "166": {
+    "id": 166,
+    "order": "165.00000000000000000000",
+    "name": "Steiner, George",
+    "amp_id": "amp_person_166",
+    "gnd": "https://d-nb.info/gnd/119200244",
+    "birth_year": "1929",
+    "birth_place": [
+      {
+        "id": 228,
+        "value": "Neuilly-sur-Seine"
+      }
+    ],
+    "birth_day": "1929-04-23",
+    "death_year": "2020",
+    "death_place": [
+      {
+        "id": 40,
+        "value": "Cambridge"
+      }
+    ],
+    "death_day": "2020-02-03",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q453288"
   }
 }

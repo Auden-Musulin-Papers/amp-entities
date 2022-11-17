@@ -397,7 +397,12 @@
     "amp_id": "amp_organization_27",
     "founded_in_year": null,
     "comments": "",
-    "location": []
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -423,10 +428,6 @@
     "founded_in_year": "1914",
     "comments": "",
     "location": [
-      {
-        "id": 28,
-        "value": "New York City"
-      },
       {
         "id": 221,
         "value": "575 Madison Avenue"
@@ -490,6 +491,21 @@
       {
         "id": 28,
         "value": "New York City"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Senate of Berlin",
+    "wikidata": "https://www.wikidata.org/wiki/Q540130",
+    "amp_id": "amp_organization_34",
+    "founded_in_year": "1307",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin"
       }
     ]
   }
