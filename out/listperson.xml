@@ -104,6 +104,7 @@
                      <bibl n="lit_work_id_60">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_61">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_62">Joseph Weinheber</bibl>
+                     <bibl n="lit_work_id_71">Italian Journey</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -329,6 +330,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
                   <listBibl>
                      <bibl n="lit_work_id_28">Italian Journey</bibl>
+                     <bibl n="lit_work_id_70">Italienische Reise</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_12">
@@ -372,7 +374,7 @@
                <person xml:id="amp_person_14">
                   <persName>
                      <forename>Redlich</forename>
-                     <surname>Walter</surname>
+                     <surname>Dr Walter</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_15">
@@ -580,6 +582,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118529854</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37767</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_68">Murder in Cathedral</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_28">
                   <persName>
@@ -1338,6 +1343,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118596039</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q163366</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_69">The Cantos</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_69">
                   <persName>
@@ -1378,11 +1386,14 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1017201366</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q31739891</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_72">The Rise of the South African Reich</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_71">
                   <persName>
-                     <forename>MacNeice Louis</forename>
-                     <surname/>
+                     <forename>MacNeice</forename>
+                     <surname>Louis</surname>
                   </persName>
                   <birth>
                      <date when-iso="1907-09-12">1907-09-12</date>
@@ -1401,8 +1412,8 @@
                </person>
                <person xml:id="amp_person_72">
                   <persName>
-                     <forename>Mary McCarthy</forename>
-                     <surname/>
+                     <forename>McCarthy</forename>
+                     <surname>Mary</surname>
                   </persName>
                   <birth>
                      <date when-iso="1912-06-21">1912-06-21</date>
@@ -1764,8 +1775,8 @@
                </person>
                <person xml:id="amp_person_91">
                   <persName>
-                     <forename>Toynbee. Philipp</forename>
-                     <surname/>
+                     <forename>Toynbee</forename>
+                     <surname>Philipp</surname>
                   </persName>
                   <birth>
                      <date when-iso="1916-06-25">1916-06-25</date>
@@ -2638,6 +2649,9 @@
                      </settlement>
                   </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5363177</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_71">Italian Journey</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_158">
                   <persName>
@@ -2702,6 +2716,68 @@
                      <forename>Lloyd-Philipps</forename>
                      <surname>Stella Mary Bellairs</surname>
                   </persName>
+               </person>
+               <person xml:id="amp_person_163">
+                  <persName>
+                     <forename>Jacobsen</forename>
+                     <surname>Cornelia</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1934-11-11">1934-11-11</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/118608460</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q103529</idno>
+               </person>
+               <person xml:id="amp_person_164">
+                  <persName>
+                     <forename>Qualtinger</forename>
+                     <surname>Helmut</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1928-10-08">1928-10-08</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1986-09-29">1986-09-29</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118828983</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q45233</idno>
+               </person>
+               <person xml:id="amp_person_165">
+                  <persName>
+                     <forename>Herod</forename>
+                     <surname/>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118549847</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
+               </person>
+               <person xml:id="amp_person_166">
+                  <persName>
+                     <forename>Steiner</forename>
+                     <surname>George</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1929-04-23">1929-04-23</date>
+                     <settlement key="amp_place_id_228">
+                        <placeName>Neuilly-sur-Seine</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2020-02-03">2020-02-03</date>
+                     <settlement key="amp_place_id_40">
+                        <placeName>Cambridge</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119200244</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q453288</idno>
                </person>
             </listPerson>
          </div>
