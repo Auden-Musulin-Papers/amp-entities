@@ -2653,5 +2653,116 @@
     "relation_types": [],
     "is_part_of": [],
     "has_version": null
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "name": "The Bacchae of Euripides",
+    "lit_work_id": "lit_work_id_75",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1966",
+    "type": [
+      {
+        "id": 6714,
+        "value": "intermezzo",
+        "color": "light-red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 18,
+        "value": "The Bassarids libretto"
+      }
+    ],
+    "has_version": null
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "name": "Sunday Telegraph",
+    "lit_work_id": "lit_work_id_76",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q12741725",
+    "has_year": "1961",
+    "type": [
+      {
+        "id": 6712,
+        "value": "newspaper",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "name": "Letters of Beethoven",
+    "lit_work_id": "lit_work_id_77",
+    "is_written_by": [
+      {
+        "id": 106,
+        "value": "Anderson, Emily"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1952",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
   }
 }

@@ -2424,12 +2424,202 @@
     "id": 74,
     "order": "74.00000000000000000000",
     "amp_id": "relationship_id__74",
-    "source": [],
-    "target": [],
-    "relation_type": null,
+    "source": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "target": [
+      {
+        "id": 93,
+        "value": "Musulin, Elsa"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "amp_id": "relationship_id__75",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "amp_id": "relationship_id__76",
+    "source": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
+    ],
+    "target": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "amp_id": "relationship_id__77",
+    "source": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "target": [
+      {
+        "id": 94,
+        "value": "Musilin, Marko"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "amp_id": "relationship_id__78",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "target": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
     "start_date": null,
     "end_date": null,
     "inverse_of": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "amp_id": "relationship_id__79",
+    "source": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "target": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   }
 }

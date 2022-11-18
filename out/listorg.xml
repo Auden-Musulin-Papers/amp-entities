@@ -354,6 +354,41 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q540130</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_35">
+                  <orgName>Austro-British Council</orgName>
+                  <desc>Was founded in year 1946.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q17048457</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_36">
+                  <orgName>University of Paris</orgName>
+                  <desc>Was founded in year 1150.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_84">Paris</placeName>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q209842</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_37">
+                  <orgName>Tolkien fan club</orgName>
+                  <desc>Was founded in year 1960.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">U.S</placeName>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1963025</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_38">
+                  <orgName>Wild</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

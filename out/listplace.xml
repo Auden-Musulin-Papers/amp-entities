@@ -3171,10 +3171,55 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_229">
-                  <placeName/>
+                  <placeName>Museum of Natural History</placeName>
+                  <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <location type="coords">
                      <geo/>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6354989/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q688704</idno>
+                  <idno type="GND">https://d-nb.info/gnd/35915-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_230">
+                  <placeName>Nevsky Prospect</placeName>
+                  <country>RU, Russia</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_135">Saint Petersburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q382500</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4214692-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_231">
+                  <placeName>Festspielhaus</placeName>
+                  <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1408821</idno>
+                  <idno type="GND">https://d-nb.info/gnd/10021260-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_232">
+                  <placeName>Eliot College</placeName>
+                  <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5361221</idno>
                   <note/>
                </place>
             </listPlace>

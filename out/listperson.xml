@@ -105,6 +105,7 @@
                      <bibl n="lit_work_id_61">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_62">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
+                     <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -180,6 +181,7 @@
                      <bibl n="lit_work_id_23">Die Sieben Todsünden libretto</bibl>
                      <bibl n="lit_work_id_24">Rise and Fall of the City of Mahagonny libretto</bibl>
                      <bibl n="lit_work_id_25">Archifanfaro libretto</bibl>
+                     <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -1920,6 +1922,17 @@
                      <forename>Anderson</forename>
                      <surname>Emily</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1891-03-17">1891-03-17</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1962-10-26">1962-10-26</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1065958706</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5372032</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_77">Letters of Beethoven</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_107">
                   <persName>
@@ -2736,6 +2749,24 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119200244</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q453288</idno>
+               </person>
+               <person xml:id="amp_person_167">
+                  <persName>
+                     <forename>Musulin</forename>
+                     <surname>Janko</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1916-08-12">1916-08-12</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1979-03-06">1979-03-06</date>
+                     <settlement key="amp_place_id_8">
+                        <placeName>Obergrafendorf</placeName>
+                     </settlement>
+                  </death>
                </person>
             </listPerson>
          </div>

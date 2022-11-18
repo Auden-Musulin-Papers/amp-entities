@@ -508,5 +508,65 @@
         "value": "Berlin"
       }
     ]
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "Austro-British Council",
+    "wikidata": "https://www.wikidata.org/wiki/Q17048457",
+    "amp_id": "amp_organization_35",
+    "founded_in_year": "1946",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "University of Paris",
+    "wikidata": "https://www.wikidata.org/wiki/Q209842",
+    "amp_id": "amp_organization_36",
+    "founded_in_year": "1150",
+    "comments": "",
+    "location": [
+      {
+        "id": 84,
+        "value": "Paris"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Tolkien fan club",
+    "wikidata": "https://www.wikidata.org/wiki/Q1963025",
+    "amp_id": "amp_organization_37",
+    "founded_in_year": "1960",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "U.S"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": "Wild",
+    "wikidata": "",
+    "amp_id": "amp_organization_38",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ]
   }
 }
