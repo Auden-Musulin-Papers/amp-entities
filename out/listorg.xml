@@ -49,10 +49,10 @@
                </licence>
             </availability>
          </publicationStmt>
+         <sourceDesc>
+            <p>Organizations mentioned in Auden Musulin Papers</p>
+         </sourceDesc>
       </fileDesc>
-      <sourceDesc>
-         <p>Organizations mentioned in Auden Musulin Papers</p>
-      </sourceDesc>
    </teiHeader>
    <text>
       <body>
@@ -303,9 +303,6 @@
                <org xml:id="amp_organization_29">
                   <orgName>Curtis Brown Ltd</orgName>
                   <desc>Was founded in year 1914.</desc>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_28">New York City</placeName>
-                  </location>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_221">575 Madison Avenue</placeName>
                   </location>
