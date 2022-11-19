@@ -231,6 +231,10 @@
       {
         "id": 75,
         "value": "The Bacchae of Euripides"
+      },
+      {
+        "id": 79,
+        "value": "Whitsunday in Kirchstetten"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698"
@@ -3010,7 +3014,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 78,
+        "value": "W.H. Auden in America"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q704931"
   },
   "85": {
