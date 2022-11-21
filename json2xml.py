@@ -8,6 +8,10 @@ from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 INPUT = "json_dumps/*"
 
 data = glob.glob(INPUT)
+geojson = {
+    "type": "FeatureCollection",
+    "features": []
+}
 for x in data:
     with open(x, "rb") as f:
         file = json.load(f)
@@ -21,6 +25,22 @@ for x in data:
         except KeyError:
             print()
         arr.append(obj)
+        if "places" in x:
+            if obj["geonames_coordinates"]:
+                coords = [obj["geonames_coordinates"]]
+                feature_point = {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": coords
+                    },
+                    "properties": {
+                        "title": obj["name"],
+                        "id": obj["amp_id"],
+                        "country_code": obj["country_code"]
+                    }
+                }
+                geojson["features"].append(feature_point)
     if "places" in x:
         filename = f"listplace"
         template_file = "templates/places.xml"
@@ -45,4 +65,6 @@ for x in data:
         obj_cl = ObjectToXml(br_input=arr, filename=filename, template_path=template_file)
         tei =  obj_cl.make_xml_single(save=True)
         print("listbibl.xml created")
-    
+
+with open("out/listplace.geojson", "w") as f:
+    json.dump(geojson, f)

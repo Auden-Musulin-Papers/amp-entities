@@ -674,8 +674,11 @@
             </bibl>
             <bibl xml:id="lit_work_id_71">
                <title>Italian Journey</title>
-               <author ref="#amp_person_1157">
-                  <persName>Auden, W. H.Mayer, Eliza</persName>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_157">
+                  <persName>Mayer, Eliza</persName>
                </author>
                <date when="1982">1982</date>
                <idno type="WIKIDATA"/>
