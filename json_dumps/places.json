@@ -205,8 +205,8 @@
         "value": "Austro-British Council"
       },
       {
-        "id": 38,
-        "value": "Wild"
+        "id": 39,
+        "value": "Die Presse"
       }
     ],
     "fiction_real_place": [],
@@ -3808,7 +3808,12 @@
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 38,
+        "value": "Wild"
+      }
+    ],
     "fiction_real_place": [],
     "is_part_of": [
       {
@@ -8577,6 +8582,39 @@
     "place_type": "",
     "country": "United Kingdom",
     "country_code": "GB",
+    "place_type_class": "",
+    "updated": false
+  },
+  "233": {
+    "id": 233,
+    "order": "233.00000000000000000000",
+    "name": "Esslingasse",
+    "amp_id": "amp_place_id_233",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.21586580163302, 16.369830784659687",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 156,
+        "value": "Vienna's 3rd Bezirk"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "Austria",
+    "country_code": "AT",
     "place_type_class": "",
     "updated": false
   }

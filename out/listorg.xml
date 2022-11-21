@@ -384,12 +384,21 @@
                <org xml:id="amp_organization_38">
                   <orgName>Wild</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
+                     <placeName key="amp_place_id_95">Neuer Markt</placeName>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
                </org>
                <org xml:id="amp_organization_39">
+                  <orgName>Die Presse</orgName>
+                  <desc>Was founded in year 1848.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q689934</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_40">
                   <orgName/>
                   <idno type="WIKIDATA"/>
                   <note/>

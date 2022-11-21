@@ -88,6 +88,7 @@
                      <bibl n="lit_work_id_23">Die Sieben Todsünden libretto</bibl>
                      <bibl n="lit_work_id_24">Rise and Fall of the City of Mahagonny libretto</bibl>
                      <bibl n="lit_work_id_25">Archifanfaro libretto</bibl>
+                     <bibl n="lit_work_id_28">W.H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_29">Markings</bibl>
                      <bibl n="lit_work_id_31">The Dyer's Hand</bibl>
                      <bibl n="lit_work_id_32">The Faber Book of Aphorisms</bibl>
@@ -107,6 +108,8 @@
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
                      <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
+                     <bibl n="lit_work_id_80">The English Auden</bibl>
+                     <bibl n="lit_work_id_81">Declaration</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -332,7 +335,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118540238</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_28">Italian Journey</bibl>
                      <bibl n="lit_work_id_70">Italienische Reise</bibl>
                   </listBibl>
                </person>
@@ -674,7 +676,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q19078892</idno>
+                  <idno type="GND">https://d-nb.info/gnd/118558161</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q183266</idno>
                </person>
                <person xml:id="amp_person_34">
                   <persName>
@@ -1837,7 +1840,9 @@
                   <idno type="GND">https://d-nb.info/gnd/14000761X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5344431</idno>
                   <listBibl>
+                     <bibl n="lit_work_id_28">W.H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_49">Early Auden</bibl>
+                     <bibl n="lit_work_id_80">The English Auden</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_99">
@@ -2771,6 +2776,24 @@
                         <placeName>Obergrafendorf</placeName>
                      </settlement>
                   </death>
+               </person>
+               <person xml:id="amp_person_168">
+                  <persName>
+                     <forename>Toynbee</forename>
+                     <surname>Sally</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1923-04-23">1923-04-23</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2003-03-08">2003-03-08</date>
+                  </death>
+               </person>
+               <person xml:id="amp_person_169">
+                  <persName>
+                     <forename>Clark</forename>
+                     <surname>Lisa</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

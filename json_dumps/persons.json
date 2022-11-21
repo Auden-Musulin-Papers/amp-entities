@@ -161,6 +161,10 @@
         "value": "Archifanfaro libretto"
       },
       {
+        "id": 28,
+        "value": "W.H. Auden: Collected Poems"
+      },
+      {
         "id": 29,
         "value": "Markings"
       },
@@ -235,6 +239,14 @@
       {
         "id": 79,
         "value": "Whitsunday in Kirchstetten"
+      },
+      {
+        "id": 80,
+        "value": "The English Auden"
+      },
+      {
+        "id": 81,
+        "value": "Declaration"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698"
@@ -735,10 +747,6 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [
-      {
-        "id": 28,
-        "value": "Italian Journey"
-      },
       {
         "id": 70,
         "value": "Italienische Reise"
@@ -1367,7 +1375,7 @@
     "order": "33.00000000000000000000",
     "name": "Johnson, Samuel",
     "amp_id": "amp_person_33",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/118558161",
     "birth_year": "1709",
     "birth_place": [
       {
@@ -1389,7 +1397,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q19078892"
+    "wikidata": "https://www.wikidata.org/wiki/Q183266"
   },
   "34": {
     "id": 34,
@@ -3214,8 +3222,18 @@
     ],
     "death_day": "1981-06-15",
     "comment": "",
-    "person_person": [],
-    "person_person - target": [],
+    "person_person": [
+      {
+        "id": 80,
+        "value": "relationship_id__80"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 81,
+        "value": "relationship_id__81"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q7184481"
@@ -3336,12 +3354,20 @@
       {
         "id": 8,
         "value": "relationship_id__8"
+      },
+      {
+        "id": 85,
+        "value": "relationship_id__85"
       }
     ],
     "person_person - target": [
       {
         "id": 7,
         "value": "relationship_id__7"
+      },
+      {
+        "id": 83,
+        "value": "relationship_id__83"
       }
     ],
     "fictional_or_real": null,
@@ -3373,6 +3399,10 @@
       {
         "id": 17,
         "value": "relationship_id__17"
+      },
+      {
+        "id": 84,
+        "value": "relationship_id__84"
       }
     ],
     "person_person - target": [
@@ -3383,6 +3413,10 @@
       {
         "id": 8,
         "value": "relationship_id__8"
+      },
+      {
+        "id": 82,
+        "value": "relationship_id__82"
       }
     ],
     "fictional_or_real": null,
@@ -3431,8 +3465,16 @@
     "fictional_or_real": null,
     "literary_work": [
       {
+        "id": 28,
+        "value": "W.H. Auden: Collected Poems"
+      },
+      {
         "id": 49,
         "value": "Early Auden"
+      },
+      {
+        "id": 80,
+        "value": "The English Auden"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5344431"
@@ -5289,6 +5331,72 @@
       {
         "id": 78,
         "value": "relationship_id__78"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "167.00000000000000000000",
+    "name": "Toynbee, Sally",
+    "amp_id": "amp_person_168",
+    "gnd": "",
+    "birth_year": "1923",
+    "birth_place": [],
+    "birth_day": "1923-04-23",
+    "death_year": "2003",
+    "death_place": [],
+    "death_day": "2003-03-08",
+    "comment": "",
+    "person_person": [
+      {
+        "id": 81,
+        "value": "relationship_id__81"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 80,
+        "value": "relationship_id__80"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "168.00000000000000000000",
+    "name": "Clark, Lisa",
+    "amp_id": "amp_person_169",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [
+      {
+        "id": 82,
+        "value": "relationship_id__82"
+      },
+      {
+        "id": 83,
+        "value": "relationship_id__83"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 84,
+        "value": "relationship_id__84"
+      },
+      {
+        "id": 85,
+        "value": "relationship_id__85"
       }
     ],
     "fictional_or_real": null,

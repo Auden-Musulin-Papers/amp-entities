@@ -2621,5 +2621,207 @@
         "value": "is_married_with"
       }
     ]
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "amp_id": "relationship_id__80",
+    "source": [
+      {
+        "id": 91,
+        "value": "Toynbee, Philipp"
+      }
+    ],
+    "target": [
+      {
+        "id": 168,
+        "value": "Toynbee, Sally"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "amp_id": "relationship_id__81",
+    "source": [
+      {
+        "id": 168,
+        "value": "Toynbee, Sally"
+      }
+    ],
+    "target": [
+      {
+        "id": 91,
+        "value": "Toynbee, Philipp"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "amp_id": "relationship_id__82",
+    "source": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "target": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "amp_id": "relationship_id__83",
+    "source": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "target": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
+    ],
+    "relation_type": {
+      "id": 6669,
+      "value": "child_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6694,
+      "value": "parent of",
+      "color": "light-blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 3,
+        "value": "is_child_of"
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "amp_id": "relationship_id__84",
+    "source": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "target": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "amp_id": "relationship_id__85",
+    "source": [
+      {
+        "id": 95,
+        "value": "Clark, John"
+      }
+    ],
+    "target": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "relation_type": {
+      "id": 6668,
+      "value": "parent_of",
+      "color": "light-blue"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": {
+      "id": 6693,
+      "value": "child_of",
+      "color": "blue"
+    },
+    "relation_type_object": [
+      {
+        "id": 1,
+        "value": "is_parent_of"
+      }
+    ]
   }
 }

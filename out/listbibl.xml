@@ -316,10 +316,14 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_28">
-               <title>Italian Journey</title>
-               <author ref="#amp_person_11">
-                  <persName>Goethe, Johann Wolfgang von</persName>
+               <title>W.H. Auden: Collected Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
                </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1991">1991</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -747,6 +751,26 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1964">1964</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_80">
+               <title>The English Auden</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1978">1978</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_81">
+               <title>Declaration</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
