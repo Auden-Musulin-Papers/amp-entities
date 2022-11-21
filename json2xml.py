@@ -26,13 +26,15 @@ for x in data:
             print()
         arr.append(obj)
         if "places" in x:
-            if obj["geonames_coordinates"]:
-                coords = [obj["geonames_coordinates"]]
+            if obj["geonames_coordinates"] and obj["geonames_coordinates"] != "None, None":
+                coords = obj["geonames_coordinates"]
+                coords = coords.split(",")
+                print(coords)
                 feature_point = {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": coords
+                        "coordinates": [float(coords[1]), float(coords[0])]
                     },
                     "properties": {
                         "title": obj["name"],
