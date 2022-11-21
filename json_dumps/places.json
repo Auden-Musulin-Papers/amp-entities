@@ -77,6 +77,10 @@
       {
         "id": 164,
         "value": "Qualtinger, Helmut"
+      },
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
       }
     ],
     "persons - death_place": [
@@ -195,6 +199,14 @@
       {
         "id": 27,
         "value": "British Embassy"
+      },
+      {
+        "id": 35,
+        "value": "Austro-British Council"
+      },
+      {
+        "id": 38,
+        "value": "Wild"
       }
     ],
     "fiction_real_place": [],
@@ -446,7 +458,12 @@
     "amp_id": "amp_place_id_8",
     "geonames_id": "https://sws.geonames.org/7873019/",
     "persons": [],
-    "persons - death_place": [],
+    "persons - death_place": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
     "google_maps_coordinates": null,
     "comments": null,
     "organizations": [],
@@ -734,6 +751,10 @@
       {
         "id": 18,
         "value": "Yale University"
+      },
+      {
+        "id": 37,
+        "value": "Tolkien fan club"
       }
     ],
     "fiction_real_place": [],
@@ -3404,7 +3425,12 @@
     ],
     "google_maps_coordinates": "",
     "comments": null,
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 36,
+        "value": "University of Paris"
+      }
+    ],
     "fiction_real_place": [],
     "is_part_of": [
       {
@@ -8425,8 +8451,41 @@
   "229": {
     "id": 229,
     "order": "229.00000000000000000000",
-    "name": "",
+    "name": "Museum of Natural History",
     "amp_id": "amp_place_id_229",
+    "geonames_id": "https://www.geonames.org/6354989/naturhistorisches-museum.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q688704",
+    "gnd": "https://d-nb.info/gnd/35915-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "",
+    "updated": false
+  },
+  "230": {
+    "id": 230,
+    "order": "230.00000000000000000000",
+    "name": "Nevsky Prospect",
+    "amp_id": "amp_place_id_230",
     "geonames_id": "",
     "persons": [],
     "persons - death_place": [],
@@ -8434,14 +8493,90 @@
     "comments": "",
     "organizations": [],
     "fiction_real_place": [],
-    "is_part_of": [],
-    "relation_types": [],
-    "wikidata": "",
+    "is_part_of": [
+      {
+        "id": 135,
+        "value": "Saint Petersburg"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q382500",
+    "gnd": "https://d-nb.info/gnd/4214692-6",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "Russia",
+    "country_code": "RU",
+    "place_type_class": "",
+    "updated": false
+  },
+  "231": {
+    "id": 231,
+    "order": "231.00000000000000000000",
+    "name": "Festspielhaus",
+    "amp_id": "amp_place_id_231",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 9,
+        "value": "St. Pölten"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q1408821",
+    "gnd": "https://d-nb.info/gnd/10021260-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "",
+    "updated": false
+  },
+  "232": {
+    "id": 232,
+    "order": "232.00000000000000000000",
+    "name": "Eliot College",
+    "amp_id": "amp_place_id_232",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q5361221",
     "gnd": "",
     "geonames_coordinates": "",
     "place_type": "",
-    "country": "",
-    "country_code": "",
+    "country": "United Kingdom",
+    "country_code": "GB",
     "place_type_class": "",
     "updated": false
   }

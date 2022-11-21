@@ -227,6 +227,14 @@
       {
         "id": 71,
         "value": "Italian Journey"
+      },
+      {
+        "id": 75,
+        "value": "The Bacchae of Euripides"
+      },
+      {
+        "id": 79,
+        "value": "Whitsunday in Kirchstetten"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698"
@@ -274,6 +282,14 @@
       {
         "id": 73,
         "value": "relationship_id__73"
+      },
+      {
+        "id": 75,
+        "value": "relationship_id__75"
+      },
+      {
+        "id": 78,
+        "value": "relationship_id__78"
       }
     ],
     "person_person - target": [
@@ -288,6 +304,10 @@
       {
         "id": 72,
         "value": "relationship_id__72"
+      },
+      {
+        "id": 79,
+        "value": "relationship_id__79"
       }
     ],
     "fictional_or_real": null,
@@ -482,6 +502,10 @@
       {
         "id": 25,
         "value": "Archifanfaro libretto"
+      },
+      {
+        "id": 75,
+        "value": "The Bacchae of Euripides"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5093626"
@@ -2990,7 +3014,12 @@
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 78,
+        "value": "W.H. Auden in America"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q704931"
   },
   "85": {
@@ -3243,6 +3272,10 @@
       {
         "id": 55,
         "value": "relationship_id__55"
+      },
+      {
+        "id": 74,
+        "value": "relationship_id__74"
       }
     ],
     "fictional_or_real": null,
@@ -3266,12 +3299,20 @@
       {
         "id": 12,
         "value": "relationship_id__12"
+      },
+      {
+        "id": 76,
+        "value": "relationship_id__76"
       }
     ],
     "person_person - target": [
       {
         "id": 11,
         "value": "relationship_id__11"
+      },
+      {
+        "id": 77,
+        "value": "relationship_id__77"
       }
     ],
     "fictional_or_real": null,
@@ -3541,19 +3582,24 @@
     "order": "106.00000000000000000000",
     "name": "Anderson, Emily",
     "amp_id": "amp_person_106",
-    "gnd": "",
-    "birth_year": null,
+    "gnd": "https://d-nb.info/gnd/1065958706",
+    "birth_year": "1891",
     "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
+    "birth_day": "1891-03-17",
+    "death_year": "1962",
     "death_place": [],
-    "death_day": null,
+    "death_day": "1962-10-26",
     "comment": "",
     "person_person": [],
     "person_person - target": [],
     "fictional_or_real": null,
-    "literary_work": [],
-    "wikidata": ""
+    "literary_work": [
+      {
+        "id": 77,
+        "value": "Letters of Beethoven"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q5372032"
   },
   "107": {
     "id": 107,
@@ -5193,5 +5239,60 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/wiki/Q453288"
+  },
+  "167": {
+    "id": 167,
+    "order": "166.00000000000000000000",
+    "name": "Musulin, Janko",
+    "amp_id": "amp_person_167",
+    "gnd": "",
+    "birth_year": "1916",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1916-08-12",
+    "death_year": "1979",
+    "death_place": [
+      {
+        "id": 8,
+        "value": "Obergrafendorf"
+      }
+    ],
+    "death_day": "1979-03-06",
+    "comment": "",
+    "person_person": [
+      {
+        "id": 74,
+        "value": "relationship_id__74"
+      },
+      {
+        "id": 77,
+        "value": "relationship_id__77"
+      },
+      {
+        "id": 79,
+        "value": "relationship_id__79"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 75,
+        "value": "relationship_id__75"
+      },
+      {
+        "id": 76,
+        "value": "relationship_id__76"
+      },
+      {
+        "id": 78,
+        "value": "relationship_id__78"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": ""
   }
 }

@@ -701,6 +701,52 @@
             </bibl>
             <bibl xml:id="lit_work_id_74">
                <title>The Common Life (for Chester Kallman)</title>
+               <date when="1964">1964</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_75">
+               <title>The Bacchae of Euripides</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1966">1966</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_76">
+               <title>Sunday Telegraph</title>
+               <date when="1961">1961</date>
+               <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q12741725</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_77">
+               <title>Letters of Beethoven</title>
+               <author ref="#amp_person_106">
+                  <persName>Anderson, Emily</persName>
+               </author>
+               <date when="1952">1952</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_78">
+               <title>W.H. Auden in America</title>
+               <author ref="#amp_person_84">
+                  <persName>Wilson, Edmund</persName>
+               </author>
+               <date when="1956">1956</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_79">
+               <title>Whitsunday in Kirchstetten</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1964">1964</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
