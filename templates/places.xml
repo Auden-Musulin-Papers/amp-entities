@@ -78,14 +78,16 @@
                   </location>
                   {% endfor %}
                   {% endif %}
-                  {% if x.geonames_coordinates is string %}
+                  {% if x.geonames_coordinates is string and x.geonames_coordinates|length != 0 %}
                   <location type="coords">
                      <geo>{{ x.geonames_coordinates }}</geo>
                   </location>
                   {% else %}
+                  {% if x.google_maps_coordinates is string and x.google_maps_coordinates|length != 0 %}
                   <location type="coords">
                      <geo>{{ x.google_maps_coordinates }}</geo>
                   </location>
+                  {% endif %}
                   {% endif %}
                   {% if x.geonames_id|length > 0 %}
                   <idno type="GEONAMES">{{ x.geonames_id }}</idno>

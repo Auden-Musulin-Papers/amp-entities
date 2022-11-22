@@ -349,9 +349,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Germany</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                </place>
                <place xml:id="amp_place_id_22">
                   <settlement type="A">
@@ -622,9 +619,6 @@
                   <placeName>Pennine Moors</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo/>
                   </location>
                   <idno type="GEONAMES">https://www.geonames.org/maps/wikipedia_53.663_-2.431.html</idno>
                </place>
@@ -1111,9 +1105,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <note>she meant Hinterholz 6; Holzweg 5 is not valid</note>
                </place>
                <place xml:id="amp_place_id_78">
@@ -1334,9 +1325,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <note>48.06853036632306, 15.46661873099261</note>
                </place>
                <place xml:id="amp_place_id_95">
@@ -1404,9 +1392,6 @@
                </place>
                <place xml:id="amp_place_id_99">
                   <placeName>Middle Western college</placeName>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_100">
@@ -2375,9 +2360,6 @@
                </place>
                <place xml:id="amp_place_id_163">
                   <placeName>Akenfield</placeName>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_164">
@@ -3082,9 +3064,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_85">Palais Palffy</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_213">
@@ -3212,7 +3191,7 @@
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
                   <location type="coords">
-                     <geo/>
+                     <geo>40.762125992842755, -73.97248554818371</geo>
                   </location>
                   <note/>
                </place>
@@ -3239,7 +3218,7 @@
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
-                     <geo/>
+                     <geo>48.20120839568255, 16.371684430683988</geo>
                   </location>
                   <note/>
                </place>
@@ -3249,7 +3228,7 @@
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
-                     <geo/>
+                     <geo>48.18723668171942, 16.36847668650523</geo>
                   </location>
                   <note/>
                </place>
@@ -3259,25 +3238,19 @@
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
-                     <geo/>
+                     <geo>48.20378854425725, 16.37118272746974</geo>
                   </location>
                   <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</idno>
                   <note>https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</note>
                </place>
                <place xml:id="amp_place_id_226">
                   <placeName>Edom</placeName>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208475</idno>
                   <idno type="GND">https://d-nb.info/gnd/4355330-8</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_227">
                   <placeName>Jericho</placeName>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/284899/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
                   <idno type="GND">https://d-nb.info/gnd/4028579-0</idno>
@@ -3285,9 +3258,6 @@
                </place>
                <place xml:id="amp_place_id_228">
                   <placeName>Neuilly-sur-Seine</placeName>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2990611/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q48958</idno>
                   <idno type="GND">https://d-nb.info/gnd/4267827-4</idno>
@@ -3298,9 +3268,6 @@
                   <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo/>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6354989/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q688704</idno>
@@ -3313,9 +3280,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_135">Saint Petersburg</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q382500</idno>
                   <idno type="GND">https://d-nb.info/gnd/4214692-6</idno>
                   <note/>
@@ -3325,9 +3289,6 @@
                   <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo/>
                   </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1408821</idno>
                   <idno type="GND">https://d-nb.info/gnd/10021260-8</idno>
@@ -3339,9 +3300,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
-                  <location type="coords">
-                     <geo/>
-                  </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5361221</idno>
                   <note/>
                </place>
@@ -3352,7 +3310,7 @@
                      <placeName key="amp_place_id_156">Vienna's 3rd Bezirk</placeName>
                   </location>
                   <location type="coords">
-                     <geo/>
+                     <geo>48.21586580163302, 16.369830784659687</geo>
                   </location>
                   <note/>
                </place>
