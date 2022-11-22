@@ -157,7 +157,7 @@
             <bibl xml:id="lit_work_id_12">
                <title>New Testament</title>
                <author ref="#amp_person_102">
-                  <persName>Luthen, Martin</persName>
+                  <persName>Luther, Martin</persName>
                </author>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -772,6 +772,15 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_82">
+               <title>Authorised Version</title>
+               <author ref="#amp_person_170">
+                  <persName>James VI and I</persName>
+               </author>
+               <date when="1611">1611</date>
+               <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q623398</idno>
                <lang/>
             </bibl>
       </listBibl>

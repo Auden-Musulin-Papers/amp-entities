@@ -1889,7 +1889,7 @@
                </person>
                <person xml:id="amp_person_102">
                   <persName>
-                     <forename>Luthen</forename>
+                     <forename>Luther</forename>
                      <surname>Martin</surname>
                   </persName>
                   <birth>
@@ -2619,7 +2619,7 @@
                <person xml:id="amp_person_156">
                   <persName>
                      <forename>Duncan</forename>
-                     <surname>Bruce</surname>
+                     <surname>Revd. Bruce</surname>
                   </persName>
                   <birth>
                      <date when-iso="1938-01-28">1938-01-28</date>
@@ -2794,6 +2794,29 @@
                      <forename>Clark</forename>
                      <surname>Lisa</surname>
                   </persName>
+               </person>
+               <person xml:id="amp_person_170">
+                  <persName>
+                     <forename>James VI and I</forename>
+                     <surname/>
+                  </persName>
+                  <birth>
+                     <date when-iso="1566-06-19">1566-06-19</date>
+                     <settlement key="amp_place_id_204">
+                        <placeName>Edinburgh</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1625-03-27">1625-03-27</date>
+                     <settlement key="amp_place_id_87">
+                        <placeName>Westminster Abbey</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118639889</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q79972</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_82">Authorised Version</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

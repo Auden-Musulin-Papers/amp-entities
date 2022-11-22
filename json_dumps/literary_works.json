@@ -381,7 +381,7 @@
     "is_written_by": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "book_number": null,
@@ -2926,6 +2926,45 @@
       }
     ],
     "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "name": "Authorised Version",
+    "lit_work_id": "lit_work_id_82",
+    "is_written_by": [
+      {
+        "id": 170,
+        "value": "James VI and I"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q623398",
+    "has_year": "1611",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
     "is_part_of": [],
     "has_version": null
   }

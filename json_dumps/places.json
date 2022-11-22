@@ -3526,7 +3526,12 @@
     "amp_id": "amp_place_id_87",
     "geonames_id": "https://sws.geonames.org/6618996/",
     "persons": [],
-    "persons - death_place": [],
+    "persons - death_place": [
+      {
+        "id": 170,
+        "value": "James VI and I"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
@@ -6131,13 +6136,13 @@
     "persons": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "persons - death_place": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "google_maps_coordinates": "",
@@ -7618,6 +7623,10 @@
       {
         "id": 144,
         "value": "Gathorne-Hardy, Jonathan"
+      },
+      {
+        "id": 170,
+        "value": "James VI and I"
       }
     ],
     "persons - death_place": [],

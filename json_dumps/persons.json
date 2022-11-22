@@ -3545,7 +3545,7 @@
   "102": {
     "id": 102,
     "order": "102.00000000000000000000",
-    "name": "Luthen, Martin",
+    "name": "Luther, Martin",
     "amp_id": "amp_person_102",
     "gnd": "https://d-nb.info/gnd/118575449",
     "birth_year": "1483",
@@ -4993,7 +4993,7 @@
   "156": {
     "id": 156,
     "order": "155.00000000000000000000",
-    "name": "Duncan, Bruce",
+    "name": "Duncan, Revd. Bruce",
     "amp_id": "amp_person_156",
     "gnd": "",
     "birth_year": "1938",
@@ -5402,5 +5402,39 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "169.00000000000000000000",
+    "name": "James VI and I",
+    "amp_id": "amp_person_170",
+    "gnd": "https://d-nb.info/gnd/118639889",
+    "birth_year": "1566",
+    "birth_place": [
+      {
+        "id": 204,
+        "value": "Edinburgh"
+      }
+    ],
+    "birth_day": "1566-06-19",
+    "death_year": "1625",
+    "death_place": [
+      {
+        "id": 87,
+        "value": "Westminster Abbey"
+      }
+    ],
+    "death_day": "1625-03-27",
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 82,
+        "value": "Authorised Version"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q79972"
   }
 }
