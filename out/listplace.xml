@@ -624,7 +624,7 @@
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
                   <location type="coords">
-                     <geo>None, None</geo>
+                     <geo/>
                   </location>
                   <idno type="GEONAMES">https://www.geonames.org/maps/wikipedia_53.663_-2.431.html</idno>
                </place>
@@ -1102,7 +1102,7 @@
                      <placeName key="amp_place_id_74">Zell-am-See</placeName>
                   </location>
                   <location type="coords">
-                     <geo>None, None</geo>
+                     <geo>47.33165026519955, 12.737574982944441</geo>
                   </location>
                   <idno type="GEONAMES">https://www.geonames.org/maps/wikipedia_47.3292_12.7378.html</idno>
                </place>
@@ -1210,7 +1210,7 @@
                      <placeName key="amp_place_id_88">Josefsplatz</placeName>
                   </location>
                   <location type="coords">
-                     <geo>None, None</geo>
+                     <geo>48.2064399676074, 16.367798975228684</geo>
                   </location>
                   <idno type="GEONAMES">https://www.geonames.org/maps/wikipedia_48.2062_16.3674.html</idno>
                </place>
@@ -1431,7 +1431,7 @@
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
-                     <geo>None, None</geo>
+                     <geo>48.19881905898747, 16.368451869799543</geo>
                   </location>
                   <idno type="GEONAMES">https://www.geonames.org/maps/wikipedia_48.1989_16.37.html</idno>
                   <note/>
