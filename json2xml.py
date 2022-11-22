@@ -27,37 +27,39 @@ for x in data:
         arr.append(obj)
         if "places" in x:
             if obj["geonames_coordinates"]:
-                coords = obj["geonames_coordinates"]
-                coords = coords.split(",")
-                feature_point = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
-                    },
-                    "properties": {
-                        "title": obj["name"],
-                        "id": obj["amp_id"],
-                        "country_code": obj["country_code"]
+                if len(obj["geonames_coordinates"]) != 0:
+                    coords = obj["geonames_coordinates"]
+                    coords = coords.split(",")
+                    feature_point = {
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [float(coords[1]), float(coords[0])]
+                        },
+                        "properties": {
+                            "title": obj["name"],
+                            "id": obj["amp_id"],
+                            "country_code": obj["country_code"]
+                        }
                     }
-                }
-                geojson["features"].append(feature_point)
+                    geojson["features"].append(feature_point)
             elif obj["google_maps_coordinates"]:
-                coords = obj["google_maps_coordinates"]
-                coords = coords.split(",")
-                feature_point = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
-                    },
-                    "properties": {
-                        "title": obj["name"],
-                        "id": obj["amp_id"],
-                        "country_code": obj["country_code"]
+                if len(obj["google_maps_coordinates"]) != 0:
+                    coords = obj["google_maps_coordinates"]
+                    coords = coords.split(",")
+                    feature_point = {
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [float(coords[1]), float(coords[0])]
+                        },
+                        "properties": {
+                            "title": obj["name"],
+                            "id": obj["amp_id"],
+                            "country_code": obj["country_code"]
+                        }
                     }
-                }
-                geojson["features"].append(feature_point)
+                    geojson["features"].append(feature_point)
     if "places" in x:
         filename = f"listplace"
         template_file = "templates/places.xml"
