@@ -61,8 +61,8 @@
             {% for x in objects %}
                <person xml:id="{{ x.amp_id }}">
                   <persName>
-                     <forename>{{ x.name.split(', ')[0] }}</forename>
-                     <surname>{{ x.name.split(', ')[1] }}</surname>
+                     <forename>{{ x.name.split(', ')[1] }}</forename>
+                     <surname>{{ x.name.split(', ')[0] }}</surname>
                   </persName>
                   {% if x.birth_day is string %}
                   <birth>

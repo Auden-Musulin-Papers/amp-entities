@@ -22,8 +22,8 @@ for x in data:
             any_id = obj["geonames_id"]
             norm_id = get_normalized_uri(any_id)
             obj["geonames_id"] = norm_id
-        except KeyError:
-            print()
+        except KeyError as err:
+            print(err)
         arr.append(obj)
         if "places" in x:
             if obj["geonames_coordinates"] and obj["geonames_coordinates"] != "None, None":
