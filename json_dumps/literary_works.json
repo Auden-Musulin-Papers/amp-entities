@@ -381,7 +381,7 @@
     "is_written_by": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "book_number": null,
@@ -1056,18 +1056,22 @@
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Italian Journey",
+    "name": "W.H. Auden: Collected Poems",
     "lit_work_id": "lit_work_id_28",
     "is_written_by": [
       {
-        "id": 11,
-        "value": "Goethe, Johann Wolfgang von"
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
       }
     ],
     "book_number": null,
     "chapter_number": null,
     "is_linked_with": "",
-    "has_year": null,
+    "has_year": "1991",
     "type": [
       {
         "id": 6667,
@@ -1078,12 +1082,17 @@
     "version_of": [],
     "language": [
       {
-        "id": 6679,
-        "value": "de",
-        "color": "blue"
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
       }
     ],
-    "relation_types": [],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
     "is_part_of": [],
     "has_version": null
   },
@@ -2537,8 +2546,8 @@
     ],
     "version_of": [
       {
-        "id": 71,
-        "value": "Italian Journey"
+        "id": 70,
+        "value": "Italienische Reise"
       }
     ],
     "language": [
@@ -2824,6 +2833,122 @@
         "id": 6664,
         "value": "poem",
         "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "name": "The English Auden",
+    "lit_work_id": "lit_work_id_80",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1978",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "name": "Declaration",
+    "lit_work_id": "lit_work_id_81",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6703,
+        "value": "text",
+        "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "name": "Authorised Version",
+    "lit_work_id": "lit_work_id_82",
+    "is_written_by": [
+      {
+        "id": 170,
+        "value": "James VI and I"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q623398",
+    "has_year": "1611",
+    "type": [
+      {
+        "id": 6667,
+        "value": "book",
+        "color": "dark-orange"
       }
     ],
     "version_of": [],

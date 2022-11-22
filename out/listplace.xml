@@ -3222,6 +3222,17 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5361221</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_233">
+                  <placeName>Esslingasse</placeName>
+                  <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_156">Vienna's 3rd Bezirk</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

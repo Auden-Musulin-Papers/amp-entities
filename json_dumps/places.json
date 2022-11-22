@@ -205,8 +205,8 @@
         "value": "Austro-British Council"
       },
       {
-        "id": 38,
-        "value": "Wild"
+        "id": 39,
+        "value": "Die Presse"
       }
     ],
     "fiction_real_place": [],
@@ -3526,7 +3526,12 @@
     "amp_id": "amp_place_id_87",
     "geonames_id": "https://sws.geonames.org/6618996/",
     "persons": [],
-    "persons - death_place": [],
+    "persons - death_place": [
+      {
+        "id": 170,
+        "value": "James VI and I"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
@@ -3808,7 +3813,12 @@
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 38,
+        "value": "Wild"
+      }
+    ],
     "fiction_real_place": [],
     "is_part_of": [
       {
@@ -6126,13 +6136,13 @@
     "persons": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "persons - death_place": [
       {
         "id": 102,
-        "value": "Luthen, Martin"
+        "value": "Luther, Martin"
       }
     ],
     "google_maps_coordinates": "",
@@ -7613,6 +7623,10 @@
       {
         "id": 144,
         "value": "Gathorne-Hardy, Jonathan"
+      },
+      {
+        "id": 170,
+        "value": "James VI and I"
       }
     ],
     "persons - death_place": [],
@@ -8577,6 +8591,39 @@
     "place_type": "",
     "country": "United Kingdom",
     "country_code": "GB",
+    "place_type_class": "",
+    "updated": false
+  },
+  "233": {
+    "id": 233,
+    "order": "233.00000000000000000000",
+    "name": "Esslingasse",
+    "amp_id": "amp_place_id_233",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.21586580163302, 16.369830784659687",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 156,
+        "value": "Vienna's 3rd Bezirk"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "Austria",
+    "country_code": "AT",
     "place_type_class": "",
     "updated": false
   }
