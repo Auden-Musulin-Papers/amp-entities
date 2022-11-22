@@ -82,6 +82,10 @@
                   <location type="coords">
                      <geo>{{ x.geonames_coordinates }}</geo>
                   </location>
+                  {% else %}
+                  <location type="coords">
+                     <geo>{{ x.google_maps_coordinates }}</geo>
+                  </location>
                   {% endif %}
                   {% if x.geonames_id|length > 0 %}
                   <idno type="GEONAMES">{{ x.geonames_id }}</idno>

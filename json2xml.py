@@ -29,7 +29,6 @@ for x in data:
             if obj["geonames_coordinates"] and obj["geonames_coordinates"] != "None, None":
                 coords = obj["geonames_coordinates"]
                 coords = coords.split(",")
-                print(coords)
                 feature_point = {
                     "type": "Feature",
                     "geometry": {

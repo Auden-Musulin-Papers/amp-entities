@@ -79,6 +79,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.181531884216675, 15.811512574434994</geo>
+                  </location>
                   <note>known as Auden Strasse</note>
                </place>
                <place xml:id="amp_place_id_3">
@@ -205,6 +208,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.19947103998972, 16.388089895227534</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_12">
                   <settlement type="P">
@@ -318,6 +324,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>52.4790074683944, 13.275646669877162</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_20">
                   <settlement type="A">
@@ -339,6 +348,9 @@
                   <placeName>Ost-Berlin</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
                   </location>
                </place>
                <place xml:id="amp_place_id_22">
@@ -420,6 +432,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.21068227039788, 16.355750900000004</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_28">
                   <settlement type="P">
@@ -441,6 +456,9 @@
                   <placeName>77 St Mark's Place</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.72838981926847, -73.983587724666</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_30">
@@ -564,6 +582,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.213011564968774, 16.368780393887402</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_39">
                   <settlement type="P">
@@ -612,6 +633,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20897989117554, 16.375141084659692</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_43">
                   <settlement type="P">
@@ -634,11 +658,17 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>51.5222327499795, -0.1279883</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_45">
                   <placeName>Bryanston Square 32</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.51814975134741, -0.16166754363554944</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_46">
@@ -662,17 +692,26 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_6">Niederösterreich</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.19979820714975, 15.908621293769759</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_48">
                   <placeName>Karl Schweighofgasse 4/21</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20181915113065, 16.358312342810045</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_49">
                   <placeName>Paradisgasse 55</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.248678311142996, 16.34295339863543</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_50">
@@ -975,17 +1014,26 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>51.535932430359836, -0.1789514558219421</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_70">
                   <placeName>Livadaki</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_103">Arcadia</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>37.640004454026155, 21.82792838327145</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_71">
                   <placeName>Esslarngasse</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19498822750462, 16.393747926634855</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_72">
@@ -1063,12 +1111,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
+                  <location type="coords">
+                     <geo/>
+                  </location>
                   <note>she meant Hinterholz 6; Holzweg 5 is not valid</note>
                </place>
                <place xml:id="amp_place_id_78">
                   <placeName>Schloss Fridau</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_8">Obergrafendorf</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.14965170849973, 15.556407619394733</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_79">
@@ -1091,11 +1145,17 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.210577455478735, 16.365433890569722</geo>
+                  </location>
                </place>
                <place xml:id="amp_place_id_81">
                   <placeName>Herrenhof</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20984379239084, 16.366032810986137</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_82">
@@ -1191,6 +1251,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20684423396885, 16.367020498634673</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_89">
@@ -1244,6 +1307,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.202139557498505, 16.36923050734781</geo>
+                  </location>
                   <note>It does not exist anymore; the photos from our archive indicate the location</note>
                </place>
                <place xml:id="amp_place_id_93">
@@ -1267,6 +1333,9 @@
                   <placeName>River Pielach</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
                   </location>
                   <note>48.06853036632306, 15.46661873099261</note>
                </place>
@@ -1335,6 +1404,9 @@
                </place>
                <place xml:id="amp_place_id_99">
                   <placeName>Middle Western college</placeName>
+                  <location type="coords">
+                     <geo/>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_100">
@@ -1399,12 +1471,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.75178718779119, 16.512699051661468</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_105">
                   <placeName>Hospital in St. Pölten</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2134347836188, 15.627764612451644</geo>
                   </location>
                   <note/>
                </place>
@@ -1509,6 +1587,9 @@
                   <placeName>Bruton Street</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.51081260555309, -0.14461128132633838</geo>
                   </location>
                   <note/>
                </place>
@@ -2253,6 +2334,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.19834902425164, 16.381447374432152</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_161">
@@ -2291,6 +2375,9 @@
                </place>
                <place xml:id="amp_place_id_163">
                   <placeName>Akenfield</placeName>
+                  <location type="coords">
+                     <geo/>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_164">
@@ -2390,12 +2477,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_216">Crediton</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>50.79141203020876, -3.659534580154178</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_171">
                   <placeName>39 Claremont Ave</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.810125765533726, -73.96418150148406</geo>
                   </location>
                   <note/>
                </place>
@@ -2404,6 +2497,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.21286685931523, 16.35351725445949</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_173">
@@ -2411,12 +2507,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_108">Dublin</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>53.339912120136184, -6.256222616611612</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_174">
                   <placeName>Lackierergasse 5</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.21874314648821, 16.356955340964838</geo>
                   </location>
                   <note/>
                </place>
@@ -2453,6 +2555,9 @@
                   <placeName>Palais Wilczek</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_211">Herrengasse 5</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20882412668265, 16.36624270048027</geo>
                   </location>
                   <note/>
                </place>
@@ -2673,6 +2778,9 @@
                   <placeName>The Golz-Kinsky Palace</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_154">Prague</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.08803132166223, 14.42167365633837</geo>
                   </location>
                   <note/>
                </place>
@@ -2954,6 +3062,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>42.46259177654697, -76.53062245912945</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_211">
@@ -2961,12 +3072,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.208783977078866, 16.36615424096451</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_212">
                   <placeName>Figaro Saal</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo/>
                   </location>
                   <note/>
                </place>
@@ -3007,6 +3124,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_213">Tenby</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>51.671427500244214, -4.698087203148403</geo>
+                  </location>
                   <note/>
                </place>
                <place xml:id="amp_place_id_216">
@@ -3029,6 +3149,9 @@
                   <placeName>Alserstrasse 48/31</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.21561434780695, 16.34315160048035</geo>
                   </location>
                   <note/>
                </place>

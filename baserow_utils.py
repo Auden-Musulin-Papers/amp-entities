@@ -83,11 +83,16 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
                 typ_c = g.feature_class
                 ctry_c = g.country_code
                 ctry = g.country
-                update[field_name_update["coordinates"]] = f"{lat}, {lng}"
-                update[field_name_update["place_type"]] = typ
-                update[field_name_update["place_type_class"]] = typ_c
-                update[field_name_update["country"]] = ctry
-                update[field_name_update["country_code"]] = ctry_c
+                if lat and lng:
+                    update[field_name_update["coordinates"]] = f"{lat}, {lng}"
+                if typ:
+                    update[field_name_update["place_type"]] = typ
+                if typ_c:
+                    update[field_name_update["place_type_class"]] = typ_c
+                if ctry:
+                    update[field_name_update["country"]] = ctry
+                if ctry_c:
+                    update[field_name_update["country_code"]] = ctry_c
                 geo_u += 1
                 print(f"geonames id {geo_id} found. Updating lat: {lat} and lng: {lng}")
             except Exception as err:
