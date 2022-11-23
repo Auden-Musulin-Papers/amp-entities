@@ -249,7 +249,15 @@
         "value": "Declaration"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q178698"
+    "wikidata": "http://www.wikidata.org/entity/Q178698",
+    "events": [],
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -337,7 +345,15 @@
         "value": "The Years in Austria"
       }
     ],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": [
+      {
+        "id": 6726,
+        "value": "Baronnin",
+        "color": "dark-gray"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -408,7 +424,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q24260023"
+    "wikidata": "http://www.wikidata.org/entity/Q24260023",
+    "events": [],
+    "Title": []
   },
   "4": {
     "id": 4,
@@ -520,7 +538,9 @@
         "value": "The Bacchae of Euripides"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q5093626"
+    "wikidata": "http://www.wikidata.org/entity/Q5093626",
+    "events": [],
+    "Title": []
   },
   "5": {
     "id": 5,
@@ -558,7 +578,9 @@
         "value": "Kammermusik"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q78776"
+    "wikidata": "http://www.wikidata.org/entity/Q78776",
+    "events": [],
+    "Title": []
   },
   "6": {
     "id": 6,
@@ -587,7 +609,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q124735"
+    "wikidata": "http://www.wikidata.org/entity/Q124735",
+    "events": [],
+    "Title": []
   },
   "7": {
     "id": 7,
@@ -616,7 +640,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q45243"
+    "wikidata": "http://www.wikidata.org/entity/Q45243",
+    "events": [],
+    "Title": []
   },
   "8": {
     "id": 8,
@@ -655,7 +681,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q448764"
+    "wikidata": "http://www.wikidata.org/entity/Q448764",
+    "events": [],
+    "Title": []
   },
   "9": {
     "id": 9,
@@ -684,7 +712,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1067"
+    "wikidata": "http://www.wikidata.org/entity/Q1067",
+    "events": [],
+    "Title": []
   },
   "10": {
     "id": 10,
@@ -718,7 +748,9 @@
         "value": "Love´s Labours Lost"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q692"
+    "wikidata": "http://www.wikidata.org/entity/Q692",
+    "events": [],
+    "Title": []
   },
   "11": {
     "id": 11,
@@ -752,7 +784,9 @@
         "value": "Italienische Reise"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q5879"
+    "wikidata": "http://www.wikidata.org/entity/Q5879",
+    "events": [],
+    "Title": []
   },
   "12": {
     "id": 12,
@@ -781,7 +815,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q47551"
+    "wikidata": "http://www.wikidata.org/entity/Q47551",
+    "events": [],
+    "Title": []
   },
   "13": {
     "id": 13,
@@ -819,12 +855,14 @@
         "value": "Don Giovanni"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q254"
+    "wikidata": "http://www.wikidata.org/entity/Q254",
+    "events": [],
+    "Title": []
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Redlich, Dr Walter",
+    "name": "Redlich, Walter",
     "amp_id": "amp_person_14",
     "gnd": "",
     "birth_year": null,
@@ -838,7 +876,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor",
+        "color": "light-green"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -867,7 +913,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q336569"
+    "wikidata": "http://www.wikidata.org/entity/Q336569",
+    "events": [],
+    "Title": []
   },
   "16": {
     "id": 16,
@@ -905,7 +953,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "17": {
     "id": 17,
@@ -934,7 +984,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "18": {
     "id": 18,
@@ -963,7 +1015,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1511"
+    "wikidata": "http://www.wikidata.org/entity/Q1511",
+    "events": [],
+    "Title": []
   },
   "19": {
     "id": 19,
@@ -992,7 +1046,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q7174657"
+    "wikidata": "http://www.wikidata.org/entity/Q7174657",
+    "events": [],
+    "Title": []
   },
   "20": {
     "id": 20,
@@ -1021,7 +1077,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q30875"
+    "wikidata": "http://www.wikidata.org/entity/Q30875",
+    "events": [],
+    "Title": []
   },
   "21": {
     "id": 21,
@@ -1040,7 +1098,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "22": {
     "id": 22,
@@ -1059,7 +1119,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "23": {
     "id": 23,
@@ -1098,7 +1160,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "24": {
     "id": 24,
@@ -1127,7 +1191,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q179277"
+    "wikidata": "http://www.wikidata.org/entity/Q179277",
+    "events": [],
+    "Title": []
   },
   "25": {
     "id": 25,
@@ -1165,7 +1231,9 @@
         "value": "Le Sacre du Printemps"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q7314"
+    "wikidata": "http://www.wikidata.org/entity/Q7314",
+    "events": [],
+    "Title": []
   },
   "26": {
     "id": 26,
@@ -1194,7 +1262,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q5593"
+    "wikidata": "http://www.wikidata.org/entity/Q5593",
+    "events": [],
+    "Title": []
   },
   "27": {
     "id": 27,
@@ -1228,7 +1298,9 @@
         "value": "Murder in Cathedral"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q37767"
+    "wikidata": "http://www.wikidata.org/entity/Q37767",
+    "events": [],
+    "Title": []
   },
   "28": {
     "id": 28,
@@ -1257,7 +1329,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q5592"
+    "wikidata": "http://www.wikidata.org/entity/Q5592",
+    "events": [],
+    "Title": []
   },
   "29": {
     "id": 29,
@@ -1286,7 +1360,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q255"
+    "wikidata": "http://www.wikidata.org/entity/Q255",
+    "events": [],
+    "Title": []
   },
   "30": {
     "id": 30,
@@ -1315,7 +1391,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q859"
+    "wikidata": "http://www.wikidata.org/entity/Q859",
+    "events": [],
+    "Title": []
   },
   "31": {
     "id": 31,
@@ -1344,7 +1422,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q34970"
+    "wikidata": "http://www.wikidata.org/entity/Q34970",
+    "events": [],
+    "Title": []
   },
   "32": {
     "id": 32,
@@ -1368,7 +1448,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "33": {
     "id": 33,
@@ -1397,7 +1479,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q183266"
+    "wikidata": "https://www.wikidata.org/wiki/Q183266",
+    "events": [],
+    "Title": []
   },
   "34": {
     "id": 34,
@@ -1431,7 +1515,9 @@
         "value": "The Life and Adventures of Peter Prosch"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q2077624"
+    "wikidata": "http://www.wikidata.org/entity/Q2077624",
+    "events": [],
+    "Title": []
   },
   "35": {
     "id": 35,
@@ -1460,7 +1546,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q81752"
+    "wikidata": "http://www.wikidata.org/entity/Q81752",
+    "events": [],
+    "Title": []
   },
   "36": {
     "id": 36,
@@ -1489,7 +1577,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q168542"
+    "wikidata": "http://www.wikidata.org/entity/Q168542",
+    "events": [],
+    "Title": []
   },
   "37": {
     "id": 37,
@@ -1518,7 +1608,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q45025"
+    "wikidata": "http://www.wikidata.org/entity/Q45025",
+    "events": [],
+    "Title": []
   },
   "38": {
     "id": 38,
@@ -1547,7 +1639,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q44862"
+    "wikidata": "http://www.wikidata.org/entity/Q44862",
+    "events": [],
+    "Title": []
   },
   "39": {
     "id": 39,
@@ -1581,7 +1675,9 @@
         "value": "Lucia Novels"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q771698"
+    "wikidata": "https://www.wikidata.org/wiki/Q771698",
+    "events": [],
+    "Title": []
   },
   "40": {
     "id": 40,
@@ -1615,7 +1711,9 @@
         "value": "Rise and Fall of the City of Mahagonny"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q55004"
+    "wikidata": "http://www.wikidata.org/entity/Q55004",
+    "events": [],
+    "Title": []
   },
   "41": {
     "id": 41,
@@ -1649,7 +1747,9 @@
         "value": "Lord of the Rings"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q892"
+    "wikidata": "http://www.wikidata.org/entity/Q892",
+    "events": [],
+    "Title": []
   },
   "42": {
     "id": 42,
@@ -1704,7 +1804,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q51513"
+    "wikidata": "http://www.wikidata.org/entity/Q51513",
+    "events": [],
+    "Title": []
   },
   "43": {
     "id": 43,
@@ -1741,7 +1843,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q76361745"
+    "wikidata": "http://www.wikidata.org/entity/Q76361745",
+    "events": [],
+    "Title": []
   },
   "44": {
     "id": 44,
@@ -1820,7 +1924,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q75313732"
+    "wikidata": "http://www.wikidata.org/entity/Q75313732",
+    "events": [],
+    "Title": []
   },
   "45": {
     "id": 45,
@@ -1865,7 +1971,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09"
+    "wikidata": "https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09",
+    "events": [],
+    "Title": []
   },
   "46": {
     "id": 46,
@@ -1918,7 +2026,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "47": {
     "id": 47,
@@ -1955,7 +2065,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "48": {
     "id": 48,
@@ -1984,7 +2096,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q128576"
+    "wikidata": "http://www.wikidata.org/entity/Q128576",
+    "events": [],
+    "Title": []
   },
   "49": {
     "id": 49,
@@ -2013,7 +2127,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q79178"
+    "wikidata": "http://www.wikidata.org/entity/Q79178",
+    "events": [],
+    "Title": []
   },
   "51": {
     "id": 51,
@@ -2042,7 +2158,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q112255"
+    "wikidata": "http://www.wikidata.org/entity/Q112255",
+    "events": [],
+    "Title": []
   },
   "52": {
     "id": 52,
@@ -2071,7 +2189,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q112880"
+    "wikidata": "http://www.wikidata.org/entity/Q112880",
+    "events": [],
+    "Title": []
   },
   "53": {
     "id": 53,
@@ -2100,7 +2220,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q44336"
+    "wikidata": "http://www.wikidata.org/entity/Q44336",
+    "events": [],
+    "Title": []
   },
   "54": {
     "id": 54,
@@ -2129,7 +2251,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q87771"
+    "wikidata": "http://www.wikidata.org/entity/Q87771",
+    "events": [],
+    "Title": []
   },
   "55": {
     "id": 55,
@@ -2158,7 +2282,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q23559"
+    "wikidata": "http://www.wikidata.org/entity/Q23559",
+    "events": [],
+    "Title": []
   },
   "56": {
     "id": 56,
@@ -2187,7 +2313,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q47484"
+    "wikidata": "http://www.wikidata.org/entity/Q47484",
+    "events": [],
+    "Title": []
   },
   "57": {
     "id": 57,
@@ -2216,7 +2344,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q84835"
+    "wikidata": "http://www.wikidata.org/entity/Q84835",
+    "events": [],
+    "Title": []
   },
   "58": {
     "id": 58,
@@ -2245,7 +2375,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q9215"
+    "wikidata": "http://www.wikidata.org/entity/Q9215",
+    "events": [],
+    "Title": []
   },
   "59": {
     "id": 59,
@@ -2279,7 +2411,9 @@
         "value": "Hier und Jetzt"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q87532"
+    "wikidata": "http://www.wikidata.org/entity/Q87532",
+    "events": [],
+    "Title": []
   },
   "60": {
     "id": 60,
@@ -2308,7 +2442,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q87532"
+    "wikidata": "http://www.wikidata.org/entity/Q87532",
+    "events": [],
+    "Title": []
   },
   "61": {
     "id": 61,
@@ -2337,7 +2473,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q59601596"
+    "wikidata": "http://www.wikidata.org/entity/Q59601596",
+    "events": [],
+    "Title": []
   },
   "62": {
     "id": 62,
@@ -2366,7 +2504,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q583021"
+    "wikidata": "http://www.wikidata.org/entity/Q583021",
+    "events": [],
+    "Title": []
   },
   "63": {
     "id": 63,
@@ -2395,7 +2535,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1532072"
+    "wikidata": "http://www.wikidata.org/entity/Q1532072",
+    "events": [],
+    "Title": []
   },
   "64": {
     "id": 64,
@@ -2424,7 +2566,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q89249"
+    "wikidata": "http://www.wikidata.org/entity/Q89249",
+    "events": [],
+    "Title": []
   },
   "65": {
     "id": 65,
@@ -2453,7 +2597,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q154438"
+    "wikidata": "http://www.wikidata.org/entity/Q154438",
+    "events": [],
+    "Title": []
   },
   "66": {
     "id": 66,
@@ -2482,7 +2628,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q76332"
+    "wikidata": "http://www.wikidata.org/entity/Q76332",
+    "events": [],
+    "Title": []
   },
   "67": {
     "id": 67,
@@ -2511,7 +2659,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q215457"
+    "wikidata": "http://www.wikidata.org/entity/Q215457",
+    "events": [],
+    "Title": []
   },
   "68": {
     "id": 68,
@@ -2545,7 +2695,9 @@
         "value": "The Cantos"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q163366"
+    "wikidata": "http://www.wikidata.org/entity/Q163366",
+    "events": [],
+    "Title": []
   },
   "69": {
     "id": 69,
@@ -2574,7 +2726,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q60104"
+    "wikidata": "http://www.wikidata.org/entity/Q60104",
+    "events": [],
+    "Title": []
   },
   "70": {
     "id": 70,
@@ -2608,7 +2762,9 @@
         "value": "The Rise of the South African Reich"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q31739891"
+    "wikidata": "http://www.wikidata.org/entity/Q31739891",
+    "events": [],
+    "Title": []
   },
   "71": {
     "id": 71,
@@ -2637,7 +2793,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1353378"
+    "wikidata": "http://www.wikidata.org/entity/Q1353378",
+    "events": [],
+    "Title": []
   },
   "72": {
     "id": 72,
@@ -2666,7 +2824,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q268147"
+    "wikidata": "http://www.wikidata.org/entity/Q268147",
+    "events": [],
+    "Title": []
   },
   "73": {
     "id": 73,
@@ -2695,7 +2855,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q121694"
+    "wikidata": "http://www.wikidata.org/entity/Q121694",
+    "events": [],
+    "Title": []
   },
   "74": {
     "id": 74,
@@ -2724,7 +2886,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q518172"
+    "wikidata": "http://www.wikidata.org/entity/Q518172",
+    "events": [],
+    "Title": []
   },
   "75": {
     "id": 75,
@@ -2753,7 +2917,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q33637"
+    "wikidata": "http://www.wikidata.org/entity/Q33637",
+    "events": [],
+    "Title": []
   },
   "76": {
     "id": 76,
@@ -2782,7 +2948,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q997"
+    "wikidata": "http://www.wikidata.org/entity/Q997",
+    "events": [],
+    "Title": []
   },
   "77": {
     "id": 77,
@@ -2811,7 +2979,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q185381"
+    "wikidata": "http://www.wikidata.org/entity/Q185381",
+    "events": [],
+    "Title": []
   },
   "78": {
     "id": 78,
@@ -2840,7 +3010,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q93872"
+    "wikidata": "http://www.wikidata.org/entity/Q93872",
+    "events": [],
+    "Title": []
   },
   "79": {
     "id": 79,
@@ -2878,7 +3050,9 @@
         "value": "The Bassarids"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q76915"
+    "wikidata": "http://www.wikidata.org/entity/Q76915",
+    "events": [],
+    "Title": []
   },
   "80": {
     "id": 80,
@@ -2907,7 +3081,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q175366"
+    "wikidata": "http://www.wikidata.org/entity/Q175366",
+    "events": [],
+    "Title": []
   },
   "81": {
     "id": 81,
@@ -2936,7 +3112,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q44328"
+    "wikidata": "http://www.wikidata.org/entity/Q44328",
+    "events": [],
+    "Title": []
   },
   "82": {
     "id": 82,
@@ -2965,7 +3143,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q151097"
+    "wikidata": "http://www.wikidata.org/entity/Q151097",
+    "events": [],
+    "Title": []
   },
   "83": {
     "id": 83,
@@ -2994,7 +3174,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q154260"
+    "wikidata": "http://www.wikidata.org/entity/Q154260",
+    "events": [],
+    "Title": []
   },
   "84": {
     "id": 84,
@@ -3028,7 +3210,9 @@
         "value": "W.H. Auden in America"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q704931"
+    "wikidata": "http://www.wikidata.org/entity/Q704931",
+    "events": [],
+    "Title": []
   },
   "85": {
     "id": 85,
@@ -3057,7 +3241,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q55590162"
+    "wikidata": "https://www.wikidata.org/wiki/Q55590162",
+    "events": [],
+    "Title": []
   },
   "86": {
     "id": 86,
@@ -3086,7 +3272,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q310184"
+    "wikidata": "http://www.wikidata.org/entity/Q310184",
+    "events": [],
+    "Title": []
   },
   "87": {
     "id": 87,
@@ -3115,7 +3303,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q363515"
+    "wikidata": "http://www.wikidata.org/entity/Q363515",
+    "events": [],
+    "Title": []
   },
   "88": {
     "id": 88,
@@ -3149,7 +3339,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q14946819"
+    "wikidata": "https://www.wikidata.org/wiki/Q14946819",
+    "events": [],
+    "Title": []
   },
   "89": {
     "id": 89,
@@ -3168,7 +3360,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q18526943"
+    "wikidata": "https://www.wikidata.org/wiki/Q18526943",
+    "events": [],
+    "Title": []
   },
   "90": {
     "id": 90,
@@ -3197,7 +3391,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q7561744"
+    "wikidata": "http://www.wikidata.org/entity/Q7561744",
+    "events": [],
+    "Title": []
   },
   "91": {
     "id": 91,
@@ -3236,7 +3432,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q7184481"
+    "wikidata": "http://www.wikidata.org/entity/Q7184481",
+    "events": [],
+    "Title": []
   },
   "92": {
     "id": 92,
@@ -3265,7 +3463,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q131549"
+    "wikidata": "http://www.wikidata.org/entity/Q131549",
+    "events": [],
+    "Title": []
   },
   "93": {
     "id": 93,
@@ -3298,7 +3498,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "94": {
     "id": 94,
@@ -3335,7 +3537,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "95": {
     "id": 95,
@@ -3372,7 +3576,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "96": {
     "id": 96,
@@ -3421,7 +3627,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q62566483"
+    "wikidata": "https://www.wikidata.org/wiki/Q62566483",
+    "events": [],
+    "Title": []
   },
   "97": {
     "id": 97,
@@ -3440,7 +3648,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "98": {
     "id": 98,
@@ -3477,7 +3687,9 @@
         "value": "The English Auden"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q5344431"
+    "wikidata": "http://www.wikidata.org/entity/Q5344431",
+    "events": [],
+    "Title": []
   },
   "99": {
     "id": 99,
@@ -3506,7 +3718,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q16007105"
+    "wikidata": "https://www.wikidata.org/wiki/Q16007105",
+    "events": [],
+    "Title": []
   },
   "100": {
     "id": 100,
@@ -3540,7 +3754,9 @@
         "value": "W.H Auden Biography"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q92775"
+    "wikidata": "http://www.wikidata.org/entity/Q92775",
+    "events": [],
+    "Title": []
   },
   "102": {
     "id": 102,
@@ -3574,7 +3790,9 @@
         "value": "New Testament"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q9554"
+    "wikidata": "http://www.wikidata.org/entity/Q9554",
+    "events": [],
+    "Title": []
   },
   "103": {
     "id": 103,
@@ -3593,7 +3811,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "105": {
     "id": 105,
@@ -3617,7 +3837,9 @@
         "value": "Markings"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q104370574"
+    "wikidata": "https://www.wikidata.org/wiki/Q104370574",
+    "events": [],
+    "Title": []
   },
   "106": {
     "id": 106,
@@ -3641,7 +3863,9 @@
         "value": "Letters of Beethoven"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q5372032"
+    "wikidata": "https://www.wikidata.org/wiki/Q5372032",
+    "events": [],
+    "Title": []
   },
   "107": {
     "id": 107,
@@ -3670,7 +3894,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "108": {
     "id": 108,
@@ -3689,7 +3915,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "109": {
     "id": 109,
@@ -3708,7 +3936,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "110": {
     "id": 110,
@@ -3731,7 +3961,9 @@
       "color": "light-orange"
     },
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "111": {
     "id": 111,
@@ -3760,7 +3992,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q8018"
+    "wikidata": "http://www.wikidata.org/entity/Q8018",
+    "events": [],
+    "Title": []
   },
   "112": {
     "id": 112,
@@ -3789,7 +4023,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q87277"
+    "wikidata": "http://www.wikidata.org/entity/Q87277",
+    "events": [],
+    "Title": []
   },
   "113": {
     "id": 113,
@@ -3823,7 +4059,9 @@
         "value": "Book of Common Prayer"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q199894"
+    "wikidata": "http://www.wikidata.org/entity/Q199894",
+    "events": [],
+    "Title": []
   },
   "114": {
     "id": 114,
@@ -3857,7 +4095,9 @@
         "value": "Love´s Labours Lost opera"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q351339"
+    "wikidata": "http://www.wikidata.org/entity/Q351339",
+    "events": [],
+    "Title": []
   },
   "115": {
     "id": 115,
@@ -3891,7 +4131,9 @@
         "value": "Die Sieben Todsünden"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q735889"
+    "wikidata": "http://www.wikidata.org/entity/Q735889",
+    "events": [],
+    "Title": []
   },
   "116": {
     "id": 116,
@@ -3925,7 +4167,9 @@
         "value": "Archifanfaro"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q165534"
+    "wikidata": "http://www.wikidata.org/entity/Q165534",
+    "events": [],
+    "Title": []
   },
   "118": {
     "id": 118,
@@ -3944,7 +4188,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": [
+      {
+        "id": 6733,
+        "value": "Canon",
+        "color": "dark-blue"
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -3963,7 +4215,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "120": {
     "id": 120,
@@ -3987,7 +4241,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q18526885"
+    "wikidata": "http://www.wikidata.org/entity/Q18526885",
+    "events": [],
+    "Title": []
   },
   "121": {
     "id": 121,
@@ -4006,7 +4262,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "122": {
     "id": 122,
@@ -4040,12 +4298,14 @@
         "value": "The Rising Tide"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q4958431"
+    "wikidata": "http://www.wikidata.org/entity/Q4958431",
+    "events": [],
+    "Title": []
   },
   "123": {
     "id": 123,
     "order": "122.00000000000000000000",
-    "name": "Coldstream, Sir William",
+    "name": "Coldstream, William",
     "amp_id": "amp_person_123",
     "gnd": "https://d-nb.info/gnd/119037505",
     "birth_year": "1908",
@@ -4069,7 +4329,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q2841470"
+    "wikidata": "http://www.wikidata.org/entity/Q2841470",
+    "events": [],
+    "Title": [
+      {
+        "id": 6731,
+        "value": "Sir",
+        "color": "light-red"
+      }
+    ]
   },
   "124": {
     "id": 124,
@@ -4098,7 +4366,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q6515"
+    "wikidata": "http://www.wikidata.org/entity/Q6515",
+    "events": [],
+    "Title": []
   },
   "125": {
     "id": 125,
@@ -4117,7 +4387,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q6793071"
+    "wikidata": "https://www.wikidata.org/wiki/Q6793071",
+    "events": [],
+    "Title": []
   },
   "126": {
     "id": 126,
@@ -4141,12 +4413,14 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q277103"
+    "wikidata": "http://www.wikidata.org/entity/Q277103",
+    "events": [],
+    "Title": []
   },
   "127": {
     "id": 127,
     "order": "126.00000000000000000000",
-    "name": "Raimund, Prof Hans",
+    "name": "Raimund, Hans",
     "amp_id": "amp_person_127",
     "gnd": "https://d-nb.info/gnd/120503026",
     "birth_year": "1945",
@@ -4165,7 +4439,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1420740"
+    "wikidata": "http://www.wikidata.org/entity/Q1420740",
+    "events": [],
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -4194,7 +4476,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q312851"
+    "wikidata": "http://www.wikidata.org/entity/Q312851",
+    "events": [],
+    "Title": []
   },
   "129": {
     "id": 129,
@@ -4218,7 +4502,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q104573"
+    "wikidata": "http://www.wikidata.org/entity/Q104573",
+    "events": [],
+    "Title": []
   },
   "130": {
     "id": 130,
@@ -4247,7 +4533,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q352"
+    "wikidata": "http://www.wikidata.org/entity/Q352",
+    "events": [],
+    "Title": []
   },
   "131": {
     "id": 131,
@@ -4281,7 +4569,9 @@
         "value": "Vägmärken"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q1267"
+    "wikidata": "http://www.wikidata.org/entity/Q1267",
+    "events": [],
+    "Title": []
   },
   "132": {
     "id": 132,
@@ -4310,7 +4600,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q295830"
+    "wikidata": "http://www.wikidata.org/entity/Q295830",
+    "events": [],
+    "Title": []
   },
   "133": {
     "id": 133,
@@ -4339,7 +4631,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q57307"
+    "wikidata": "http://www.wikidata.org/entity/Q57307",
+    "events": [],
+    "Title": []
   },
   "134": {
     "id": 134,
@@ -4368,7 +4662,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "135": {
     "id": 135,
@@ -4387,7 +4683,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "136": {
     "id": 136,
@@ -4416,12 +4714,14 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q150767"
+    "wikidata": "http://www.wikidata.org/entity/Q150767",
+    "events": [],
+    "Title": []
   },
   "137": {
     "id": 137,
     "order": "136.00000000000000000000",
-    "name": "Kraus, Dr. Wolfgang",
+    "name": "Kraus, Wolfgang",
     "amp_id": "amp_person_137",
     "gnd": "https://d-nb.info/gnd/116413298",
     "birth_year": "1924",
@@ -4445,7 +4745,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q1123315"
+    "wikidata": "http://www.wikidata.org/entity/Q1123315",
+    "events": [],
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor",
+        "color": "light-green"
+      }
+    ]
   },
   "138": {
     "id": 138,
@@ -4492,7 +4800,15 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q9682"
+    "wikidata": "http://www.wikidata.org/entity/Q9682",
+    "events": [],
+    "Title": [
+      {
+        "id": 6729,
+        "value": "Queen",
+        "color": "light-blue"
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -4531,7 +4847,15 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q10633"
+    "wikidata": "http://www.wikidata.org/entity/Q10633",
+    "events": [],
+    "Title": [
+      {
+        "id": 6729,
+        "value": "Queen",
+        "color": "light-blue"
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -4565,7 +4889,15 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q151754"
+    "wikidata": "http://www.wikidata.org/entity/Q151754",
+    "events": [],
+    "Title": [
+      {
+        "id": 6730,
+        "value": "Princess",
+        "color": "dark-green"
+      }
+    ]
   },
   "141": {
     "id": 141,
@@ -4615,7 +4947,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "142": {
     "id": 142,
@@ -4657,7 +4991,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "143": {
     "id": 143,
@@ -4686,7 +5022,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q81447"
+    "wikidata": "http://www.wikidata.org/entity/Q81447",
+    "events": [],
+    "Title": []
   },
   "144": {
     "id": 144,
@@ -4720,7 +5058,9 @@
         "value": "The Rise and Fall of the British Nanny"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q6273178"
+    "wikidata": "https://www.wikidata.org/wiki/Q6273178",
+    "events": [],
+    "Title": []
   },
   "145": {
     "id": 145,
@@ -4754,7 +5094,9 @@
         "value": "The Faber Book of Aphorisms"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q6687573"
+    "wikidata": "http://www.wikidata.org/entity/Q6687573",
+    "events": [],
+    "Title": []
   },
   "146": {
     "id": 146,
@@ -4783,7 +5125,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "147": {
     "id": 147,
@@ -4807,7 +5151,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "148": {
     "id": 148,
@@ -4826,7 +5172,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "149": {
     "id": 149,
@@ -4849,7 +5197,9 @@
       "color": "light-orange"
     },
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "150": {
     "id": 150,
@@ -4883,7 +5233,9 @@
         "value": "Auden in Love"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q96073363"
+    "wikidata": "https://www.wikidata.org/wiki/Q96073363",
+    "events": [],
+    "Title": []
   },
   "151": {
     "id": 151,
@@ -4902,7 +5254,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "152": {
     "id": 152,
@@ -4931,7 +5285,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q2038348"
+    "wikidata": "http://www.wikidata.org/entity/Q2038348",
+    "events": [],
+    "Title": []
   },
   "153": {
     "id": 153,
@@ -4950,7 +5306,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "154": {
     "id": 154,
@@ -4969,7 +5327,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "155": {
     "id": 155,
@@ -4988,12 +5348,14 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "156": {
     "id": 156,
     "order": "155.00000000000000000000",
-    "name": "Duncan, Revd. Bruce",
+    "name": "Duncan, Bruce",
     "amp_id": "amp_person_156",
     "gnd": "",
     "birth_year": "1938",
@@ -5007,7 +5369,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q39073705"
+    "wikidata": "https://www.wikidata.org/wiki/Q39073705",
+    "events": [],
+    "Title": [
+      {
+        "id": 6732,
+        "value": "Revd",
+        "color": "light-blue"
+      }
+    ]
   },
   "157": {
     "id": 157,
@@ -5031,7 +5401,9 @@
         "value": "Italian Journey"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q5363177"
+    "wikidata": "https://www.wikidata.org/wiki/Q5363177",
+    "events": [],
+    "Title": []
   },
   "158": {
     "id": 158,
@@ -5060,7 +5432,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q408758"
+    "wikidata": "https://www.wikidata.org/wiki/Q408758",
+    "events": [],
+    "Title": []
   },
   "159": {
     "id": 159,
@@ -5079,7 +5453,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "160": {
     "id": 160,
@@ -5116,7 +5492,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q96073350"
+    "wikidata": "https://www.wikidata.org/wiki/Q96073350",
+    "events": [],
+    "Title": []
   },
   "161": {
     "id": 161,
@@ -5140,7 +5518,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q151836"
+    "wikidata": "https://www.wikidata.org/wiki/Q151836",
+    "events": [],
+    "Title": []
   },
   "162": {
     "id": 162,
@@ -5169,7 +5549,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "163": {
     "id": 163,
@@ -5193,7 +5575,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q103529"
+    "wikidata": "https://www.wikidata.org/wiki/Q103529",
+    "events": [],
+    "Title": []
   },
   "164": {
     "id": 164,
@@ -5222,7 +5606,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q45233"
+    "wikidata": "https://www.wikidata.org/wiki/Q45233",
+    "events": [],
+    "Title": []
   },
   "165": {
     "id": 165,
@@ -5251,7 +5637,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q5687"
+    "wikidata": "https://www.wikidata.org/wiki/Q5687",
+    "events": [],
+    "Title": []
   },
   "166": {
     "id": 166,
@@ -5280,7 +5668,9 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q453288"
+    "wikidata": "https://www.wikidata.org/wiki/Q453288",
+    "events": [],
+    "Title": []
   },
   "167": {
     "id": 167,
@@ -5335,7 +5725,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "168": {
     "id": 168,
@@ -5364,7 +5756,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "169": {
     "id": 169,
@@ -5401,7 +5795,9 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": ""
+    "wikidata": "",
+    "events": [],
+    "Title": []
   },
   "170": {
     "id": 170,
@@ -5435,6 +5831,14 @@
         "value": "Authorised Version"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q79972"
+    "wikidata": "https://www.wikidata.org/wiki/Q79972",
+    "events": [],
+    "Title": [
+      {
+        "id": 6728,
+        "value": "King",
+        "color": "blue"
+      }
+    ]
   }
 }
