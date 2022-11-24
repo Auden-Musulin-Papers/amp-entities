@@ -193,14 +193,18 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             loc = obj[clm3]
             if loc:
                 if len(loc) != 0:
+                    nm = obj["name"]
                     for x in loc:
-                        arr.append(x["id"])
+                        arr.append({
+                            "id": x["id"],
+                            "name": nm
+                        })
         except KeyError as err:
             print(err)
     with open("json_dumps/places.json", "rb") as f:
         file = json.load(f)
     for id in arr:
-        plc = file[str(id)]
+        plc = file[str(id["id"])]
         if plc[clmn1]:
             if len(plc[clmn1]) != 0:
                 coords = plc[clmn1]
@@ -212,7 +216,8 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                         "coordinates": [float(coords[1]), float(coords[0])]
                     },
                     "properties": {
-                        "title": plc["name"],
+                        "title": id["name"],
+                        "title_plc": plc["name"],
                         "id": plc["amp_id"],
                         "country_code": plc["country_code"]
                     }
@@ -229,7 +234,8 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                         "coordinates": [float(coords[1]), float(coords[0])]
                     },
                     "properties": {
-                        "title": plc["name"],
+                        "title": id["name"],
+                        "title_plc": plc["name"],
                         "id": plc["amp_id"],
                         "country_code": plc["country_code"]
                     }
