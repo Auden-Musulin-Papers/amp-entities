@@ -194,10 +194,12 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
             if loc:
                 if len(loc) != 0:
                     nm = obj["name"]
+                    o_id = obj["amp_id"]
                     for x in loc:
                         arr.append({
                             "id": x["id"],
-                            "name": nm
+                            "name": nm,
+                            "amp_id": o_id
                         })
         except KeyError as err:
             print(err)
@@ -217,8 +219,9 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                     },
                     "properties": {
                         "title": id["name"],
+                        "id": id["amp_id"],
                         "title_plc": plc["name"],
-                        "id": plc["amp_id"],
+                        "id_plc": plc["amp_id"],
                         "country_code": plc["country_code"]
                     }
                 }
@@ -235,8 +238,9 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                     },
                     "properties": {
                         "title": id["name"],
+                        "id": id["amp_id"],
                         "title_plc": plc["name"],
-                        "id": plc["amp_id"],
+                        "id_plc": plc["amp_id"],
                         "country_code": plc["country_code"]
                     }
                 }
