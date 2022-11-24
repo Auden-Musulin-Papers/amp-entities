@@ -11,6 +11,7 @@ jobs:
       BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
       BASEROW_USER: ${{secrets.BASEROW_USER}}
       BASEROW_PW: ${{secrets.BASEROW_PW}}
+      GEONAMES_USER: ${{secrets.GEONAMES_USER}}
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v3
