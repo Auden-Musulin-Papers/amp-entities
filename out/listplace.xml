@@ -1555,17 +1555,19 @@
                </place>
                <place xml:id="amp_place_id_111">
                   <settlement type="P">
-                     <placeName>Rodau</placeName>
+                     <placeName>Rodaun</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
-                  <country>DE, Germany</country>
+                  <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_20">Germany</placeName>
+                     <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>50.50566, 11.99086</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2846147/</idno>
+                  <idno type="GEONAMES">https://d-nb.info/gnd/4348476-1</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2160909</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4348476-1</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_112">
@@ -3269,7 +3271,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/6354989/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q688704</idno>
                   <idno type="GND">https://d-nb.info/gnd/35915-4</idno>
                   <note/>
@@ -3312,6 +3313,16 @@
                   <location type="coords">
                      <geo>48.21586580163302, 16.369830784659687</geo>
                   </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_234">
+                  <placeName>Kensigton</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/2645801/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q288781</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4579601-4</idno>
                   <note/>
                </place>
             </listPlace>

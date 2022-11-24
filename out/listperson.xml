@@ -70,9 +70,9 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1973-09-28">1973-09-28</date>
-                     <settlement key="amp_place_id_5">
-                        <placeName>Kirchstetten</placeName>
+                     <date when-iso="1973-09-29">1973-09-29</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118650963</idno>
@@ -259,8 +259,8 @@
                   </persName>
                   <birth>
                      <date when-iso="1909-02-28">1909-02-28</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
+                     <settlement key="amp_place_id_234">
+                        <placeName>Kensigton</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -298,7 +298,7 @@
                      <surname>Shakespeare</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1564-04-26">1564-04-26</date>
+                     <date when-iso="1564-04-23">1564-04-23</date>
                      <settlement key="amp_place_id_32">
                         <placeName>Stratford-upon-Avon</placeName>
                      </settlement>
@@ -446,7 +446,7 @@
                      <surname>Heyworth</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1921-06-03">1921-06-03</date>
+                     <date when-iso="1921-06-21">1921-06-21</date>
                   </birth>
                   <death>
                      <date when-iso="1991-10-02">1991-10-02</date>
@@ -575,8 +575,8 @@
                   </birth>
                   <death>
                      <date when-iso="1965-01-04">1965-01-04</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
+                     <settlement key="amp_place_id_234">
+                        <placeName>Kensigton</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118529854</idno>
@@ -597,7 +597,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1564-02-08">1564-02-08</date>
+                     <date when-iso="1564-02-18">1564-02-18</date>
                      <settlement key="amp_place_id_51">
                         <placeName>Rome</placeName>
                      </settlement>
@@ -611,7 +611,7 @@
                      <surname>Beethoven</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1770-12-17">1770-12-17</date>
+                     <date when-iso="1770-12-16">1770-12-16</date>
                      <settlement key="amp_place_id_58">
                         <placeName>Bonn</placeName>
                      </settlement>
@@ -685,7 +685,7 @@
                      <surname>Prosch</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1744-07-20">1744-07-20</date>
+                     <date when-iso="1744-06-28">1744-06-28</date>
                      <settlement key="amp_place_id_63">
                         <placeName>Ried</placeName>
                      </settlement>
@@ -799,6 +799,7 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/11885349X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q771698</idno>
                   <listBibl>
                      <bibl n="lit_work_id_1">Lucia Novels</bibl>
@@ -864,7 +865,7 @@
                   <death>
                      <date when-iso="1929-07-15">1929-07-15</date>
                      <settlement key="amp_place_id_111">
-                        <placeName>Rodau</placeName>
+                        <placeName>Rodaun</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118552759</idno>
@@ -875,6 +876,9 @@
                      <forename>Gerty von</forename>
                      <surname>Hofmannsthal</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1881-03-16">1881-03-16</date>
+                  </birth>
                   <idno type="GND">https://d-nb.info/gnd/116952199</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76361745</idno>
                </person>
@@ -886,7 +890,7 @@
                   <birth>
                      <date when-iso="1906-05-26">1906-05-26</date>
                      <settlement key="amp_place_id_111">
-                        <placeName>Rodau</placeName>
+                        <placeName>Rodaun</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -909,7 +913,6 @@
                   <death>
                      <date when-iso="1980-03-28">1980-03-28</date>
                   </death>
-                  <idno type="WIKIDATA">https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09</idno>
                </person>
                <person xml:id="amp_person_46">
                   <persName>
@@ -931,7 +934,7 @@
                </person>
                <person xml:id="amp_person_48">
                   <persName>
-                     <forename>Lady Diana</forename>
+                     <forename>Diana</forename>
                      <surname>Cooper</surname>
                   </persName>
                   <birth>
@@ -1115,7 +1118,7 @@
                      <surname>Freud</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1856-01-01">1856-01-01</date>
+                     <date when-iso="1856-05-06">1856-05-06</date>
                      <settlement key="amp_place_id_119">
                         <placeName>Příbor</placeName>
                      </settlement>
@@ -1169,8 +1172,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118536133</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
+                  <idno type="GND">https://d-nb.info/gnd/120720124</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q15451051</idno>
                </person>
                <person xml:id="amp_person_61">
                   <persName>
@@ -1444,7 +1447,7 @@
                      <surname>Etkin</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1918-01-01">1918-01-01</date>
+                     <date when-iso="1918-02-26">1918-02-26</date>
                      <settlement key="amp_place_id_135">
                         <placeName>Saint Petersburg</placeName>
                      </settlement>
@@ -1730,7 +1733,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1903-12-21">1903-12-21</date>
+                     <date when-iso="1991-01-21">1991-01-21</date>
                   </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q14946819</idno>
                </person>
@@ -1837,6 +1840,12 @@
                      <forename>Edward</forename>
                      <surname>Mendelson</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1946-03-15">1946-03-15</date>
+                     <settlement key="amp_place_id_28">
+                        <placeName>New York City</placeName>
+                     </settlement>
+                  </birth>
                   <idno type="GND">https://d-nb.info/gnd/14000761X</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5344431</idno>
                   <listBibl>
@@ -1857,7 +1866,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1871-07-24">1871-07-24</date>
+                     <date when-iso="1971-07-24">1971-07-24</date>
                      <settlement key="amp_place_id_161">
                         <placeName>San Francisco</placeName>
                      </settlement>
@@ -1870,7 +1879,7 @@
                      <surname>Carpenter</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1926-04-29">1926-04-29</date>
+                     <date when-iso="1946-04-29">1946-04-29</date>
                      <settlement key="amp_place_id_46">
                         <placeName>Oxford</placeName>
                      </settlement>
@@ -2070,8 +2079,8 @@
                         <placeName>Ost-Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/4312008-8</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q735889</idno>
+                  <idno type="GND">https://d-nb.info/gnd/118514768</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q38757</idno>
                   <listBibl>
                      <bibl n="lit_work_id_9">Die Sieben Todsünden</bibl>
                   </listBibl>
@@ -2088,7 +2097,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1793-01-06">1793-01-06</date>
+                     <date when-iso="1793-02-06">1793-02-06</date>
                      <settlement key="amp_place_id_84">
                         <placeName>Paris</placeName>
                      </settlement>
@@ -2183,7 +2192,7 @@
                      <surname>Peake</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1911-06-09">1911-06-09</date>
+                     <date when-iso="1911-07-09">1911-07-09</date>
                      <settlement key="amp_place_id_182">
                         <placeName>Lianxi District</placeName>
                      </settlement>
@@ -2292,7 +2301,7 @@
                      <surname>Hammarskjöld</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1905-04-10">1905-04-10</date>
+                     <date when-iso="1905-07-29">1905-07-29</date>
                      <settlement key="amp_place_id_202">
                         <placeName>Jönköping Town</placeName>
                      </settlement>
@@ -2366,6 +2375,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/118620126</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18456</idno>
                </person>
                <person xml:id="amp_person_135">
                   <persName>
@@ -2438,6 +2449,18 @@
                      <forename>Great Britain</forename>
                      <surname>Elizabeth</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1900-08-04">1900-08-04</date>
+                     <settlement key="amp_place_id_198">
+                        <placeName>Hitchin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2002-03-30">2002-03-30</date>
+                     <settlement key="amp_place_id_199">
+                        <placeName>Royal Lodge</placeName>
+                     </settlement>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/118816896</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q10633</idno>
                </person>
@@ -2731,7 +2754,7 @@
                      <surname>N/A_6</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118549847</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q51672</idno>
                </person>
                <person xml:id="amp_person_166">
                   <persName>
@@ -2811,6 +2834,12 @@
                   <listBibl>
                      <bibl n="lit_work_id_82">Authorised Version</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="amp_person_171">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
