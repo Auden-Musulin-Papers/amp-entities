@@ -2,20 +2,20 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "event_name": "",
+    "name": "",
     "amp_event": "amp_event_id_1",
-    "paricipants": [],
-    "place": [],
+    "participants": [],
+    "place_of_event": [],
     "has_type": null,
     "date": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "event_name": "",
+    "name": "",
     "amp_event": "amp_event_id_2",
-    "paricipants": [],
-    "place": [],
+    "participants": [],
+    "place_of_event": [],
     "has_type": null,
     "date": null
   }

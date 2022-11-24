@@ -627,8 +627,8 @@
                </person>
                <person xml:id="amp_person_30">
                   <persName>
-                     <forename/>
-                     <surname>Plato</surname>
+                     <forename>Plato</forename>
+                     <surname>N/A</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
@@ -1041,7 +1041,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1883-09-18">1883-09-18</date>
+                     <date when-iso="1983-09-18">1983-09-18</date>
                      <settlement key="amp_place_id_1">
                         <placeName>Vienna</placeName>
                      </settlement>
@@ -2604,12 +2604,6 @@
                      <surname>Strauss</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_154">
-                  <persName>
-                     <forename>Cornelia</forename>
-                     <surname>Jacobsen</surname>
-                  </persName>
-               </person>
                <person xml:id="amp_person_155">
                   <persName>
                      <forename>N/A</forename>
@@ -2733,8 +2727,8 @@
                </person>
                <person xml:id="amp_person_165">
                   <persName>
-                     <forename/>
-                     <surname>Herod</surname>
+                     <forename>Herod</forename>
+                     <surname>N/A_6</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118549847</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
