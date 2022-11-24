@@ -2,15 +2,21 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
-    "Notes": "",
-    "Active": false
+    "name": "",
+    "amp_event": "amp_event_id_1",
+    "participants": [],
+    "place_of_event": [],
+    "has_type": null,
+    "date": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
-    "Notes": "",
-    "Active": false
+    "name": "",
+    "amp_event": "amp_event_id_2",
+    "participants": [],
+    "place_of_event": [],
+    "has_type": null,
+    "date": null
   }
 }

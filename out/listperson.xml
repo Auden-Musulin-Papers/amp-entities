@@ -378,7 +378,7 @@
                </person>
                <person xml:id="amp_person_14">
                   <persName>
-                     <forename>Dr Walter</forename>
+                     <forename>Walter</forename>
                      <surname>Redlich</surname>
                   </persName>
                </person>
@@ -627,8 +627,8 @@
                </person>
                <person xml:id="amp_person_30">
                   <persName>
-                     <forename/>
-                     <surname>Plato</surname>
+                     <forename>Plato</forename>
+                     <surname>N/A</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
@@ -1041,7 +1041,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1883-09-18">1883-09-18</date>
+                     <date when-iso="1983-09-18">1983-09-18</date>
                      <settlement key="amp_place_id_1">
                         <placeName>Vienna</placeName>
                      </settlement>
@@ -2159,7 +2159,7 @@
                </person>
                <person xml:id="amp_person_123">
                   <persName>
-                     <forename>Sir William</forename>
+                     <forename>William</forename>
                      <surname>Coldstream</surname>
                   </persName>
                   <birth>
@@ -2220,7 +2220,7 @@
                </person>
                <person xml:id="amp_person_127">
                   <persName>
-                     <forename>Prof Hans</forename>
+                     <forename>Hans</forename>
                      <surname>Raimund</surname>
                   </persName>
                   <birth>
@@ -2395,7 +2395,7 @@
                </person>
                <person xml:id="amp_person_137">
                   <persName>
-                     <forename>Dr. Wolfgang</forename>
+                     <forename>Wolfgang</forename>
                      <surname>Kraus</surname>
                   </persName>
                   <birth>
@@ -2604,12 +2604,6 @@
                      <surname>Strauss</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_154">
-                  <persName>
-                     <forename>Cornelia</forename>
-                     <surname>Jacobsen</surname>
-                  </persName>
-               </person>
                <person xml:id="amp_person_155">
                   <persName>
                      <forename>N/A</forename>
@@ -2618,7 +2612,7 @@
                </person>
                <person xml:id="amp_person_156">
                   <persName>
-                     <forename>Revd. Bruce</forename>
+                     <forename>Bruce</forename>
                      <surname>Duncan</surname>
                   </persName>
                   <birth>
@@ -2733,8 +2727,8 @@
                </person>
                <person xml:id="amp_person_165">
                   <persName>
-                     <forename/>
-                     <surname>Herod</surname>
+                     <forename>Herod</forename>
+                     <surname>N/A_6</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118549847</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
@@ -2797,8 +2791,8 @@
                </person>
                <person xml:id="amp_person_170">
                   <persName>
-                     <forename/>
-                     <surname>James VI and I</surname>
+                     <forename>James</forename>
+                     <surname>VI and I</surname>
                   </persName>
                   <birth>
                      <date when-iso="1566-06-19">1566-06-19</date>
