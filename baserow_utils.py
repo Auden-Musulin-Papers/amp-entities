@@ -203,48 +203,49 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                         })
         except KeyError as err:
             print(err)
-    with open("json_dumps/places.json", "rb") as f:
-        file = json.load(f)
-    for id in arr:
-        plc = file[str(id["id"])]
-        if plc[clmn1]:
-            if len(plc[clmn1]) != 0:
-                coords = plc[clmn1]
-                coords = coords.split(",")
-                feature_point = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
-                    },
-                    "properties": {
-                        "title": id["name"],
-                        "id": id["amp_id"],
-                        "title_plc": plc["name"],
-                        "id_plc": plc["amp_id"],
-                        "country_code": plc["country_code"]
+    if arr:
+        with open("json_dumps/places.json", "rb") as f:
+            file = json.load(f)
+        for id in arr:
+            plc = file[str(id["id"])]
+            if plc[clmn1]:
+                if len(plc[clmn1]) != 0:
+                    coords = plc[clmn1]
+                    coords = coords.split(",")
+                    feature_point = {
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [float(coords[1]), float(coords[0])]
+                        },
+                        "properties": {
+                            "title": id["name"],
+                            "id": id["amp_id"],
+                            "title_plc": plc["name"],
+                            "id_plc": plc["amp_id"],
+                            "country_code": plc["country_code"]
+                        }
                     }
-                }
-                geojson["features"].append(feature_point)
-        elif plc[clmn2]:
-            if len(plc[clmn2]) != 0:
-                coords = plc[clmn2]
-                coords = coords.split(",")
-                feature_point = {
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [float(coords[1]), float(coords[0])]
-                    },
-                    "properties": {
-                        "title": id["name"],
-                        "id": id["amp_id"],
-                        "title_plc": plc["name"],
-                        "id_plc": plc["amp_id"],
-                        "country_code": plc["country_code"]
+                    geojson["features"].append(feature_point)
+            elif plc[clmn2]:
+                if len(plc[clmn2]) != 0:
+                    coords = plc[clmn2]
+                    coords = coords.split(",")
+                    feature_point = {
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [float(coords[1]), float(coords[0])]
+                        },
+                        "properties": {
+                            "title": id["name"],
+                            "id": id["amp_id"],
+                            "title_plc": plc["name"],
+                            "id_plc": plc["amp_id"],
+                            "country_code": plc["country_code"]
+                        }
                     }
-                }
-                geojson["features"].append(feature_point)
+                    geojson["features"].append(feature_point)
     with open(f"out/{fn}.geojson", "w") as f:
         json.dump(geojson, f)
     return geojson
