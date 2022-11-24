@@ -16,11 +16,11 @@
     "death_year": "1973",
     "death_place": [
       {
-        "id": 5,
-        "value": "Kirchstetten"
+        "id": 1,
+        "value": "Vienna"
       }
     ],
-    "death_day": "1973-09-28",
+    "death_day": "1973-09-29",
     "comment": null,
     "person_person": [
       {
@@ -350,7 +350,7 @@
     "Title": [
       {
         "id": 6726,
-        "value": "Baronnin",
+        "value": "Baronin",
         "color": "dark-gray"
       }
     ]
@@ -653,8 +653,8 @@
     "birth_year": "1909",
     "birth_place": [
       {
-        "id": 56,
-        "value": "London"
+        "id": 234,
+        "value": "Kensigton"
       }
     ],
     "birth_day": "1909-02-28",
@@ -729,7 +729,7 @@
         "value": "Stratford-upon-Avon"
       }
     ],
-    "birth_day": "1564-04-26",
+    "birth_day": "1564-04-23",
     "death_year": "1616",
     "death_place": [
       {
@@ -881,7 +881,7 @@
     "Title": [
       {
         "id": 6727,
-        "value": "Doktor",
+        "value": "Doctor",
         "color": "light-green"
       }
     ]
@@ -1027,7 +1027,7 @@
     "gnd": "https://d-nb.info/gnd/172137276",
     "birth_year": "1921",
     "birth_place": [],
-    "birth_day": "1921-06-03",
+    "birth_day": "1921-06-21",
     "death_year": "1991",
     "death_place": [],
     "death_day": "1991-10-02",
@@ -1283,8 +1283,8 @@
     "death_year": "1965",
     "death_place": [
       {
-        "id": 56,
-        "value": "London"
+        "id": 234,
+        "value": "Kensigton"
       }
     ],
     "death_day": "1965-01-04",
@@ -1323,7 +1323,7 @@
         "value": "Rome"
       }
     ],
-    "death_day": "1564-02-08",
+    "death_day": "1564-02-18",
     "comment": null,
     "person_person": [],
     "person_person - target": [],
@@ -1346,7 +1346,7 @@
         "value": "Bonn"
       }
     ],
-    "birth_day": "1770-12-17",
+    "birth_day": "1770-12-16",
     "death_year": "1827",
     "death_place": [
       {
@@ -1496,7 +1496,7 @@
         "value": "Ried"
       }
     ],
-    "birth_day": "1744-07-20",
+    "birth_day": "1744-06-28",
     "death_year": "1804",
     "death_place": [
       {
@@ -1648,7 +1648,7 @@
     "order": "39.00000000000000000000",
     "name": "Benson, Edward Frederic",
     "amp_id": "amp_person_39",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/11885349X",
     "birth_year": "1867",
     "birth_place": [
       {
@@ -1769,7 +1769,7 @@
     "death_place": [
       {
         "id": 111,
-        "value": "Rodau"
+        "value": "Rodaun"
       }
     ],
     "death_day": "1929-07-15",
@@ -1814,9 +1814,9 @@
     "name": "Hofmannsthal, Gerty von",
     "amp_id": "amp_person_43",
     "gnd": "https://d-nb.info/gnd/116952199",
-    "birth_year": "1880",
+    "birth_year": "1881",
     "birth_place": [],
-    "birth_day": null,
+    "birth_day": "1881-03-16",
     "death_year": "1959",
     "death_place": [],
     "death_day": null,
@@ -1857,7 +1857,7 @@
     "birth_place": [
       {
         "id": 111,
-        "value": "Rodau"
+        "value": "Rodaun"
       }
     ],
     "birth_day": "1906-05-26",
@@ -1971,7 +1971,7 @@
     ],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://oeaw-ac-at.zoom.us/j/96547933319?pwd=dVRSVUhudjE2MmNwVVl5dmY2Zmo0Zz09",
+    "wikidata": "",
     "events": [],
     "Title": []
   },
@@ -2072,7 +2072,7 @@
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "name": "Cooper, Lady Diana",
+    "name": "Cooper, Diana",
     "amp_id": "amp_person_48",
     "gnd": "https://d-nb.info/gnd/105184292",
     "birth_year": "1892",
@@ -2098,7 +2098,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q128576",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6735,
+        "value": "Lady",
+        "color": "orange"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -2160,7 +2166,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q112255",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -2253,7 +2265,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q87771",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -2361,7 +2379,7 @@
         "value": "Příbor"
       }
     ],
-    "birth_day": "1856-01-01",
+    "birth_day": "1856-05-06",
     "death_year": "1939",
     "death_place": [
       {
@@ -2377,7 +2395,18 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q9215",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -2420,7 +2449,7 @@
     "order": "60.00000000000000000000",
     "name": "Kont, Paul",
     "amp_id": "amp_person_60",
-    "gnd": "https://d-nb.info/gnd/118536133",
+    "gnd": "https://d-nb.info/gnd/120720124",
     "birth_year": "1920",
     "birth_place": [
       {
@@ -2442,7 +2471,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "http://www.wikidata.org/entity/Q87532",
+    "wikidata": "https://www.wikidata.org/wiki/Q15451051",
     "events": [],
     "Title": []
   },
@@ -2728,7 +2757,18 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q60104",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -2872,7 +2912,7 @@
         "value": "Saint Petersburg"
       }
     ],
-    "birth_day": "1918-01-01",
+    "birth_day": "1918-02-26",
     "death_year": "1999",
     "death_place": [
       {
@@ -2919,7 +2959,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q33637",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -2981,7 +3027,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q185381",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -3012,7 +3064,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -3052,7 +3110,13 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q76915",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -3083,7 +3147,18 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q175366",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6736,
+        "value": "Baron",
+        "color": "green"
+      },
+      {
+        "id": 6737,
+        "value": "Lord",
+        "color": "light-blue"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -3305,7 +3380,13 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q363515",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -3321,9 +3402,9 @@
       }
     ],
     "birth_day": "1903-12-14",
-    "death_year": null,
+    "death_year": "1991",
     "death_place": [],
-    "death_day": "1903-12-21",
+    "death_day": "1991-01-21",
     "comment": "known as John Bicknell Auden",
     "person_person": [
       {
@@ -3539,7 +3620,13 @@
     "literary_work": [],
     "wikidata": "",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6736,
+        "value": "Baron",
+        "color": "green"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -3665,7 +3752,7 @@
         "value": "New York City"
       }
     ],
-    "birth_day": null,
+    "birth_day": "1946-03-15",
     "death_year": null,
     "death_place": [],
     "death_day": null,
@@ -3689,7 +3776,13 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5344431",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      }
+    ]
   },
   "99": {
     "id": 99,
@@ -3712,7 +3805,7 @@
         "value": "San Francisco"
       }
     ],
-    "death_day": "1871-07-24",
+    "death_day": "1971-07-24",
     "comment": "",
     "person_person": [],
     "person_person - target": [],
@@ -3735,7 +3828,7 @@
         "value": "Oxford"
       }
     ],
-    "birth_day": "1926-04-29",
+    "birth_day": "1946-04-29",
     "death_year": "2005",
     "death_place": [
       {
@@ -4061,7 +4154,18 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q199894",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "114": {
     "id": 114,
@@ -4104,7 +4208,7 @@
     "order": "115.00000000000000000000",
     "name": "Brecht, Bertolt",
     "amp_id": "amp_person_115",
-    "gnd": "https://d-nb.info/gnd/4312008-8",
+    "gnd": "https://d-nb.info/gnd/118514768",
     "birth_year": "1898",
     "birth_place": [
       {
@@ -4131,7 +4235,7 @@
         "value": "Die Sieben Todsünden"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q735889",
+    "wikidata": "https://www.wikidata.org/wiki/Q38757",
     "events": [],
     "Title": []
   },
@@ -4156,7 +4260,7 @@
         "value": "Paris"
       }
     ],
-    "death_day": "1793-01-06",
+    "death_day": "1793-02-06",
     "comment": "",
     "person_person": [],
     "person_person - target": [],
@@ -4352,7 +4456,7 @@
         "value": "Lianxi District"
       }
     ],
-    "birth_day": "1911-06-09",
+    "birth_day": "1911-07-09",
     "death_year": "1968",
     "death_place": [
       {
@@ -4550,7 +4654,7 @@
         "value": "Jönköping Town"
       }
     ],
-    "birth_day": "1905-04-10",
+    "birth_day": "1905-07-29",
     "death_year": "1961",
     "death_place": [
       {
@@ -4640,7 +4744,7 @@
     "order": "133.00000000000000000000",
     "name": "Suttner, Bertha",
     "amp_id": "amp_person_134",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/118620126",
     "birth_year": "1843",
     "birth_place": [
       {
@@ -4662,9 +4766,15 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q18456",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6726,
+        "value": "Baronin",
+        "color": "dark-gray"
+      }
+    ]
   },
   "135": {
     "id": 135,
@@ -4750,7 +4860,7 @@
     "Title": [
       {
         "id": 6727,
-        "value": "Doktor",
+        "value": "Doctor",
         "color": "light-green"
       }
     ]
@@ -4823,7 +4933,7 @@
         "value": "Hitchin"
       }
     ],
-    "birth_day": null,
+    "birth_day": "1900-08-04",
     "death_year": "2002",
     "death_place": [
       {
@@ -4831,7 +4941,7 @@
         "value": "Royal Lodge"
       }
     ],
-    "death_day": null,
+    "death_day": "2002-03-30",
     "comment": "",
     "person_person": [
       {
@@ -5616,7 +5726,7 @@
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q5687",
+    "wikidata": "https://www.wikidata.org/wiki/Q51672",
     "events": [],
     "Title": []
   },
@@ -5649,7 +5759,18 @@
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/wiki/Q453288",
     "events": [],
-    "Title": []
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doctor",
+        "color": "light-green"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -5819,5 +5940,26 @@
         "color": "blue"
       }
     ]
+  },
+  "171": {
+    "id": 171,
+    "order": "170.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_171",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
   }
 }

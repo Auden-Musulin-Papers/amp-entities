@@ -85,6 +85,10 @@
     ],
     "persons - death_place": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 2,
         "value": "Musulin, Stella"
       },
@@ -351,10 +355,6 @@
     "geonames_id": "https://sws.geonames.org/2774361/",
     "persons": [],
     "persons - death_place": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      },
       {
         "id": 5,
         "value": "Weinheber, Josef"
@@ -2395,10 +2395,6 @@
         "value": "Williams, Charles"
       },
       {
-        "id": 8,
-        "value": "Spender, Stephen"
-      },
-      {
         "id": 77,
         "value": "Toynbee, Arnold"
       },
@@ -2411,10 +2407,6 @@
       {
         "id": 8,
         "value": "Spender, Stephen"
-      },
-      {
-        "id": 27,
-        "value": "Eliot, T. S."
       },
       {
         "id": 33,
@@ -2430,7 +2422,7 @@
       },
       {
         "id": 48,
-        "value": "Cooper, Lady Diana"
+        "value": "Cooper, Diana"
       },
       {
         "id": 58,
@@ -4443,9 +4435,9 @@
   "111": {
     "id": 111,
     "order": "111.00000000000000000000",
-    "name": "Rodau",
+    "name": "Rodaun",
     "amp_id": "amp_place_id_111",
-    "geonames_id": "https://sws.geonames.org/2846147/",
+    "geonames_id": "https://d-nb.info/gnd/4348476-1",
     "persons": [
       {
         "id": 44,
@@ -4464,8 +4456,8 @@
     "fiction_real_place": [],
     "is_part_of": [
       {
-        "id": 20,
-        "value": "Germany"
+        "id": 10,
+        "value": "Austria"
       }
     ],
     "relation_types": [
@@ -4474,12 +4466,12 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q2160909",
+    "gnd": "https://d-nb.info/gnd/4348476-1",
     "geonames_coordinates": "50.50566, 11.99086",
     "place_type": "city, village,...",
-    "country": "Germany",
-    "country_code": "DE",
+    "country": "Austria",
+    "country_code": "AT",
     "place_type_class": "P",
     "updated": true,
     "events": []
@@ -4493,7 +4485,7 @@
     "persons": [
       {
         "id": 48,
-        "value": "Cooper, Lady Diana"
+        "value": "Cooper, Diana"
       }
     ],
     "persons - death_place": [],
@@ -8695,7 +8687,7 @@
     "order": "229.00000000000000000000",
     "name": "Museum of Natural History",
     "amp_id": "amp_place_id_229",
-    "geonames_id": "https://www.geonames.org/6354989/naturhistorisches-museum.html",
+    "geonames_id": "",
     "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
@@ -8856,6 +8848,50 @@
     "place_type": "",
     "country": "Austria",
     "country_code": "AT",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "234": {
+    "id": 234,
+    "order": "234.00000000000000000000",
+    "name": "Kensigton",
+    "amp_id": "amp_place_id_234",
+    "geonames_id": "https://www.geonames.org/2645801/kensington.html",
+    "persons": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
+    ],
+    "persons - death_place": [
+      {
+        "id": 27,
+        "value": "Eliot, T. S."
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q288781",
+    "gnd": "https://d-nb.info/gnd/4579601-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
     "place_type_class": "",
     "updated": false,
     "events": []
