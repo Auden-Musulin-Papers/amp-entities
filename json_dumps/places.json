@@ -740,12 +740,7 @@
     "name": "U.S",
     "amp_id": "amp_place_id_15",
     "geonames_id": "https://sws.geonames.org/6252001/",
-    "persons": [
-      {
-        "id": 99,
-        "value": "O'Sullivan, Michael"
-      }
-    ],
+    "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": null,
@@ -7046,6 +7041,10 @@
     "amp_id": "amp_place_id_184",
     "geonames_id": "https://sws.geonames.org/5368361/",
     "persons": [
+      {
+        "id": 99,
+        "value": "O'Sullivan, Michael"
+      },
       {
         "id": 126,
         "value": "Bachardy, Don"
