@@ -371,7 +371,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -393,7 +393,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Niederösterreich",
+    "name": "Lowe Austria",
     "amp_id": "amp_place_id_6",
     "geonames_id": "https://sws.geonames.org/2770542/",
     "persons": [],
@@ -478,7 +478,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -512,7 +512,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -2053,7 +2053,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -4885,7 +4885,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -5653,7 +5653,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -6432,7 +6432,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -6753,7 +6753,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -7102,7 +7102,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lowe Austria"
       }
     ],
     "relation_types": [
@@ -8887,6 +8887,40 @@
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q288781",
     "gnd": "https://d-nb.info/gnd/4579601-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "235": {
+    "id": 235,
+    "order": "235.00000000000000000000",
+    "name": "Kärtnerstrasse",
+    "amp_id": "amp_place_id_235",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.20467964011737, 16.370679715340312",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

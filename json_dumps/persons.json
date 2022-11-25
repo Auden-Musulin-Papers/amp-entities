@@ -5423,7 +5423,7 @@
   "155": {
     "id": 155,
     "order": "154.00000000000000000000",
-    "name": "Langers, N/A",
+    "name": "Langer, Mr.",
     "amp_id": "amp_person_155",
     "gnd": "",
     "birth_year": null,
@@ -5433,8 +5433,18 @@
     "death_place": [],
     "death_day": null,
     "comment": "",
-    "person_person": [],
-    "person_person - target": [],
+    "person_person": [
+      {
+        "id": 86,
+        "value": "relationship_id__86"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 87,
+        "value": "relationship_id__87"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
@@ -5944,7 +5954,7 @@
   "171": {
     "id": 171,
     "order": "170.00000000000000000000",
-    "name": "",
+    "name": "Langer, Mrs.",
     "amp_id": "amp_person_171",
     "gnd": "",
     "birth_year": null,
@@ -5954,8 +5964,18 @@
     "death_place": [],
     "death_day": null,
     "comment": "",
-    "person_person": [],
-    "person_person - target": [],
+    "person_person": [
+      {
+        "id": 87,
+        "value": "relationship_id__87"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 86,
+        "value": "relationship_id__86"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",

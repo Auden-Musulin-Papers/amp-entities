@@ -2823,5 +2823,67 @@
         "value": "is_parent_of"
       }
     ]
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "amp_id": "relationship_id__86",
+    "source": [
+      {
+        "id": 155,
+        "value": "Langer, Mr."
+      }
+    ],
+    "target": [
+      {
+        "id": 171,
+        "value": "Langer, Mrs."
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "amp_id": "relationship_id__87",
+    "source": [
+      {
+        "id": 171,
+        "value": "Langer, Mrs."
+      }
+    ],
+    "target": [
+      {
+        "id": 155,
+        "value": "Langer, Mr."
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
   }
 }
