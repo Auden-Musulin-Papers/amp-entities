@@ -783,6 +783,27 @@
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
                <lang/>
             </bibl>
+            <bibl xml:id="lit_work_id_83">
+               <title>Life magazine</title>
+               <date when="1883">1883</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463198</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_84">
+               <title>Kronenzeitung</title>
+               <date when="1900">1900</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q644103</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_85">
+               <title>Freedom and necessity in the arts</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1970">1970</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
       </listBibl>
       </body>
    </text>

@@ -2967,5 +2967,102 @@
     ],
     "is_part_of": [],
     "has_version": null
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "name": "Life magazine",
+    "lit_work_id": "lit_work_id_83",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q463198",
+    "has_year": "1883",
+    "type": [
+      {
+        "id": 6701,
+        "value": "magazine",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "name": "Kronenzeitung",
+    "lit_work_id": "lit_work_id_84",
+    "is_written_by": [],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "https://www.wikidata.org/wiki/Q644103",
+    "has_year": "1900",
+    "type": [
+      {
+        "id": 6712,
+        "value": "newspaper",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "name": "Freedom and necessity in the arts",
+    "lit_work_id": "lit_work_id_85",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 6703,
+        "value": "text",
+        "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null
   }
 }
