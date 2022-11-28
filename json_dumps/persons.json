@@ -116,6 +116,14 @@
       {
         "id": 56,
         "value": "relationship_id__56"
+      },
+      {
+        "id": 88,
+        "value": "relationship_id__88"
+      },
+      {
+        "id": 89,
+        "value": "relationship_id__89"
       }
     ],
     "fictional_or_real": null,
@@ -254,7 +262,12 @@
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
-    "events": [],
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ],
     "Title": [
       {
         "id": 6725,
@@ -876,7 +889,12 @@
     "death_place": [],
     "death_day": null,
     "comment": null,
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 88,
+        "value": "relationship_id__88"
+      }
+    ],
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
@@ -958,7 +976,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
-    "events": [],
+    "events": [
+      {
+        "id": 1,
+        "value": "Death of Eiermann"
+      }
+    ],
     "Title": []
   },
   "17": {
@@ -1098,7 +1121,12 @@
     "death_place": [],
     "death_day": null,
     "comment": null,
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 89,
+        "value": "relationship_id__89"
+      }
+    ],
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
@@ -1165,7 +1193,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
-    "events": [],
+    "events": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ],
     "Title": []
   },
   "24": {
@@ -4611,7 +4644,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q104573",
-    "events": [],
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ],
     "Title": []
   },
   "130": {

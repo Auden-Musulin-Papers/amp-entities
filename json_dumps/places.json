@@ -268,7 +268,12 @@
     "country_code": null,
     "place_type_class": null,
     "updated": false,
-    "events": []
+    "events": [
+      {
+        "id": 1,
+        "value": "Death of Eiermann"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -693,7 +698,12 @@
     "country_code": "GR",
     "place_type_class": "P",
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -3556,7 +3566,12 @@
     "country_code": null,
     "place_type_class": null,
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ]
   },
   "86": {
     "id": 86,

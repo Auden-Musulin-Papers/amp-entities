@@ -2885,5 +2885,67 @@
         "value": "is_married_with"
       }
     ]
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "amp_id": "relationship_id__88",
+    "source": [
+      {
+        "id": 14,
+        "value": "Redlich, Walter"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "amp_id": "relationship_id__89",
+    "source": [
+      {
+        "id": 21,
+        "value": "Hoffmann, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
   }
 }
