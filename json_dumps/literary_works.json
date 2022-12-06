@@ -3064,5 +3064,34 @@
     ],
     "is_part_of": [],
     "has_version": null
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "name": "Morgen",
+    "lit_work_id": "lit_work_id_86",
+    "is_written_by": [],
+    "book_number": "1",
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1977",
+    "type": [
+      {
+        "id": 6701,
+        "value": "magazine",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "has_version": null
   }
 }
