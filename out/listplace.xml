@@ -3342,6 +3342,16 @@
                   <idno type="GND">https://d-nb.info/gnd/4063514-4</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_237">
+                  <placeName>Devon EX17 2AS</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.7914689136201, -3.6594549039790696</geo>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
