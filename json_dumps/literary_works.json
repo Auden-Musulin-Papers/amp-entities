@@ -3093,5 +3093,44 @@
     "relation_types": [],
     "is_part_of": [],
     "has_version": null
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "name": "your piece",
+    "lit_work_id": "lit_work_id_87",
+    "is_written_by": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6703,
+        "value": "text",
+        "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null
   }
 }
