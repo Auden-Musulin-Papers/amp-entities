@@ -918,7 +918,7 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Hubertusbaderstrasse 43",
+    "name": "Hubertusbader Straße 43",
     "amp_id": "amp_place_id_19",
     "geonames_id": "",
     "persons": [],
@@ -991,7 +991,7 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "Ost-Berlin",
+    "name": "East Berlin",
     "amp_id": "amp_place_id_21",
     "geonames_id": "",
     "persons": [],
@@ -1017,8 +1017,8 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q56037",
+    "gnd": "https://d-nb.info/gnd/4087295-6",
     "geonames_coordinates": null,
     "place_type": null,
     "country": null,

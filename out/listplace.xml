@@ -320,7 +320,7 @@
                   <idno type="GND">https://d-nb.info/gnd/4087308-0</idno>
                </place>
                <place xml:id="amp_place_id_19">
-                  <placeName>Hubertusbaderstrasse 43</placeName>
+                  <placeName>Hubertusbader Straße 43</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -345,10 +345,12 @@
                   <idno type="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
                <place xml:id="amp_place_id_21">
-                  <placeName>Ost-Berlin</placeName>
+                  <placeName>East Berlin</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Germany</placeName>
                   </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q56037</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4087295-6</idno>
                </place>
                <place xml:id="amp_place_id_22">
                   <settlement type="A">
