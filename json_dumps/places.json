@@ -943,8 +943,8 @@
     "gnd": "",
     "geonames_coordinates": null,
     "place_type": null,
-    "country": null,
-    "country_code": null,
+    "country": "Germany",
+    "country_code": "DE",
     "place_type_class": null,
     "updated": false,
     "events": []
@@ -1881,7 +1881,7 @@
     "persons": [
       {
         "id": 114,
-        "value": "Kirstein, Lincon"
+        "value": "Kirstein, Lincoln"
       }
     ],
     "persons - death_place": [],
@@ -6515,7 +6515,7 @@
     "persons - death_place": [
       {
         "id": 114,
-        "value": "Kirstein, Lincon"
+        "value": "Kirstein, Lincoln"
       }
     ],
     "google_maps_coordinates": "",
