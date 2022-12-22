@@ -3233,5 +3233,45 @@
     "is_part_of": [],
     "has_version": null,
     "work_item": null
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "name": "August 1968",
+    "lit_work_id": "lit_work_id_88",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1968",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null,
+    "work_item": null
   }
 }
