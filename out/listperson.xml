@@ -1809,14 +1809,14 @@
                </person>
                <person xml:id="amp_person_93">
                   <persName>
-                     <forename>Elsa</forename>
+                     <forename>Elsa von Isbary</forename>
                      <surname>Musulin</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_94">
                   <persName>
                      <forename>Marko</forename>
-                     <surname>Musilin</surname>
+                     <surname>Musulin</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_95">
@@ -2842,6 +2842,33 @@
                   <persName>
                      <forename>Mrs.</forename>
                      <surname>Langers</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_172">
+                  <persName>
+                     <forename>Gherardo</forename>
+                     <surname>Tacoli</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_173">
+                  <persName>
+                     <forename>Herbert</forename>
+                     <surname>Heckmann</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1930-09-25">1930-09-25</date>
+                     <settlement key="amp_place_id_33">
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <listBibl>
+                     <bibl n="lit_work_id_89">Josef Weinheber</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_174">
+                  <persName>
+                     <forename>Friend who teaches schyzophrenics</forename>
+                     <surname>N/A_7</surname>
                   </persName>
                </person>
             </listPerson>

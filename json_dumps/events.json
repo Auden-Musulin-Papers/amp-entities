@@ -21,7 +21,8 @@
       "value": "personal",
       "color": "light-green"
     },
-    "date": "1967-11-04"
+    "date": "1967-11-04",
+    "wikidata": ""
   },
   "2": {
     "id": 2,
@@ -45,7 +46,8 @@
       "value": "personal",
       "color": "light-green"
     },
-    "date": "1968-12-13"
+    "date": "1968-12-13",
+    "wikidata": ""
   },
   "3": {
     "id": 3,
@@ -73,6 +75,72 @@
       "value": "professional",
       "color": "dark-red"
     },
-    "date": "1973-09-28"
+    "date": "1973-09-28",
+    "wikidata": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Black-Out",
+    "amp_event": "amp_event_id_4",
+    "participants": [],
+    "place_of_event": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "has_type": {
+      "id": 6745,
+      "value": "historic",
+      "color": "light-gray"
+    },
+    "date": "2022-11-09",
+    "wikidata": "https://www.wikidata.org/wiki/Q1251686"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "1966 New York City transit strike",
+    "amp_event": "amp_event_id_5",
+    "participants": [],
+    "place_of_event": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "has_type": {
+      "id": 6745,
+      "value": "historic",
+      "color": "light-gray"
+    },
+    "date": "1966-01-01",
+    "wikidata": "https://www.wikidata.org/wiki/Q3118377"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "1967 T. S. Eliot Memorial Lectures",
+    "amp_event": "amp_event_id_6",
+    "participants": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "place_of_event": [
+      {
+        "id": 39,
+        "value": "Canterbury"
+      }
+    ],
+    "has_type": {
+      "id": 6734,
+      "value": "professional",
+      "color": "dark-red"
+    },
+    "date": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q7443800"
   }
 }

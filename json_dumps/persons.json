@@ -270,6 +270,10 @@
       {
         "id": 3,
         "value": "W.H Auden Gedichte/Poems"
+      },
+      {
+        "id": 6,
+        "value": "1967 T. S. Eliot Memorial Lectures"
       }
     ],
     "Title": [
@@ -3596,7 +3600,7 @@
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",
-    "name": "Musulin, Elsa",
+    "name": "Musulin, Elsa von Isbary",
     "amp_id": "amp_person_93",
     "gnd": "",
     "birth_year": "1889",
@@ -3631,7 +3635,7 @@
   "94": {
     "id": 94,
     "order": "94.00000000000000000000",
-    "name": "Musilin, Marko",
+    "name": "Musulin, Marko",
     "amp_id": "amp_person_94",
     "gnd": "",
     "birth_year": "1948",
@@ -6026,6 +6030,90 @@
         "value": "relationship_id__86"
       }
     ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "172": {
+    "id": 172,
+    "order": "171.00000000000000000000",
+    "name": "Tacoli, Gherardo",
+    "amp_id": "amp_person_172",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": [
+      {
+        "id": 6744,
+        "value": "Marchese",
+        "color": "dark-red"
+      }
+    ]
+  },
+  "173": {
+    "id": 173,
+    "order": "172.00000000000000000000",
+    "name": "Heckmann, Herbert",
+    "amp_id": "amp_person_173",
+    "gnd": "",
+    "birth_year": "1930",
+    "birth_place": [
+      {
+        "id": 33,
+        "value": "Frankfurt am Main"
+      }
+    ],
+    "birth_day": "1930-09-25",
+    "death_year": "1999",
+    "death_place": [
+      {
+        "id": 238,
+        "value": "Bad Vilbel"
+      }
+    ],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 89,
+        "value": "Josef Weinheber"
+      }
+    ],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "174": {
+    "id": 174,
+    "order": "173.00000000000000000000",
+    "name": "N/A_7, Friend who teaches schyzophrenics",
+    "amp_id": "amp_person_174",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",

@@ -3273,5 +3273,50 @@
     "is_part_of": [],
     "has_version": null,
     "work_item": null
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "name": "Josef Weinheber",
+    "lit_work_id": "lit_work_id_89",
+    "is_written_by": [
+      {
+        "id": 173,
+        "value": "Heckmann, Herbert"
+      }
+    ],
+    "book_number": null,
+    "chapter_number": null,
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 62,
+        "value": "Joseph Weinheber"
+      }
+    ],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 8,
+        "value": "was_written_by"
+      }
+    ],
+    "is_part_of": [],
+    "has_version": null,
+    "work_item": null
   }
 }

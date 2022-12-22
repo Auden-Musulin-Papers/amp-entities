@@ -399,8 +399,12 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_40">
-                  <orgName/>
-                  <idno type="WIKIDATA"/>
+                  <orgName>Österreichische Post- und Telegraphenverwaltung</orgName>
+                  <desc>Was founded in year 1849.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1747022</idno>
                   <note/>
                </org>
             </listOrg>
