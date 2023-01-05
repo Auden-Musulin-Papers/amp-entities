@@ -2947,5 +2947,36 @@
         "value": "works_for"
       }
     ]
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "amp_id": "relationship_id__90",
+    "source": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "target": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 2,
+        "value": "is_related_to"
+      }
+    ]
   }
 }

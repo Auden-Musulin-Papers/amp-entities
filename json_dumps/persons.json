@@ -1492,9 +1492,18 @@
       {
         "id": 15,
         "value": "relationship_id__15"
+      },
+      {
+        "id": 90,
+        "value": "relationship_id__90"
       }
     ],
-    "person_person - target": [],
+    "person_person - target": [
+      {
+        "id": 90,
+        "value": "relationship_id__90"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
@@ -3939,7 +3948,7 @@
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "name": "Wandl, Elizabeth",
+    "name": "Wandl, Mrs.",
     "amp_id": "amp_person_103",
     "gnd": "",
     "birth_year": null,
@@ -6144,8 +6153,29 @@
   "176": {
     "id": 176,
     "order": "175.00000000000000000000",
-    "name": "",
+    "name": "Strobl, Mr.",
     "amp_id": "amp_person_176",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "177": {
+    "id": 177,
+    "order": "176.00000000000000000000",
+    "name": "N/A_9, Elizabeth",
+    "amp_id": "amp_person_177",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

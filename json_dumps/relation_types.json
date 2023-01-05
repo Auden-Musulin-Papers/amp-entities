@@ -108,7 +108,12 @@
     "has_broader": [],
     "inverse": "is_related_to",
     "amp_id": "relation_type__2",
-    "relationships": [],
+    "relationships": [
+      {
+        "id": 90,
+        "value": "relationship_id__90"
+      }
+    ],
     "literary_works": [],
     "places": []
   },
