@@ -119,7 +119,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.22902, 14.11039</geo>
@@ -128,7 +128,7 @@
                </place>
                <place xml:id="amp_place_id_6">
                   <settlement type="A">
-                     <placeName>Niederösterreich</placeName>
+                     <placeName>Lower Austria</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
@@ -149,7 +149,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_8">Obergrafendorf</placeName>
+                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.14765, 15.55595</geo>
@@ -158,12 +158,12 @@
                </place>
                <place xml:id="amp_place_id_8">
                   <settlement type="A">
-                     <placeName>Obergrafendorf</placeName>
+                     <placeName>Ober-Grafendorf</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.14651, 15.55345</geo>
@@ -179,7 +179,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 15.63333</geo>
@@ -204,7 +204,7 @@
                   <idno type="GND">https://d-nb.info/gnd/4043271-3</idno>
                </place>
                <place xml:id="amp_place_id_11">
-                  <placeName>Neulingasse 26</placeName>
+                  <placeName>Neulinggasse 26</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -320,7 +320,8 @@
                   <idno type="GND">https://d-nb.info/gnd/4087308-0</idno>
                </place>
                <place xml:id="amp_place_id_19">
-                  <placeName>Hubertusbaderstrasse 43</placeName>
+                  <placeName>Hubertusbader Straße 43</placeName>
+                  <country>DE, Germany</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -345,10 +346,12 @@
                   <idno type="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
                <place xml:id="amp_place_id_21">
-                  <placeName>Ost-Berlin</placeName>
+                  <placeName>East Berlin</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Germany</placeName>
                   </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q56037</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4087295-6</idno>
                </place>
                <place xml:id="amp_place_id_22">
                   <settlement type="A">
@@ -411,7 +414,7 @@
                </place>
                <place xml:id="amp_place_id_26">
                   <settlement type="P">
-                     <placeName>München</placeName>
+                     <placeName>Munich</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -450,7 +453,7 @@
                   <idno type="GND">https://d-nb.info/gnd/4042011-5</idno>
                </place>
                <place xml:id="amp_place_id_29">
-                  <placeName>77 St Mark's Place</placeName>
+                  <placeName>77 St. Mark's Place</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -657,7 +660,7 @@
                   </location>
                </place>
                <place xml:id="amp_place_id_45">
-                  <placeName>Bryanston Square 32</placeName>
+                  <placeName>32 Bryanston Square</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -684,14 +687,14 @@
                <place xml:id="amp_place_id_47">
                   <placeName>Neulengbach</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.19979820714975, 15.908621293769759</geo>
                   </location>
                </place>
                <place xml:id="amp_place_id_48">
-                  <placeName>Karl Schweighofgasse 4/21</placeName>
+                  <placeName>Karl Schweighofgasse 4</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1110,7 +1113,7 @@
                <place xml:id="amp_place_id_78">
                   <placeName>Schloss Fridau</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_8">Obergrafendorf</placeName>
+                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.14965170849973, 15.556407619394733</geo>
@@ -1736,7 +1739,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.30478, 15.90048</geo>
@@ -2067,7 +2070,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 15.2</geo>
@@ -2397,7 +2400,7 @@
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.03809, 16.66017</geo>
@@ -2513,7 +2516,7 @@
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 16.18333</geo>
@@ -2655,7 +2658,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Niederösterreich</placeName>
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.06776, 15.1553</geo>
@@ -3323,6 +3326,40 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2645801/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q288781</idno>
                   <idno type="GND">https://d-nb.info/gnd/4579601-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_235">
+                  <placeName>Kärtnerstrasse</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20467964011737, 16.370679715340312</geo>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_236">
+                  <placeName>Vietnam</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/1562822/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q881</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4063514-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_237">
+                  <placeName>Devon EX17 2AS</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.7914689136201, -3.6594549039790696</geo>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_238">
+                  <placeName>Bad Vilbel</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2953321/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q16082</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4063529-6</idno>
                   <note/>
                </place>
             </listPlace>

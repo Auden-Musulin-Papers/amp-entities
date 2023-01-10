@@ -587,11 +587,16 @@
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Österreichische Post- und Telegraphenverwaltung",
+    "wikidata": "https://www.wikidata.org/wiki/Q1747022",
     "amp_id": "amp_organization_40",
-    "founded_in_year": null,
+    "founded_in_year": "1849",
     "comments": "",
-    "location": []
+    "location": [
+      {
+        "id": 10,
+        "value": "Austria"
+      }
+    ]
   }
 }

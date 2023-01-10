@@ -330,7 +330,7 @@
     "target": [
       {
         "id": 94,
-        "value": "Musilin, Marko"
+        "value": "Musulin, Marko"
       }
     ],
     "relation_type": {
@@ -359,7 +359,7 @@
     "source": [
       {
         "id": 94,
-        "value": "Musilin, Marko"
+        "value": "Musulin, Marko"
       }
     ],
     "target": [
@@ -1780,7 +1780,7 @@
     "target": [
       {
         "id": 93,
-        "value": "Musulin, Elsa"
+        "value": "Musulin, Elsa von Isbary"
       }
     ],
     "relation_type": {
@@ -2050,7 +2050,7 @@
     "source": [
       {
         "id": 93,
-        "value": "Musulin, Elsa"
+        "value": "Musulin, Elsa von Isbary"
       }
     ],
     "target": [
@@ -2433,7 +2433,7 @@
     "target": [
       {
         "id": 93,
-        "value": "Musulin, Elsa"
+        "value": "Musulin, Elsa von Isbary"
       }
     ],
     "relation_type": {
@@ -2497,7 +2497,7 @@
     "source": [
       {
         "id": 94,
-        "value": "Musilin, Marko"
+        "value": "Musulin, Marko"
       }
     ],
     "target": [
@@ -2538,7 +2538,7 @@
     "target": [
       {
         "id": 94,
-        "value": "Musilin, Marko"
+        "value": "Musulin, Marko"
       }
     ],
     "relation_type": {
@@ -2821,6 +2821,161 @@
       {
         "id": 1,
         "value": "is_parent_of"
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "amp_id": "relationship_id__86",
+    "source": [
+      {
+        "id": 155,
+        "value": "Langer, Mr."
+      }
+    ],
+    "target": [
+      {
+        "id": 171,
+        "value": "Langer, Mrs."
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "amp_id": "relationship_id__87",
+    "source": [
+      {
+        "id": 171,
+        "value": "Langer, Mrs."
+      }
+    ],
+    "target": [
+      {
+        "id": 155,
+        "value": "Langer, Mr."
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_married_with"
+      }
+    ]
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "amp_id": "relationship_id__88",
+    "source": [
+      {
+        "id": 14,
+        "value": "Redlich, Walter"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "amp_id": "relationship_id__89",
+    "source": [
+      {
+        "id": 21,
+        "value": "Hoffmann, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "relation_type": {
+      "id": 6673,
+      "value": "works_for",
+      "color": "dark-gray"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 12,
+        "value": "works_for"
+      }
+    ]
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "amp_id": "relationship_id__90",
+    "source": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "target": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "relation_type": {
+      "id": 6659,
+      "value": "married_with",
+      "color": "light-green"
+    },
+    "start_date": null,
+    "end_date": null,
+    "inverse_of": null,
+    "relation_type_object": [
+      {
+        "id": 2,
+        "value": "is_related_to"
       }
     ]
   }

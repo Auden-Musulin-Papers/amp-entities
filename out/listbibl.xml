@@ -222,7 +222,7 @@
             <bibl xml:id="lit_work_id_19">
                <title>Love´s Labours Lost opera</title>
                <author ref="#amp_person_114">
-                  <persName>Kirstein, Lincon</persName>
+                  <persName>Kirstein, Lincoln</persName>
                </author>
                <date when="1973">1973</date>
                <idno type="WIKIDATA"/>
@@ -432,7 +432,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_40">
-               <title>Auf das Unabwendbare</title>
+               <title>Auf das Unabwendbare (Poem)</title>
                <author ref="#amp_person_5">
                   <persName>Weinheber, Josef</persName>
                </author>
@@ -441,7 +441,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_41">
-               <title>Kammermusik</title>
+               <title>Kammermusik (Poem)</title>
                <author ref="#amp_person_5">
                   <persName>Weinheber, Josef</persName>
                </author>
@@ -781,6 +781,60 @@
                </author>
                <date when="1611">1611</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_83">
+               <title>Life magazine</title>
+               <date when="1883">1883</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463198</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_84">
+               <title>Kronenzeitung</title>
+               <date when="1900">1900</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q644103</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_85">
+               <title>Freedom and necessity in the arts</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1970">1970</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_86">
+               <title>Morgen</title>
+               <date when="1977">1977</date>
+               <biblScope type="volume">1</biblScope>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_87">
+               <title>your piece</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_88">
+               <title>August 1968</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1968">1968</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_89">
+               <title>Josef Weinheber</title>
+               <author ref="#amp_person_173">
+                  <persName>Heckmann, Herbert</persName>
+               </author>
+               <date when="1972">1972</date>
+               <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
       </listBibl>

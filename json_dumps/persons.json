@@ -116,6 +116,14 @@
       {
         "id": 56,
         "value": "relationship_id__56"
+      },
+      {
+        "id": 88,
+        "value": "relationship_id__88"
+      },
+      {
+        "id": 89,
+        "value": "relationship_id__89"
       }
     ],
     "fictional_or_real": null,
@@ -247,10 +255,27 @@
       {
         "id": 81,
         "value": "Declaration"
+      },
+      {
+        "id": 85,
+        "value": "Freedom and necessity in the arts"
+      },
+      {
+        "id": 88,
+        "value": "August 1968"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
-    "events": [],
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      },
+      {
+        "id": 6,
+        "value": "1967 T. S. Eliot Memorial Lectures"
+      }
+    ],
     "Title": [
       {
         "id": 6725,
@@ -343,6 +368,10 @@
       {
         "id": 47,
         "value": "The Years in Austria"
+      },
+      {
+        "id": 87,
+        "value": "your piece"
       }
     ],
     "wikidata": "",
@@ -571,11 +600,11 @@
     "literary_work": [
       {
         "id": 40,
-        "value": "Auf das Unabwendbare"
+        "value": "Auf das Unabwendbare (Poem)"
       },
       {
         "id": 41,
-        "value": "Kammermusik"
+        "value": "Kammermusik (Poem)"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q78776",
@@ -872,7 +901,12 @@
     "death_place": [],
     "death_day": null,
     "comment": null,
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 88,
+        "value": "relationship_id__88"
+      }
+    ],
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
@@ -954,7 +988,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
-    "events": [],
+    "events": [
+      {
+        "id": 1,
+        "value": "Death of Eiermann"
+      }
+    ],
     "Title": []
   },
   "17": {
@@ -1094,7 +1133,12 @@
     "death_place": [],
     "death_day": null,
     "comment": null,
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 89,
+        "value": "relationship_id__89"
+      }
+    ],
     "person_person - target": [],
     "fictional_or_real": null,
     "literary_work": [],
@@ -1161,7 +1205,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
-    "events": [],
+    "events": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ],
     "Title": []
   },
   "24": {
@@ -1443,9 +1492,18 @@
       {
         "id": 15,
         "value": "relationship_id__15"
+      },
+      {
+        "id": 90,
+        "value": "relationship_id__90"
       }
     ],
-    "person_person - target": [],
+    "person_person - target": [
+      {
+        "id": 90,
+        "value": "relationship_id__90"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
@@ -3551,7 +3609,7 @@
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",
-    "name": "Musulin, Elsa",
+    "name": "Musulin, Elsa von Isbary",
     "amp_id": "amp_person_93",
     "gnd": "",
     "birth_year": "1889",
@@ -3586,7 +3644,7 @@
   "94": {
     "id": 94,
     "order": "94.00000000000000000000",
-    "name": "Musilin, Marko",
+    "name": "Musulin, Marko",
     "amp_id": "amp_person_94",
     "gnd": "",
     "birth_year": "1948",
@@ -3793,8 +3851,8 @@
     "birth_year": "1934",
     "birth_place": [
       {
-        "id": 15,
-        "value": "U.S"
+        "id": 184,
+        "value": "Los Angeles"
       }
     ],
     "birth_day": "1934-03-04",
@@ -3890,7 +3948,7 @@
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "name": "Wandl, Elizabeth",
+    "name": "Wandl, Mrs.",
     "amp_id": "amp_person_103",
     "gnd": "",
     "birth_year": null,
@@ -4170,7 +4228,7 @@
   "114": {
     "id": 114,
     "order": "114.00000000000000000000",
-    "name": "Kirstein, Lincon",
+    "name": "Kirstein, Lincoln",
     "amp_id": "amp_person_114",
     "gnd": "https://d-nb.info/gnd/124923437",
     "birth_year": "1907",
@@ -4221,7 +4279,7 @@
     "death_place": [
       {
         "id": 21,
-        "value": "Ost-Berlin"
+        "value": "East Berlin"
       }
     ],
     "death_day": "1956-08-14",
@@ -4607,7 +4665,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q104573",
-    "events": [],
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ],
     "Title": []
   },
   "130": {
@@ -5423,7 +5486,7 @@
   "155": {
     "id": 155,
     "order": "154.00000000000000000000",
-    "name": "Langers, N/A",
+    "name": "Langer, Mr.",
     "amp_id": "amp_person_155",
     "gnd": "",
     "birth_year": null,
@@ -5433,8 +5496,18 @@
     "death_place": [],
     "death_day": null,
     "comment": "",
-    "person_person": [],
-    "person_person - target": [],
+    "person_person": [
+      {
+        "id": 86,
+        "value": "relationship_id__86"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 87,
+        "value": "relationship_id__87"
+      }
+    ],
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "",
@@ -5790,7 +5863,7 @@
     "death_place": [
       {
         "id": 8,
-        "value": "Obergrafendorf"
+        "value": "Ober-Grafendorf"
       }
     ],
     "death_day": "1979-03-06",
@@ -5944,8 +6017,165 @@
   "171": {
     "id": 171,
     "order": "170.00000000000000000000",
-    "name": "",
+    "name": "Langer, Mrs.",
     "amp_id": "amp_person_171",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [
+      {
+        "id": 87,
+        "value": "relationship_id__87"
+      }
+    ],
+    "person_person - target": [
+      {
+        "id": 86,
+        "value": "relationship_id__86"
+      }
+    ],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "172": {
+    "id": 172,
+    "order": "171.00000000000000000000",
+    "name": "Tacoli, Gherardo",
+    "amp_id": "amp_person_172",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": [
+      {
+        "id": 6744,
+        "value": "Marchese",
+        "color": "dark-red"
+      }
+    ]
+  },
+  "173": {
+    "id": 173,
+    "order": "172.00000000000000000000",
+    "name": "Heckmann, Herbert",
+    "amp_id": "amp_person_173",
+    "gnd": "",
+    "birth_year": "1930",
+    "birth_place": [
+      {
+        "id": 33,
+        "value": "Frankfurt am Main"
+      }
+    ],
+    "birth_day": "1930-09-25",
+    "death_year": "1999",
+    "death_place": [
+      {
+        "id": 238,
+        "value": "Bad Vilbel"
+      }
+    ],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 89,
+        "value": "Josef Weinheber"
+      }
+    ],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "174": {
+    "id": 174,
+    "order": "173.00000000000000000000",
+    "name": "N/A_7, Friend who teaches schyzophrenics",
+    "amp_id": "amp_person_174",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "175": {
+    "id": 175,
+    "order": "174.00000000000000000000",
+    "name": "N/A_8,  person whose name we never mention",
+    "amp_id": "amp_person_175",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "176": {
+    "id": 176,
+    "order": "175.00000000000000000000",
+    "name": "Strobl, Mr.",
+    "amp_id": "amp_person_176",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "person_person": [],
+    "person_person - target": [],
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "events": [],
+    "Title": []
+  },
+  "177": {
+    "id": 177,
+    "order": "176.00000000000000000000",
+    "name": "N/A_9, Elizabeth",
+    "amp_id": "amp_person_177",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

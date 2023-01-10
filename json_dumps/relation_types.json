@@ -108,7 +108,12 @@
     "has_broader": [],
     "inverse": "is_related_to",
     "amp_id": "relation_type__2",
-    "relationships": [],
+    "relationships": [
+      {
+        "id": 90,
+        "value": "relationship_id__90"
+      }
+    ],
     "literary_works": [],
     "places": []
   },
@@ -387,6 +392,14 @@
         "value": "Hier und Jetzt"
       },
       {
+        "id": 60,
+        "value": "Joseph Weinheber"
+      },
+      {
+        "id": 61,
+        "value": "Joseph Weinheber"
+      },
+      {
         "id": 62,
         "value": "Joseph Weinheber"
       },
@@ -429,6 +442,22 @@
       {
         "id": 82,
         "value": "Authorised Version"
+      },
+      {
+        "id": 85,
+        "value": "Freedom and necessity in the arts"
+      },
+      {
+        "id": 87,
+        "value": "your piece"
+      },
+      {
+        "id": 88,
+        "value": "August 1968"
+      },
+      {
+        "id": 89,
+        "value": "Josef Weinheber"
       }
     ],
     "places": []
@@ -545,6 +574,14 @@
       {
         "id": 81,
         "value": "relationship_id__81"
+      },
+      {
+        "id": 86,
+        "value": "relationship_id__86"
+      },
+      {
+        "id": 87,
+        "value": "relationship_id__87"
       }
     ],
     "literary_works": [],
@@ -565,6 +602,14 @@
       {
         "id": 15,
         "value": "relationship_id__15"
+      },
+      {
+        "id": 88,
+        "value": "relationship_id__88"
+      },
+      {
+        "id": 89,
+        "value": "relationship_id__89"
       }
     ],
     "literary_works": [],
@@ -698,7 +743,7 @@
       },
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       },
       {
         "id": 7,
@@ -706,7 +751,7 @@
       },
       {
         "id": 8,
-        "value": "Obergrafendorf"
+        "value": "Ober-Grafendorf"
       },
       {
         "id": 9,
@@ -718,7 +763,7 @@
       },
       {
         "id": 11,
-        "value": "Neulingasse 26"
+        "value": "Neulinggasse 26"
       },
       {
         "id": 12,
@@ -746,7 +791,7 @@
       },
       {
         "id": 19,
-        "value": "Hubertusbaderstrasse 43"
+        "value": "Hubertusbader Straße 43"
       },
       {
         "id": 20,
@@ -754,7 +799,7 @@
       },
       {
         "id": 21,
-        "value": "Ost-Berlin"
+        "value": "East Berlin"
       },
       {
         "id": 22,
@@ -774,7 +819,7 @@
       },
       {
         "id": 26,
-        "value": "München"
+        "value": "Munich"
       },
       {
         "id": 27,
@@ -786,7 +831,7 @@
       },
       {
         "id": 29,
-        "value": "77 St Mark's Place"
+        "value": "77 St. Mark's Place"
       },
       {
         "id": 31,
@@ -846,7 +891,7 @@
       },
       {
         "id": 45,
-        "value": "Bryanston Square 32"
+        "value": "32 Bryanston Square"
       },
       {
         "id": 46,
@@ -858,7 +903,7 @@
       },
       {
         "id": 48,
-        "value": "Karl Schweighofgasse 4/21"
+        "value": "Karl Schweighofgasse 4"
       },
       {
         "id": 49,
@@ -1479,6 +1524,14 @@
       {
         "id": 234,
         "value": "Kensigton"
+      },
+      {
+        "id": 235,
+        "value": "Kärtnerstrasse"
+      },
+      {
+        "id": 237,
+        "value": "Devon EX17 2AS"
       }
     ]
   }

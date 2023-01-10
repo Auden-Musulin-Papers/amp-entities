@@ -268,7 +268,12 @@
     "country_code": null,
     "place_type_class": null,
     "updated": false,
-    "events": []
+    "events": [
+      {
+        "id": 1,
+        "value": "Death of Eiermann"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -371,7 +376,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -393,7 +398,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Niederösterreich",
+    "name": "Lower Austria",
     "amp_id": "amp_place_id_6",
     "geonames_id": "https://sws.geonames.org/2770542/",
     "persons": [],
@@ -439,7 +444,7 @@
     "is_part_of": [
       {
         "id": 8,
-        "value": "Obergrafendorf"
+        "value": "Ober-Grafendorf"
       }
     ],
     "relation_types": [
@@ -461,7 +466,7 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "name": "Obergrafendorf",
+    "name": "Ober-Grafendorf",
     "amp_id": "amp_place_id_8",
     "geonames_id": "https://sws.geonames.org/7873019/",
     "persons": [],
@@ -478,7 +483,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -512,7 +517,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -545,6 +550,10 @@
       {
         "id": 25,
         "value": "Die Furche"
+      },
+      {
+        "id": 40,
+        "value": "Österreichische Post- und Telegraphenverwaltung"
       }
     ],
     "fiction_real_place": [],
@@ -573,7 +582,7 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "name": "Neulingasse 26",
+    "name": "Neulinggasse 26",
     "amp_id": "amp_place_id_11",
     "geonames_id": "",
     "persons": [],
@@ -693,7 +702,12 @@
     "country_code": "GR",
     "place_type_class": "P",
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -740,12 +754,7 @@
     "name": "U.S",
     "amp_id": "amp_place_id_15",
     "geonames_id": "https://sws.geonames.org/6252001/",
-    "persons": [
-      {
-        "id": 99,
-        "value": "O'Sullivan, Michael"
-      }
-    ],
+    "persons": [],
     "persons - death_place": [],
     "google_maps_coordinates": "",
     "comments": null,
@@ -913,7 +922,7 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Hubertusbaderstrasse 43",
+    "name": "Hubertusbader Straße 43",
     "amp_id": "amp_place_id_19",
     "geonames_id": "",
     "persons": [],
@@ -938,8 +947,8 @@
     "gnd": "",
     "geonames_coordinates": null,
     "place_type": null,
-    "country": null,
-    "country_code": null,
+    "country": "Germany",
+    "country_code": "DE",
     "place_type_class": null,
     "updated": false,
     "events": []
@@ -986,7 +995,7 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "Ost-Berlin",
+    "name": "East Berlin",
     "amp_id": "amp_place_id_21",
     "geonames_id": "",
     "persons": [],
@@ -1012,8 +1021,8 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
-    "gnd": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q56037",
+    "gnd": "https://d-nb.info/gnd/4087295-6",
     "geonames_coordinates": null,
     "place_type": null,
     "country": null,
@@ -1171,7 +1180,7 @@
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "name": "München",
+    "name": "Munich",
     "amp_id": "amp_place_id_26",
     "geonames_id": "https://sws.geonames.org/2867714/",
     "persons": [],
@@ -1331,12 +1340,21 @@
     "country_code": "US",
     "place_type_class": "P",
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 4,
+        "value": "Black-Out"
+      },
+      {
+        "id": 5,
+        "value": "1966 New York City transit strike"
+      }
+    ]
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "77 St Mark's Place",
+    "name": "77 St. Mark's Place",
     "amp_id": "amp_place_id_29",
     "geonames_id": "",
     "persons": [],
@@ -1484,6 +1502,10 @@
       {
         "id": 11,
         "value": "Goethe, Johann Wolfgang von"
+      },
+      {
+        "id": 173,
+        "value": "Heckmann, Herbert"
       }
     ],
     "persons - death_place": [
@@ -1753,7 +1775,12 @@
     "country_code": "GB",
     "place_type_class": "P",
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 6,
+        "value": "1967 T. S. Eliot Memorial Lectures"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -1876,7 +1903,7 @@
     "persons": [
       {
         "id": 114,
-        "value": "Kirstein, Lincon"
+        "value": "Kirstein, Lincoln"
       }
     ],
     "persons - death_place": [],
@@ -1943,7 +1970,7 @@
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "name": "Bryanston Square 32",
+    "name": "32 Bryanston Square",
     "amp_id": "amp_place_id_45",
     "geonames_id": "",
     "persons": [],
@@ -2058,7 +2085,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -2080,7 +2107,7 @@
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "name": "Karl Schweighofgasse 4/21",
+    "name": "Karl Schweighofgasse 4",
     "amp_id": "amp_place_id_48",
     "geonames_id": "",
     "persons": [],
@@ -3275,7 +3302,7 @@
     "is_part_of": [
       {
         "id": 8,
-        "value": "Obergrafendorf"
+        "value": "Ober-Grafendorf"
       }
     ],
     "relation_types": [
@@ -3561,7 +3588,12 @@
     "country_code": null,
     "place_type_class": null,
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -4890,7 +4922,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -5658,7 +5690,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -6437,7 +6469,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -6505,7 +6537,7 @@
     "persons - death_place": [
       {
         "id": 114,
-        "value": "Kirstein, Lincon"
+        "value": "Kirstein, Lincoln"
       }
     ],
     "google_maps_coordinates": "",
@@ -6758,7 +6790,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -7047,6 +7079,10 @@
     "geonames_id": "https://sws.geonames.org/5368361/",
     "persons": [
       {
+        "id": 99,
+        "value": "O'Sullivan, Michael"
+      },
+      {
         "id": 126,
         "value": "Bachardy, Don"
       }
@@ -7103,7 +7139,7 @@
     "is_part_of": [
       {
         "id": 6,
-        "value": "Niederösterreich"
+        "value": "Lower Austria"
       }
     ],
     "relation_types": [
@@ -8888,6 +8924,127 @@
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q288781",
     "gnd": "https://d-nb.info/gnd/4579601-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "235": {
+    "id": 235,
+    "order": "235.00000000000000000000",
+    "name": "Kärtnerstrasse",
+    "amp_id": "amp_place_id_235",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "48.20467964011737, 16.370679715340312",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "236": {
+    "id": 236,
+    "order": "236.00000000000000000000",
+    "name": "Vietnam",
+    "amp_id": "amp_place_id_236",
+    "geonames_id": "https://www.geonames.org/1562822/socialist-republic-of-vietnam.html",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q881",
+    "gnd": "https://d-nb.info/gnd/4063514-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "237": {
+    "id": 237,
+    "order": "237.00000000000000000000",
+    "name": "Devon EX17 2AS",
+    "amp_id": "amp_place_id_237",
+    "geonames_id": "",
+    "persons": [],
+    "persons - death_place": [],
+    "google_maps_coordinates": "50.7914689136201, -3.6594549039790696",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "UK"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": []
+  },
+  "238": {
+    "id": 238,
+    "order": "238.00000000000000000000",
+    "name": "Bad Vilbel",
+    "amp_id": "amp_place_id_238",
+    "geonames_id": "https://www.geonames.org/2953321/bad-vilbel.html",
+    "persons": [],
+    "persons - death_place": [
+      {
+        "id": 173,
+        "value": "Heckmann, Herbert"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "fiction_real_place": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q16082",
+    "gnd": "https://d-nb.info/gnd/4063529-6",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

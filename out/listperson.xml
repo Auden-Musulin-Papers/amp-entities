@@ -110,6 +110,8 @@
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
                      <bibl n="lit_work_id_81">Declaration</bibl>
+                     <bibl n="lit_work_id_85">Freedom and necessity in the arts</bibl>
+                     <bibl n="lit_work_id_88">August 1968</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -134,6 +136,7 @@
                      <bibl n="lit_work_id_45">Austria and the Austrians</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
+                     <bibl n="lit_work_id_87">your piece</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -208,8 +211,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118766287</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78776</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_40">Auf das Unabwendbare</bibl>
-                     <bibl n="lit_work_id_41">Kammermusik</bibl>
+                     <bibl n="lit_work_id_40">Auf das Unabwendbare (Poem)</bibl>
+                     <bibl n="lit_work_id_41">Kammermusik (Poem)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_6">
@@ -1806,14 +1809,14 @@
                </person>
                <person xml:id="amp_person_93">
                   <persName>
-                     <forename>Elsa</forename>
+                     <forename>Elsa von Isbary</forename>
                      <surname>Musulin</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_94">
                   <persName>
                      <forename>Marko</forename>
-                     <surname>Musilin</surname>
+                     <surname>Musulin</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_95">
@@ -1861,8 +1864,8 @@
                   </persName>
                   <birth>
                      <date when-iso="1934-03-04">1934-03-04</date>
-                     <settlement key="amp_place_id_15">
-                        <placeName>U.S</placeName>
+                     <settlement key="amp_place_id_184">
+                        <placeName>Los Angeles</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1921,7 +1924,7 @@
                </person>
                <person xml:id="amp_person_103">
                   <persName>
-                     <forename>Elizabeth</forename>
+                     <forename>Mrs.</forename>
                      <surname>Wandl</surname>
                   </persName>
                </person>
@@ -2041,7 +2044,7 @@
                </person>
                <person xml:id="amp_person_114">
                   <persName>
-                     <forename>Lincon</forename>
+                     <forename>Lincoln</forename>
                      <surname>Kirstein</surname>
                   </persName>
                   <birth>
@@ -2076,7 +2079,7 @@
                   <death>
                      <date when-iso="1956-08-14">1956-08-14</date>
                      <settlement key="amp_place_id_21">
-                        <placeName>Ost-Berlin</placeName>
+                        <placeName>East Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118514768</idno>
@@ -2629,8 +2632,8 @@
                </person>
                <person xml:id="amp_person_155">
                   <persName>
-                     <forename>N/A</forename>
-                     <surname>Langers</surname>
+                     <forename>Mr.</forename>
+                     <surname>Langer</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_156">
@@ -2790,7 +2793,7 @@
                   <death>
                      <date when-iso="1979-03-06">1979-03-06</date>
                      <settlement key="amp_place_id_8">
-                        <placeName>Obergrafendorf</placeName>
+                        <placeName>Ober-Grafendorf</placeName>
                      </settlement>
                   </death>
                </person>
@@ -2837,8 +2840,53 @@
                </person>
                <person xml:id="amp_person_171">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Mrs.</forename>
+                     <surname>Langer</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_172">
+                  <persName>
+                     <forename>Gherardo</forename>
+                     <surname>Tacoli</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_173">
+                  <persName>
+                     <forename>Herbert</forename>
+                     <surname>Heckmann</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1930-09-25">1930-09-25</date>
+                     <settlement key="amp_place_id_33">
+                        <placeName>Frankfurt am Main</placeName>
+                     </settlement>
+                  </birth>
+                  <listBibl>
+                     <bibl n="lit_work_id_89">Josef Weinheber</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_174">
+                  <persName>
+                     <forename>Friend who teaches schyzophrenics</forename>
+                     <surname>N/A_7</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_175">
+                  <persName>
+                     <forename> person whose name we never mention</forename>
+                     <surname>N/A_8</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_176">
+                  <persName>
+                     <forename>Mr.</forename>
+                     <surname>Strobl</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_177">
+                  <persName>
+                     <forename>Elizabeth</forename>
+                     <surname>N/A_9</surname>
                   </persName>
                </person>
             </listPerson>
