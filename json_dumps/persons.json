@@ -4974,7 +4974,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q9682",
-    "events": [],
+    "events": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ],
     "Title": [
       {
         "id": 6729,
@@ -5021,7 +5026,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q10633",
-    "events": [],
+    "events": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ],
     "Title": [
       {
         "id": 6729,
@@ -5063,7 +5073,12 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q151754",
-    "events": [],
+    "events": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ],
     "Title": [
       {
         "id": 6730,

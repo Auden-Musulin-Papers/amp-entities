@@ -142,5 +142,38 @@
     },
     "date": null,
     "wikidata": "https://www.wikidata.org/wiki/Q7443800"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Royal Visit",
+    "amp_event": "amp_event_id_7",
+    "participants": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      },
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      },
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "place_of_event": [
+      {
+        "id": 10,
+        "value": "Austria"
+      }
+    ],
+    "has_type": {
+      "id": 6745,
+      "value": "historic",
+      "color": "light-gray"
+    },
+    "date": "2023-05-05",
+    "wikidata": "https://www.wikidata.org/wiki/Q72716379"
   }
 }

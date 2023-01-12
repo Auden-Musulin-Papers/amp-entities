@@ -577,7 +577,12 @@
     "country_code": "AT",
     "place_type_class": "A",
     "updated": true,
-    "events": []
+    "events": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
   },
   "11": {
     "id": 11,
