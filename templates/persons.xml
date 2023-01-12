@@ -69,8 +69,8 @@
                      <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
                      {% if x.birth_place %}
                      {% for p in x.birth_place %}
-                     <settlement key="amp_place_id_{{ p.id }}">
-                        <placeName>{{ p.value }}</placeName>
+                     <settlement key="{{ p.data.amp_id }}">
+                        <placeName>{{ p.data.name }}</placeName>
                      </settlement>
                      {% endfor %}
                      {% endif %}
@@ -81,8 +81,8 @@
                      <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
                      {% if x.death_place %}
                      {% for p in x.death_place %}
-                     <settlement key="amp_place_id_{{ p.id }}">
-                        <placeName>{{ p.value }}</placeName>
+                     <settlement key="{{ p.data.amp_id }}">
+                        <placeName>{{ p.data.name }}</placeName>
                      </settlement>
                      {% endfor %}
                      {% endif %}
@@ -100,7 +100,7 @@
                   {% if x.literary_work|length > 0 %}
                   <listBibl>
                      {% for b in x.literary_work %}
-                     <bibl n="lit_work_id_{{ b.id }}">{{ b.value }}</bibl>
+                     <bibl n="{{ b.data.lit_work_id }}">{{ b.data.name }}</bibl>
                      {% endfor %}
                   </listBibl>
                   {% endif %}

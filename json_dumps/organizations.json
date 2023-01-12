@@ -10,7 +10,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -25,7 +41,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -40,7 +72,23 @@
     "location": [
       {
         "id": 15,
-        "value": "U.S"
+        "value": "U.S",
+        "data": {
+          "name": "U.S",
+          "amp_id": "amp_place_id_15",
+          "geonames_id": "https://sws.geonames.org/6252001/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "gnd": "https://d-nb.info/gnd/4078704-7",
+          "geonames_coordinates": "39.76, -98.5",
+          "place_type": "country, state, region,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -55,7 +103,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -70,7 +134,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -85,7 +165,23 @@
     "location": [
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "data": {
+          "name": "Oxford",
+          "amp_id": "amp_place_id_46",
+          "geonames_id": "https://sws.geonames.org/2640729/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q34217",
+          "gnd": "https://d-nb.info/gnd/4044234-2",
+          "geonames_coordinates": "51.75222, -1.25596",
+          "place_type": "city, village,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -100,7 +196,23 @@
     "location": [
       {
         "id": 155,
-        "value": "Boston"
+        "value": "Boston",
+        "data": {
+          "name": "Boston",
+          "amp_id": "amp_place_id_155",
+          "geonames_id": "https://sws.geonames.org/4930956/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q100",
+          "gnd": "https://d-nb.info/gnd/4007840-1",
+          "geonames_coordinates": "42.35843, -71.05977",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -115,14 +227,30 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Gesellschaft für Literatur",
+    "name": "Gesellschaft f\u00fcr Literatur",
     "wikidata": "https://www.wikidata.org/wiki/Q303236",
     "amp_id": "amp_organization_9",
     "founded_in_year": "1961",
@@ -130,7 +258,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -145,7 +289,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -160,7 +320,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -175,7 +351,23 @@
     "location": [
       {
         "id": 15,
-        "value": "U.S"
+        "value": "U.S",
+        "data": {
+          "name": "U.S",
+          "amp_id": "amp_place_id_15",
+          "geonames_id": "https://sws.geonames.org/6252001/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "gnd": "https://d-nb.info/gnd/4078704-7",
+          "geonames_coordinates": "39.76, -98.5",
+          "place_type": "country, state, region,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -190,7 +382,23 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "data": {
+          "name": "London",
+          "amp_id": "amp_place_id_56",
+          "geonames_id": "https://sws.geonames.org/2643743/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "gnd": "https://d-nb.info/gnd/4074335-4",
+          "geonames_coordinates": "51.50853, -0.12574",
+          "place_type": "city, village,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -205,7 +413,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -220,7 +444,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -235,7 +475,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -250,7 +506,23 @@
     "location": [
       {
         "id": 15,
-        "value": "U.S"
+        "value": "U.S",
+        "data": {
+          "name": "U.S",
+          "amp_id": "amp_place_id_15",
+          "geonames_id": "https://sws.geonames.org/6252001/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "gnd": "https://d-nb.info/gnd/4078704-7",
+          "geonames_coordinates": "39.76, -98.5",
+          "place_type": "country, state, region,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -265,7 +537,23 @@
     "location": [
       {
         "id": 15,
-        "value": "U.S"
+        "value": "U.S",
+        "data": {
+          "name": "U.S",
+          "amp_id": "amp_place_id_15",
+          "geonames_id": "https://sws.geonames.org/6252001/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "gnd": "https://d-nb.info/gnd/4078704-7",
+          "geonames_coordinates": "39.76, -98.5",
+          "place_type": "country, state, region,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -280,7 +568,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -295,7 +599,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -310,7 +630,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -325,7 +661,23 @@
     "location": [
       {
         "id": 209,
-        "value": "California"
+        "value": "California",
+        "data": {
+          "name": "California",
+          "amp_id": "amp_place_id_209",
+          "geonames_id": "https://sws.geonames.org/11071615/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "",
+          "gnd": "",
+          "geonames_coordinates": "34.68743, -116.78467",
+          "place_type": "parks,area, ...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "L",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -340,7 +692,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -355,7 +723,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -370,7 +754,23 @@
     "location": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "data": {
+          "name": "Austria",
+          "amp_id": "amp_place_id_10",
+          "geonames_id": "https://sws.geonames.org/2782113/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q40",
+          "gnd": "https://d-nb.info/gnd/4043271-3",
+          "geonames_coordinates": "47.33333, 13.33333",
+          "place_type": "country, state, region,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -385,7 +785,23 @@
     "location": [
       {
         "id": 20,
-        "value": "Germany"
+        "value": "Germany",
+        "data": {
+          "name": "Germany",
+          "amp_id": "amp_place_id_20",
+          "geonames_id": "https://sws.geonames.org/2921044/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "gnd": "https://d-nb.info/gnd/4011882-4",
+          "geonames_coordinates": "51.5, 10.5",
+          "place_type": "country, state, region,...",
+          "country": "Germany",
+          "country_code": "DE",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -400,7 +816,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -415,7 +847,23 @@
     "location": [
       {
         "id": 93,
-        "value": "UK"
+        "value": "UK",
+        "data": {
+          "name": "UK",
+          "amp_id": "amp_place_id_93",
+          "geonames_id": "https://sws.geonames.org/2635167/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "gnd": "https://d-nb.info/gnd/4022153-2",
+          "geonames_coordinates": "54.75844, -2.69531",
+          "place_type": "country, state, region,...",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -430,7 +878,23 @@
     "location": [
       {
         "id": 221,
-        "value": "575 Madison Avenue"
+        "value": "575 Madison Avenue",
+        "data": {
+          "name": "575 Madison Avenue",
+          "amp_id": "amp_place_id_221",
+          "geonames_id": "",
+          "google_maps_coordinates": "40.762125992842755, -73.97248554818371",
+          "comments": "",
+          "wikidata": "",
+          "gnd": "",
+          "geonames_coordinates": "",
+          "place_type": null,
+          "country": null,
+          "country_code": null,
+          "place_type_class": null,
+          "updated": false,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -445,7 +909,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -460,7 +940,23 @@
     "location": [
       {
         "id": 108,
-        "value": "Dublin"
+        "value": "Dublin",
+        "data": {
+          "name": "Dublin",
+          "amp_id": "amp_place_id_108",
+          "geonames_id": "https://sws.geonames.org/2964574/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q1761",
+          "gnd": "https://d-nb.info/gnd/4013170-1",
+          "geonames_coordinates": "53.33306, -6.24889",
+          "place_type": "city, village,...",
+          "country": "Ireland",
+          "country_code": "IE",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -475,7 +971,23 @@
     "location": [
       {
         "id": 108,
-        "value": "Dublin"
+        "value": "Dublin",
+        "data": {
+          "name": "Dublin",
+          "amp_id": "amp_place_id_108",
+          "geonames_id": "https://sws.geonames.org/2964574/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q1761",
+          "gnd": "https://d-nb.info/gnd/4013170-1",
+          "geonames_coordinates": "53.33306, -6.24889",
+          "place_type": "city, village,...",
+          "country": "Ireland",
+          "country_code": "IE",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -490,7 +1002,23 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "data": {
+          "name": "New York City",
+          "amp_id": "amp_place_id_28",
+          "geonames_id": "https://sws.geonames.org/5128581/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "gnd": "https://d-nb.info/gnd/4042011-5",
+          "geonames_coordinates": "40.71427, -74.00597",
+          "place_type": "city, village,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -505,7 +1033,23 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "data": {
+          "name": "Berlin",
+          "amp_id": "amp_place_id_17",
+          "geonames_id": "https://sws.geonames.org/2950159/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q64",
+          "gnd": "https://d-nb.info/gnd/4005728-8",
+          "geonames_coordinates": "52.52437, 13.41053",
+          "place_type": "city, village,...",
+          "country": "Germany",
+          "country_code": "DE",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -520,7 +1064,23 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -535,7 +1095,23 @@
     "location": [
       {
         "id": 84,
-        "value": "Paris"
+        "value": "Paris",
+        "data": {
+          "name": "Paris",
+          "amp_id": "amp_place_id_84",
+          "geonames_id": "https://sws.geonames.org/2988507/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "",
+          "gnd": "",
+          "geonames_coordinates": "48.85341, 2.3488",
+          "place_type": "city, village,...",
+          "country": "France",
+          "country_code": "FR",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -550,7 +1126,23 @@
     "location": [
       {
         "id": 15,
-        "value": "U.S"
+        "value": "U.S",
+        "data": {
+          "name": "U.S",
+          "amp_id": "amp_place_id_15",
+          "geonames_id": "https://sws.geonames.org/6252001/",
+          "google_maps_coordinates": "",
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "gnd": "https://d-nb.info/gnd/4078704-7",
+          "geonames_coordinates": "39.76, -98.5",
+          "place_type": "country, state, region,...",
+          "country": "United States",
+          "country_code": "US",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -565,7 +1157,23 @@
     "location": [
       {
         "id": 95,
-        "value": "Neuer Markt"
+        "value": "Neuer Markt",
+        "data": {
+          "name": "Neuer Markt",
+          "amp_id": "amp_place_id_95",
+          "geonames_id": "https://sws.geonames.org/10244820/",
+          "google_maps_coordinates": "",
+          "comments": "",
+          "wikidata": "http://www.wikidata.org/entity/Q1493443",
+          "gnd": "https://d-nb.info/gnd/4808806-7",
+          "geonames_coordinates": "48.206, 16.37058",
+          "place_type": "spot, building, farm",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "S",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
@@ -580,14 +1188,30 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "data": {
+          "name": "Vienna",
+          "amp_id": "amp_place_id_1",
+          "geonames_id": "https://sws.geonames.org/2761369/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q1741",
+          "gnd": "https://d-nb.info/gnd/4066009-6",
+          "geonames_coordinates": "48.20849, 16.37208",
+          "place_type": "city, village,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "P",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "name": "Österreichische Post- und Telegraphenverwaltung",
+    "name": "\u00d6sterreichische Post- und Telegraphenverwaltung",
     "wikidata": "https://www.wikidata.org/wiki/Q1747022",
     "amp_id": "amp_organization_40",
     "founded_in_year": "1849",
@@ -595,7 +1219,23 @@
     "location": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "data": {
+          "name": "Austria",
+          "amp_id": "amp_place_id_10",
+          "geonames_id": "https://sws.geonames.org/2782113/",
+          "google_maps_coordinates": null,
+          "comments": null,
+          "wikidata": "http://www.wikidata.org/entity/Q40",
+          "gnd": "https://d-nb.info/gnd/4043271-3",
+          "geonames_coordinates": "47.33333, 13.33333",
+          "place_type": "country, state, region,...",
+          "country": "Austria",
+          "country_code": "AT",
+          "place_type_class": "A",
+          "updated": true,
+          "filename": "places.json"
+        }
       }
     ]
   }

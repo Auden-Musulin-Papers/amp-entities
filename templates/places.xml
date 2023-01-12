@@ -74,7 +74,7 @@
                   {% if x.is_part_of|length > 0 %}
                   {% for p in x.is_part_of %}
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_{{ p.id }}">{{ p.value }}</placeName>
+                     <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
                   </location>
                   {% endfor %}
                   {% endif %}
@@ -82,12 +82,10 @@
                   <location type="coords">
                      <geo>{{ x.geonames_coordinates }}</geo>
                   </location>
-                  {% else %}
-                  {% if x.google_maps_coordinates is string and x.google_maps_coordinates|length != 0 %}
+                  {% elif x.google_maps_coordinates is string and x.google_maps_coordinates|length != 0 %}
                   <location type="coords">
                      <geo>{{ x.google_maps_coordinates }}</geo>
                   </location>
-                  {% endif %}
                   {% endif %}
                   {% if x.geonames_id|length > 0 %}
                   <idno type="GEONAMES">{{ x.geonames_id }}</idno>

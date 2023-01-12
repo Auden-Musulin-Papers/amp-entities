@@ -67,8 +67,17 @@
                   {% if x.location|length > 0 %}
                   {% for p in x.location %}
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_{{ p.id }}">{{ p.value }}</placeName>
+                     <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
                   </location>
+                  {% if p.data.geonames_coordinates is string and p.data.geonames_coordinates|length != 0 %}
+                  <location type="coords">
+                     <geo>{{ p.data.geonames_coordinates }}</geo>
+                  </location>
+                  {% elif p.data.google_maps_coordinates is string and p.data.google_maps_coordinates|length != 0 %}
+                  <location type="coords">
+                     <geo>{{ p.data.google_maps_coordinates }}</geo>
+                  </location>
+                  {% endif %}
                   {% endfor %}
                   {% endif %}
                   {% if x.wikidata is string %}

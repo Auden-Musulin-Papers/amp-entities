@@ -1,6 +1,7 @@
 import requests
 import geocoder
 import json
+import os
 
 from acdh_id_reconciler import gnd_to_wikidata, geonames_to_gnd, geonames_to_wikidata
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
@@ -144,7 +145,6 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
     }
     with open(input, "rb") as f:
         file = json.load(f)
-    arr = []
     for f in file:
         obj = file[f]
         try:
@@ -191,26 +191,18 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                 print(err)
         try:
             loc = obj[clm3]
-            if loc:
-                if len(loc) != 0:
-                    nm = obj["name"]
-                    o_id = obj["amp_id"]
-                    for x in loc:
-                        arr.append({
-                            "id": x["id"],
-                            "name": nm,
-                            "amp_id": o_id
-                        })
         except KeyError as err:
             print(err)
-    if arr:
-        with open("json_dumps/places.json", "rb") as f:
-            file = json.load(f)
-        for id in arr:
-            plc = file[str(id["id"])]
-            if plc[clmn1]:
-                if len(plc[clmn1]) != 0:
-                    coords = plc[clmn1]
+            loc = []
+        if len(loc) > 0:
+            nm = obj["name"]
+            o_id = obj["amp_id"]
+            for x in loc:
+                try:
+                    coords = x["data"][clmn1]
+                except KeyError:
+                    coords = {}
+                if len(coords) > 0:
                     coords = coords.split(",")
                     feature_point = {
                         "type": "Feature",
@@ -219,33 +211,75 @@ def make_geojson(input, fn, clmn1, clmn2, clm3):
                             "coordinates": [float(coords[1]), float(coords[0])]
                         },
                         "properties": {
-                            "title": id["name"],
-                            "id": id["amp_id"],
-                            "title_plc": plc["name"],
-                            "id_plc": plc["amp_id"],
-                            "country_code": plc["country_code"]
+                            "title": nm,
+                            "id": o_id,
+                            "title_plc": x["data"]["name"],
+                            "id_plc": x["data"]["amp_id"],
+                            "country_code": x["data"]["country_code"]
                         }
                     }
                     geojson["features"].append(feature_point)
-            elif plc[clmn2]:
-                if len(plc[clmn2]) != 0:
-                    coords = plc[clmn2]
-                    coords = coords.split(",")
-                    feature_point = {
-                        "type": "Feature",
-                        "geometry": {
-                            "type": "Point",
-                            "coordinates": [float(coords[1]), float(coords[0])]
-                        },
-                        "properties": {
-                            "title": id["name"],
-                            "id": id["amp_id"],
-                            "title_plc": plc["name"],
-                            "id_plc": plc["amp_id"],
-                            "country_code": plc["country_code"]
+                else:
+                    try:
+                        coords = x["data"][clmn2]
+                    except KeyError:
+                        coords = {}
+                    if len(coords) > 0:
+                        coords = coords.split(",")
+                        feature_point = {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [float(coords[1]), float(coords[0])]
+                            },
+                            "properties": {
+                                "title": nm,
+                                "id": o_id,
+                                "title_plc": x["data"]["name"],
+                                "id_plc": x["data"]["amp_id"],
+                                "country_code": x["data"]["country_code"]
+                            }
                         }
-                    }
-                    geojson["features"].append(feature_point)
+                        geojson["features"].append(feature_point)
     with open(f"out/{fn}.geojson", "w") as f:
         json.dump(geojson, f)
     return geojson
+
+def load_lockup(path, mapping):
+    files = {}
+    for x in mapping:
+        ldn = mapping[x].split(".")[-2]
+        with open(f"{path}/{mapping[x]}", "rb") as fb:
+            files[ldn] = json.load(fb)
+    return files
+
+def load_base(fn):
+    with open(fn, "rb") as fb:
+        data = json.load(fb)
+    return data
+
+def denormalize_json(fn, path, mapping):
+    save_and_open = f"{path}/{fn}.json"
+    print(f"updating {save_and_open}")
+    os.makedirs(f"{path}_upt", exist_ok=True)
+    mpg = mapping
+    files = load_lockup(path, mpg)
+    dta = load_base(save_and_open)
+    for x in dta:
+        for m in mpg:
+            if dta[x][m]:
+                ldn = mpg[m].split(".")[-2]
+                lockup = files[ldn]
+                for i in dta[x][m]:
+                    i_id = i["id"]
+                    i_upt = lockup[str(i_id)]
+                    norm = {n: i_upt[n] for n in i_upt
+                            if not isinstance(i_upt[n], list) 
+                            and n != "id"
+                            and n != "order"}
+                    i["data"] = norm
+                    i["data"]["filename"] = mpg[m]
+    with open(save_and_open, "w") as w:
+        json.dump(dta, w)
+    print(f"finished update of {save_and_open} and save as {save_and_open}.")
+    return dta

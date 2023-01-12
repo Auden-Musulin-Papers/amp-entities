@@ -64,12 +64,18 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1313036</idno>
                </org>
                <org xml:id="amp_organization_2">
                   <orgName>American Academy</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                </org>
@@ -79,6 +85,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">U.S</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
                </org>
                <org xml:id="amp_organization_4">
@@ -87,6 +96,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q82708</idno>
                </org>
                <org xml:id="amp_organization_5">
@@ -94,6 +106,9 @@
                   <desc>Was founded in year 1929.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q898097</idno>
                   <note>known also as Faber</note>
@@ -104,6 +119,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_46">Oxford</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q745967</idno>
                </org>
                <org xml:id="amp_organization_7">
@@ -111,6 +129,9 @@
                   <desc>Was founded in year 1880.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_155">Boston</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>42.35843, -71.05977</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q390074</idno>
                   <note>currently as Houghton Mifflin Harcourt</note>
@@ -121,6 +142,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1756332</idno>
                </org>
                <org xml:id="amp_organization_9">
@@ -128,6 +152,9 @@
                   <desc>Was founded in year 1961.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q303236</idno>
                   <note>known as Society of Literature</note>
@@ -138,6 +165,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q306362</idno>
                </org>
                <org xml:id="amp_organization_11">
@@ -145,6 +175,9 @@
                   <desc>Was founded in year 1855.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q694468</idno>
                   <note/>
@@ -155,6 +188,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">U.S</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q744182</idno>
                   <note/>
                </org>
@@ -163,6 +199,9 @@
                   <desc>Was founded in year 1973.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q370233</idno>
                   <note/>
@@ -173,6 +212,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q284902</idno>
                   <note/>
                </org>
@@ -181,6 +223,9 @@
                   <desc>Was founded in year 1931.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q378577</idno>
                   <note/>
@@ -191,6 +236,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45433</idno>
                   <note/>
                </org>
@@ -199,6 +247,9 @@
                   <desc>Was founded in year 1963.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">U.S</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q814779</idno>
                   <note/>
@@ -209,6 +260,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">U.S</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q49112</idno>
                   <note/>
                </org>
@@ -217,6 +271,9 @@
                   <desc>Was founded in year 1933.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1337744</idno>
                   <note/>
@@ -227,6 +284,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q221986</idno>
                   <note/>
                </org>
@@ -236,6 +296,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9684</idno>
                   <note/>
                </org>
@@ -243,6 +306,9 @@
                   <orgName>Crossing Cards</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_209">California</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>34.68743, -116.78467</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7699319</idno>
                   <note>formerly known as Crossing Press, now it is acquired by Ten Speed Press</note>
@@ -253,6 +319,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q183399</idno>
                   <note/>
                </org>
@@ -261,6 +330,9 @@
                   <desc>Was founded in year 1955.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1699649</idno>
                   <note/>
@@ -271,6 +343,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>47.33333, 13.33333</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1212798</idno>
                   <note/>
                </org>
@@ -280,6 +355,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Germany</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>51.5, 10.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1375237</idno>
                   <note/>
                </org>
@@ -287,6 +365,9 @@
                   <orgName>British Embassy</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -297,6 +378,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9531</idno>
                   <note/>
                </org>
@@ -305,6 +389,9 @@
                   <desc>Was founded in year 1914.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_221">575 Madison Avenue</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.762125992842755, -73.97248554818371</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -315,6 +402,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q49088</idno>
                   <note/>
                </org>
@@ -323,6 +413,9 @@
                   <desc>Was founded in year 1592.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_108">Dublin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>53.33306, -6.24889</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2496094</idno>
                   <note/>
@@ -333,6 +426,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_108">Dublin</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>53.33306, -6.24889</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q258464</idno>
                   <note/>
                </org>
@@ -341,6 +437,9 @@
                   <desc>Was founded in year 1931.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q378577</idno>
                   <note/>
@@ -351,6 +450,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q540130</idno>
                   <note/>
                </org>
@@ -359,6 +461,9 @@
                   <desc>Was founded in year 1946.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q17048457</idno>
                   <note/>
@@ -369,6 +474,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_84">Paris</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.85341, 2.3488</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q209842</idno>
                   <note/>
                </org>
@@ -378,6 +486,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">U.S</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1963025</idno>
                   <note/>
                </org>
@@ -385,6 +496,9 @@
                   <orgName>Wild</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_95">Neuer Markt</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.206, 16.37058</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -395,6 +509,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689934</idno>
                   <note/>
                </org>
@@ -403,6 +520,9 @@
                   <desc>Was founded in year 1849.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.33333, 13.33333</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1747022</idno>
                   <note/>
