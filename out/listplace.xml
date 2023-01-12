@@ -1035,6 +1035,7 @@
                   <location type="coords">
                      <geo>48.19498822750462, 16.393747926634855</geo>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12503978/</idno>
                </place>
                <place xml:id="amp_place_id_72">
                   <settlement type="H">
@@ -3070,6 +3071,7 @@
                   <location type="coords">
                      <geo>48.208783977078866, 16.36615424096451</geo>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12503987/</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_212">
@@ -3327,6 +3329,7 @@
                   <location type="coords">
                      <geo>48.21586580163302, 16.369830784659687</geo>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12503981/</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_234">
@@ -3372,6 +3375,10 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2953321/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q16082</idno>
                   <idno type="GND">https://d-nb.info/gnd/4063529-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_239">
+                  <placeName/>
                   <note/>
                </place>
             </listPlace>
