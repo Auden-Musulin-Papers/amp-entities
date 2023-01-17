@@ -602,7 +602,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_61">
-               <title>Joseph Weinheber</title>
+               <title>Joseph Weinheber (Exp WH Auden, complete)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -829,11 +829,62 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_89">
-               <title>Josef Weinheber</title>
+               <title>Josef Weinheber (Exp Heckmann)</title>
                <author ref="#amp_person_173">
                   <persName>Heckmann, Herbert</persName>
                </author>
                <date when="1972">1972</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_90">
+               <title>Freedom and necessity in the arts (Exp WH Auden)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1970">1970</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_91">
+               <title>Freedom and necessity in the arts (Exp SM)</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <date when="1970">1970</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_92">
+               <title>Josef Weinheber (Exp WH Auden, Mayer prose)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_157">
+                  <persName>Mayer, Eliza</persName>
+               </author>
+               <date when="1965">1965</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_93">
+               <title>Josef Weinheber (Exp SM prose)</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <date when="1965">1965</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_94">
+               <title>Josef Weinheber (Exp SM notes)</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <author ref="#amp_person_93">
+                  <persName>Musulin, Elsa von Isbary</persName>
+               </author>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>

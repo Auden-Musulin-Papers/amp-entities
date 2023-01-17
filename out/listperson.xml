@@ -103,7 +103,7 @@
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
                      <bibl n="lit_work_id_58">Elegy</bibl>
                      <bibl n="lit_work_id_60">Joseph Weinheber</bibl>
-                     <bibl n="lit_work_id_61">Joseph Weinheber</bibl>
+                     <bibl n="lit_work_id_61">Joseph Weinheber (Exp WH Auden, complete)</bibl>
                      <bibl n="lit_work_id_62">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
                      <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
@@ -112,6 +112,8 @@
                      <bibl n="lit_work_id_81">Declaration</bibl>
                      <bibl n="lit_work_id_85">Freedom and necessity in the arts</bibl>
                      <bibl n="lit_work_id_88">August 1968</bibl>
+                     <bibl n="lit_work_id_90">Freedom and necessity in the arts (Exp WH Auden)</bibl>
+                     <bibl n="lit_work_id_92">Josef Weinheber (Exp WH Auden, Mayer prose)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -137,6 +139,9 @@
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
                      <bibl n="lit_work_id_87">your piece</bibl>
+                     <bibl n="lit_work_id_91">Freedom and necessity in the arts (Exp SM)</bibl>
+                     <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
+                     <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -1812,6 +1817,9 @@
                      <forename>Elsa von Isbary</forename>
                      <surname>Musulin</surname>
                   </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_94">
                   <persName>
@@ -2657,6 +2665,7 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5363177</idno>
                   <listBibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
+                     <bibl n="lit_work_id_92">Josef Weinheber (Exp WH Auden, Mayer prose)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_158">
@@ -2862,7 +2871,7 @@
                      </settlement>
                   </birth>
                   <listBibl>
-                     <bibl n="lit_work_id_89">Josef Weinheber</bibl>
+                     <bibl n="lit_work_id_89">Josef Weinheber (Exp Heckmann)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_174">

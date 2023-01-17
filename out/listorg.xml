@@ -527,6 +527,18 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1747022</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_41">
+                  <orgName>Neue Rundschau</orgName>
+                  <desc>Was founded in year 1890.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.5, 10.5</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q317489</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
