@@ -1,0 +1,98 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "amp_id": "person_event__1",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      }
+    ],
+    "event": [
+      {
+        "id": 6,
+        "value": "1967 T. S. Eliot Memorial Lectures"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "amp_id": "person_event__2",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      }
+    ],
+    "event": [
+      {
+        "id": 9,
+        "value": "The Martyr as Dramatic Hero"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "amp_id": "person_event__3",
+    "person": [
+      {
+        "id": 129,
+        "value": "Benning, Achim"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9874,
+        "value": "narrator_in",
+        "color": "green"
+      }
+    ],
+    "event": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "amp_id": "person_event__4",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9872,
+        "value": "present_in",
+        "color": "light-red"
+      }
+    ],
+    "event": [
+      {
+        "id": 3,
+        "value": "W.H Auden Gedichte/Poems"
+      }
+    ]
+  }
+}
