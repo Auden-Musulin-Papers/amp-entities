@@ -3,8 +3,8 @@ import os
 from acdh_baserow_pyutils import BaseRowClient
 
 
-BASEROW_DB_ID=274
-BASEROW_URL="https://baserow.acdh-dev.oeaw.ac.at/api/"
+BASEROW_DB_ID = 274
+BASEROW_URL = "https://baserow.acdh-dev.oeaw.ac.at/api/"
 BASEROW_USER = os.environ.get("BASEROW_USER")
 BASEROW_PW = os.environ.get("BASEROW_PW")
 BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
@@ -48,7 +48,8 @@ MAPPING_LITERARY_WORKS = {
 }
 MAPPING_EVENTS = {
     "participants": "persons.json",
-    "place_of_event": "places.json"
+    "place_of_event": "places.json",
+    "events_relationships": "events_relationships.json"
 }
 
 

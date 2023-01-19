@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Events mentioned in Auden Musulin Papers</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Events mentioned in Auden Musulin Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_events">
+            <listEvent xml:id="listevent">
+               <event xml:id="amp_event_id_1" when="1967-11-04">
+                  <label>Death of Eiermann</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_16">Eiermann, Emma</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_2" when="1968-12-13">
+                  <label>Death of Jean Boras</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_13">Athens</placeName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_3" when="1973-09-28">
+                  <label>W.H Auden Gedichte/Poems</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_129">Benning, Achim</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_4" when="2022-11-09">
+                  <label>Black-Out</label>
+                  <desc>historic</desc>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
+               </event>
+               <event xml:id="amp_event_id_5" when="1966-01-01">
+                  <label>1966 New York City transit strike</label>
+                  <desc>historic</desc>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
+               </event>
+               <event xml:id="amp_event_id_6">
+                  <label>1967 T. S. Eliot Memorial Lectures</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
+               </event>
+               <event xml:id="amp_event_id_7" when="1963-05-05">
+                  <label>Royal Visit</label>
+                  <desc>historic</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_138">Elizabeth II., Great Britain, Queen</persName>
+                     <persName key="amp_person_139">Elizabeth, Great Britain, Queen Mother</persName>
+                     <persName key="amp_person_140">Anne, Great Britain, Princess</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
+               </event>
+               <event xml:id="amp_event_id_8">
+                  <label>Biedermayer period</label>
+                  <desc>historic</desc>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
+               </event>
+               <event xml:id="amp_event_id_9" when="1967-10-01">
+                  <label>The Martyr as Dramatic Hero</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
+               </event>
+               <event xml:id="amp_event_id_10" when="1968-02-16">
+                  <label>Interview of Strobls</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_32">Strobl, Josefa</persName>
+                     <persName key="amp_person_176">Strobl, N/A</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_11" when="1968-10-12">
+                  <label>Left American driving license</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_12" when="1968-10-15">
+                  <label>Hosting of Czech couple</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_155">Langers, Mr.</persName>
+                     <persName key="amp_person_171">Langers, Mrs.</persName>
+                  </ab>
+                  <ab type="located_in_place">
+                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  </ab>
+               </event>
+            </listEvent>
+         </div>
+      </body>
+   </text>
+</TEI>
