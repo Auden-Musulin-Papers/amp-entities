@@ -455,8 +455,240 @@
     "id": 19,
     "order": "19.00000000000000000000",
     "amp_id": "person_event__19",
-    "person": [],
-    "has_Role": [],
-    "event": []
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 13,
+        "value": "Car crush"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "amp_id": "person_event__20",
+    "person": [
+      {
+        "id": 23,
+        "value": "Boras (Μπόρας), Yannis (Γιάννης)"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 13,
+        "value": "Car crush"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "amp_id": "person_event__21",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 13,
+        "value": "Car crush"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "amp_id": "person_event__22",
+    "person": [
+      {
+        "id": 21,
+        "value": "Hoffmann, Otto"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 13,
+        "value": "Car crush"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "amp_id": "person_event__23",
+    "person": [
+      {
+        "id": 14,
+        "value": "Redlich, Walter"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 13,
+        "value": "Car crush"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "amp_id": "person_event__24",
+    "person": [
+      {
+        "id": 140,
+        "value": "Anne, Great Britain, Princess"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "amp_id": "person_event__25",
+    "person": [
+      {
+        "id": 138,
+        "value": "Elizabeth II., Great Britain, Queen"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "amp_id": "person_event__26",
+    "person": [
+      {
+        "id": 139,
+        "value": "Elizabeth, Great Britain, Queen Mother"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "amp_id": "person_event__27",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "amp_id": "person_event__28",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 7,
+        "value": "Royal Visit"
+      }
+    ]
   }
 }
