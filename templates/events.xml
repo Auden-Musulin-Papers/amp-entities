@@ -73,8 +73,19 @@
                   {% endif %}
                   {% if x.place_of_event|length > 0 %}
                   {% for p in x.place_of_event %}
-                  <ab type="located_in_place">
-                     <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
+                     </location>
+                     {% if p.data.geonames_coordinates is string and p.data.geonames_coordinates|length != 0 %}
+                     <location type="coords">
+                        <geo>{{ p.data.geonames_coordinates }}</geo>
+                     </location>
+                     {% elif p.data.google_maps_coordinates is string and p.data.google_maps_coordinates|length != 0 %}
+                     <location type="coords">
+                        <geo>{{ p.data.google_maps_coordinates }}</geo>
+                     </location>
+                     {% endif %}
                   </ab>
                   {% endfor %}
                   {% endif %}
