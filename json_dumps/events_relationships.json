@@ -888,5 +888,245 @@
         "value": "Arrival of Christiane Zimmer"
       }
     ]
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "amp_id": "person_event__36",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 17,
+        "value": "Dinner with the Priest"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "amp_id": "person_event__37",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 17,
+        "value": "Dinner with the Priest"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "amp_id": "person_event__38",
+    "person": [
+      {
+        "id": 109,
+        "value": "N/A_3, Father Lustkandl"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 17,
+        "value": "Dinner with the Priest"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "amp_id": "person_event__39",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 18,
+        "value": "Death of Auden"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "amp_id": "person_event__40",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "amp_id": "person_event__41",
+    "person": [
+      {
+        "id": 156,
+        "value": "Duncan, Bruce"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "amp_id": "person_event__42",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "amp_id": "person_event__43",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "amp_id": "person_event__44",
+    "person": [
+      {
+        "id": 88,
+        "value": "Auden, John"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "amp_id": "person_event__45",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 20,
+        "value": "Talk in Pen Club"
+      }
+    ]
   }
 }

@@ -293,6 +293,72 @@
                      </location>
                   </ab>
                </event>
+               <event xml:id="amp_event_id_17" when="1962-10-20">
+                  <label>Dinner with the Priest</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_109">N/A_3, Father Lustkandl</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_18" when="1973-09-29">
+                  <label>Death of Auden</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20378854425725, 16.37118272746974</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_19" when="1973-10-04">
+                  <label>Funeral of Auden</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_156">Duncan, Bruce</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_20">
+                  <label>Talk in Pen Club</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_21">
+                  <label/>
+               </event>
             </listEvent>
          </div>
       </body>

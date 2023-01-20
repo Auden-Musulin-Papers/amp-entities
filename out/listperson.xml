@@ -102,7 +102,7 @@
                      <bibl n="lit_work_id_55">For the Time Being</bibl>
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
                      <bibl n="lit_work_id_58">Elegy</bibl>
-                     <bibl n="lit_work_id_60">Josef Weinheber</bibl>
+                     <bibl n="lit_work_id_60">Josef Weinheber (Work)</bibl>
                      <bibl n="lit_work_id_61">Josef Weinheber (Exp WH Auden, complete)</bibl>
                      <bibl n="lit_work_id_62">Josef Weinheber</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
@@ -111,9 +111,10 @@
                      <bibl n="lit_work_id_80">The English Auden</bibl>
                      <bibl n="lit_work_id_81">Declaration</bibl>
                      <bibl n="lit_work_id_85">Freedom and necessity in the arts</bibl>
-                     <bibl n="lit_work_id_88">August 1968</bibl>
+                     <bibl n="lit_work_id_88">August 1968 (exp)</bibl>
                      <bibl n="lit_work_id_90">Freedom and necessity in the arts (Exp WH Auden)</bibl>
                      <bibl n="lit_work_id_92">Josef Weinheber (Exp WH Auden, Mayer prose)</bibl>
+                     <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -138,7 +139,7 @@
                      <bibl n="lit_work_id_45">Austria and the Austrians</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
-                     <bibl n="lit_work_id_87">your piece</bibl>
+                     <bibl n="lit_work_id_87">your piece (work)</bibl>
                      <bibl n="lit_work_id_91">Freedom and necessity in the arts (Exp SM)</bibl>
                      <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
@@ -239,6 +240,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118807439</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q124735</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_95">The Image of the City, and Other Essays</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_7">
                   <persName>
@@ -2520,6 +2524,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118555081</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q81447</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_97">The doors of perception</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_144">
                   <persName>
@@ -2917,6 +2924,12 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/4006499-2</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q45662</idno>
+               </person>
+               <person xml:id="amp_person_179">
+                  <persName>
+                     <forename>N/A_1</forename>
+                     <surname>N/A_10</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>
