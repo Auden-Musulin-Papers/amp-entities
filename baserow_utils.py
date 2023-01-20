@@ -267,24 +267,20 @@ def load_base(fn):
 def denormalize_json(fn, path, mapping):
     save_and_open = f"{path}/{fn}.json"
     print(f"updating {save_and_open}")
-    os.makedirs(f"{path}_upt", exist_ok=True)
     mpg = mapping
     files = load_lockup(path, mpg)
     dta = load_base(save_and_open)
-    for x in dta:
-        for m in mpg:
-            if dta[x][m]:
-                ldn = mpg[m].split(".")[-2]
-                lockup = files[ldn]
-                for i in dta[x][m]:
-                    i_id = i["id"]
-                    i_upt = lockup[str(i_id)]
-                    norm = {n: i_upt[n] for n in i_upt
-                            if not isinstance(i_upt[n], list) 
-                            and n != "id"
-                            and n != "order"}
-                    i["data"] = norm
-                    i["data"]["filename"] = mpg[m]
+    for m, d in zip(mpg, dta):
+        if dta[d][m]:
+            ldn = mpg[m].split(".")[-2]
+            lockup = files[ldn]
+            for i in dta[d][m]:
+                i_id = i["id"]
+                i_upt = lockup[str(i_id)]
+                norm = {n: i_upt[n] for n in i_upt
+                        if not isinstance(i_upt[n], list) and n != "id" and n != "order"}
+                i["data"] = norm
+                i["data"]["filename"] = mpg[m]
     with open(save_and_open, "w") as w:
         json.dump(dta, w)
     print(f"finished update of {save_and_open} and save as {save_and_open}.")
