@@ -593,7 +593,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_60">
-               <title>Josef Weinheber</title>
+               <title>Josef Weinheber (Work)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -812,7 +812,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_87">
-               <title>your piece</title>
+               <title>your piece (work)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -820,7 +820,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_88">
-               <title>August 1968</title>
+               <title>August 1968 (exp)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -887,6 +887,37 @@
                <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_95">
+               <title>The Image of the City, and Other Essays</title>
+               <author ref="#amp_person_6">
+                  <persName>Williams, Charles</persName>
+               </author>
+               <date when="1958">1958</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_96">
+               <title>The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1959">1959</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_97">
+               <title>The doors of perception</title>
+               <author ref="#amp_person_143">
+                  <persName>Huxley, Aldous</persName>
+               </author>
+               <date when="1954">1954</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_98">
+               <title/>
+               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>

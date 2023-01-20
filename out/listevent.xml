@@ -64,8 +64,13 @@
                   <ab type="participants">
                      <persName key="amp_person_16">Eiermann, Emma</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_2" when="1968-12-13">
@@ -74,8 +79,13 @@
                   <ab type="participants">
                      <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_13">Athens</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_3" when="1973-09-28">
@@ -85,23 +95,38 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_129">Benning, Achim</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.2064399676074, 16.367798975228684</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_4" when="2022-11-09">
                   <label>Black-Out</label>
                   <desc>historic</desc>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_28">New York City</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_28">New York City</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.71427, -74.00597</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5" when="1966-01-01">
                   <label>1966 New York City transit strike</label>
                   <desc>historic</desc>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_28">New York City</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_28">New York City</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.71427, -74.00597</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
@@ -111,8 +136,13 @@
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_39">Canterbury</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.27904, 1.07992</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                </event>
@@ -124,8 +154,13 @@
                      <persName key="amp_person_139">Elizabeth, Great Britain, Queen Mother</persName>
                      <persName key="amp_person_140">Anne, Great Britain, Princess</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
@@ -140,8 +175,13 @@
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_39">Canterbury</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.27904, 1.07992</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                </event>
@@ -153,8 +193,13 @@
                      <persName key="amp_person_32">Strobl, Josefa</persName>
                      <persName key="amp_person_176">Strobl, N/A</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_11" when="1968-10-12">
@@ -164,8 +209,13 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_12" when="1968-10-15">
@@ -177,23 +227,136 @@
                      <persName key="amp_person_155">Langers, Mr.</persName>
                      <persName key="amp_person_171">Langers, Mrs.</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_13" when="1968-12-13">
-                  <label>Car crush</label>
+                  <label>Car accident of Yannis Boras</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_14" when="1970-06-13">
+                  <label>Wedding near Krems</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
-                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
                   </ab>
-                  <ab type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_62">Krems</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.46582, 15.52093</geo>
+                     </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_14">
+               <event xml:id="amp_event_id_15">
+                  <label>Reading of Auden's poems</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_16" when="1962-08-05">
+                  <label>Arrival of Christiane Zimmer</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_3">Zimmer, Christiane</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_17" when="1962-10-20">
+                  <label>Dinner with the Priest</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_109">N/A_3, Father Lustkandl</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_18" when="1973-09-29">
+                  <label>Death of Auden</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20378854425725, 16.37118272746974</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_19" when="1973-10-04">
+                  <label>Funeral of Auden</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_156">Duncan, Bruce</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_20">
+                  <label>Talk in Pen Club</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_21">
                   <label/>
                </event>
             </listEvent>
