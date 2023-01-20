@@ -81,10 +81,10 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_13">Athens</placeName>
+                        <placeName key="amp_place_id_10">Austria</placeName>
                      </location>
                      <location type="coords">
-                        <geo>37.98376, 23.72784</geo>
+                        <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
                </event>
@@ -237,11 +237,10 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_13" when="1968-12-13">
-                  <label>Boras's car crush</label>
+                  <label>Car accident of Yannis Boras</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_4">Kallman, Chester</persName>
                      <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
                   </ab>
                   <ab type="location">
