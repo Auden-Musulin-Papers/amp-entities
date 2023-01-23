@@ -1,7 +1,6 @@
 import requests
 import geocoder
 import json
-import os
 
 from acdh_id_reconciler import gnd_to_wikidata, geonames_to_gnd, geonames_to_wikidata
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri

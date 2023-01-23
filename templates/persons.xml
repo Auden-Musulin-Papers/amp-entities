@@ -67,7 +67,7 @@
                   {% if x.birth_day is string %}
                   <birth>
                      <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
-                     {% if x.birth_place %}
+                     {% if x.birth_place|length > 0 %}
                      {% for p in x.birth_place %}
                      <settlement key="{{ p.data.amp_id }}">
                         <placeName>{{ p.data.name }}</placeName>
@@ -79,7 +79,7 @@
                   {% if x.death_day is string %}
                   <death>
                      <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
-                     {% if x.death_place %}
+                     {% if x.death_place|length > 0 %}
                      {% for p in x.death_place %}
                      <settlement key="{{ p.data.amp_id }}">
                         <placeName>{{ p.data.name }}</placeName>
