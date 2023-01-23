@@ -61,7 +61,7 @@
             <bibl xml:id="{{ x.lit_work_id }}">
                <title>{{ x.name }}</title>
                {% if x.is_written_by|length > 0 %}
-               {% for p in x.is_written_by %}
+               {% for p in x.is_written_by if p.data %}
                <author ref="#{{ p.data.amp_id }}">
                   <persName>{{ p.data.name }}</persName>
                </author>

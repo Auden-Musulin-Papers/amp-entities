@@ -65,7 +65,7 @@
                   <desc>Was founded in year {{ x.founded_in_year }}.</desc>
                   {% endif %}
                   {% if x.location|length > 0 %}
-                  {% for p in x.location %}
+                  {% for p in x.location if p.data %}
                   <location type="located_in_place">
                      <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
                   </location>

@@ -66,13 +66,13 @@
                   {% endif %}
                   {% if x.participants|length > 0 %}
                   <ab type="participants">
-                     {% for p in x.participants %}
+                     {% for p in x.participants if p.data %}
                      <persName key="{{ p.data.amp_id }}">{{ p.data.name }}</persName>
                      {% endfor %}
                   </ab>
                   {% endif %}
                   {% if x.place_of_event|length > 0 %}
-                  {% for p in x.place_of_event %}
+                  {% for p in x.place_of_event if p.data %}
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>

@@ -72,7 +72,7 @@
                   <country>{{ x.country_code }}, {{ x.country }}</country>
                   {% endif %}
                   {% if x.is_part_of|length > 0 %}
-                  {% for p in x.is_part_of %}
+                  {% for p in x.is_part_of if p.data %}
                   <location type="located_in_place">
                      <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
                   </location>
