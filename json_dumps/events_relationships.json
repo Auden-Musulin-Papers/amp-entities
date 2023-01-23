@@ -1128,5 +1128,178 @@
         "value": "Talk in Pen Club"
       }
     ]
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "amp_id": "person_event__46",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 21,
+        "value": "Auden Exhibition"
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "amp_id": "person_event__47",
+    "person": [
+      {
+        "id": 99,
+        "value": "O'Sullivan, Michael"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 21,
+        "value": "Auden Exhibition"
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "amp_id": "person_event__48",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 21,
+        "value": "Auden Exhibition"
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "amp_id": "person_event__49",
+    "person": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 21,
+        "value": "Auden Exhibition"
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "amp_id": "person_event__50",
+    "person": [
+      {
+        "id": 100,
+        "value": "Carpenter, Humphrey"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 21,
+        "value": "Auden Exhibition"
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "amp_id": "person_event__51",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 23,
+        "value": "Lecture about W. H. Auden und die Österreicher\" [W. H. Auden and the Austrians]"
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "amp_id": "person_event__52",
+    "person": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 23,
+        "value": "Lecture about W. H. Auden und die Österreicher\" [W. H. Auden and the Austrians]"
+      }
+    ]
   }
 }
