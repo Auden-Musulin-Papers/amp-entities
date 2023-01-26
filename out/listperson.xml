@@ -2165,6 +2165,36 @@
                      <surname>N/A_10</surname>
                   </persName>
                </person>
+               <person xml:id="amp_person_180">
+                  <persName>
+                     <forename>Ronald</forename>
+                     <surname>Blythe</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1922-11-06">1922-11-06</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2023-01-14">2023-01-14</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1044390549</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q7364685</idno>
+                  <listBibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_181">
+                  <persName>
+                     <forename>Friedrich von</forename>
+                     <surname>Ledebur</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1900-06-03">1900-06-03</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1986-12-25">1986-12-25</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/1061459772</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q86638</idno>
+               </person>
             </listPerson>
          </div>
       </body>

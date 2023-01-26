@@ -1301,5 +1301,178 @@
         "value": "Lecture about W. H. Auden und die Österreicher\" [W. H. Auden and the Austrians]"
       }
     ]
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "amp_id": "person_event__53",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 24,
+        "value": "Divorce of Stella Musulin"
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "amp_id": "person_event__54",
+    "person": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 24,
+        "value": "Divorce of Stella Musulin"
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "amp_id": "person_event__55",
+    "person": [
+      {
+        "id": 94,
+        "value": "Musulin, Marko"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9872,
+        "value": "present_in",
+        "color": "light-red"
+      }
+    ],
+    "event": [
+      {
+        "id": 24,
+        "value": "Divorce of Stella Musulin"
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "amp_id": "person_event__56",
+    "person": [
+      {
+        "id": 93,
+        "value": "Musulin, Elsa von Isbary"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 24,
+        "value": "Divorce of Stella Musulin"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "amp_id": "person_event__57",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 26,
+        "value": "Attendance in PEN Conference"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "amp_id": "person_event__58",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 27,
+        "value": "Guest Professor at Ford Foundation"
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "amp_id": "person_event__59",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 28,
+        "value": "DUI"
+      }
+    ]
   }
 }
