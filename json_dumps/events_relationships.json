@@ -1418,6 +1418,11 @@
         "id": 9875,
         "value": "active_participant",
         "color": "red"
+      },
+      {
+        "id": 9874,
+        "value": "reciter_in",
+        "color": "green"
       }
     ],
     "event": [
@@ -1442,6 +1447,11 @@
         "id": 9875,
         "value": "active_participant",
         "color": "red"
+      },
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
       }
     ],
     "event": [
@@ -1472,6 +1482,354 @@
       {
         "id": 28,
         "value": "DUI"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "amp_id": "person_event__60",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      },
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      }
+    ],
+    "event": [
+      {
+        "id": 29,
+        "value": "Talk on T.S. Eliot in Vienna"
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "amp_id": "person_event__61",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9892,
+        "value": "listener",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 29,
+        "value": "Talk on T.S. Eliot in Vienna"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "amp_id": "person_event__62",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 30,
+        "value": "Talk on T.S. Eliot in Westminster Abbey"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "amp_id": "person_event__63",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9892,
+        "value": "listener",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "amp_id": "person_event__64",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "amp_id": "person_event__65",
+    "person": [
+      {
+        "id": 73,
+        "value": "Bondy, Francis"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "amp_id": "person_event__66",
+    "person": [
+      {
+        "id": 72,
+        "value": "McCarthy, Mary"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      },
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "amp_id": "person_event__67",
+    "person": [
+      {
+        "id": 74,
+        "value": "Etkin, Yefrim of Leningrad"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "amp_id": "person_event__68",
+    "person": [
+      {
+        "id": 182,
+        "value": "N/A_11, the square-headed commissar type from Moscow"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "amp_id": "person_event__69",
+    "person": [
+      {
+        "id": 75,
+        "value": "Reich-Ranicki, Marcel"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "amp_id": "person_event__70",
+    "person": [
+      {
+        "id": 91,
+        "value": "Toynbee, Philipp"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9872,
+        "value": "present_in",
+        "color": "light-red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "amp_id": "person_event__71",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9872,
+        "value": "present_in",
+        "color": "light-red"
+      }
+    ],
+    "event": [
+      {
+        "id": 31,
+        "value": "Literary congress on avant garde"
       }
     ]
   }
