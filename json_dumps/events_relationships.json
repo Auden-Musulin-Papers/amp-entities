@@ -1832,5 +1832,711 @@
         "value": "Literary congress on avant garde"
       }
     ]
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "amp_id": "person_event__72",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9870,
+        "value": "speaker_in",
+        "color": "dark-orange"
+      },
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 32,
+        "value": "Opening address  at Salzburg Festival"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "amp_id": "person_event__73",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      },
+      {
+        "id": 9892,
+        "value": "listener",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 32,
+        "value": "Opening address  at Salzburg Festival"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "amp_id": "person_event__74",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 33,
+        "value": "Interview in Sunday Telegraph (On drugs and drivel)"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "amp_id": "person_event__75",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 34,
+        "value": "Auden's accident in Kirchstetten"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "amp_id": "person_event__76",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 34,
+        "value": "Auden's accident in Kirchstetten"
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "amp_id": "person_event__77",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 34,
+        "value": "Auden's accident in Kirchstetten"
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "amp_id": "person_event__78",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 34,
+        "value": "Auden's accident in Kirchstetten"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "amp_id": "person_event__79",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 35,
+        "value": "Arrival in Kirchstetten"
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "amp_id": "person_event__80",
+    "person": [
+      {
+        "id": 107,
+        "value": "N/A_1, Hugie"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 36,
+        "value": "Imprisonment of Hugie"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "amp_id": "person_event__81",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 36,
+        "value": "Imprisonment of Hugie"
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "amp_id": "person_event__82",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 36,
+        "value": "Imprisonment of Hugie"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "amp_id": "person_event__83",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "amp_id": "person_event__84",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "amp_id": "person_event__85",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 2,
+        "value": "Death of Jean Boras"
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "amp_id": "person_event__86",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 37,
+        "value": "Auden's speech in Neulengbach"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "amp_id": "person_event__87",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 37,
+        "value": "Auden's speech in Neulengbach"
+      }
+    ]
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "amp_id": "person_event__88",
+    "person": [
+      {
+        "id": 112,
+        "value": "Maurer, Andreas"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 37,
+        "value": "Auden's speech in Neulengbach"
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "amp_id": "person_event__89",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 38,
+        "value": "Party at Chester's"
+      }
+    ]
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "amp_id": "person_event__90",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 38,
+        "value": "Party at Chester's"
+      }
+    ]
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "amp_id": "person_event__91",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 38,
+        "value": "Party at Chester's"
+      }
+    ]
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "amp_id": "person_event__92",
+    "person": [
+      {
+        "id": 175,
+        "value": "N/A_8,  person whose name we never mention"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 38,
+        "value": "Party at Chester's"
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "amp_id": "person_event__93",
+    "person": [
+      {
+        "id": 175,
+        "value": "N/A_8,  person whose name we never mention"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "amp_id": "person_event__94",
+    "person": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "amp_id": "person_event__95",
+    "person": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "amp_id": "person_event__96",
+    "person": [
+      {
+        "id": 97,
+        "value": "Seitz, Maria"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "amp_id": "person_event__97",
+    "person": [
+      {
+        "id": 87,
+        "value": "Opel, Adolf"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "amp_id": "person_event__98",
+    "person": [
+      {
+        "id": 22,
+        "value": "Enzinger, Josef"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "amp_id": "person_event__99",
+    "person": [
+      {
+        "id": 89,
+        "value": "Luke, David"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "amp_id": "person_event__100",
+    "person": [
+      {
+        "id": 90,
+        "value": "Orwell, Sonia"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 19,
+        "value": "Funeral of Auden"
+      }
+    ]
   }
 }
