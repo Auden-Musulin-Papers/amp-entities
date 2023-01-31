@@ -1481,7 +1481,7 @@
     "event": [
       {
         "id": 28,
-        "value": "DUI"
+        "value": "Auden's DUI"
       }
     ]
   },
@@ -2031,7 +2031,7 @@
     "event": [
       {
         "id": 35,
-        "value": "Arrival in Kirchstetten"
+        "value": "Auden's arrival in Kirchstetten"
       }
     ]
   },
@@ -2536,6 +2536,222 @@
       {
         "id": 19,
         "value": "Funeral of Auden"
+      }
+    ]
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "amp_id": "person_event__101",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "amp_id": "person_event__102",
+    "person": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "amp_id": "person_event__103",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "amp_id": "person_event__104",
+    "person": [
+      {
+        "id": 22,
+        "value": "Enzinger, Josef"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "amp_id": "person_event__105",
+    "person": [
+      {
+        "id": 32,
+        "value": "Strobl, Josefa"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "amp_id": "person_event__106",
+    "person": [
+      {
+        "id": 87,
+        "value": "Opel, Adolf"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "amp_id": "person_event__107",
+    "person": [
+      {
+        "id": 96,
+        "value": "Clark, Tekla"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "amp_id": "person_event__108",
+    "person": [
+      {
+        "id": 97,
+        "value": "Seitz, Maria"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "amp_id": "person_event__109",
+    "person": [
+      {
+        "id": 169,
+        "value": "Clark, Lisa"
+      }
+    ],
+    "has_Role": [
+      {
+        "id": 9875,
+        "value": "active_participant",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 40,
+        "value": "First meeting: Auden's body at his home"
       }
     ]
   }
