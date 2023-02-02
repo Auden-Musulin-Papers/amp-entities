@@ -135,7 +135,7 @@
     "event": [
       {
         "id": 2,
-        "value": "Death of Jean Boras"
+        "value": "Death of Yannis Boras"
       }
     ]
   },
@@ -2127,7 +2127,7 @@
     "event": [
       {
         "id": 2,
-        "value": "Death of Jean Boras"
+        "value": "Death of Yannis Boras"
       }
     ]
   },
@@ -2151,7 +2151,7 @@
     "event": [
       {
         "id": 2,
-        "value": "Death of Jean Boras"
+        "value": "Death of Yannis Boras"
       }
     ]
   },
@@ -2175,7 +2175,7 @@
     "event": [
       {
         "id": 2,
-        "value": "Death of Jean Boras"
+        "value": "Death of Yannis Boras"
       }
     ]
   },
@@ -2896,6 +2896,54 @@
       {
         "id": 42,
         "value": "Problems in Czechoslovakia"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "amp_id": "person_event__116",
+    "person": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "has_role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 2,
+        "value": "Death of Yannis Boras"
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "amp_id": "person_event__117",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_role": [
+      {
+        "id": 9876,
+        "value": "passive_participant",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 1,
+        "value": "Death of Eiermann"
       }
     ]
   }
