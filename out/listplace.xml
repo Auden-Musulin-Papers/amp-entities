@@ -1445,22 +1445,6 @@
                   <idno type="GEONAMES">https://sws.geonames.org/12503872/</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_102">
-                  <settlement type="P">
-                     <placeName>Innsbruck</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>47.26266, 11.39454</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2775220/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32060456</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_103">
                   <settlement type="A">
                      <placeName>Arcadia</placeName>
