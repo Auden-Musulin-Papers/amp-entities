@@ -650,7 +650,7 @@
                <person xml:id="amp_person_30">
                   <persName>
                      <forename>Plato</forename>
-                     <surname>N/A</surname>
+                     <surname/>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
@@ -1991,8 +1991,8 @@
                </person>
                <person xml:id="amp_person_109">
                   <persName>
-                     <forename>Father Lustkandl</forename>
-                     <surname>N/A_3</surname>
+                     <forename>N/A_2</forename>
+                     <surname>Lustkandl</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_110">
@@ -2657,7 +2657,7 @@
                </person>
                <person xml:id="amp_person_155">
                   <persName>
-                     <forename>Mr.</forename>
+                     <forename>N/A_4</forename>
                      <surname>Langers</surname>
                   </persName>
                </person>
@@ -2780,7 +2780,7 @@
                <person xml:id="amp_person_165">
                   <persName>
                      <forename>Herod</forename>
-                     <surname>N/A_6</surname>
+                     <surname/>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118549847</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q51672</idno>
@@ -2866,7 +2866,7 @@
                </person>
                <person xml:id="amp_person_171">
                   <persName>
-                     <forename>Mrs.</forename>
+                     <forename>N/A_5</forename>
                      <surname>Langers</surname>
                   </persName>
                </person>
@@ -2905,7 +2905,7 @@
                </person>
                <person xml:id="amp_person_176">
                   <persName>
-                     <forename>N/A</forename>
+                     <forename>N/A_3</forename>
                      <surname>Strobl</surname>
                   </persName>
                </person>
@@ -3040,6 +3040,12 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118641549</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q9200</idno>
+               </person>
+               <person xml:id="amp_person_191">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>
