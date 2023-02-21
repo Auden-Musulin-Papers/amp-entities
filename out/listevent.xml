@@ -279,16 +279,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_15">
-                  <label>Reading of Auden's poems</label>
-                  <desc>professional</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_2">Musulin, Stella</persName>
-                  </ab>
-               </event>
                <event xml:id="amp_event_id_16" when="1962-08-05">
-                  <label>Arrival of Christiane Zimmer</label>
+                  <label>Visit of Christiane Zimmer (1962)</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -305,7 +297,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_17" when="1962-10-20">
-                  <label>Dinner with the Priest</label>
+                  <label>Dinner with Father Lustkandl</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -721,8 +713,29 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_43">
-                  <label/>
+               <event xml:id="amp_event_id_43" when="1972-09-30">
+                  <label>Relocation from NY to Christ Church</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_44">
+                  <label>Visit of Christiane Zimmer (1968)</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_3">Zimmer, Christiane</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
                </event>
             </listEvent>
          </div>

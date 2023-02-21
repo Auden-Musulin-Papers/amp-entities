@@ -141,12 +141,12 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/127246711</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_45">Austria and the Austrians</bibl>
+                     <bibl n="lit_work_id_45">Austria: People and Landscape</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
                      <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_87">your piece (work)</bibl>
-                     <bibl n="lit_work_id_91">Freedom and necessity in the arts (Exp SM)</bibl>
+                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970))</bibl>
                      <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
                      <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</bibl>
@@ -2888,7 +2888,7 @@
                      </settlement>
                   </birth>
                   <listBibl>
-                     <bibl n="lit_work_id_89">Josef Weinheber (Exp Heckmann)</bibl>
+                     <bibl n="lit_work_id_89">Josef Weinheber   (Expression: German translation by Herbert Heckmann. Neue Rundschau  76:3(1965))</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_174">
@@ -3043,8 +3043,20 @@
                </person>
                <person xml:id="amp_person_191">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Natasha</forename>
+                     <surname>Spender</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_192">
+                  <persName>
+                     <forename>Marga</forename>
+                     <surname>Tacoli</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_193">
+                  <persName>
+                     <forename>Alexander</forename>
+                     <surname>Tacoli</surname>
                   </persName>
                </person>
             </listPerson>
