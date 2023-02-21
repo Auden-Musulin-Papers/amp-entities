@@ -65,11 +65,23 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_16">Eiermann, Emma</persName>
                   </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
                </event>
                <event xml:id="amp_event_id_2" when="1968-12-13">
                   <label>Death of Yannis Boras</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -84,22 +96,62 @@
                   <label>W.H Auden Gedichte/Poems</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_129">Benning, Achim</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.2064399676074, 16.367798975228684</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_4" when="2022-11-09">
                   <label>Black-Out</label>
                   <desc>historic</desc>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_28">New York City</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.71427, -74.00597</geo>
+                     </location>
+                  </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5" when="1966-01-01">
                   <label>1966 New York City transit strike</label>
                   <desc>historic</desc>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_28">New York City</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.71427, -74.00597</geo>
+                     </location>
+                  </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
                <event xml:id="amp_event_id_6">
                   <label>1967 T. S. Eliot Memorial Lectures</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_39">Canterbury</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.27904, 1.07992</geo>
+                     </location>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_232">Eliot College</placeName>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                </event>
@@ -107,6 +159,17 @@
                   <label>Royal Visit</label>
                   <desc>historic</desc>
                   <ab type="participants">
+                     <persName key="amp_person_138">Elizabeth II., Great Britain, Queen</persName>
+                     <persName key="amp_person_139">Elizabeth, Great Britain, Queen Mother</persName>
+                     <persName key="amp_person_140">Anne, Great Britain, Princess</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
@@ -119,6 +182,16 @@
                   <label>The Martyr as Dramatic Hero</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_15">Ramsey, Michael</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_39">Canterbury</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.27904, 1.07992</geo>
+                     </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                </event>
@@ -126,202 +199,543 @@
                   <label>Interview of Strobls</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_32">Strobl, Josefa</persName>
+                     <persName key="amp_person_176">Strobl, N/A_3</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_11" when="1968-10-12">
                   <label>Left American driving license</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_12" when="1968-10-15">
                   <label>Hosting of Czech couple</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_155">Langers, N/A_4</persName>
+                     <persName key="amp_person_171">Langers, N/A_5</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_13" when="1968-12-13">
                   <label>Car accident of Yannis Boras</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_14" when="1970-06-13">
                   <label>Wedding near Krems</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
                   </ab>
-               </event>
-               <event xml:id="amp_event_id_15">
-                  <label>Reading of Auden's poems</label>
-                  <desc>professional</desc>
-                  <ab type="participants">
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_62">Krems</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.46582, 15.52093</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_16" when="1962-08-05">
-                  <label>Arrival of Christiane Zimmer</label>
+                  <label>Visit of Christiane Zimmer (1962)</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_3">Zimmer, Christiane</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_17" when="1962-10-20">
-                  <label>Dinner with the Priest</label>
+                  <label>Dinner with Father Lustkandl</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_109">Lustkandl, N/A_2</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_18" when="1973-09-29">
                   <label>Death of Auden</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20378854425725, 16.37118272746974</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_19" when="1973-10-04">
                   <label>Funeral of Auden</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_8">Spender, Stephen</persName>
+                     <persName key="amp_person_22">Enzinger, Josef</persName>
+                     <persName key="amp_person_87">Opel, Adolf</persName>
+                     <persName key="amp_person_88">Auden, John</persName>
+                     <persName key="amp_person_89">Luke, David</persName>
+                     <persName key="amp_person_90">Orwell, Sonia</persName>
+                     <persName key="amp_person_96">Clark, Tekla</persName>
+                     <persName key="amp_person_97">Seitz, Maria</persName>
+                     <persName key="amp_person_156">Duncan, Bruce</persName>
+                     <persName key="amp_person_169">Clark, Lisa</persName>
+                     <persName key="amp_person_175">N/A_8,  person whose name we never mention</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_20">
                   <label>Talk in Pen Club</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_21" when="1984-10-11">
                   <label>Auden Exhibition</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_99">O'Sullivan, Michael</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_223">Kunstlerhaus</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20120839568255, 16.371684430683988</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_22">
                   <label>Meeting with Friedrich Heer</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_54">Heer, Friedrich</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_23" when="1977-05-05">
                   <label>Lecture about W. H. Auden und die Österreicher" [W. H. Auden and the Austrians]</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_137">Kraus, Wolfgang</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.2064399676074, 16.367798975228684</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_24" when="1958-01-01">
                   <label>Divorce of Stella Musulin</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_93">Musulin, Elsa von Isbary</persName>
+                     <persName key="amp_person_94">Musulin, Marko</persName>
+                     <persName key="amp_person_167">Musulin, Janko</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_25">
                   <label>Reading of Hier und Jetzt</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.2064399676074, 16.367798975228684</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_26" when="1964-10-15">
                   <label>Attendance in PEN Conference</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_86">Budapest</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.49835, 19.04045</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_27" when="1964-10-21">
                   <label>Guest Professor at Ford Foundation</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_17">Berlin</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>52.52437, 13.41053</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_28" when="1964-11-21">
                   <label>Auden's DUI</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_17">Berlin</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>52.52437, 13.41053</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_29" when="1965-05-24">
                   <label>Talk on T.S. Eliot in Vienna</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_229">Museum of Natural History</placeName>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_30">
                   <label>Talk on T.S. Eliot in Westminster Abbey</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_87">Westminster Abbey</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.49937, -0.12846</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_31" when="1967-04-04">
                   <label>Literary congress on avant garde</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_72">McCarthy, Mary</persName>
+                     <persName key="amp_person_73">Bondy, Francis</persName>
+                     <persName key="amp_person_74">Etkin, Yefrim of Leningrad</persName>
+                     <persName key="amp_person_75">Reich-Ranicki, Marcel</persName>
+                     <persName key="amp_person_91">Toynbee, Philipp</persName>
+                     <persName key="amp_person_182">N/A_11, the square-headed commissar type from Moscow</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.2064399676074, 16.367798975228684</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_32" when="1967-08-01">
                   <label>Opening address  at Salzburg Festival</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_37">Salzburg</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.79941, 13.04399</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_33" when="1967-10-29">
                   <label>Interview in Sunday Telegraph (On drugs and drivel)</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_34" when="1968-04-09">
                   <label>Auden's car accident in Kirchstetten</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_35" when="1968-04-09">
                   <label>Auden's arrival in Kirchstetten</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_36" when="1968-12-25">
                   <label>Imprisonment of Hugie</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_107">N/A_1, Hugie</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_37">
                   <label>Auden's speech in Neulengbach</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_112">Maurer, Andreas</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_47">Neulengbach</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.19979820714975, 15.908621293769759</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_38">
                   <label>Party at Chester's</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_175">N/A_8,  person whose name we never mention</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_71">Esslarngasse</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.19498822750462, 16.393747926634855</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_39" when="1973-09-29">
                   <label>Auden's last planned reading at the Austrian Society for Literature</label>
                   <desc>professional</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_1">Vienna</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20849, 16.37208</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_40" when="1973-09-29">
                   <label>Mourn  Auden's body/Funeral process</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_22">Enzinger, Josef</persName>
+                     <persName key="amp_person_32">Strobl, Josefa</persName>
+                     <persName key="amp_person_87">Opel, Adolf</persName>
+                     <persName key="amp_person_96">Clark, Tekla</persName>
+                     <persName key="amp_person_97">Seitz, Maria</persName>
+                     <persName key="amp_person_169">Clark, Lisa</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_41">
                   <label>First encounter of Auden and Kallman</label>
                   <desc>personal</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_42" when="1968-01-01">
                   <label>Problems in Czechoslovakia</label>
                   <desc>historic</desc>
                   <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_155">Langers, N/A_4</persName>
+                     <persName key="amp_person_171">Langers, N/A_5</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_100">Czechoslovakia</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>50.08292, 14.46672</geo>
+                     </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_43">
-                  <label/>
+               <event xml:id="amp_event_id_43" when="1972-09-30">
+                  <label>Relocation from NY to Christ Church</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_44">
+                  <label>Visit of Christiane Zimmer (1968)</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_3">Zimmer, Christiane</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
                </event>
             </listEvent>
          </div>

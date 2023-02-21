@@ -266,7 +266,7 @@
     "person": [
       {
         "id": 176,
-        "value": "Strobl, N/A"
+        "value": "Strobl, N/A_3"
       }
     ],
     "has_role": [
@@ -410,7 +410,7 @@
     "person": [
       {
         "id": 171,
-        "value": "Langers, Mrs."
+        "value": "Langers, N/A_5"
       }
     ],
     "has_role": [
@@ -434,7 +434,7 @@
     "person": [
       {
         "id": 155,
-        "value": "Langers, Mr."
+        "value": "Langers, N/A_4"
       }
     ],
     "has_role": [
@@ -771,12 +771,7 @@
         "color": "green"
       }
     ],
-    "event": [
-      {
-        "id": 15,
-        "value": "Reading of Auden's poems"
-      }
-    ]
+    "event": []
   },
   "32": {
     "id": 32,
@@ -800,12 +795,7 @@
         "color": "light-red"
       }
     ],
-    "event": [
-      {
-        "id": 15,
-        "value": "Reading of Auden's poems"
-      }
-    ]
+    "event": []
   },
   "33": {
     "id": 33,
@@ -827,7 +817,7 @@
     "event": [
       {
         "id": 16,
-        "value": "Arrival of Christiane Zimmer"
+        "value": "Visit of Christiane Zimmer (1962)"
       }
     ]
   },
@@ -856,7 +846,7 @@
     "event": [
       {
         "id": 16,
-        "value": "Arrival of Christiane Zimmer"
+        "value": "Visit of Christiane Zimmer (1962)"
       }
     ]
   },
@@ -885,7 +875,7 @@
     "event": [
       {
         "id": 16,
-        "value": "Arrival of Christiane Zimmer"
+        "value": "Visit of Christiane Zimmer (1962)"
       }
     ]
   },
@@ -909,7 +899,7 @@
     "event": [
       {
         "id": 17,
-        "value": "Dinner with the Priest"
+        "value": "Dinner with Father Lustkandl"
       }
     ]
   },
@@ -933,7 +923,7 @@
     "event": [
       {
         "id": 17,
-        "value": "Dinner with the Priest"
+        "value": "Dinner with Father Lustkandl"
       }
     ]
   },
@@ -944,7 +934,7 @@
     "person": [
       {
         "id": 109,
-        "value": "N/A_3, Father Lustkandl"
+        "value": "Lustkandl, N/A_2"
       }
     ],
     "has_role": [
@@ -957,7 +947,7 @@
     "event": [
       {
         "id": 17,
-        "value": "Dinner with the Priest"
+        "value": "Dinner with Father Lustkandl"
       }
     ]
   },
@@ -2858,7 +2848,7 @@
     "person": [
       {
         "id": 171,
-        "value": "Langers, Mrs."
+        "value": "Langers, N/A_5"
       }
     ],
     "has_role": [
@@ -2882,7 +2872,7 @@
     "person": [
       {
         "id": 155,
-        "value": "Langers, Mr."
+        "value": "Langers, N/A_4"
       }
     ],
     "has_role": [
