@@ -219,8 +219,15 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_15">
-                  <orgName/>
-                  <idno type="WIKIDATA"/>
+                  <orgName>Life magazine</orgName>
+                  <desc>Was founded in year 1883.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">U.S.</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463198</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_16">
@@ -539,6 +546,28 @@
                   </location>
                   <location type="coords">
                      <geo>48.2, 15.63333</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_43">
+                  <orgName>Ministry of Education</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.33333, 13.33333</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_44">
+                  <orgName>Provincial council of Lower Austria</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.33333, 15.75</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>

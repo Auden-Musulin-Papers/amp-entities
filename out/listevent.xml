@@ -75,7 +75,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_2" when="1968-12-13">
-                  <label>Death of Yannis Boras</label>
+                  <label>Death of Yannis Boras in a car accident</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -234,8 +234,8 @@
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_155">Langers, N/A_4</persName>
-                     <persName key="amp_person_171">Langers, N/A_5</persName>
+                     <persName key="amp_person_155">Langer, N/A_4</persName>
+                     <persName key="amp_person_171">Langer, N/A_5</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -243,23 +243,6 @@
                      </location>
                      <location type="coords">
                         <geo>48.181531884216675, 15.811512574434994</geo>
-                     </location>
-                  </ab>
-               </event>
-               <event xml:id="amp_event_id_13" when="1968-12-13">
-                  <label>Car accident of Yannis Boras</label>
-                  <desc>personal</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_4">Kallman, Chester</persName>
-                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
                </event>
@@ -342,7 +325,7 @@
                      <persName key="amp_person_88">Auden, John</persName>
                      <persName key="amp_person_89">Luke, David</persName>
                      <persName key="amp_person_90">Orwell, Sonia</persName>
-                     <persName key="amp_person_96">Clark, Tekla</persName>
+                     <persName key="amp_person_96">Clark, Thekla</persName>
                      <persName key="amp_person_97">Seitz, Maria</persName>
                      <persName key="amp_person_156">Duncan, Bruce</persName>
                      <persName key="amp_person_169">Clark, Lisa</persName>
@@ -373,7 +356,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_21" when="1984-10-11">
-                  <label>Auden Exhibition</label>
+                  <label>W. H. Auden 1907-1973</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -614,12 +597,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_37">
-                  <label>Auden's speech in Neulengbach</label>
+               <event xml:id="amp_event_id_37" when="1970-06-14">
+                  <label>Lyrik 70 poetry convention</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_112">Maurer, Andreas</persName>
                   </ab>
                   <ab type="location">
@@ -649,23 +631,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_39" when="1973-09-29">
-                  <label>Auden's last planned reading at the Austrian Society for Literature</label>
-                  <desc>professional</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
-               </event>
                <event xml:id="amp_event_id_40" when="1973-09-29">
-                  <label>Mourn  Auden's body/Funeral process</label>
+                  <label>Preparation of Auden's funeral</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -674,7 +641,7 @@
                      <persName key="amp_person_22">Enzinger, Josef</persName>
                      <persName key="amp_person_32">Strobl, Josefa</persName>
                      <persName key="amp_person_87">Opel, Adolf</persName>
-                     <persName key="amp_person_96">Clark, Tekla</persName>
+                     <persName key="amp_person_96">Clark, Thekla</persName>
                      <persName key="amp_person_97">Seitz, Maria</persName>
                      <persName key="amp_person_169">Clark, Lisa</persName>
                   </ab>
@@ -687,22 +654,14 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_41">
-                  <label>First encounter of Auden and Kallman</label>
-                  <desc>personal</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_4">Kallman, Chester</persName>
-                  </ab>
-               </event>
                <event xml:id="amp_event_id_42" when="1968-01-01">
-                  <label>Problems in Czechoslovakia</label>
+                  <label>Prague Spring</label>
                   <desc>historic</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_155">Langers, N/A_4</persName>
-                     <persName key="amp_person_171">Langers, N/A_5</persName>
+                     <persName key="amp_person_155">Langer, N/A_4</persName>
+                     <persName key="amp_person_171">Langer, N/A_5</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -712,6 +671,7 @@
                         <geo>50.08292, 14.46672</geo>
                      </location>
                   </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
                <event xml:id="amp_event_id_43" when="1972-09-30">
                   <label>Relocation from NY to Christ Church</label>
@@ -734,6 +694,36 @@
                      </location>
                      <location type="coords">
                         <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_45">
+                  <label>Auden's legal dispute with Austrian tax authorities</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_46" when="1966-10-25">
+                  <label>Austrian State Prize for European Literature</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_1">Vienna</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20849, 16.37208</geo>
                      </location>
                   </ab>
                </event>

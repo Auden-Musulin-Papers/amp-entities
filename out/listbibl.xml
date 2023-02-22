@@ -423,7 +423,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_39">
-               <title>W.H Auden Biography</title>
+               <title>W.H. Auden: A Biography</title>
                <author ref="#amp_person_100">
                   <persName>Carpenter, Humphrey</persName>
                </author>
@@ -771,7 +771,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_81">
-               <title>Declaration</title>
+               <title>Statement (to the Austrian tax authorities) Exp</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -785,12 +785,6 @@
                </author>
                <date when="1611">1611</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_83">
-               <title>Life magazine</title>
-               <date when="1883">1883</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463198</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_84">
@@ -961,7 +955,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_103">
-               <title>Tax declaration (German Translation SM)</title>
+               <title>Statement (to the Austrian tax authorities) (German Translation Hilde Spiel) Exp</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -969,7 +963,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_104">
-               <title>Tax declaration (English re-translation SM)</title>
+               <title>Statement (to the Austrian tax authorities) (English re-translation SM)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -977,7 +971,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_105">
-               <title>Tax Declaration (Work)</title>
+               <title>Statement (to the Austrian tax authorities)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -985,7 +979,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_106">
-               <title>Tax Declaration. 1 (English Translation passage SM)</title>
+               <title>Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -998,6 +992,15 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1967">1967</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_108">
+               <title>Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <date when="1976">1976</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>

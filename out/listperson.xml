@@ -109,7 +109,7 @@
                      <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
-                     <bibl n="lit_work_id_81">Declaration</bibl>
+                     <bibl n="lit_work_id_81">Statement (to the Austrian tax authorities) Exp</bibl>
                      <bibl n="lit_work_id_85">Freedom and necessity in the arts</bibl>
                      <bibl n="lit_work_id_88">August 1968 (exp)</bibl>
                      <bibl n="lit_work_id_90">Freedom and necessity in the arts (Exp WH Auden)</bibl>
@@ -118,7 +118,7 @@
                      <bibl n="lit_work_id_99">W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For friends only (for John and Teckla Clark)</bibl>
-                     <bibl n="lit_work_id_105">Tax Declaration (Work)</bibl>
+                     <bibl n="lit_work_id_105">Statement (to the Austrian tax authorities)</bibl>
                      <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967) (Work)</bibl>
                   </listBibl>
                </person>
@@ -150,9 +150,10 @@
                      <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
                      <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</bibl>
-                     <bibl n="lit_work_id_103">Tax declaration (German Translation SM)</bibl>
-                     <bibl n="lit_work_id_104">Tax declaration (English re-translation SM)</bibl>
-                     <bibl n="lit_work_id_106">Tax Declaration. 1 (English Translation passage SM)</bibl>
+                     <bibl n="lit_work_id_103">Statement (to the Austrian tax authorities) (German Translation Hilde Spiel) Exp</bibl>
+                     <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (English re-translation SM)</bibl>
+                     <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</bibl>
+                     <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -649,8 +650,8 @@
                </person>
                <person xml:id="amp_person_30">
                   <persName>
-                     <forename>Plato</forename>
-                     <surname/>
+                     <forename/>
+                     <surname>Plato</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
@@ -1849,7 +1850,7 @@
                </person>
                <person xml:id="amp_person_96">
                   <persName>
-                     <forename>Tekla</forename>
+                     <forename>Thekla</forename>
                      <surname>Clark</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62566483</idno>
@@ -1918,7 +1919,7 @@
                   <idno type="GND">https://d-nb.info/gnd/123681022</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q92775</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_39">W.H Auden Biography</bibl>
+                     <bibl n="lit_work_id_39">W.H. Auden: A Biography</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_102">
@@ -2604,7 +2605,7 @@
                <person xml:id="amp_person_149">
                   <persName>
                      <forename>Dorian</forename>
-                     <surname>Grey</surname>
+                     <surname>Gray</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_150">
@@ -2658,7 +2659,7 @@
                <person xml:id="amp_person_155">
                   <persName>
                      <forename>N/A_4</forename>
-                     <surname>Langers</surname>
+                     <surname>Langer</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_156">
@@ -2867,7 +2868,7 @@
                <person xml:id="amp_person_171">
                   <persName>
                      <forename>N/A_5</forename>
-                     <surname>Langers</surname>
+                     <surname>Langer</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_172">
@@ -3011,26 +3012,20 @@
                </person>
                <person xml:id="amp_person_186">
                   <persName>
-                     <forename>a young Austrian man whose studies were financed in TU by Auden</forename>
-                     <surname>N/A_13</surname>
-                  </persName>
-               </person>
-               <person xml:id="amp_person_187">
-                  <persName>
-                     <forename>man who had been sitting beside me</forename>
-                     <surname>N/A_14</surname>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
                <person xml:id="amp_person_188">
                   <persName>
-                     <forename>a young guy whose further studies were financed by Auden</forename>
-                     <surname>N/A_15</surname>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
                <person xml:id="amp_person_189">
                   <persName>
-                     <forename>the brother of the young guy whose further studies were also financed by Auden</forename>
-                     <surname>N/A_16</surname>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
                <person xml:id="amp_person_190">
@@ -3070,6 +3065,12 @@
                   <persName>
                      <forename>Alexander</forename>
                      <surname>Tacoli</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_194">
+                  <persName>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
             </listPerson>
