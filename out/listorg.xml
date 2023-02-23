@@ -551,7 +551,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_43">
-                  <orgName>Ministry of Education</orgName>
+                  <orgName>Federal Ministry of Education and the Arts (Bundesministerium für Unterricht und Kunst)</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
@@ -562,7 +562,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_44">
-                  <orgName>Provincial council of Lower Austria</orgName>
+                  <orgName>Office of the Federal Government of Lower Austria (Amt der niederösterreichischen Landesregierung)</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
@@ -570,6 +570,16 @@
                      <geo>48.33333, 15.75</geo>
                   </location>
                   <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_45">
+                  <orgName>Episcopal Church (United States)</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_46">
+                  <orgName>Roman Catholic Church</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9592</idno>
                   <note/>
                </org>
             </listOrg>

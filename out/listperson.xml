@@ -150,7 +150,6 @@
                      <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
                      <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</bibl>
-                     <bibl n="lit_work_id_103">Statement (to the Austrian tax authorities) (German Translation Hilde Spiel) Exp</bibl>
                      <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (English re-translation SM)</bibl>
                      <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</bibl>
                      <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
@@ -1563,6 +1562,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118751980</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_103">Statement (to the Austrian tax authorities) (German Translation Hilde Spiel) Exp</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_79">
                   <persName>
@@ -1943,6 +1945,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9554</idno>
                   <listBibl>
                      <bibl n="lit_work_id_12">New Testament</bibl>
+                     <bibl n="lit_work_id_109">Luther Bible</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_103">
@@ -2862,7 +2865,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118639889</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q79972</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_82">Authorised Version</bibl>
+                     <bibl n="lit_work_id_82">King James Version</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_171">
