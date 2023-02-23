@@ -118,8 +118,11 @@
                      <bibl n="lit_work_id_99">W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For friends only (for John and Teckla Clark)</bibl>
-                     <bibl n="lit_work_id_105">Statement (to the Austrian tax authorities)</bibl>
                      <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967) (Work)</bibl>
+                     <bibl n="lit_work_id_112">Review of London Labour and the London Poor</bibl>
+                     <bibl n="lit_work_id_116">Secondary Worlds</bibl>
+                     <bibl n="lit_work_id_121">Night Mail</bibl>
+                     <bibl n="lit_work_id_122">Coal Face</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -153,6 +156,7 @@
                      <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (English re-translation SM)</bibl>
                      <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</bibl>
                      <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
+                     <bibl n="lit_work_id_115">Die zwei Welten des W. H. Auden. Auf den Spuren des englischen Poeten in Kirchstetten</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -1880,6 +1884,7 @@
                      <bibl n="lit_work_id_28">W.H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_49">Early Auden</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
+                     <bibl n="lit_work_id_117">The untitled collection edited by Ed Mendelson on Auden's life</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_99">
@@ -2148,6 +2153,9 @@
                      <forename>Peter</forename>
                      <surname>Müller</surname>
                   </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_114">The untitled volume edited by Peter Müller on Auden's life in Austria</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_120">
                   <persName>
@@ -2432,6 +2440,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118515527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_123">W.H.Auden-Settings</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_137">
                   <persName>
@@ -2677,7 +2688,7 @@
                </person>
                <person xml:id="amp_person_157">
                   <persName>
-                     <forename>Eliza</forename>
+                     <forename>Elizabeth</forename>
                      <surname>Mayer</surname>
                   </persName>
                   <death>
@@ -2707,6 +2718,9 @@
                      </settlement>
                   </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q408758</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_119">The Double Man, a portrait of W. H. Auden on Radio 3</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_159">
                   <persName>
@@ -3013,24 +3027,6 @@
                      <surname>N/A_12</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_186">
-                  <persName>
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
-               <person xml:id="amp_person_188">
-                  <persName>
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
-               <person xml:id="amp_person_189">
-                  <persName>
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="amp_person_190">
                   <persName>
                      <forename>the Apostle/Saint</forename>
@@ -3072,9 +3068,33 @@
                </person>
                <person xml:id="amp_person_194">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Paul</forename>
+                     <surname>Bachmann</surname>
                   </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_105">Statement (to the Austrian tax authorities Paul Bachmann)</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_195">
+                  <persName>
+                     <forename>Henry</forename>
+                     <surname>Mayhew</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1812-11-25">1812-11-25</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1887-07-25">1887-07-25</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+                  <listBibl>
+                     <bibl n="lit_work_id_111">London Labour and the London Poor</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

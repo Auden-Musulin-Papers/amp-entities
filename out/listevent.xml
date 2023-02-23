@@ -727,6 +727,24 @@
                      </location>
                   </ab>
                </event>
+               <event xml:id="amp_event_id_47">
+                  <label>Vietnam war</label>
+                  <desc>historic</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_236">Vietnam</placeName>
+                     </location>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
+               </event>
+               <event xml:id="amp_event_id_48">
+                  <label>Pueblo incident</label>
+                  <desc>historic</desc>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
+               </event>
             </listEvent>
          </div>
       </body>

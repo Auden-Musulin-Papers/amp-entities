@@ -171,7 +171,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q306362</idno>
                </org>
                <org xml:id="amp_organization_11">
-                  <orgName>Creditanstalt-Bankverein</orgName>
+                  <orgName>Creditanstalt</orgName>
                   <desc>Was founded in year 1855.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
@@ -580,6 +580,11 @@
                <org xml:id="amp_organization_46">
                   <orgName>Roman Catholic Church</orgName>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9592</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_47">
+                  <orgName>English PEN</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18353598</idno>
                   <note/>
                </org>
             </listOrg>

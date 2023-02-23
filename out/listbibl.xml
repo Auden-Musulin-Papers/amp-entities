@@ -511,7 +511,7 @@
                <author ref="#amp_person_98">
                   <persName>Mendelson, Edward</persName>
                </author>
-               <date when="1985">1985</date>
+               <date when="1981">1981</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -680,7 +680,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_157">
-                  <persName>Mayer, Eliza</persName>
+                  <persName>Mayer, Elizabeth</persName>
                </author>
                <date when="1982">1982</date>
                <idno type="WIKIDATA"/>
@@ -853,7 +853,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_157">
-                  <persName>Mayer, Eliza</persName>
+                  <persName>Mayer, Elizabeth</persName>
                </author>
                <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
@@ -965,9 +965,9 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_105">
-               <title>Statement (to the Austrian tax authorities)</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
+               <title>Statement (to the Austrian tax authorities Paul Bachmann)</title>
+               <author ref="#amp_person_194">
+                  <persName>Bachmann, Paul</persName>
                </author>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -1010,6 +1010,108 @@
             <bibl xml:id="lit_work_id_110">
                <title>Corinthians II</title>
                <biblScope type="volume">2</biblScope>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_111">
+               <title>London Labour and the London Poor</title>
+               <author ref="#amp_person_195">
+                  <persName>Mayhew, Henry</persName>
+               </author>
+               <biblScope type="volume">3</biblScope>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_112">
+               <title>Review of London Labour and the London Poor</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_113">
+               <title>New Testament</title>
+               <idno type="WIKIDATA"/>
+            </bibl>
+            <bibl xml:id="lit_work_id_114">
+               <title>The untitled volume edited by Peter Müller on Auden's life in Austria</title>
+               <author ref="#amp_person_119">
+                  <persName>Müller, Peter</persName>
+               </author>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_115">
+               <title>Die zwei Welten des W. H. Auden. Auf den Spuren des englischen Poeten in Kirchstetten</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <date when="1977">1977</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_116">
+               <title>Secondary Worlds</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1968">1968</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_117">
+               <title>The untitled collection edited by Ed Mendelson on Auden's life</title>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_118">
+               <title>The Auden Landscape</title>
+               <date when="1982">1982</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_119">
+               <title>The Double Man, a portrait of W. H. Auden on Radio 3</title>
+               <author ref="#amp_person_158">
+                  <persName>Robinson, Robert</persName>
+               </author>
+               <date when="1981">1981</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_120">
+               <title>The Lively Arts</title>
+               <date when="1977">1977</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_121">
+               <title>Night Mail</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1936">1936</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_122">
+               <title>Coal Face</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1935">1935</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_123">
+               <title>W.H.Auden-Settings</title>
+               <author ref="#amp_person_136">
+                  <persName>Britten, Benjamin</persName>
+               </author>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>

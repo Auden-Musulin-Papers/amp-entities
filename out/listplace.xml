@@ -625,11 +625,12 @@
                   <idno type="GND">https://d-nb.info/gnd/4009351-7</idno>
                </place>
                <place xml:id="amp_place_id_41">
-                  <placeName>Pennine Moors</placeName>
+                  <placeName>West Pennine Moors</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">UK</placeName>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504039/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q7986192</idno>
                </place>
                <place xml:id="amp_place_id_42">
                   <placeName>Hotel König von Ungarn</placeName>
@@ -2480,7 +2481,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_171">
-                  <placeName>39 Claremont Ave</placeName>
+                  <placeName>39 Claremont Ave, apt 32</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -3453,6 +3454,17 @@
                   <idno type="GEONAMES">https://sws.geonames.org/299817/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q134287</idno>
                   <idno type="GND">https://d-nb.info/gnd/4059084-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_247">
+                  <placeName>East Village</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/5116093/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1043326</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_248">
+                  <placeName>39 Claremont Ave, apt 31</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/12503863/</idno>
                   <note/>
                </place>
             </listPlace>
