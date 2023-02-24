@@ -3467,6 +3467,16 @@
                   <idno type="GEONAMES">https://sws.geonames.org/12503863/</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_249">
+                  <placeName>Ireland</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">UK</placeName>
+                  </location>
+                  <idno type="GEONAMES">geonames.org/2963597/ireland.html</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q22890</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4027667-3</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
