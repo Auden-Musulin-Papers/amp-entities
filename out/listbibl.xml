@@ -468,7 +468,7 @@
                <author ref="#amp_person_34">
                   <persName>Prosch, Peter</persName>
                </author>
-               <date when="1964">1964</date>
+               <date when="1789">1789</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -600,7 +600,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_61">
-               <title>Josef Weinheber (Exp WH Auden, complete)</title>
+               <title>Joseph Weinheber (expression: version W. H. Auden, 1965-03-15)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -800,7 +800,7 @@
                <title>Morgen</title>
                <date when="1977">1977</date>
                <biblScope type="volume">1</biblScope>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_87">
@@ -1108,12 +1108,16 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_123">
-               <title>W.H.Auden-Settings</title>
+               <title>Auden: poems, Moore: lithographs.</title>
                <author ref="#amp_person_136">
                   <persName>Britten, Benjamin</persName>
                </author>
                <idno type="WIKIDATA"/>
                <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_124">
+               <title/>
+               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>

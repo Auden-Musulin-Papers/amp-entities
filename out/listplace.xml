@@ -3240,7 +3240,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_223">
-                  <placeName>Kunstlerhaus</placeName>
+                  <placeName>Künstlerhaus</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -3475,6 +3475,24 @@
                   <idno type="GEONAMES">geonames.org/2963597/ireland.html</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q22890</idno>
                   <idno type="GND">https://d-nb.info/gnd/4027667-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_250">
+                  <placeName>Rheydt</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2847585/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q702411</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4101095-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_251">
+                  <placeName>Perschling river</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2769061/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2071869</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_252">
+                  <placeName>Sichelbach river</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514480/</idno>
                   <note/>
                </place>
             </listPlace>

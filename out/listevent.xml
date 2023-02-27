@@ -174,7 +174,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
                <event xml:id="amp_event_id_8">
-                  <label>Biedermayer period</label>
+                  <label>Biedermeier period</label>
                   <desc>historic</desc>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
                </event>
@@ -365,7 +365,7 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_223">Kunstlerhaus</placeName>
+                        <placeName key="amp_place_id_223">Künstlerhaus</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.20120839568255, 16.371684430683988</geo>
@@ -744,6 +744,37 @@
                   <label>Pueblo incident</label>
                   <desc>historic</desc>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
+               </event>
+               <event xml:id="amp_event_id_49" when="1965-10-30">
+                  <label>Commemorative event Weinheber’s death (1965)</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_5">Weinheber, Josef</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_50" when="1945-04-08">
+                  <label>Death of Josef Weinheber</label>
+                  <desc>historic</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_5">Weinheber, Josef</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.22902, 14.11039</geo>
+                     </location>
+                  </ab>
                </event>
             </listEvent>
          </div>

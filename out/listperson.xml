@@ -103,7 +103,7 @@
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
                      <bibl n="lit_work_id_58">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967)</bibl>
                      <bibl n="lit_work_id_60">Josef Weinheber (Work)</bibl>
-                     <bibl n="lit_work_id_61">Josef Weinheber (Exp WH Auden, complete)</bibl>
+                     <bibl n="lit_work_id_61">Joseph Weinheber (expression: version W. H. Auden, 1965-03-15)</bibl>
                      <bibl n="lit_work_id_62">Josef Weinheber</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
                      <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
@@ -2441,7 +2441,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118515527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_123">W.H.Auden-Settings</bibl>
+                     <bibl n="lit_work_id_123">Auden: poems, Moore: lithographs.</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_137">
@@ -2727,6 +2727,7 @@
                      <forename>Maureen</forename>
                      <surname>Walters</surname>
                   </persName>
+                  <idno type="WIKIDATA">https://duotrope.com/listing/24582/maureen-walters</idno>
                </person>
                <person xml:id="amp_person_160">
                   <persName>
@@ -3095,6 +3096,25 @@
                   <listBibl>
                      <bibl n="lit_work_id_111">London Labour and the London Poor</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="amp_person_196">
+                  <persName>
+                     <forename>Joseph</forename>
+                     <surname>Goebbels</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1897-10-29">1897-10-29</date>
+                     <settlement key="amp_place_id_250">
+                        <placeName>Rheydt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1945-05-01">1945-05-01</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q41749</idno>
                </person>
             </listPerson>
          </div>
