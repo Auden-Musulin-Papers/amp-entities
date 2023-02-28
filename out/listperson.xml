@@ -102,18 +102,18 @@
                      <bibl n="lit_work_id_55">For the Time Being</bibl>
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
                      <bibl n="lit_work_id_58">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967)</bibl>
-                     <bibl n="lit_work_id_60">Josef Weinheber (Work)</bibl>
+                     <bibl n="lit_work_id_60">Joseph Weinheber (Work)</bibl>
                      <bibl n="lit_work_id_61">Joseph Weinheber (expression: version W. H. Auden, 1965-03-15)</bibl>
-                     <bibl n="lit_work_id_62">Josef Weinheber</bibl>
+                     <bibl n="lit_work_id_62">Joseph Weinheber (expression: version W. H. Auden, 1965-04-28)</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
                      <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
                      <bibl n="lit_work_id_81">Statement (to the Austrian tax authorities) Exp</bibl>
-                     <bibl n="lit_work_id_85">Freedom and necessity in the arts</bibl>
-                     <bibl n="lit_work_id_88">August 1968 (exp)</bibl>
-                     <bibl n="lit_work_id_90">Freedom and necessity in the arts (Exp WH Auden)</bibl>
-                     <bibl n="lit_work_id_92">Josef Weinheber (Exp WH Auden, Mayer prose)</bibl>
+                     <bibl n="lit_work_id_85">Freedom and Necessity in the Arts</bibl>
+                     <bibl n="lit_work_id_88">August 1968</bibl>
+                     <bibl n="lit_work_id_90">Freedom and Necessity in the Arts (Expression: W. H. Auden, 1970)</bibl>
+                     <bibl n="lit_work_id_92">Joseph Weinheber (expression: German prose translation by W. H. Auden and Elizabeth Mayer 1965)</bibl>
                      <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
                      <bibl n="lit_work_id_99">W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
@@ -149,8 +149,8 @@
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
                      <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_87">your piece (work)</bibl>
-                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970))</bibl>
-                     <bibl n="lit_work_id_93">Josef Weinheber (Exp SM prose)</bibl>
+                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970)</bibl>
+                     <bibl n="lit_work_id_93">Josef Weinheber (expression: German prose translation by Stella Musulin 1965)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
                      <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</bibl>
                      <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (English re-translation SM)</bibl>
@@ -2000,7 +2000,7 @@
                </person>
                <person xml:id="amp_person_109">
                   <persName>
-                     <forename>N/A_2</forename>
+                     <forename>Franz Josef</forename>
                      <surname>Lustkandl</surname>
                   </persName>
                </person>
@@ -2697,7 +2697,7 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5363177</idno>
                   <listBibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
-                     <bibl n="lit_work_id_92">Josef Weinheber (Exp WH Auden, Mayer prose)</bibl>
+                     <bibl n="lit_work_id_92">Joseph Weinheber (expression: German prose translation by W. H. Auden and Elizabeth Mayer 1965)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_158">
@@ -3115,6 +3115,12 @@
                      </settlement>
                   </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q41749</idno>
+               </person>
+               <person xml:id="amp_person_197">
+                  <persName>
+                     <forename>David</forename>
+                     <surname>Protetch</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

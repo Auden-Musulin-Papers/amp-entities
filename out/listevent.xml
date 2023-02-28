@@ -59,7 +59,7 @@
          <div type="index_events">
             <listEvent xml:id="listevent">
                <event xml:id="amp_event_id_1" when="1967-11-04">
-                  <label>Death of Eiermann</label>
+                  <label>Death of Emma Eiermann</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -286,7 +286,7 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
-                     <persName key="amp_person_109">Lustkandl, N/A_2</persName>
+                     <persName key="amp_person_109">Lustkandl, Franz Josef</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -784,6 +784,24 @@
                      <persName key="amp_person_16">Eiermann, Emma</persName>
                      <persName key="amp_person_17">Eiermann, Josef</persName>
                   </ab>
+               </event>
+               <event xml:id="amp_event_id_52">
+                  <label>Expulsion of Germans from Czechoslovakia</label>
+                  <desc>historic</desc>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_100">Czechoslovakia</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>50.08292, 14.46672</geo>
+                     </location>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
+               </event>
+               <event xml:id="amp_event_id_53">
+                  <label>First World War</label>
+                  <desc>historic</desc>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
                </event>
             </listEvent>
          </div>
