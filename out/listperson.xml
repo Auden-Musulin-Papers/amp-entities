@@ -828,7 +828,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11885349X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q771698</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_1">Lucia Novels</bibl>
+                     <bibl n="lit_work_id_1">Mapp and Lucia (series)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_40">
@@ -899,7 +899,7 @@
                </person>
                <person xml:id="amp_person_43">
                   <persName>
-                     <forename>Gerty von</forename>
+                     <forename>Gertrude von</forename>
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
@@ -930,8 +930,8 @@
                </person>
                <person xml:id="amp_person_45">
                   <persName>
-                     <forename>Liz von</forename>
-                     <surname>Hofmannsthal</surname>
+                     <forename>Elizabeth von</forename>
+                     <surname>Hofmannsthal (née Paget)</surname>
                   </persName>
                   <birth>
                      <date when-iso="1916-10-16">1916-10-16</date>
@@ -952,7 +952,7 @@
                <person xml:id="amp_person_47">
                   <persName>
                      <forename>Octavian von</forename>
-                     <surname>Hofamannsthal</surname>
+                     <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
                      <date when-iso="1946-02-13">1946-02-13</date>
@@ -961,7 +961,7 @@
                <person xml:id="amp_person_48">
                   <persName>
                      <forename>Diana</forename>
-                     <surname>Cooper</surname>
+                     <surname>Cooper (née Manners)</surname>
                   </persName>
                   <birth>
                      <date when-iso="1892-08-29">1892-08-29</date>
@@ -1835,8 +1835,8 @@
                </person>
                <person xml:id="amp_person_93">
                   <persName>
-                     <forename>Elsa von Isbary</forename>
-                     <surname>Musulin</surname>
+                     <forename>Elsa von</forename>
+                     <surname>Musulin (née Isbary)</surname>
                   </persName>
                   <listBibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
@@ -2417,7 +2417,7 @@
                </person>
                <person xml:id="amp_person_135">
                   <persName>
-                     <forename>Helle</forename>
+                     <forename>Hella</forename>
                      <surname>Bronold</surname>
                   </persName>
                </person>
@@ -2758,8 +2758,8 @@
                </person>
                <person xml:id="amp_person_162">
                   <persName>
-                     <forename>Stella Mary Bellairs</forename>
-                     <surname>Lloyd-Philipps</surname>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
                <person xml:id="amp_person_163">
@@ -3134,6 +3134,12 @@
                      <surname>Jones</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/173536794</idno>
+               </person>
+               <person xml:id="amp_person_200">
+                  <persName>
+                     <forename>Josef</forename>
+                     <surname>Seitz</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

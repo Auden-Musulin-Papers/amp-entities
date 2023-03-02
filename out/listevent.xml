@@ -391,12 +391,10 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_23" when="1977-05-05">
-                  <label>Lecture about W. H. Auden und die Österreicher" [W. H. Auden and the Austrians]</label>
+                  <label>Talk "W. H. Auden und die Österreicher", 1977</label>
                   <desc>professional</desc>
                   <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_137">Kraus, Wolfgang</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -412,7 +410,7 @@
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_93">Musulin, Elsa von Isbary</persName>
+                     <persName key="amp_person_93">Musulin (née Isbary), Elsa von</persName>
                      <persName key="amp_person_94">Musulin, Marko</persName>
                      <persName key="amp_person_167">Musulin, Janko</persName>
                   </ab>
@@ -682,7 +680,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_44">
-                  <label>Visit of Christiane Zimmer (1968)</label>
+                  <label>Visit of Christiane Zimmer to Auden (1968)</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -808,6 +806,31 @@
                   <label>Second World War</label>
                   <desc>historic</desc>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
+               </event>
+               <event xml:id="amp_event_id_55">
+                  <label>Anschluss</label>
+                  <desc>historic</desc>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
+               </event>
+               <event xml:id="amp_event_id_56">
+                  <label>Salzburg Festival</label>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
+               </event>
+               <event xml:id="amp_event_id_57">
+                  <label>Visit of Christiane Zimmer to Auden (1958)</label>
+                  <desc>personal</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_3">Zimmer, Christiane</persName>
+                  </ab>
                </event>
             </listEvent>
          </div>

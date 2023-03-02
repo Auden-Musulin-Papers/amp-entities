@@ -148,7 +148,7 @@
                </place>
                <place xml:id="amp_place_id_7">
                   <settlement type="P">
-                     <placeName>Fridau</placeName>
+                     <placeName>Fridau (Schloss Fridau)</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1075,7 +1075,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_74">Zell-am-See</placeName>
+                     <placeName key="amp_place_id_74">Zell am See</placeName>
                   </location>
                   <location type="coords">
                      <geo>47.33333, 12.8</geo>
@@ -1085,7 +1085,7 @@
                </place>
                <place xml:id="amp_place_id_74">
                   <settlement type="P">
-                     <placeName>Zell-am-See</placeName>
+                     <placeName>Zell am See</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1105,7 +1105,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_74">Zell-am-See</placeName>
+                     <placeName key="amp_place_id_74">Zell am See</placeName>
                   </location>
                   <location type="coords">
                      <geo>47.33917, 12.79821</geo>
@@ -1115,7 +1115,7 @@
                <place xml:id="amp_place_id_76">
                   <placeName>Schmittenhöhe valley</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_74">Zell-am-See</placeName>
+                     <placeName key="amp_place_id_74">Zell am See</placeName>
                   </location>
                   <location type="coords">
                      <geo>47.33165026519955, 12.737574982944441</geo>
@@ -1166,14 +1166,14 @@
                   <idno type="GEONAMES">https://sws.geonames.org/12503870/</idno>
                </place>
                <place xml:id="amp_place_id_81">
-                  <placeName>Herrenhof</placeName>
+                  <placeName>Café Herrenhof</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.20984379239084, 16.366032810986137</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/8772288/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q262857</idno>
                </place>
                <place xml:id="amp_place_id_82">
                   <settlement type="S">
@@ -3516,6 +3516,33 @@
                <place xml:id="amp_place_id_255">
                   <placeName>Hinterholz/Audenstraße</placeName>
                   <note/>
+               </place>
+               <place xml:id="amp_place_id_256">
+                  <placeName>Zeller See</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2760620/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_257">
+                  <placeName>Austria-Hungary</placeName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q28513</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_258">
+                  <placeName>Fallegg</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/10353164/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_259">
+                  <placeName>St. Mark's Place</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/11819921/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2142493</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_260">
+                  <placeName>Eastern Bloc</placeName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q170541</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4075730-4</idno>
+                  <note>https://www.britannica.com/topic/Eastern-bloc</note>
                </place>
             </listPlace>
          </div>

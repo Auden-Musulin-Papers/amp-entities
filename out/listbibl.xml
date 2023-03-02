@@ -58,7 +58,7 @@
       <body>
          <listBibl>
             <bibl xml:id="lit_work_id_1">
-               <title>Lucia Novels</title>
+               <title>Mapp and Lucia (series)</title>
                <author ref="#amp_person_39">
                   <persName>Benson, Edward Frederic</persName>
                </author>
@@ -524,12 +524,12 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_51">
-               <title>OED</title>
-               <idno type="WIKIDATA"/>
+               <title>The Oxford English Dictionary</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44996</idno>
             </bibl>
             <bibl xml:id="lit_work_id_52">
-               <title>Times</title>
-               <idno type="WIKIDATA"/>
+               <title>The Times</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q50008</idno>
             </bibl>
             <bibl xml:id="lit_work_id_53">
                <title>Forewords and Afterwords</title>
@@ -874,7 +874,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <author ref="#amp_person_93">
-                  <persName>Musulin, Elsa von Isbary</persName>
+                  <persName>Musulin (née Isbary), Elsa von</persName>
                </author>
                <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
@@ -1019,7 +1019,7 @@
                   <persName>Mayhew, Henry</persName>
                </author>
                <biblScope type="volume">3</biblScope>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1217731</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_112">
@@ -1057,7 +1057,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_117">
@@ -1095,7 +1095,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1936">1936</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q943563</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_122">
@@ -1104,7 +1104,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1935">1935</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21646703</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_123">
@@ -1122,12 +1122,14 @@
             <bibl xml:id="lit_work_id_125">
                <title>Die Furche</title>
                <date when="1945">1945</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1212798</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_126">
-               <title/>
+               <title>W. H. Auden und die Österreicher</title>
+               <date when="1977">1977</date>
                <idno type="WIKIDATA"/>
+               <lang/>
             </bibl>
       </listBibl>
       </body>
