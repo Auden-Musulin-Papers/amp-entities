@@ -101,7 +101,7 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.2064399676074, 16.367798975228684</geo>
@@ -159,9 +159,9 @@
                   <label>Royal Visit</label>
                   <desc>historic</desc>
                   <ab type="participants">
-                     <persName key="amp_person_138">Elizabeth II., Great Britain, Queen</persName>
-                     <persName key="amp_person_139">Elizabeth, Great Britain, Queen Mother</persName>
-                     <persName key="amp_person_140">Anne, Great Britain, Princess</persName>
+                     <persName key="amp_person_138">Elizabeth II.,  Elizabeth of the United Kingdom</persName>
+                     <persName key="amp_person_139">Elizabeth, The Queen Mother</persName>
+                     <persName key="amp_person_140">Anne, Princess Royal</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -329,7 +329,7 @@
                      <persName key="amp_person_97">Seitz, Maria</persName>
                      <persName key="amp_person_156">Duncan, Bruce</persName>
                      <persName key="amp_person_169">Clark, Lisa</persName>
-                     <persName key="amp_person_175">N/A_8,  person whose name we never mention</persName>
+                     <persName key="amp_person_175">N/A_8,  "he whose name we never mention"</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -373,11 +373,12 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_22">
-                  <label>Meeting with Friedrich Heer</label>
+                  <label>Visit by Stella Musulin and Friedrich Heer to Hinterholz 6</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
                      <persName key="amp_person_54">Heer, Friedrich</persName>
                   </ab>
                   <ab type="location">
@@ -399,7 +400,7 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.2064399676074, 16.367798975228684</geo>
@@ -424,7 +425,7 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.2064399676074, 16.367798975228684</geo>
@@ -519,7 +520,7 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.2064399676074, 16.367798975228684</geo>
@@ -620,7 +621,7 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
-                     <persName key="amp_person_175">N/A_8,  person whose name we never mention</persName>
+                     <persName key="amp_person_175">N/A_8,  "he whose name we never mention"</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -713,7 +714,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_46" when="1966-10-25">
-                  <label>Austrian State Prize for European Literature</label>
+                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -802,6 +803,11 @@
                   <label>First World War</label>
                   <desc>historic</desc>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
+               </event>
+               <event xml:id="amp_event_id_54">
+                  <label>Second World War</label>
+                  <desc>historic</desc>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
             </listEvent>
          </div>

@@ -79,6 +79,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_255">Hinterholz/Audenstraße</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.181531884216675, 15.811512574434994</geo>
                   </location>
@@ -1174,7 +1177,7 @@
                </place>
                <place xml:id="amp_place_id_82">
                   <settlement type="S">
-                     <placeName>Schönbrunn</placeName>
+                     <placeName>Schloss Schönbrunn</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -1219,7 +1222,7 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2988507/</idno>
                </place>
                <place xml:id="amp_place_id_85">
-                  <placeName>Palais Palffy</placeName>
+                  <placeName>Palais Pálffy</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_88">Josefsplatz</placeName>
                   </location>
@@ -1227,6 +1230,7 @@
                      <geo>48.2064399676074, 16.367798975228684</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504036/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q873895</idno>
                </place>
                <place xml:id="amp_place_id_86">
                   <settlement type="P">
@@ -2526,7 +2530,7 @@
                </place>
                <place xml:id="amp_place_id_175">
                   <settlement type="L">
-                     <placeName>Wienerwald</placeName>
+                     <placeName>Vienna Woods</placeName>
                   </settlement>
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>AT, Austria</country>
@@ -2537,6 +2541,7 @@
                      <geo>48.2, 16.18333</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2601183/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q251246</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_176">
@@ -3086,7 +3091,7 @@
                <place xml:id="amp_place_id_212">
                   <placeName>Figaro Saal</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_85">Palais Palffy</placeName>
+                     <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                   </location>
                   <note/>
                </place>
@@ -3500,6 +3505,16 @@
                   <location type="coords">
                      <geo>48.245897656186635, 16.37560888650667</geo>
                   </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_254">
+                  <placeName>Loretto</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7871546/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q201148</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_255">
+                  <placeName>Hinterholz/Audenstraße</placeName>
                   <note/>
                </place>
             </listPlace>

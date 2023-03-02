@@ -1567,7 +1567,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118751980</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_103">Statement (to the Austrian tax authorities) (German Translation Hilde Spiel) Exp</bibl>
+                     <bibl n="lit_work_id_103">Statement (to the Austrian tax authorities) (Expression: German translation Hilde Spiel)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_79">
@@ -2397,7 +2397,7 @@
                </person>
                <person xml:id="amp_person_134">
                   <persName>
-                     <forename>Bertha</forename>
+                     <forename>Bertha von</forename>
                      <surname>Suttner</surname>
                   </persName>
                   <birth>
@@ -2466,7 +2466,7 @@
                </person>
                <person xml:id="amp_person_138">
                   <persName>
-                     <forename>Great Britain</forename>
+                     <forename> Elizabeth of the United Kingdom</forename>
                      <surname>Elizabeth II.</surname>
                   </persName>
                   <birth>
@@ -2486,7 +2486,7 @@
                </person>
                <person xml:id="amp_person_139">
                   <persName>
-                     <forename>Great Britain</forename>
+                     <forename>The Queen Mother</forename>
                      <surname>Elizabeth</surname>
                   </persName>
                   <birth>
@@ -2506,7 +2506,7 @@
                </person>
                <person xml:id="amp_person_140">
                   <persName>
-                     <forename>Great Britain</forename>
+                     <forename>Princess Royal</forename>
                      <surname>Anne</surname>
                   </persName>
                   <birth>
@@ -2520,13 +2520,13 @@
                </person>
                <person xml:id="amp_person_141">
                   <persName>
-                     <forename>Sonja Maria von</forename>
-                     <surname>Etthofen</surname>
+                     <forename>Sonja Maria</forename>
+                     <surname>Lanier (née Etthofen)</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_142">
                   <persName>
-                     <forename>Amélie</forename>
+                     <forename>Amelie</forename>
                      <surname>Lanier</surname>
                   </persName>
                </person>
@@ -2600,8 +2600,8 @@
                </person>
                <person xml:id="amp_person_146">
                   <persName>
-                     <forename>Brigitta von</forename>
-                     <surname>Etthofen</surname>
+                     <forename>Brigitta</forename>
+                     <surname>Etthofen (née Ravene)</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_147">
@@ -2918,7 +2918,7 @@
                </person>
                <person xml:id="amp_person_175">
                   <persName>
-                     <forename> person whose name we never mention</forename>
+                     <forename> "he whose name we never mention"</forename>
                      <surname>N/A_8</surname>
                   </persName>
                </person>
@@ -3127,6 +3127,13 @@
                      <forename>Rudolf</forename>
                      <surname>Blaha</surname>
                   </persName>
+               </person>
+               <person xml:id="amp_person_199">
+                  <persName>
+                     <forename>JDF</forename>
+                     <surname>Jones</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/173536794</idno>
                </person>
             </listPerson>
          </div>
