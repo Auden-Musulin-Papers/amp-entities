@@ -94,7 +94,7 @@
                   <orgName>Church of England</orgName>
                   <desc>Was founded in year 1534.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -105,7 +105,7 @@
                   <orgName>Faber and Faber</orgName>
                   <desc>Was founded in year 1929.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -160,7 +160,7 @@
                   <note>known as Society of Literature</note>
                </org>
                <org xml:id="amp_organization_10">
-                  <orgName>PEN Club</orgName>
+                  <orgName>PEN Austria</orgName>
                   <desc>Was founded in year 1923.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
@@ -270,7 +270,7 @@
                   <orgName>G.P.O Film Unit</orgName>
                   <desc>Was founded in year 1933.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -282,7 +282,7 @@
                   <orgName>Sunday Times</orgName>
                   <desc>Was founded in year 1821.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -317,7 +317,7 @@
                   <orgName>Financial Times</orgName>
                   <desc>Was founded in year 1888.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -376,7 +376,7 @@
                   <orgName>BBC</orgName>
                   <desc>Was founded in year 1922.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">UK</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>54.75844, -2.69531</geo>
@@ -457,7 +457,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_35">
-                  <orgName>Austro-British Council</orgName>
+                  <orgName>Österreichisch-Britische Gesellschaft</orgName>
                   <desc>Was founded in year 1946.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
@@ -465,8 +465,8 @@
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q17048457</idno>
-                  <note/>
+                  <idno type="WIKIDATA"/>
+                  <note>1946-2005</note>
                </org>
                <org xml:id="amp_organization_36">
                   <orgName>University of Paris</orgName>
@@ -478,18 +478,6 @@
                      <geo>48.85341, 2.3488</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q209842</idno>
-                  <note/>
-               </org>
-               <org xml:id="amp_organization_37">
-                  <orgName>Tolkien fan club</orgName>
-                  <desc>Was founded in year 1960.</desc>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>39.76, -98.5</geo>
-                  </location>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1963025</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_38">
@@ -600,6 +588,26 @@
                <org xml:id="amp_organization_50">
                   <orgName>Sturmabteilung</orgName>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150793</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_51">
+                  <orgName>PEN International</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q206811</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_52">
+                  <orgName>Fire brigade of Vienna</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q828871</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_53">
+                  <orgName>Sunday Telegraph</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q12741725</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_54">
+                  <orgName>London Underground</orgName>
+                  <idno type="WIKIDATA"/>
                   <note/>
                </org>
             </listOrg>

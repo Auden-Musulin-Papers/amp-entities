@@ -431,7 +431,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_26" when="1964-10-15">
-                  <label>Attendance in PEN Conference</label>
+                  <label>PEN International Executive Committee and Round Table Discussion on 'Tradition and Innovation in Contemporary Literature' (1964-10-15--1964-10-18)</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -446,22 +446,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_27" when="1964-10-21">
-                  <label>Guest Professor at Ford Foundation</label>
-                  <desc>professional</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_17">Berlin</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>52.52437, 13.41053</geo>
-                     </location>
-                  </ab>
-               </event>
-               <event xml:id="amp_event_id_28" when="1964-11-21">
-                  <label>Auden's DUI</label>
+                  <label>Ford Foundation Residency at Berlin</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -476,7 +461,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_29" when="1965-05-24">
-                  <label>Talk on T.S. Eliot in Vienna</label>
+                  <label>W. H. Auden's talk on T. S. Eliot in Vienna, 1965</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -487,8 +472,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_30">
-                  <label>Talk on T.S. Eliot in Westminster Abbey</label>
+               <event xml:id="amp_event_id_30" when="1966-01-01">
+                  <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -503,7 +488,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_31" when="1967-04-04">
-                  <label>Literary congress on avant garde</label>
+                  <label>Round table "Literatur als Tradition und Revolution", 1967</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -511,7 +496,7 @@
                      <persName key="amp_person_4">Kallman, Chester</persName>
                      <persName key="amp_person_72">McCarthy, Mary</persName>
                      <persName key="amp_person_73">Bondy, Francis</persName>
-                     <persName key="amp_person_74">Etkin, Yefrim of Leningrad</persName>
+                     <persName key="amp_person_74">Etkind, Efim</persName>
                      <persName key="amp_person_75">Reich-Ranicki, Marcel</persName>
                      <persName key="amp_person_91">Toynbee, Philipp</persName>
                      <persName key="amp_person_182">N/A_11, the square-headed commissar type from Moscow</persName>
@@ -526,7 +511,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_32" when="1967-08-01">
-                  <label>Opening address  at Salzburg Festival</label>
+                  <label>Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele, 1968</label>
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -550,22 +535,6 @@
                </event>
                <event xml:id="amp_event_id_34" when="1968-04-09">
                   <label>Auden's car accident in Kirchstetten</label>
-                  <desc>personal</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_2">Musulin, Stella</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
-                     </location>
-                  </ab>
-               </event>
-               <event xml:id="amp_event_id_35" when="1968-04-09">
-                  <label>Auden's arrival in Kirchstetten</label>
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>

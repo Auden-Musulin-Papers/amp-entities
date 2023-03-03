@@ -202,7 +202,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_18">
-               <title>The Bassarids libretto</title>
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -576,7 +576,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_58">
-               <title>Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967)</title>
+               <title>Elegy (In Memoriam Emma Eiermann)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -696,7 +696,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_73">
-               <title>The National Review</title>
+               <title>National Review</title>
                <date when="1955">1955</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1699649</idno>
                <lang/>
@@ -709,12 +709,6 @@
             </bibl>
             <bibl xml:id="lit_work_id_75">
                <title>The Bacchae of Euripides</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
-               </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
-               </author>
                <date when="1966">1966</date>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -941,7 +935,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_102">
-               <title>For friends only (for John and Teckla Clark)</title>
+               <title>For friends only</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -981,7 +975,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_107">
-               <title>Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967) (Work)</title>
+               <title>Elegy  (In Memoriam Emma Eiermann) (Work)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -1173,6 +1167,14 @@
                <date when="1956">1956</date>
                <idno type="WIKIDATA">https://d-nb.info/575427612</idno>
                <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_132">
+               <title>Loneliness</title>
+               <idno type="WIKIDATA"/>
+            </bibl>
+            <bibl xml:id="lit_work_id_133">
+               <title>On Drugs and Drivel</title>
+               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>

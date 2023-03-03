@@ -81,7 +81,7 @@
                      <bibl n="lit_work_id_2">Homage to Clio</bibl>
                      <bibl n="lit_work_id_16">The Rake's Progress libretto</bibl>
                      <bibl n="lit_work_id_17">Elegy for Young Lovers libretto</bibl>
-                     <bibl n="lit_work_id_18">The Bassarids libretto</bibl>
+                     <bibl n="lit_work_id_18">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_20">Love's Lavours Lost libretto</bibl>
                      <bibl n="lit_work_id_21">The Magic Flute libretto</bibl>
                      <bibl n="lit_work_id_22">Don Giovanni libretto</bibl>
@@ -101,12 +101,11 @@
                      <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_55">For the Time Being</bibl>
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
-                     <bibl n="lit_work_id_58">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967)</bibl>
+                     <bibl n="lit_work_id_58">Elegy (In Memoriam Emma Eiermann)</bibl>
                      <bibl n="lit_work_id_60">Joseph Weinheber (Work)</bibl>
                      <bibl n="lit_work_id_61">Joseph Weinheber (expression: version W. H. Auden, 1965-03-15)</bibl>
                      <bibl n="lit_work_id_62">Joseph Weinheber (expression: version W. H. Auden, 1965-04-28)</bibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
-                     <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
                      <bibl n="lit_work_id_81">Statement (to the Austrian tax authorities) Exp</bibl>
@@ -117,8 +116,8 @@
                      <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
                      <bibl n="lit_work_id_99">W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
-                     <bibl n="lit_work_id_102">For friends only (for John and Teckla Clark)</bibl>
-                     <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann. ob. Nov 4th, 1967) (Work)</bibl>
+                     <bibl n="lit_work_id_102">For friends only</bibl>
+                     <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann) (Work)</bibl>
                      <bibl n="lit_work_id_112">Review of London Labour and the London Poor</bibl>
                      <bibl n="lit_work_id_116">Secondary Worlds</bibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
@@ -201,14 +200,13 @@
                   <listBibl>
                      <bibl n="lit_work_id_16">The Rake's Progress libretto</bibl>
                      <bibl n="lit_work_id_17">Elegy for Young Lovers libretto</bibl>
-                     <bibl n="lit_work_id_18">The Bassarids libretto</bibl>
+                     <bibl n="lit_work_id_18">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_20">Love's Lavours Lost libretto</bibl>
                      <bibl n="lit_work_id_21">The Magic Flute libretto</bibl>
                      <bibl n="lit_work_id_22">Don Giovanni libretto</bibl>
                      <bibl n="lit_work_id_23">Die Sieben Todsünden libretto</bibl>
                      <bibl n="lit_work_id_24">Rise and Fall of the City of Mahagonny libretto</bibl>
                      <bibl n="lit_work_id_25">Archifanfaro libretto</bibl>
-                     <bibl n="lit_work_id_75">The Bacchae of Euripides</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -1476,8 +1474,8 @@
                </person>
                <person xml:id="amp_person_74">
                   <persName>
-                     <forename>Yefrim of Leningrad</forename>
-                     <surname>Etkin</surname>
+                     <forename>Efim</forename>
+                     <surname>Etkind</surname>
                   </persName>
                   <birth>
                      <date when-iso="1918-02-26">1918-02-26</date>
