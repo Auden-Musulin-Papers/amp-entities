@@ -558,7 +558,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_56">
-               <title>Hier und Jetzt</title>
+               <title>Hier und Jetzt  (Expression: German translation of W. H. Auden's "For the Time Being" by Gerhard Fritsch  (1961))</title>
                <author ref="#amp_person_59">
                   <persName>Fritsch, Gerhard</persName>
                </author>
@@ -642,7 +642,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_67">
-               <title>Gedichte - Poems</title>
+               <title>Gedichte/Poems</title>
                <date when="1973">1973</date>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -1116,7 +1116,8 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_124">
-               <title>Gedichte/Poems</title>
+               <title>Austria and the Austrians</title>
+               <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
             </bibl>
             <bibl xml:id="lit_work_id_125">
@@ -1129,6 +1130,48 @@
                <title>W. H. Auden und die Österreicher</title>
                <date when="1977">1977</date>
                <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_127">
+               <title>Ein halbes Jahr zu Gast in Berlin</title>
+               <author ref="#amp_person_163">
+                  <persName>Jacobsen, Cornelia</persName>
+               </author>
+               <date when="1965">1965</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_128">
+               <title>Mord im Dom  (Expression: German Translation of T. S.'s Eliot's "Murder in the Cathedral" by Rudolf Alexander Schröder(1939))</title>
+               <author ref="#amp_person_66">
+                  <persName>Schröder, Rudolf Alexander</persName>
+               </author>
+               <date when="1939">1939</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1947367</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_129">
+               <title>Shakespeare's dramatische Werke</title>
+               <date when="1964">1964</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_130">
+               <title>Cantos I-XXX</title>
+               <author ref="#amp_person_67">
+                  <persName>Hesse, Eva</persName>
+               </author>
+               <date when="1964">1964</date>
+               <idno type="WIKIDATA">https://d-nb.info/575427620</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_131">
+               <title>Die Pisaner Gesänge</title>
+               <author ref="#amp_person_67">
+                  <persName>Hesse, Eva</persName>
+               </author>
+               <date when="1956">1956</date>
+               <idno type="WIKIDATA">https://d-nb.info/575427612</idno>
                <lang/>
             </bibl>
       </listBibl>

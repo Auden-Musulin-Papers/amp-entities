@@ -1178,7 +1178,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118536133</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_56">Hier und Jetzt</bibl>
+                     <bibl n="lit_work_id_56">Hier und Jetzt  (Expression: German translation of W. H. Auden's "For the Time Being" by Gerhard Fritsch  (1961))</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_60">
@@ -1320,6 +1320,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118610880</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76332</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_128">Mord im Dom  (Expression: German Translation of T. S.'s Eliot's "Murder in the Cathedral" by Rudolf Alexander Schröder(1939))</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_67">
                   <persName>
@@ -1338,8 +1341,12 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118967967</idno>
+                  <idno type="GND">https://d-nb.info/gnd/122585119</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215457</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_130">Cantos I-XXX</bibl>
+                     <bibl n="lit_work_id_131">Die Pisaner Gesänge</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_68">
                   <persName>
@@ -2775,6 +2782,9 @@
                   </birth>
                   <idno type="GND">https://d-nb.info/gnd/118608460</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q103529</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_164">
                   <persName>
@@ -3139,6 +3149,18 @@
                   <persName>
                      <forename>Josef</forename>
                      <surname>Seitz</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_201">
+                  <persName>
+                     <forename>Ludwig</forename>
+                     <surname>Tieck</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_202">
+                  <persName>
+                     <forename>August Wilhelm von</forename>
+                     <surname>Schlegel</surname>
                   </persName>
                </person>
             </listPerson>

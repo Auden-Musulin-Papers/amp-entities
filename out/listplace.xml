@@ -1068,21 +1068,6 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4127</idno>
                   <idno type="GND">https://d-nb.info/gnd/4007403-1</idno>
                </place>
-               <place xml:id="amp_place_id_73">
-                  <settlement type="S">
-                     <placeName>Schloss Prielau</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_74">Zell am See</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>47.33333, 12.8</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2768323/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2242987</idno>
-               </place>
                <place xml:id="amp_place_id_74">
                   <settlement type="P">
                      <placeName>Zell am See</placeName>
@@ -1100,7 +1085,7 @@
                </place>
                <place xml:id="amp_place_id_75">
                   <settlement type="P">
-                     <placeName>Prielau</placeName>
+                     <placeName>Prielau (Schloss Prielau)</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1129,16 +1114,6 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503995/</idno>
                   <note>she meant Hinterholz 6; Holzweg 5 is not valid</note>
-               </place>
-               <place xml:id="amp_place_id_78">
-                  <placeName>Schloss Fridau</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.14965170849973, 15.556407619394733</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12504042/</idno>
                </place>
                <place xml:id="amp_place_id_79">
                   <settlement type="P">
@@ -3543,6 +3518,10 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q170541</idno>
                   <idno type="GND">https://d-nb.info/gnd/4075730-4</idno>
                   <note>https://www.britannica.com/topic/Eastern-bloc</note>
+               </place>
+               <place xml:id="amp_place_id_261">
+                  <placeName>Hauptpostamt</placeName>
+                  <note/>
                </place>
             </listPlace>
          </div>
