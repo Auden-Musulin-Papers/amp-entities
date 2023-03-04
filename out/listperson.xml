@@ -512,8 +512,8 @@
                </person>
                <person xml:id="amp_person_23">
                   <persName>
-                     <forename>Yannis (Γιάννης)</forename>
-                     <surname>Boras (Μπόρας)</surname>
+                     <forename>Yannis</forename>
+                     <surname>Boras</surname>
                   </persName>
                   <birth>
                      <date when-iso="1942-03-03">1942-03-03</date>
@@ -1993,8 +1993,8 @@
                </person>
                <person xml:id="amp_person_107">
                   <persName>
-                     <forename>Hugie</forename>
-                     <surname>N/A_1</surname>
+                     <forename>Hugo</forename>
+                     <surname>K.</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_108">
@@ -2849,6 +2849,7 @@
                         <placeName>Ober-Grafendorf</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/115753761</idno>
                </person>
                <person xml:id="amp_person_168">
                   <persName>

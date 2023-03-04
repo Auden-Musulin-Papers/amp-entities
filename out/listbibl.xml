@@ -586,7 +586,6 @@
             </bibl>
             <bibl xml:id="lit_work_id_59">
                <title>Bible</title>
-               <date when="1933">1933</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
                <lang/>
             </bibl>
@@ -1113,6 +1112,7 @@
                <title>Austria and the Austrians</title>
                <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
+               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_125">
                <title>Die Furche</title>
@@ -1171,9 +1171,40 @@
             <bibl xml:id="lit_work_id_132">
                <title>Loneliness</title>
                <idno type="WIKIDATA"/>
+               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_133">
                <title>On Drugs and Drivel</title>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_134">
+               <title>About the House</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4668603</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_135">
+               <title>Collected Shorter Poems 1927–1957 (London, 1966; New York, 1967)</title>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_136">
+               <title>Collected Longer Poems (London, 1968; New York, 1969).</title>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_137">
+               <title>City Without Walls</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5123514</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_138">
+               <title>Epistle to a Godson and Other Poems</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_139">
+               <title>Freedom and Necessity in the Arts (Expression: incomplete German translation by Janko Musulin, 1970)</title>
                <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>

@@ -481,7 +481,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_38">
-                  <orgName>Wild</orgName>
+                  <orgName>Gebrüder Wild</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_95">Neuer Markt</placeName>
                   </location>
@@ -528,14 +528,14 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_42">
-                  <orgName>Hospital in St. Pölten</orgName>
+                  <orgName>University Hospital in St. Pölten</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 15.63333</geo>
                   </location>
-                  <idno type="WIKIDATA"/>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1802295</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_43">
@@ -608,6 +608,11 @@
                <org xml:id="amp_organization_54">
                   <orgName>London Underground</orgName>
                   <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_55">
+                  <orgName/>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1802295</idno>
                   <note/>
                </org>
             </listOrg>

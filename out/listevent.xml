@@ -81,7 +81,7 @@
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
-                     <persName key="amp_person_23">Boras (Μπόρας), Yannis (Γιάννης)</persName>
+                     <persName key="amp_person_23">Boras, Yannis</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
@@ -549,12 +549,10 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_36" when="1968-12-25">
-                  <label>Imprisonment of Hugie</label>
+                  <label>Arrest and court trial of Hugo K.</label>
                   <desc>personal</desc>
                   <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_107">N/A_1, Hugie</persName>
+                     <persName key="amp_person_107">K., Hugo</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
