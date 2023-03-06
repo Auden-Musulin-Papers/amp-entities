@@ -70,25 +70,8 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1313036</idno>
                </org>
                <org xml:id="amp_organization_2">
-                  <orgName>American Academy</orgName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
-                  </location>
-                  <idno type="WIKIDATA"/>
-               </org>
-               <org xml:id="amp_organization_3">
-                  <orgName>Episcopalian Church in the States</orgName>
-                  <desc>Was founded in year 1789.</desc>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>39.76, -98.5</geo>
-                  </location>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
+                  <orgName>American Academy of Arts and Letters</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463281</idno>
                </org>
                <org xml:id="amp_organization_4">
                   <orgName>Church of England</orgName>
@@ -186,7 +169,7 @@
                   <orgName>Random House</orgName>
                   <desc>Was founded in year 1927.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>39.76, -98.5</geo>
@@ -222,7 +205,7 @@
                   <orgName>Life magazine</orgName>
                   <desc>Was founded in year 1883.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>39.76, -98.5</geo>
@@ -246,7 +229,7 @@
                   <orgName>Beinecke Library</orgName>
                   <desc>Was founded in year 1963.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>39.76, -98.5</geo>
@@ -258,7 +241,7 @@
                   <orgName>Yale University</orgName>
                   <desc>Was founded in year 1701.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>39.76, -98.5</geo>
@@ -611,8 +594,24 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_55">
-                  <orgName/>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1802295</idno>
+                  <orgName>University of Oxford</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q34433</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_56">
+                  <orgName>TU Wien</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689400</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_57">
+                  <orgName>Eliot College</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.27904, 1.07992</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5361221</idno>
                   <note/>
                </org>
             </listOrg>

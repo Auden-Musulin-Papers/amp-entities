@@ -129,6 +129,7 @@
                      <geo>48.22902, 14.11039</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2774361/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q674814</idno>
                </place>
                <place xml:id="amp_place_id_6">
                   <settlement type="A">
@@ -159,6 +160,8 @@
                      <geo>48.14765, 15.55595</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2779247/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1651450</idno>
+                  <idno type="GND">https://lobid.org/gnd/1052612687</idno>
                </place>
                <place xml:id="amp_place_id_8">
                   <settlement type="A">
@@ -262,10 +265,12 @@
                      <geo>43.77925, 11.24626</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3176959/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2044</idno>
+                  <idno type="GND">https://lobid.org/gnd/4017581-9</idno>
                </place>
                <place xml:id="amp_place_id_15">
                   <settlement type="A">
-                     <placeName>U.S.</placeName>
+                     <placeName>United States of America</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>US, United States</country>
@@ -389,34 +394,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2945358/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32067884</idno>
-               </place>
-               <place xml:id="amp_place_id_24">
-                  <settlement type="P">
-                     <placeName>Sichelbach</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.19276, 15.80177</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2765137/</idno>
-               </place>
-               <place xml:id="amp_place_id_25">
-                  <settlement type="P">
-                     <placeName>Perschling</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.26023, 15.79576</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2769062/</idno>
+                  <idno type="GND">https://lobid.org/gnd/4007956-9</idno>
                </place>
                <place xml:id="amp_place_id_26">
                   <settlement type="P">
@@ -432,9 +410,10 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2867714/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32664319</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4127793-4</idno>
                </place>
                <place xml:id="amp_place_id_27">
-                  <placeName>Amerika Haus</placeName>
+                  <placeName>Amerika-Haus</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -450,7 +429,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.71427, -74.00597</geo>
@@ -495,6 +474,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3169561/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q49280740</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4048629-1</idno>
                </place>
                <place xml:id="amp_place_id_32">
                   <settlement type="P">
@@ -525,6 +505,8 @@
                      <geo>50.11552, 8.68417</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2925533/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1794</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4018118-2</idno>
                </place>
                <place xml:id="amp_place_id_34">
                   <settlement type="P">
@@ -540,6 +522,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2812482/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32067990</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4065105-8</idno>
                </place>
                <place xml:id="amp_place_id_35">
                   <settlement type="P">
@@ -555,6 +538,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3170754/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30028858</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4284133-1</idno>
                </place>
                <place xml:id="amp_place_id_36">
                   <settlement type="P">
@@ -570,6 +554,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3164603/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q33723961</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4062501-1</idno>
                </place>
                <place xml:id="amp_place_id_37">
                   <settlement type="P">
@@ -584,6 +569,8 @@
                      <geo>47.79941, 13.04399</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2766824/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q34713</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4076982-3</idno>
                </place>
                <place xml:id="amp_place_id_38">
                   <placeName>Wipplingerstrasse 24-26</placeName>
@@ -706,6 +693,8 @@
                      <geo>48.19979820714975, 15.908621293769759</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2770730/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q700307</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4041812-1</idno>
                </place>
                <place xml:id="amp_place_id_48">
                   <placeName>Karl-Schweighofer-Gasse 4</placeName>
@@ -741,6 +730,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3171606/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30028551</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4224216-2</idno>
                </place>
                <place xml:id="amp_place_id_51">
                   <settlement type="P">
@@ -787,6 +777,8 @@
                      <geo>36.72016, -4.42034</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2514256/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q8851</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4100040-7</idno>
                </place>
                <place xml:id="amp_place_id_54">
                   <settlement type="P">
@@ -811,7 +803,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>38.62727, -90.19789</geo>
@@ -850,6 +842,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3180632/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30023682</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4789884-7</idno>
                </place>
                <place xml:id="amp_place_id_58">
                   <settlement type="P">
@@ -865,6 +858,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2946447/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q31917795</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4007666-0</idno>
                </place>
                <place xml:id="amp_place_id_59">
                   <settlement type="P">
@@ -926,9 +920,9 @@
                   <location type="coords">
                      <geo>48.46582, 15.52093</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2773548/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q694399</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4546793-6</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2773549/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q131266</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4033043-6</idno>
                </place>
                <place xml:id="amp_place_id_63">
                   <settlement type="P">
@@ -943,6 +937,8 @@
                      <geo>47.3, 11.86667</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/3323944/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q694189</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1126529559</idno>
                </place>
                <place xml:id="amp_place_id_64">
                   <settlement type="P">
@@ -958,6 +954,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2782480/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21880189</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4217817-4</idno>
                </place>
                <place xml:id="amp_place_id_65">
                   <settlement type="P">
@@ -1043,7 +1040,7 @@
                   <idno type="GEONAMES">https://sws.geonames.org/12504030/</idno>
                </place>
                <place xml:id="amp_place_id_71">
-                  <placeName>Esslarngasse</placeName>
+                  <placeName>Eslarngasse</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1415,17 +1412,6 @@
                   <idno type="GND">https://d-nb.info/gnd/4078435-6</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_101">
-                  <placeName>College of Technology</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.19881905898747, 16.368451869799543</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503872/</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_103">
                   <settlement type="A">
                      <placeName>Arcadia</placeName>
@@ -1440,19 +1426,8 @@
                   <idno type="GND">https://d-nb.info/gnd/4002921-9</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_104">
-                  <placeName>Catholic Church of Kirchstetten</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.75178718779119, 16.512699051661468</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503871/</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_105">
-                  <placeName>Universitý Hospital in St. Pölten</placeName>
+                  <placeName>University Hospital in St. Pölten</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
                   </location>
@@ -1796,7 +1771,7 @@
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>43.4268, -114.21882</geo>
@@ -1824,7 +1799,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>41.85003, -87.65005</geo>
@@ -1898,7 +1873,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>47.60621, -122.33207</geo>
@@ -2092,7 +2067,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.34705, -74.06431</geo>
@@ -2108,7 +2083,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>43.5334, -75.36517</geo>
@@ -2124,7 +2099,7 @@
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>34.33235, -79.95769</geo>
@@ -2140,7 +2115,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>35.18592, -86.11221</geo>
@@ -2232,7 +2207,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>42.35843, -71.05977</geo>
@@ -2327,7 +2302,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>37.77493, -122.41942</geo>
@@ -2425,7 +2400,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.78343, -73.96625</geo>
@@ -2639,7 +2614,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>34.05223, -118.24368</geo>
@@ -2671,7 +2646,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>42.00833, -91.64407</geo>
@@ -2968,7 +2943,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>39.12711, -84.51439</geo>
@@ -2985,7 +2960,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>42.29649, -71.29256</geo>
@@ -3018,7 +2993,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>41.31121, -72.92649</geo>
@@ -3035,7 +3010,7 @@
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>34.68743, -116.78467</geo>
@@ -3211,7 +3186,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">U.S.</placeName>
+                     <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
                   <location type="coords">
                      <geo>41.30815, -72.92816</geo>
@@ -3304,15 +3279,6 @@
                   </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q669768</idno>
                   <idno type="GND">https://d-nb.info/gnd/4224678-7</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_232">
-                  <placeName>Eliot College</placeName>
-                  <country>GB, United Kingdom</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
-                  </location>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5361221</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_233">

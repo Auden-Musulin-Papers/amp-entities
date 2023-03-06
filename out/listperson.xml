@@ -108,15 +108,15 @@
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
                      <bibl n="lit_work_id_79">Whitsunday in Kirchstetten</bibl>
                      <bibl n="lit_work_id_80">The English Auden</bibl>
-                     <bibl n="lit_work_id_81">Statement (to the Austrian tax authorities) Exp</bibl>
                      <bibl n="lit_work_id_85">Freedom and Necessity in the Arts</bibl>
                      <bibl n="lit_work_id_88">August 1968</bibl>
                      <bibl n="lit_work_id_90">Freedom and Necessity in the Arts (Expression: W. H. Auden, 1970)</bibl>
                      <bibl n="lit_work_id_92">Joseph Weinheber (expression: German prose translation by W. H. Auden and Elizabeth Mayer 1965)</bibl>
                      <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
-                     <bibl n="lit_work_id_99">W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</bibl>
+                     <bibl n="lit_work_id_99">Statement (to the Austrian tax authorities) (Expression: English original W. H. Auden)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For friends only</bibl>
+                     <bibl n="lit_work_id_105">Statement (to the Austrian tax authorities)</bibl>
                      <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann) (Work)</bibl>
                      <bibl n="lit_work_id_112">Review of London Labour and the London Poor</bibl>
                      <bibl n="lit_work_id_116">Secondary Worlds</bibl>
@@ -151,9 +151,9 @@
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970)</bibl>
                      <bibl n="lit_work_id_93">Josef Weinheber (expression: German prose translation by Stella Musulin 1965)</bibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
-                     <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</bibl>
-                     <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (English re-translation SM)</bibl>
-                     <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</bibl>
+                     <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, Stella Musulin)</bibl>
+                     <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (Expression: English re-translation Stella Musulin)</bibl>
+                     <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage Stella Musulin)</bibl>
                      <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
                      <bibl n="lit_work_id_115">Die zwei Welten des W. H. Auden. Auf den Spuren des englischen Poeten in Kirchstetten</bibl>
                   </listBibl>
@@ -1699,7 +1699,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118633481</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q704931</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_78">W.H. Auden in America</bibl>
+                     <bibl n="lit_work_id_78">W. H. Auden in America</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_85">
@@ -2761,12 +2761,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118554786</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q151836</idno>
                </person>
-               <person xml:id="amp_person_162">
-                  <persName>
-                     <forename/>
-                     <surname/>
-                  </persName>
-               </person>
                <person xml:id="amp_person_163">
                   <persName>
                      <forename>Cornelia</forename>
@@ -2921,7 +2915,7 @@
                </person>
                <person xml:id="amp_person_174">
                   <persName>
-                     <forename>Friend who teaches schyzophrenics</forename>
+                     <forename>a Friend of Auden who teaches schyzophrenics</forename>
                      <surname>N/A_7</surname>
                   </persName>
                </person>
@@ -3031,12 +3025,6 @@
                      <surname>Bicknell</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_185">
-                  <persName>
-                     <forename>a friend of his (Auden)</forename>
-                     <surname>N/A_12</surname>
-                  </persName>
-               </person>
                <person xml:id="amp_person_190">
                   <persName>
                      <forename>the Apostle/Saint</forename>
@@ -3081,9 +3069,6 @@
                      <forename>Paul</forename>
                      <surname>Bachmann</surname>
                   </persName>
-                  <listBibl>
-                     <bibl n="lit_work_id_105">Statement (to the Austrian tax authorities Paul Bachmann)</bibl>
-                  </listBibl>
                </person>
                <person xml:id="amp_person_195">
                   <persName>

@@ -148,11 +148,6 @@
                         <geo>51.27904, 1.07992</geo>
                      </location>
                   </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_232">Eliot College</placeName>
-                     </location>
-                  </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                </event>
                <event xml:id="amp_event_id_7" when="1963-05-05">
@@ -327,6 +322,7 @@
                      <persName key="amp_person_90">Orwell, Sonia</persName>
                      <persName key="amp_person_96">Clark, Thekla</persName>
                      <persName key="amp_person_97">Seitz, Maria</persName>
+                     <persName key="amp_person_98">Mendelson, Edward</persName>
                      <persName key="amp_person_156">Duncan, Bruce</persName>
                      <persName key="amp_person_169">Clark, Lisa</persName>
                      <persName key="amp_person_175">N/A_8,  "he whose name we never mention"</persName>
@@ -580,17 +576,16 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_38">
-                  <label>Party at Chester's</label>
+                  <label>Party at Chester Kallman's in Eslarngasse</label>
                   <desc>personal</desc>
                   <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
                      <persName key="amp_person_175">N/A_8,  "he whose name we never mention"</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_71">Esslarngasse</placeName>
+                        <placeName key="amp_place_id_71">Eslarngasse</placeName>
                      </location>
                      <location type="coords">
                         <geo>48.19498822750462, 16.393747926634855</geo>
@@ -802,6 +797,14 @@
                <event xml:id="amp_event_id_58" when="1965-01-05">
                   <label>Inzwischen</label>
                   <desc>professional</desc>
+               </event>
+               <event xml:id="amp_event_id_59" when="1951-03-21">
+                  <label>Congress for Cultural Freedom</label>
+                  <desc>professional</desc>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_8">Spender, Stephen</persName>
+                  </ab>
                </event>
             </listEvent>
          </div>

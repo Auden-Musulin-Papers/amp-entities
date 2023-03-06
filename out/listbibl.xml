@@ -728,7 +728,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_78">
-               <title>W.H. Auden in America</title>
+               <title>W. H. Auden in America</title>
                <author ref="#amp_person_84">
                   <persName>Wilson, Edmund</persName>
                </author>
@@ -754,14 +754,6 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1978">1978</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_81">
-               <title>Statement (to the Austrian tax authorities) Exp</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
-               </author>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -901,7 +893,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_98">
-               <title>W. H. Auden Statement to Austrian Tax Authorities (Trans, SM)</title>
+               <title>W. H. Auden Statement to Austrian Tax Authorities (Trans, Stella Musulin)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -909,7 +901,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_99">
-               <title>W. H. Auden Statement to Austrian Tax Authorities (Original, Auden)</title>
+               <title>Statement (to the Austrian tax authorities) (Expression: English original W. H. Auden)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -950,7 +942,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_104">
-               <title>Statement (to the Austrian tax authorities) (English re-translation SM)</title>
+               <title>Statement (to the Austrian tax authorities) (Expression: English re-translation Stella Musulin)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -958,15 +950,15 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_105">
-               <title>Statement (to the Austrian tax authorities Paul Bachmann)</title>
-               <author ref="#amp_person_194">
-                  <persName>Bachmann, Paul</persName>
+               <title>Statement (to the Austrian tax authorities)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
                </author>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_106">
-               <title>Statement (to the Austrian tax authorities). 1 (English Translation passage SM)</title>
+               <title>Statement (to the Austrian tax authorities). 1 (English Translation passage Stella Musulin)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -1205,6 +1197,15 @@
             </bibl>
             <bibl xml:id="lit_work_id_139">
                <title>Freedom and Necessity in the Arts (Expression: incomplete German translation by Janko Musulin, 1970)</title>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_140">
+               <title/>
+               <idno type="WIKIDATA"/>
+            </bibl>
+            <bibl xml:id="lit_work_id_141">
+               <title/>
                <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
