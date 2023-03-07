@@ -929,7 +929,7 @@
                <person xml:id="amp_person_45">
                   <persName>
                      <forename>Elizabeth von</forename>
-                     <surname>Hofmannsthal (née Paget)</surname>
+                     <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
                      <date when-iso="1916-10-16">1916-10-16</date>
@@ -959,7 +959,7 @@
                <person xml:id="amp_person_48">
                   <persName>
                      <forename>Diana</forename>
-                     <surname>Cooper (née Manners)</surname>
+                     <surname>Cooper</surname>
                   </persName>
                   <birth>
                      <date when-iso="1892-08-29">1892-08-29</date>
@@ -1713,6 +1713,7 @@
                         <placeName>Winchester</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/131850520</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q55590162</idno>
                </person>
                <person xml:id="amp_person_86">
@@ -1841,7 +1842,7 @@
                <person xml:id="amp_person_93">
                   <persName>
                      <forename>Elsa von</forename>
-                     <surname>Musulin (née Isbary)</surname>
+                     <surname>Musulin</surname>
                   </persName>
                   <listBibl>
                      <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
@@ -2526,7 +2527,7 @@
                <person xml:id="amp_person_141">
                   <persName>
                      <forename>Sonja Maria</forename>
-                     <surname>Lanier (née Etthofen)</surname>
+                     <surname>Lanier</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_142">
@@ -2606,7 +2607,7 @@
                <person xml:id="amp_person_146">
                   <persName>
                      <forename>Brigitta</forename>
-                     <surname>Etthofen (née Ravene)</surname>
+                     <surname>Etthofen</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_147">
@@ -3146,6 +3147,14 @@
                      <forename>August Wilhelm von</forename>
                      <surname>Schlegel</surname>
                   </persName>
+               </person>
+               <person xml:id="amp_person_203">
+                  <persName>
+                     <forename>Euripides</forename>
+                     <surname/>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/118531395</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q48305</idno>
                </person>
             </listPerson>
          </div>

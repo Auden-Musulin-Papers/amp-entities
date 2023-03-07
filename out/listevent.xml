@@ -223,24 +223,6 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_12" when="1968-10-15">
-                  <label>Hosting of Czech couple</label>
-                  <desc>personal</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                     <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_155">Langer, N/A_4</persName>
-                     <persName key="amp_person_171">Langer, N/A_5</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
-                     </location>
-                  </ab>
-               </event>
                <event xml:id="amp_event_id_14" when="1970-06-13">
                   <label>Wedding near Krems</label>
                   <desc>personal</desc>
@@ -406,7 +388,7 @@
                   <desc>personal</desc>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
-                     <persName key="amp_person_93">Musulin (née Isbary), Elsa von</persName>
+                     <persName key="amp_person_93">Musulin, Elsa von</persName>
                      <persName key="amp_person_94">Musulin, Marko</persName>
                      <persName key="amp_person_167">Musulin, Janko</persName>
                   </ab>
