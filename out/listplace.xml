@@ -1019,9 +1019,10 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2778067/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21871155</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4021912-4</idno>
                </place>
                <place xml:id="amp_place_id_69">
-                  <placeName>Loudoun Rd 15</placeName>
+                  <placeName>15 Loudoun Road</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -1039,6 +1040,7 @@
                      <geo>37.640004454026155, 21.82792838327145</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504030/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18572740</idno>
                </place>
                <place xml:id="amp_place_id_71">
                   <placeName>Eslarngasse</placeName>
@@ -1049,6 +1051,7 @@
                      <geo>48.19498822750462, 16.393747926634855</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503978/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q106193570</idno>
                </place>
                <place xml:id="amp_place_id_72">
                   <settlement type="H">
@@ -1094,7 +1097,7 @@
                   <location type="coords">
                      <geo>47.33917, 12.79821</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3323962/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2768323/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2242987</idno>
                </place>
                <place xml:id="amp_place_id_76">
@@ -1106,14 +1109,6 @@
                      <geo>47.33165026519955, 12.737574982944441</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504047/</idno>
-               </place>
-               <place xml:id="amp_place_id_77">
-                  <placeName>Holzweg 5</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503995/</idno>
-                  <note>she meant Hinterholz 6; Holzweg 5 is not valid</note>
                </place>
                <place xml:id="amp_place_id_79">
                   <settlement type="P">
@@ -1151,6 +1146,7 @@
                   <location type="coords">
                      <geo>48.20984379239084, 16.366032810986137</geo>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514727/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q262857</idno>
                </place>
                <place xml:id="amp_place_id_82">
@@ -1254,11 +1250,13 @@
                      <geo>48.20684423396885, 16.367020498634673</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504002/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3573245</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1068798920</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_89">
                   <settlement type="S">
-                     <placeName>Redoutensaal</placeName>
+                     <placeName>Redoutensaal (Hofburg)</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -1268,24 +1266,9 @@
                   <location type="coords">
                      <geo>48.20692, 16.36707</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/11993272/</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_90">
-                  <settlement type="A">
-                     <placeName>Leningrad</placeName>
-                  </settlement>
-                  <desc type="entity_type">country, state, region,...</desc>
-                  <country>RU, Russia</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_91">Russia</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>60, 32</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/536199/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2191</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4302147-5</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/6354988/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q61992451</idno>
+                  <idno type="GND">https://lobid.org/gnd/4452760-3</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_91">
@@ -1297,9 +1280,9 @@
                   <location type="coords">
                      <geo>60, 100</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2017370/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q159</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4076899-5</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/8354411/</idno>
+                  <idno type="WIKIDATA">https://en.wikipedia.org/wiki/Soviet_Union</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4077548-3</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_92">
@@ -1336,6 +1319,8 @@
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2768843/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q782708</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4046036-8</idno>
                   <note>48.06853036632306, 15.46661873099261</note>
                </place>
                <place xml:id="amp_place_id_95">
@@ -1403,10 +1388,6 @@
                   <idno type="GND">https://d-nb.info/gnd/4026722-2</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_99">
-                  <placeName>Middle Western college</placeName>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_100">
                   <settlement type="A">
                      <placeName>Czechoslovakia</placeName>
@@ -1435,18 +1416,6 @@
                   <idno type="GEONAMES">https://sws.geonames.org/264644/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q170054</idno>
                   <idno type="GND">https://d-nb.info/gnd/4002921-9</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_105">
-                  <placeName>University Hospital in St. Pölten</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_9">St. Pölten</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.2134347836188, 15.627764612451644</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503997/</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1802295</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_106">
@@ -1909,7 +1878,7 @@
                </place>
                <place xml:id="amp_place_id_135">
                   <settlement type="P">
-                     <placeName>Saint Petersburg</placeName>
+                     <placeName>Saint Petersburg (Leningrad)</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>RU, Russia</country>
@@ -2085,6 +2054,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2658123/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q22423755</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4499313-4</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_146">
@@ -2132,9 +2102,8 @@
                   <location type="coords">
                      <geo>34.33235, -79.95769</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/4576323/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q502285</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4727533-9</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/4576319/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q428231</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_149">
@@ -2150,13 +2119,12 @@
                      <geo>35.18592, -86.11221</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/4668336/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2012613</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4066250-0</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2012613</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_150">
                   <settlement type="P">
-                     <placeName>Kolkota</placeName>
+                     <placeName>Kolkata</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IN, India</country>
@@ -2201,23 +2169,6 @@
                   <idno type="GND">https://d-nb.info/gnd/4212652-6</idno>
                   <note>also known as Tananarive Iarivo Analamanga</note>
                </place>
-               <place xml:id="amp_place_id_153">
-                  <settlement type="S">
-                     <placeName>Trinity College</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>IE, Ireland</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_108">Dublin</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>53.34242, -6.25667</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/7302219/</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q332342</idno>
-                  <idno type="GND">https://d-nb.info/gnd/1010756-3</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_154">
                   <settlement type="P">
                      <placeName>Prague</placeName>
@@ -2251,7 +2202,7 @@
                </place>
                <place xml:id="amp_place_id_156">
                   <settlement type="A">
-                     <placeName>Vienna's 3rd Bezirk</placeName>
+                     <placeName>Landstraße</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
@@ -2318,14 +2269,15 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_160">
-                  <placeName>British Embassy in Vienna</placeName>
+                  <placeName>Embassy of the United Kingdom in Austria</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.19834902425164, 16.381447374432152</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503868/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514728/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q51722418</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_161">
@@ -2347,7 +2299,7 @@
                </place>
                <place xml:id="amp_place_id_162">
                   <settlement type="P">
-                     <placeName>Eisleben Lutherstad</placeName>
+                     <placeName>Eisleben Lutherstadt</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -2360,10 +2312,6 @@
                   <idno type="GEONAMES">https://sws.geonames.org/7284571/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q484870</idno>
                   <idno type="GND">https://d-nb.info/gnd/4092450-6</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_163">
-                  <placeName>Akenfield</placeName>
                   <note/>
                </place>
                <place xml:id="amp_place_id_164">
@@ -2463,7 +2411,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_170">
-                  <placeName>The Vicarage</placeName>
+                  <placeName>The Vicarage Crediton</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_216">Crediton</placeName>
                   </location>
@@ -2474,7 +2422,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_171">
-                  <placeName>39 Claremont Ave, apt 32</placeName>
+                  <placeName>39 Claremont Avenue, apt 32</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -2482,6 +2430,7 @@
                      <geo>40.810125765533726, -73.96418150148406</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503863/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5126299</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_172">
@@ -2504,6 +2453,7 @@
                      <geo>53.339912120136184, -6.256222616611612</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504004/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3558242</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_174">
@@ -2531,6 +2481,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2601183/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q251246</idno>
+                  <idno type="GND">https://d-nb.info/gnd/7598731-4</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_176">
@@ -2763,6 +2714,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2908597/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32054469</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4242646-7</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_191">
@@ -2790,7 +2742,7 @@
                   <location type="coords">
                      <geo>50.08803132166223, 14.42167365633837</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12504049/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/7289496/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q27017</idno>
                   <note/>
                </place>
@@ -2908,7 +2860,6 @@
                   <location type="coords">
                      <geo>56.1545, -3.9448</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/10341197/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3238037</idno>
                   <note/>
                </place>
@@ -2948,7 +2899,7 @@
                </place>
                <place xml:id="amp_place_id_202">
                   <settlement type="P">
-                     <placeName>Jönköping Town</placeName>
+                     <placeName>Jönköping</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>SE, Sweden</country>
@@ -3023,40 +2974,6 @@
                   <idno type="GEONAMES">https://sws.geonames.org/4954738/</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q533317</idno>
                   <idno type="GND">https://d-nb.info/gnd/4272433-8</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_207">
-                  <settlement type="S">
-                     <placeName>Beinecke Library</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>US, United States</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_208">Yale University</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>41.31149, -72.92705</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/5282166/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q814779</idno>
-                  <idno type="GND">https://d-nb.info/gnd/1097100-2</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_208">
-                  <settlement type="S">
-                     <placeName>Yale University</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>US, United States</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_15">United States of America</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>41.31121, -72.92649</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/4846179/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q49112</idno>
-                  <idno type="GND">https://d-nb.info/gnd/36828-3</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_209">
@@ -3328,7 +3245,7 @@
                   <placeName>Nevsky Prospect</placeName>
                   <country>RU, Russia</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_135">Saint Petersburg</placeName>
+                     <placeName key="amp_place_id_135">Saint Petersburg (Leningrad)</placeName>
                   </location>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q382500</idno>
                   <idno type="GND">https://d-nb.info/gnd/4214692-6</idno>
@@ -3348,7 +3265,7 @@
                   <placeName>Esslingasse</placeName>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_156">Vienna's 3rd Bezirk</placeName>
+                     <placeName key="amp_place_id_156">Landstraße</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.21586580163302, 16.369830784659687</geo>
