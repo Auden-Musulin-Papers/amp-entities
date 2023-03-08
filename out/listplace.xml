@@ -2860,6 +2860,7 @@
                   <location type="coords">
                      <geo>56.1545, -3.9448</geo>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514731/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3238037</idno>
                   <note/>
                </place>
@@ -3474,6 +3475,20 @@
                </place>
                <place xml:id="amp_place_id_261">
                   <placeName>Hauptpostamt</placeName>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_262">
+                  <placeName>Hanover</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/6559065/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1715</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4023349-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_263">
+                  <placeName>Garmisch-Partenkirchen</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2922530/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q127043</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4019275-1</idno>
                   <note/>
                </place>
             </listPlace>

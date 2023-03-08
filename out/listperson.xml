@@ -2675,6 +2675,20 @@
                      <forename>Richard</forename>
                      <surname>Strauss</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1864-06-11">1864-06-11</date>
+                     <settlement key="amp_place_id_26">
+                        <placeName>Munich</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1949-09-08">1949-09-08</date>
+                     <settlement key="amp_place_id_263">
+                        <placeName>Garmisch-Partenkirchen</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11861911X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q13894</idno>
                </person>
                <person xml:id="amp_person_155">
                   <persName>
@@ -2700,6 +2714,7 @@
                   <death>
                      <date when-iso="1970-03-14">1970-03-14</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/117542784</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5363177</idno>
                   <listBibl>
                      <bibl n="lit_work_id_71">Italian Journey</bibl>
@@ -2733,7 +2748,6 @@
                      <forename>Maureen</forename>
                      <surname>Walters</surname>
                   </persName>
-                  <idno type="WIKIDATA">https://duotrope.com/listing/24582/maureen-walters</idno>
                </person>
                <person xml:id="amp_person_160">
                   <persName>
@@ -2845,6 +2859,7 @@
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/115753761</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q55845153</idno>
                </person>
                <person xml:id="amp_person_168">
                   <persName>
@@ -2910,6 +2925,8 @@
                         <placeName>Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
+                  <idno type="GND">https://d-nb.info/gnd/119200015</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q106600</idno>
                   <listBibl>
                      <bibl n="lit_work_id_89">Josef Weinheber   (Expression: German translation by Herbert Heckmann. Neue Rundschau  76:3(1965))</bibl>
                   </listBibl>
@@ -3025,6 +3042,10 @@
                      <forename>Constance Rosalie</forename>
                      <surname>Bicknell</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1869-02-13">1869-02-13</date>
+                  </birth>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
                </person>
                <person xml:id="amp_person_190">
                   <persName>
@@ -3051,6 +3072,7 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/117492140</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6968502</idno>
                </person>
                <person xml:id="amp_person_192">
@@ -3063,12 +3085,6 @@
                   <persName>
                      <forename>Alexander</forename>
                      <surname>Tacoli</surname>
-                  </persName>
-               </person>
-               <person xml:id="amp_person_194">
-                  <persName>
-                     <forename>Paul</forename>
-                     <surname>Bachmann</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_195">
@@ -3088,6 +3104,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">http://www.wikidata.org/entity/Q1227273</idno>
+                  <idno type="WIKIDATA">https://d-nb.info/gnd/122305531</idno>
                   <listBibl>
                      <bibl n="lit_work_id_111">London Labour and the London Poor</bibl>
                   </listBibl>
@@ -3109,6 +3127,7 @@
                         <placeName>Berlin</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/118540041</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q41749</idno>
                </person>
                <person xml:id="amp_person_197">
@@ -3141,12 +3160,40 @@
                      <forename>Ludwig</forename>
                      <surname>Tieck</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1773-05-31">1773-05-31</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1853-04-28">1853-04-28</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/12989432X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57239</idno>
                </person>
                <person xml:id="amp_person_202">
                   <persName>
                      <forename>August Wilhelm von</forename>
                      <surname>Schlegel</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1767-09-08">1767-09-08</date>
+                     <settlement key="amp_place_id_262">
+                        <placeName>Hanover</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1845-05-12">1845-05-12</date>
+                     <settlement key="amp_place_id_58">
+                        <placeName>Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118607960</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57281</idno>
                </person>
                <person xml:id="amp_person_203">
                   <persName>
