@@ -2995,14 +2995,15 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_210">
-                  <placeName>Traumansburg 19</placeName>
+                  <placeName>Trumansburg</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
                   <location type="coords">
                      <geo>42.46259177654697, -76.53062245912945</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12504052/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/5141508/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q3452563</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_211">
@@ -3014,13 +3015,8 @@
                      <geo>48.208783977078866, 16.36615424096451</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503987/</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_212">
-                  <placeName>Figaro Saal</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_85">Palais Pálffy</placeName>
-                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q697103</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4802115-5</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_213">
@@ -3058,7 +3054,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_215">
-                  <placeName>2 St. Julian's Street</placeName>
+                  <placeName>2 St Julian's Street</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_213">Tenby</placeName>
                   </location>
@@ -3086,7 +3082,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_217">
-                  <placeName>Alserstrasse 48/31</placeName>
+                  <placeName>Alser Straße 48</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -3094,23 +3090,8 @@
                      <geo>48.21561434780695, 16.34315160048035</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503866/</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_218">
-                  <settlement type="S">
-                     <placeName>Burgtheater</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.2102, 16.36087</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/6354992/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q109377820</idno>
-                  <idno type="GND">https://d-nb.info/gnd/1031490280</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2651453</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1068799889</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_219">
@@ -3156,6 +3137,8 @@
                      <geo>40.762125992842755, -73.97248554818371</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503864/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q109849</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4597686-7</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_222">
@@ -3197,6 +3180,7 @@
                      <geo>48.18723668171942, 16.36847668650523</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504001/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q106193865</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_225">
@@ -3211,17 +3195,10 @@
                   <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</idno>
                   <note>https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</note>
                </place>
-               <place xml:id="amp_place_id_226">
-                  <placeName>Edom</placeName>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208475</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4355330-8</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_227">
                   <placeName>Jericho</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/284899/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5687</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4028579-0</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_228">
@@ -3253,7 +3230,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_231">
-                  <placeName>Festspielhaus</placeName>
+                  <placeName>Großes Festspielhaus</placeName>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
@@ -3262,20 +3239,8 @@
                   <idno type="GND">https://d-nb.info/gnd/4224678-7</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_233">
-                  <placeName>Esslingasse</placeName>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_156">Landstraße</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.21586580163302, 16.369830784659687</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503981/</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_234">
-                  <placeName>Kensigton</placeName>
+                  <placeName>Kensington</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -3285,7 +3250,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_235">
-                  <placeName>Kärtnerstrasse</placeName>
+                  <placeName>Kärntner Straße</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -3293,6 +3258,8 @@
                      <geo>48.20467964011737, 16.370679715340312</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12504006/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q699947</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4363985-9</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_236">
@@ -3303,14 +3270,16 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_237">
-                  <placeName>Devon EX17 2AS</placeName>
+                  <placeName>Devon</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>50.7914689136201, -3.6594549039790696</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503876/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/11609025/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q23156</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4070441-5</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_238">
@@ -3389,11 +3358,13 @@
                   <placeName>East Village</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/5116093/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1043326</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4440776-2</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_248">
                   <placeName>39 Claremont Ave, apt 31</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/12503863/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5126299</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_249">
@@ -3401,7 +3372,7 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
-                  <idno type="GEONAMES">geonames.org/2963597/ireland.html</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2963597/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q22890</idno>
                   <idno type="GND">https://d-nb.info/gnd/4027667-3</idno>
                   <note/>
@@ -3417,6 +3388,7 @@
                   <placeName>Perschling (stream)</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/2769061/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2071869</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4802137-4</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_252">
@@ -3425,26 +3397,29 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_253">
-                  <placeName>Leystraße 23/13/16</placeName>
+                  <placeName>Leystraße 23</placeName>
                   <location type="coords">
                      <geo>48.245897656186635, 16.37560888650667</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12514713/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q106194037</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_254">
                   <placeName>Loretto</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/7871546/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q201148</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4821001-8</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4437428-8</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_255">
                   <placeName>Hinterholz/Audenstraße</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/11704028/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q110768231</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_256">
-                  <placeName>Zeller See</placeName>
+                  <placeName>Lake Zell</placeName>
                   <idno type="GEONAMES">https://sws.geonames.org/2760620/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q187763</idno>
                   <idno type="GND">https://d-nb.info/gnd/4389973-0</idno>
@@ -3458,7 +3433,6 @@
                </place>
                <place xml:id="amp_place_id_258">
                   <placeName>Fallegg</placeName>
-                  <idno type="GEONAMES">https://sws.geonames.org/10353164/</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_259">
@@ -3475,6 +3449,7 @@
                </place>
                <place xml:id="amp_place_id_261">
                   <placeName>Hauptpostamt</placeName>
+                  <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Hauptpostamt</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_262">
@@ -3489,6 +3464,12 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2922530/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q127043</idno>
                   <idno type="GND">https://d-nb.info/gnd/4019275-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_264">
+                  <placeName>Edom</placeName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208475</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4355330-8</idno>
                   <note/>
                </place>
             </listPlace>

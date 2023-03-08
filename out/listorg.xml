@@ -288,10 +288,10 @@
                <org xml:id="amp_organization_22">
                   <orgName>Crossing Cards</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_209">California</placeName>
+                     <placeName key="amp_place_id_210">Trumansburg</placeName>
                   </location>
                   <location type="coords">
-                     <geo>34.68743, -116.78467</geo>
+                     <geo>42.46259177654697, -76.53062245912945</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7699319</idno>
                   <note>formerly known as Crossing Press, now it is acquired by Ten Speed Press</note>
@@ -618,6 +618,17 @@
                   <orgName>Middle Western College</orgName>
                   <idno type="WIKIDATA"/>
                   <note/>
+               </org>
+               <org xml:id="amp_organization_59">
+                  <orgName>Burgtheater</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q109377820</idno>
+                  <note>https://d-nb.info/gnd/1031490280</note>
                </org>
             </listOrg>
          </div>

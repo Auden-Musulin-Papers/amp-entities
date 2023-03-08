@@ -137,8 +137,8 @@
                   </birth>
                   <death>
                      <date when-iso="1996-01-21">1996-01-21</date>
-                     <settlement key="amp_place_id_1">
-                        <placeName>Vienna</placeName>
+                     <settlement key="amp_place_id_7">
+                        <placeName>Fridau (Schloss Fridau)</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/127246711</idno>
@@ -284,7 +284,7 @@
                   <birth>
                      <date when-iso="1909-02-28">1909-02-28</date>
                      <settlement key="amp_place_id_234">
-                        <placeName>Kensigton</placeName>
+                        <placeName>Kensington</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -509,6 +509,9 @@
                      <forename>Josef</forename>
                      <surname>Enzinger</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1923-02-17">1923-02-17</date>
+                  </birth>
                </person>
                <person xml:id="amp_person_23">
                   <persName>
@@ -600,7 +603,7 @@
                   <death>
                      <date when-iso="1965-01-04">1965-01-04</date>
                      <settlement key="amp_place_id_234">
-                        <placeName>Kensigton</placeName>
+                        <placeName>Kensington</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118529854</idno>
@@ -611,8 +614,8 @@
                </person>
                <person xml:id="amp_person_28">
                   <persName>
-                     <forename>Buonarroti</forename>
-                     <surname>Michelangelo</surname>
+                     <forename>Michelangelo</forename>
+                     <surname>Buonarroti</surname>
                   </persName>
                   <birth>
                      <date when-iso="1475-03-06">1475-03-06</date>
@@ -689,7 +692,7 @@
                      <surname>Johnson</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1709-09-18">1709-09-18</date>
+                     <date when-iso="1708-09-18">1708-09-18</date>
                      <settlement key="amp_place_id_61">
                         <placeName>Lichfield</placeName>
                      </settlement>
@@ -901,8 +904,17 @@
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1881-03-16">1881-03-16</date>
+                     <date when-iso="1880-03-16">1880-03-16</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="1959-11-09">1959-11-09</date>
+                     <settlement key="amp_place_id_220">
+                        <placeName>Paddington</placeName>
+                     </settlement>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/116952199</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76361745</idno>
                </person>
@@ -932,11 +944,12 @@
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1916-10-16">1916-10-16</date>
+                     <date when-iso="1916-10-28">1916-10-28</date>
                   </birth>
                   <death>
                      <date when-iso="1980-03-28">1980-03-28</date>
                   </death>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75311853</idno>
                </person>
                <person xml:id="amp_person_46">
                   <persName>
@@ -944,7 +957,7 @@
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1942-01-11">1942-01-11</date>
+                     <date when-iso="1942-01-14">1942-01-14</date>
                   </birth>
                </person>
                <person xml:id="amp_person_47">
@@ -955,6 +968,7 @@
                   <birth>
                      <date when-iso="1946-02-13">1946-02-13</date>
                   </birth>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75311857</idno>
                </person>
                <person xml:id="amp_person_48">
                   <persName>
@@ -1328,19 +1342,19 @@
                      <surname>Hesse</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1936-01-11">1936-01-11</date>
-                     <settlement key="amp_place_id_126">
-                        <placeName>Hamburg</placeName>
+                     <date when-iso="1925-03-02">1925-03-02</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1970-05-29">1970-05-29</date>
-                     <settlement key="amp_place_id_28">
-                        <placeName>New York City</placeName>
+                     <date when-iso="2020-03-30">2020-03-30</date>
+                     <settlement key="amp_place_id_26">
+                        <placeName>Munich</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/122585119</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q215457</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1379218</idno>
                   <listBibl>
                      <bibl n="lit_work_id_130">Cantos I-XXX</bibl>
                      <bibl n="lit_work_id_131">Die Pisaner Gesänge</bibl>
@@ -1454,7 +1468,7 @@
                </person>
                <person xml:id="amp_person_73">
                   <persName>
-                     <forename>Francis</forename>
+                     <forename>François</forename>
                      <surname>Bondy</surname>
                   </persName>
                   <birth>
@@ -1514,8 +1528,8 @@
                </person>
                <person xml:id="amp_person_76">
                   <persName>
-                     <forename>Andrej</forename>
-                     <surname>Sacharow</surname>
+                     <forename>Andrei</forename>
+                     <surname>Sakharov</surname>
                   </persName>
                   <birth>
                      <date when-iso="1921-05-21">1921-05-21</date>
@@ -1531,26 +1545,6 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118642111</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q997</idno>
-               </person>
-               <person xml:id="amp_person_77">
-                  <persName>
-                     <forename>Arnold</forename>
-                     <surname>Toynbee</surname>
-                  </persName>
-                  <birth>
-                     <date when-iso="1889-04-14">1889-04-14</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date when-iso="1975-10-22">1975-10-22</date>
-                     <settlement key="amp_place_id_3">
-                        <placeName>York</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/118623532</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q185381</idno>
                </person>
                <person xml:id="amp_person_78">
                   <persName>
@@ -1704,11 +1698,17 @@
                </person>
                <person xml:id="amp_person_85">
                   <persName>
-                     <forename>Monroe</forename>
+                     <forename>Monroe K.</forename>
                      <surname>Spears</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1916-04-28">1916-04-28</date>
+                     <settlement key="amp_place_id_148">
+                        <placeName>Darlington</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date when-iso="1988-05-23">1988-05-23</date>
+                     <date when-iso="1998-05-23">1998-05-23</date>
                      <settlement key="amp_place_id_149">
                         <placeName>Winchester</placeName>
                      </settlement>
@@ -1758,7 +1758,7 @@
                </person>
                <person xml:id="amp_person_88">
                   <persName>
-                     <forename>John</forename>
+                     <forename>John Bicknell</forename>
                      <surname>Auden</surname>
                   </persName>
                   <birth>
@@ -1770,13 +1770,15 @@
                   <death>
                      <date when-iso="1991-01-21">1991-01-21</date>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1089340591</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q14946819</idno>
                </person>
                <person xml:id="amp_person_89">
                   <persName>
-                     <forename>David</forename>
+                     <forename>Frederic Davey [David]</forename>
                      <surname>Luke</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/129219827</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q18526943</idno>
                </person>
                <person xml:id="amp_person_90">
@@ -1801,7 +1803,7 @@
                </person>
                <person xml:id="amp_person_91">
                   <persName>
-                     <forename>Philipp</forename>
+                     <forename>Philip</forename>
                      <surname>Toynbee</surname>
                   </persName>
                   <birth>
@@ -1853,6 +1855,13 @@
                      <forename>Marko</forename>
                      <surname>Musulin</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1948-01-11">1948-01-11</date>
+                     <settlement key="amp_place_id_4">
+                        <placeName>Dale</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="GND">https://d-nb.info/gnd/137925816</idno>
                </person>
                <person xml:id="amp_person_95">
                   <persName>
@@ -1898,19 +1907,7 @@
                      <forename>Michael</forename>
                      <surname>O'Sullivan</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1934-03-04">1934-03-04</date>
-                     <settlement key="amp_place_id_184">
-                        <placeName>Los Angeles</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date when-iso="1971-07-24">1971-07-24</date>
-                     <settlement key="amp_place_id_161">
-                        <placeName>San Francisco</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q16007105</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1173017283</idno>
                </person>
                <person xml:id="amp_person_100">
                   <persName>
@@ -1959,17 +1956,17 @@
                      <bibl n="lit_work_id_109">Luther Bible</bibl>
                   </listBibl>
                </person>
-               <person xml:id="amp_person_103">
-                  <persName>
-                     <forename>Mrs.</forename>
-                     <surname>Wandl</surname>
-                  </persName>
-               </person>
                <person xml:id="amp_person_105">
                   <persName>
                      <forename>Leif</forename>
                      <surname>Sjöberg</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1925-12-15">1925-12-15</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2000-11-20">2000-11-20</date>
+                  </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q104370574</idno>
                   <listBibl>
                      <bibl n="lit_work_id_29">Markings</bibl>
@@ -2008,12 +2005,6 @@
                   <persName>
                      <forename>Franz Josef</forename>
                      <surname>Lustkandl</surname>
-                  </persName>
-               </person>
-               <person xml:id="amp_person_110">
-                  <persName>
-                     <forename>Lucia</forename>
-                     <surname>N/A_4</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_111">
@@ -2055,29 +2046,6 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119265311</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87277</idno>
-               </person>
-               <person xml:id="amp_person_113">
-                  <persName>
-                     <forename>Thomas</forename>
-                     <surname>Cranmer</surname>
-                  </persName>
-                  <birth>
-                     <date when-iso="1489-07-02">1489-07-02</date>
-                     <settlement key="amp_place_id_167">
-                        <placeName>Nottingham</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date when-iso="1556-03-21">1556-03-21</date>
-                     <settlement key="amp_place_id_46">
-                        <placeName>Oxford</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/118670468</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q199894</idno>
-                  <listBibl>
-                     <bibl n="lit_work_id_13">Book of Common Prayer</bibl>
-                  </listBibl>
                </person>
                <person xml:id="amp_person_114">
                   <persName>
@@ -2159,6 +2127,7 @@
                      <forename>Peter</forename>
                      <surname>Müller</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/130202290</idno>
                   <listBibl>
                      <bibl n="lit_work_id_114">The untitled volume edited by Peter Müller on Auden's life in Austria</bibl>
                   </listBibl>
@@ -2252,7 +2221,7 @@
                <person xml:id="amp_person_125">
                   <persName>
                      <forename>Maurice</forename>
-                     <surname>Field</surname>
+                     <surname>Feild</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6793071</idno>
                </person>
