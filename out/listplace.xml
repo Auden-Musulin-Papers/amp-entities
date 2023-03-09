@@ -1281,7 +1281,7 @@
                      <geo>60, 100</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/8354411/</idno>
-                  <idno type="WIKIDATA">https://en.wikipedia.org/wiki/Soviet_Union</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q15180</idno>
                   <idno type="GND">https://d-nb.info/gnd/4077548-3</idno>
                   <note/>
                </place>
@@ -3158,19 +3158,6 @@
                   <idno type="GND">https://d-nb.info/gnd/4117854-3</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_223">
-                  <placeName>Künstlerhaus</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20120839568255, 16.371684430683988</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12504005/</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q284902</idno>
-                  <idno type="GND">https://d-nb.info/gnd/2100204-6</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_224">
                   <placeName>Johann-Strauß-Gasse 28</placeName>
                   <location type="located_in_place">
@@ -3192,7 +3179,6 @@
                      <geo>48.20378854425725, 16.37118272746974</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503998/</idno>
-                  <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</idno>
                   <note>https://www.geschichtewiki.wien.gv.at/Altenburger_Hof</note>
                </place>
                <place xml:id="amp_place_id_227">
@@ -3208,35 +3194,15 @@
                   <idno type="GND">https://d-nb.info/gnd/4267827-4</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_229">
-                  <placeName>Museum of Natural History</placeName>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12504032/</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q688704</idno>
-                  <idno type="GND">https://d-nb.info/gnd/35915-4</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_230">
                   <placeName>Nevsky Prospect</placeName>
                   <country>RU, Russia</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_135">Saint Petersburg (Leningrad)</placeName>
                   </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514767/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q382500</idno>
                   <idno type="GND">https://d-nb.info/gnd/4214692-6</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_231">
-                  <placeName>Großes Festspielhaus</placeName>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_9">St. Pölten</placeName>
-                  </location>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q669768</idno>
-                  <idno type="GND">https://d-nb.info/gnd/4224678-7</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_234">
@@ -3449,6 +3415,7 @@
                </place>
                <place xml:id="amp_place_id_261">
                   <placeName>Hauptpostamt</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/12514766/</idno>
                   <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Hauptpostamt</idno>
                   <note/>
                </place>
@@ -3470,6 +3437,41 @@
                   <placeName>Edom</placeName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208475</idno>
                   <idno type="GND">https://d-nb.info/gnd/4355330-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_265">
+                  <placeName>Marquardt</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2873221/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q896887</idno>
+                  <idno type="GND">https://d-nb.info/gnd/1246123975</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_266">
+                  <placeName>Winona</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/5053156/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q773527</idno>
+                  <idno type="GND">https://d-nb.info/gnd/7735547-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_267">
+                  <placeName>Düsseldorf</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1718</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4013255-9</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_268">
+                  <placeName>Chernivtsi</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/710719/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q157725</idno>
+                  <idno type="GND">https://d-nb.info/gnd/63628-9</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_269">
+                  <placeName>Birmingham</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2655603/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2256</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4006934-5</idno>
                   <note/>
                </place>
             </listPlace>

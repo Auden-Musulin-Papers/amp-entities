@@ -71,6 +71,13 @@
                </org>
                <org xml:id="amp_organization_2">
                   <orgName>American Academy of Arts and Letters</orgName>
+                  <desc>Was founded in year 1899.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.78343, -73.96625</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q463281</idno>
                </org>
                <org xml:id="amp_organization_4">
@@ -187,18 +194,6 @@
                      <geo>51.50853, -0.12574</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q370233</idno>
-                  <note/>
-               </org>
-               <org xml:id="amp_organization_14">
-                  <orgName>Kunstlerhaus</orgName>
-                  <desc>Was founded in year 1868.</desc>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
-                  </location>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q284902</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_15">
@@ -565,6 +560,12 @@
                </org>
                <org xml:id="amp_organization_49">
                   <orgName>The Times</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q50008</idno>
                   <note/>
                </org>
@@ -580,6 +581,12 @@
                </org>
                <org xml:id="amp_organization_52">
                   <orgName>Fire brigade of Vienna</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q828871</idno>
                   <note/>
                </org>
@@ -590,7 +597,13 @@
                </org>
                <org xml:id="amp_organization_54">
                   <orgName>London Underground</orgName>
-                  <idno type="WIKIDATA"/>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20075</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_55">
@@ -629,6 +642,45 @@
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q109377820</idno>
                   <note>https://d-nb.info/gnd/1031490280</note>
+               </org>
+               <org xml:id="amp_organization_60">
+                  <orgName>Künstlerhaus</orgName>
+                  <desc>Was founded in year 1868.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q284902</idno>
+                  <note>https://d-nb.info/gnd/2100204-6</note>
+               </org>
+               <org xml:id="amp_organization_61">
+                  <orgName>Museum of Natural History</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q688704</idno>
+                  <note>https://d-nb.info/gnd/35915-4</note>
+               </org>
+               <org xml:id="amp_organization_62">
+                  <orgName>Großes Festspielhaus</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_37">Salzburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.79941, 13.04399</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q669768</idno>
+                  <note>https://d-nb.info/gnd/4224678-7</note>
+               </org>
+               <org xml:id="amp_organization_63">
+                  <orgName/>
+                  <idno type="WIKIDATA"/>
+                  <note/>
                </org>
             </listOrg>
          </div>

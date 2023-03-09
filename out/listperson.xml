@@ -654,8 +654,8 @@
                </person>
                <person xml:id="amp_person_30">
                   <persName>
-                     <forename/>
-                     <surname>Plato</surname>
+                     <forename>Plato</forename>
+                     <surname/>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
@@ -2545,6 +2545,7 @@
                         <placeName>Aldeburgh</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/1171154623</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6273178</idno>
                   <listBibl>
                      <bibl n="lit_work_id_36">The Rise and Fall of the British Nanny</bibl>
@@ -2578,6 +2579,18 @@
                      <forename>Brigitta</forename>
                      <surname>Etthofen</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1893-05-20">1893-05-20</date>
+                     <settlement key="amp_place_id_265">
+                        <placeName>Marquardt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1986-03-03">1986-03-03</date>
+                     <settlement key="amp_place_id_74">
+                        <placeName>Zell am See</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_147">
                   <persName>
@@ -2604,9 +2617,15 @@
                   </persName>
                   <birth>
                      <date when-iso="1919-06-29">1919-06-29</date>
+                     <settlement key="amp_place_id_266">
+                        <placeName>Winona</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="2003-10-23">2003-10-23</date>
+                     <settlement key="amp_place_id_168">
+                        <placeName>Manhattan</placeName>
+                     </settlement>
                   </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q96073363</idno>
                   <listBibl>
@@ -2618,6 +2637,20 @@
                      <forename>Edith</forename>
                      <surname>Silbermann</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1921-11-10">1921-11-10</date>
+                     <settlement key="amp_place_id_268">
+                        <placeName>Chernivtsi</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2008-07-02">2008-07-02</date>
+                     <settlement key="amp_place_id_267">
+                        <placeName>Düsseldorf</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/113123302</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q108811081</idno>
                </person>
                <person xml:id="amp_person_152">
                   <persName>
@@ -2707,6 +2740,7 @@
                         <placeName>Paddington</placeName>
                      </settlement>
                   </death>
+                  <idno type="GND">https://d-nb.info/gnd/129569321</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q408758</idno>
                   <listBibl>
                      <bibl n="lit_work_id_119">The Double Man, a portrait of W. H. Auden on Radio 3</bibl>
@@ -3004,6 +3038,12 @@
                      <forename>George Augustus</forename>
                      <surname>Auden</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1872-08-27">1872-08-27</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1957-05-03">1957-05-03</date>
+                  </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5536493</idno>
                </person>
                <person xml:id="amp_person_184">
@@ -3013,6 +3053,9 @@
                   </persName>
                   <birth>
                      <date when-iso="1869-02-13">1869-02-13</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
                   </birth>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
                </person>

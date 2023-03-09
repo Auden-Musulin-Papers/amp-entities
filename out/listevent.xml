@@ -341,14 +341,6 @@
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_99">O'Sullivan, Michael</persName>
                   </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_223">Künstlerhaus</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20120839568255, 16.371684430683988</geo>
-                     </location>
-                  </ab>
                </event>
                <event xml:id="amp_event_id_22">
                   <label>Visit by Stella Musulin and Friedrich Heer to Hinterholz 6</label>
@@ -443,11 +435,6 @@
                   <desc>professional</desc>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_229">Museum of Natural History</placeName>
-                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_30" when="1966-01-01">
