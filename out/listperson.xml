@@ -1868,12 +1868,36 @@
                      <forename>John</forename>
                      <surname>Clark</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1929-02-04">1929-02-04</date>
+                     <settlement key="amp_place_id_271">
+                        <placeName>Albany, Georgia</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2004-03-04">2004-03-04</date>
+                     <settlement key="amp_place_id_14">
+                        <placeName>Florence</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_96">
                   <persName>
                      <forename>Thekla</forename>
                      <surname>Clark</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1922-10-26">1922-10-26</date>
+                     <settlement key="amp_place_id_270">
+                        <placeName>Oklahoma City</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2019-05-30">2019-05-30</date>
+                     <settlement key="amp_place_id_14">
+                        <placeName>Florence</placeName>
+                     </settlement>
+                  </death>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62566483</idno>
                </person>
                <person xml:id="amp_person_97">
@@ -2881,6 +2905,9 @@
                      <forename>Lisa</forename>
                      <surname>Clark</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1950-01-31">1950-01-31</date>
+                  </birth>
                </person>
                <person xml:id="amp_person_170">
                   <persName>
