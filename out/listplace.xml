@@ -79,9 +79,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_255">Hinterholz/Audenstraße</placeName>
-                  </location>
                   <location type="coords">
                      <geo>48.181531884216675, 15.811512574434994</geo>
                   </location>
@@ -3189,6 +3186,9 @@
                </place>
                <place xml:id="amp_place_id_228">
                   <placeName>Neuilly-sur-Seine</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_83">France</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2990611/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q48958</idno>
                   <idno type="GND">https://d-nb.info/gnd/4267827-4</idno>
@@ -3308,6 +3308,9 @@
                </place>
                <place xml:id="amp_place_id_245">
                   <placeName>Innsbruck</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/7871498/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1735</idno>
                   <idno type="GND">https://d-nb.info/gnd/4027096-8</idno>
@@ -3421,6 +3424,9 @@
                </place>
                <place xml:id="amp_place_id_262">
                   <placeName>Hanover</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Germany</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/6559065/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1715</idno>
                   <idno type="GND">https://d-nb.info/gnd/4023349-2</idno>
@@ -3455,6 +3461,9 @@
                </place>
                <place xml:id="amp_place_id_267">
                   <placeName>Düsseldorf</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Germany</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2934246/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1718</idno>
                   <idno type="GND">https://d-nb.info/gnd/4013255-9</idno>
@@ -3469,6 +3478,9 @@
                </place>
                <place xml:id="amp_place_id_269">
                   <placeName>Birmingham</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2655603/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2256</idno>
                   <idno type="GND">https://d-nb.info/gnd/4006934-5</idno>
@@ -3476,6 +3488,9 @@
                </place>
                <place xml:id="amp_place_id_270">
                   <placeName>Oklahoma City</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/4544349/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q34863</idno>
                   <idno type="GND">https://d-nb.info/gnd/4043423-0</idno>
@@ -3483,6 +3498,9 @@
                </place>
                <place xml:id="amp_place_id_271">
                   <placeName>Albany, Georgia</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/4179320/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q285599</idno>
                   <idno type="GND">https://d-nb.info/gnd/16344360-9</idno>
