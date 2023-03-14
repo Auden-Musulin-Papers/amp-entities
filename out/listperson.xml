@@ -1908,6 +1908,15 @@
                      <forename>Maria</forename>
                      <surname>Seitz</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1916-05-09">1916-05-09</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1970-06-16">1970-06-16</date>
+                     <settlement key="amp_place_id_9">
+                        <placeName>St. Pölten</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_98">
                   <persName>
@@ -3196,6 +3205,18 @@
                      <forename>Josef</forename>
                      <surname>Seitz</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1919-09-05">1919-09-05</date>
+                     <settlement key="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1986-11-08">1986-11-08</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_201">
                   <persName>
