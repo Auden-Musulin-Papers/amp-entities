@@ -3245,6 +3245,26 @@
                   <idno type="GND">https://d-nb.info/gnd/118531395</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q48305</idno>
                </person>
+               <person xml:id="amp_person_204">
+                  <persName>
+                     <forename>Christine</forename>
+                     <surname>Busta</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1915-04-23">1915-04-23</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1987-12-03">1987-12-03</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119022354</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q87991</idno>
+               </person>
             </listPerson>
          </div>
       </body>
