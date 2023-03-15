@@ -1824,26 +1824,6 @@
                   <idno type="GND">https://d-nb.info/gnd/117421413</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7184481</idno>
                </person>
-               <person xml:id="amp_person_92">
-                  <persName>
-                     <forename>Simon</forename>
-                     <surname>Claude</surname>
-                  </persName>
-                  <birth>
-                     <date when-iso="1913-10-10">1913-10-10</date>
-                     <settlement key="amp_place_id_152">
-                        <placeName>Antananarivo</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date when-iso="2005-07-06">2005-07-06</date>
-                     <settlement key="amp_place_id_84">
-                        <placeName>Paris</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="GND">https://d-nb.info/gnd/118614452</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q131549</idno>
-               </person>
                <person xml:id="amp_person_93">
                   <persName>
                      <forename>Elsa von</forename>
@@ -2919,6 +2899,9 @@
                   </persName>
                   <birth>
                      <date when-iso="1950-01-31">1950-01-31</date>
+                     <settlement key="amp_place_id_184">
+                        <placeName>Los Angeles</placeName>
+                     </settlement>
                   </birth>
                </person>
                <person xml:id="amp_person_170">
