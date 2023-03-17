@@ -2625,6 +2625,8 @@
                      <forename>Dorian</forename>
                      <surname>Gray</surname>
                   </persName>
+                  <idno type="GND">https://d-nb.info/gnd/132210649</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q30611756</idno>
                </person>
                <person xml:id="amp_person_150">
                   <persName>
@@ -2862,7 +2864,7 @@
                </person>
                <person xml:id="amp_person_167">
                   <persName>
-                     <forename>Janko</forename>
+                     <forename>Janko von</forename>
                      <surname>Musulin</surname>
                   </persName>
                   <birth>
@@ -2958,7 +2960,7 @@
                </person>
                <person xml:id="amp_person_174">
                   <persName>
-                     <forename>a Friend of Auden who teaches schyzophrenics</forename>
+                     <forename>"friend of [Auden] who teaches schyzophrenics"</forename>
                      <surname>N/A_7</surname>
                   </persName>
                </person>
@@ -2997,7 +2999,7 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/4006499-2</idno>
+                  <idno type="GND">https://d-nb.info/gnd/118581465</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q45662</idno>
                </person>
                <person xml:id="amp_person_179">
@@ -3051,7 +3053,7 @@
                </person>
                <person xml:id="amp_person_182">
                   <persName>
-                     <forename>the square-headed commissar type from Moscow</forename>
+                     <forename>"the square-headed commissar type from Moscow"</forename>
                      <surname>N/A_11</surname>
                   </persName>
                </person>
@@ -3083,8 +3085,8 @@
                </person>
                <person xml:id="amp_person_190">
                   <persName>
-                     <forename>the Apostle/Saint</forename>
-                     <surname>Paul</surname>
+                     <forename>Paul</forename>
+                     <surname>the Apostle</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/118641549</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q9200</idno>
@@ -3138,8 +3140,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">http://www.wikidata.org/entity/Q1227273</idno>
-                  <idno type="WIKIDATA">https://d-nb.info/gnd/122305531</idno>
+                  <idno type="GND">https://d-nb.info/gnd/122305531</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1227273</idno>
                   <listBibl>
                      <bibl n="lit_work_id_111">London Labour and the London Poor</bibl>
                   </listBibl>
