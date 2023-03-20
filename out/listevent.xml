@@ -104,7 +104,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_4" when="2022-11-09">
+               <event xml:id="amp_event_id_4" when="1965-11-09">
                   <label>Northeast blackout of 1965</label>
                   <desc>historic</desc>
                   <ab type="participants">
@@ -152,7 +152,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_7" when="1963-05-05">
+               <event xml:id="amp_event_id_7" when="1969-05-05">
                   <label>1969 State visit of Queen Elizabeth II in Austria</label>
                   <desc>historic</desc>
                   <ab type="participants">
@@ -174,6 +174,14 @@
                <event xml:id="amp_event_id_8">
                   <label>Biedermeier period</label>
                   <desc>historic</desc>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
                </event>
                <event xml:id="amp_event_id_9" when="1967-10-01">
@@ -403,6 +411,14 @@
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_1">Vienna</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20849, 16.37208</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_30" when="1966-01-01">
