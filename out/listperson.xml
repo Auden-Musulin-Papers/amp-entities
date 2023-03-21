@@ -301,12 +301,6 @@
                      <forename>Dante</forename>
                      <surname>Alighieri</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1265-05-21">1265-05-21</date>
-                     <settlement key="amp_place_id_14">
-                        <placeName>Florence</placeName>
-                     </settlement>
-                  </birth>
                   <death>
                      <date when-iso="1321-09-14">1321-09-14</date>
                      <settlement key="amp_place_id_31">
@@ -321,14 +315,8 @@
                      <forename>William</forename>
                      <surname>Shakespeare</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1564-04-23">1564-04-23</date>
-                     <settlement key="amp_place_id_32">
-                        <placeName>Stratford-upon-Avon</placeName>
-                     </settlement>
-                  </birth>
                   <death>
-                     <date when-iso="1616-04-23">1616-04-23</date>
+                     <date when-iso="1616-05-03">1616-05-03</date>
                      <settlement key="amp_place_id_32">
                         <placeName>Stratford-upon-Avon</placeName>
                      </settlement>
@@ -433,9 +421,6 @@
                   </persName>
                   <death>
                      <date when-iso="1967-11-04">1967-11-04</date>
-                     <settlement key="amp_place_id_5">
-                        <placeName>Kirchstetten</placeName>
-                     </settlement>
                   </death>
                </person>
                <person xml:id="amp_person_17">
@@ -470,7 +455,7 @@
                      <surname>Heyworth</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1921-06-21">1921-06-21</date>
+                     <date when-iso="1921-06-03">1921-06-03</date>
                   </birth>
                   <death>
                      <date when-iso="1991-10-02">1991-10-02</date>
@@ -524,12 +509,6 @@
                         <placeName>Livadaki</placeName>
                      </settlement>
                   </birth>
-                  <death>
-                     <date when-iso="1968-12-13">1968-12-13</date>
-                     <settlement key="amp_place_id_1">
-                        <placeName>Vienna</placeName>
-                     </settlement>
-                  </death>
                </person>
                <person xml:id="amp_person_24">
                   <persName>
@@ -638,7 +617,7 @@
                      <surname>Beethoven</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1770-12-16">1770-12-16</date>
+                     <date when-iso="1770-12-17">1770-12-17</date>
                      <settlement key="amp_place_id_58">
                         <placeName>Bonn</placeName>
                      </settlement>
@@ -712,7 +691,7 @@
                      <surname>Prosch</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1744-06-28">1744-06-28</date>
+                     <date when-iso="1744-07-20">1744-07-20</date>
                      <settlement key="amp_place_id_63">
                         <placeName>Ried</placeName>
                      </settlement>
@@ -868,9 +847,6 @@
                   </birth>
                   <death>
                      <date when-iso="1973-09-02">1973-09-02</date>
-                     <settlement key="amp_place_id_46">
-                        <placeName>Oxford</placeName>
-                     </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118623222</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q892</idno>
@@ -956,7 +932,7 @@
                </person>
                <person xml:id="amp_person_46">
                   <persName>
-                     <forename>Arabella von</forename>
+                     <forename>Sarah Arabella Marjorie von</forename>
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
@@ -965,7 +941,7 @@
                </person>
                <person xml:id="amp_person_47">
                   <persName>
-                     <forename>Octavian von</forename>
+                     <forename>Octavian Charles Hugo von</forename>
                      <surname>Hofmannsthal</surname>
                   </persName>
                   <birth>
@@ -1704,12 +1680,6 @@
                      <forename>Monroe K.</forename>
                      <surname>Spears</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1916-04-28">1916-04-28</date>
-                     <settlement key="amp_place_id_148">
-                        <placeName>Darlington</placeName>
-                     </settlement>
-                  </birth>
                   <death>
                      <date when-iso="1998-05-23">1998-05-23</date>
                      <settlement key="amp_place_id_149">
@@ -1772,6 +1742,9 @@
                   </birth>
                   <death>
                      <date when-iso="1991-01-21">1991-01-21</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/1089340591</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q14946819</idno>
@@ -1889,10 +1862,13 @@
                      <surname>Seitz</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1916-05-09">1916-05-09</date>
+                     <date when-iso="1919-09-05">1919-09-05</date>
+                     <settlement key="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1970-06-16">1970-06-16</date>
+                     <date when-iso="1986-11-08">1986-11-08</date>
                      <settlement key="amp_place_id_9">
                         <placeName>St. Pölten</placeName>
                      </settlement>
@@ -1954,7 +1930,7 @@
                      <surname>Luther</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1483-11-14">1483-11-14</date>
+                     <date when-iso="1483-11-10">1483-11-10</date>
                      <settlement key="amp_place_id_162">
                         <placeName>Eisleben Lutherstadt</placeName>
                      </settlement>
@@ -2134,9 +2110,15 @@
                </person>
                <person xml:id="amp_person_118">
                   <persName>
-                     <forename>John</forename>
+                     <forename>Geoffrey John</forename>
                      <surname>Phillips</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1923-06-23">1923-06-23</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2014-09-01">2014-09-01</date>
+                  </death>
                </person>
                <person xml:id="amp_person_119">
                   <persName>
@@ -2393,8 +2375,8 @@
                   </persName>
                   <birth>
                      <date when-iso="1843-06-09">1843-06-09</date>
-                     <settlement key="amp_place_id_192">
-                        <placeName>The Golz-Kinsky Palace</placeName>
+                     <settlement key="amp_place_id_154">
+                        <placeName>Prague</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -2482,9 +2464,6 @@
                   </persName>
                   <birth>
                      <date when-iso="1900-08-04">1900-08-04</date>
-                     <settlement key="amp_place_id_198">
-                        <placeName>Hitchin</placeName>
-                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="2002-03-30">2002-03-30</date>

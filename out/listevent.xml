@@ -60,22 +60,14 @@
             <listEvent xml:id="listevent">
                <event xml:id="amp_event_id_1" when="1967-11-04">
                   <label>Death of Emma Eiermann, 1967</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_16">Eiermann, Emma</persName>
                   </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
-                     </location>
-                  </ab>
                </event>
-               <event xml:id="amp_event_id_2" when="1968-12-13">
+               <event xml:id="amp_event_id_2">
                   <label>Death of Yannis Boras in a car accident, 1968</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_23">Boras, Yannis</persName>
                   </ab>
@@ -90,7 +82,7 @@
                </event>
                <event xml:id="amp_event_id_3" when="1973-09-28">
                   <label>W. H. Auden reading "Gedichte/Poems", 1973</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_129">Benning, Achim</persName>
@@ -106,23 +98,23 @@
                </event>
                <event xml:id="amp_event_id_4" when="1965-11-09">
                   <label>Northeast blackout of 1965</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_28">New York City</placeName>
+                        <placeName key="amp_place_id_15">United States of America</placeName>
                      </location>
                      <location type="coords">
-                        <geo>40.71427, -74.00597</geo>
+                        <geo>39.76, -98.5</geo>
                      </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
-               <event xml:id="amp_event_id_5" when="1966-01-01">
-                  <label>1966 New York City transit strike</label>
-                  <desc>historic</desc>
+               <event xml:id="amp_event_id_5">
+                  <label>New York City transit strike, 1966</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -137,8 +129,8 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
                <event xml:id="amp_event_id_6">
-                  <label>1967 T. S. Eliot Memorial Lectures</label>
-                  <desc>professional</desc>
+                  <label>W. H. Auden's T. S. Eliot Memorial Lectures, 1967</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_15">Ramsey, Michael</persName>
@@ -152,9 +144,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_7" when="1969-05-05">
-                  <label>1969 State visit of Queen Elizabeth II in Austria</label>
-                  <desc>historic</desc>
+               <event xml:id="amp_event_id_7">
+                  <label>State visit of Queen Elizabeth II in Austria, 1969</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_138">Elizabeth II.,  Elizabeth of the United Kingdom</persName>
@@ -173,20 +165,12 @@
                </event>
                <event xml:id="amp_event_id_8">
                   <label>Biedermeier period</label>
-                  <desc>historic</desc>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
                </event>
-               <event xml:id="amp_event_id_9" when="1967-10-01">
-                  <label>"The Martyr as Dramatic Hero", 1967</label>
-                  <desc>professional</desc>
+               <event xml:id="amp_event_id_9">
+                  <label>W. H. Auden's lecture "The Martyr as Dramatic Hero", 1967</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_15">Ramsey, Michael</persName>
@@ -200,9 +184,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_10" when="1968-02-16">
+               <event xml:id="amp_event_id_10">
                   <label>Auden's interview of Strobls, 1968</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_32">Strobl, Josefa</persName>
@@ -210,32 +194,32 @@
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                        <placeName key="amp_place_id_1">Vienna</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
+                        <geo>48.20849, 16.37208</geo>
                      </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_14" when="1970-06-13">
                   <label>Wedding near Krems, 1970</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_62">Krems</placeName>
+                        <placeName key="amp_place_id_6">Lower Austria</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.46582, 15.52093</geo>
+                        <geo>48.33333, 15.75</geo>
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_16" when="1962-08-05">
+               <event xml:id="amp_event_id_16">
                   <label>Visit of Christiane Zimmer at Hinterholz 6, 1962</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_3">Zimmer, Christiane</persName>
@@ -251,8 +235,8 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_17" when="1962-10-20">
-                  <label>Auden's dinner with Father Lustkandl, 1962</label>
-                  <desc>personal</desc>
+                  <label>W. H. Auden's dinner with Father Lustkandl, 1962</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
@@ -267,9 +251,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_18" when="1973-09-29">
-                  <label>Death of Auden, 1973</label>
-                  <desc>personal</desc>
+               <event xml:id="amp_event_id_18">
+                  <label>Death of W. H. Auden, 1973</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -283,8 +267,8 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_19" when="1973-10-04">
-                  <label>Funeral of Auden, 1973</label>
-                  <desc>personal</desc>
+                  <label>Funeral of W. H. Auden, 1973</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
@@ -311,17 +295,25 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_21" when="1984-10-11">
-                  <label>W. H. Auden 1907-1973, 1984</label>
-                  <desc>professional</desc>
+               <event xml:id="amp_event_id_21">
+                  <label>Symposium "W. H. Auden 1907-1973", 1984</label>
+                  <desc/>
                   <ab type="participants">
-                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_8">Spender, Stephen</persName>
                      <persName key="amp_person_99">O'Sullivan, Michael</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_1">Vienna</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20849, 16.37208</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_22" when="1969-05-28">
                   <label>Visit by Stella Musulin and Friedrich Heer at Hinterholz 6, 1969</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
@@ -339,7 +331,7 @@
                </event>
                <event xml:id="amp_event_id_23" when="1977-05-05">
                   <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
                   </ab>
@@ -352,17 +344,17 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_24" when="1958-01-01">
+               <event xml:id="amp_event_id_24">
                   <label>Separation of Janko and Stella Musulin, 1957-1958</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_167">Musulin, Janko von</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_25">
-                  <label>Reading "Hier und Jetzt", 1964</label>
-                  <desc>professional</desc>
+                  <label>W. H. Auden's reading "Hier und Jetzt"</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -375,9 +367,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_26" when="1964-10-15">
-                  <label>PEN International Executive Committee and Round Table Discussion on "Tradition and Innovation in Contemporary Literature", 1964</label>
-                  <desc>professional</desc>
+               <event xml:id="amp_event_id_26">
+                  <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature", 1964</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -390,9 +382,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_27" when="1964-10-21">
-                  <label>Ford Foundation Residency at Berlin, 1964-1965</label>
-                  <desc>professional</desc>
+               <event xml:id="amp_event_id_27">
+                  <label>W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -406,8 +398,8 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_29" when="1965-05-24">
-                  <label>W. H. Auden's talk on T. S. Eliot in Vienna, 1965</label>
-                  <desc>professional</desc>
+                  <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
@@ -423,7 +415,7 @@
                </event>
                <event xml:id="amp_event_id_30" when="1966-10-18">
                   <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -436,9 +428,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_31" when="1967-04-24">
+               <event xml:id="amp_event_id_31">
                   <label>Round table "Literatur als Tradition und Revolution", 1967</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
@@ -459,9 +451,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_32" when="1968-08-01">
-                  <label>Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
-                  <desc>professional</desc>
+               <event xml:id="amp_event_id_32" when="1968-07-25">
+                  <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -474,16 +466,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_33" when="1967-10-29">
-                  <label>Interview with Auden in Sunday Telegraph ("On Drugs and Drivel"), 1967</label>
-                  <desc>professional</desc>
-                  <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
-                  </ab>
-               </event>
                <event xml:id="amp_event_id_34">
-                  <label>Auden's car accident in Kirchstetten</label>
-                  <desc>personal</desc>
+                  <label>W. H. Auden's car accident in Kirchstetten</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
@@ -498,22 +483,22 @@
                </event>
                <event xml:id="amp_event_id_36">
                   <label>Arrest and court trial of Hugo K., 1962</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_107">K., Hugo</persName>
                   </ab>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                        <placeName key="amp_place_id_10">Austria</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
+                        <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_37" when="1970-06-14">
                   <label>Lyrik 70 poetry convention, 1970</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_112">Maurer, Andreas</persName>
@@ -528,8 +513,8 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_38">
-                  <label>Party at Chester Kallman's in Eslarngasse</label>
-                  <desc>personal</desc>
+                  <label>Party at Chester Kallman's apartment in Eslarngasse</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
@@ -545,10 +530,9 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_40" when="1973-09-30">
-                  <label>Preparation of Auden's funeral, 1973</label>
-                  <desc>personal</desc>
+                  <label>Preparation of W. H. Auden's funeral, 1973</label>
+                  <desc/>
                   <ab type="participants">
-                     <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_2">Musulin, Stella</persName>
                      <persName key="amp_person_4">Kallman, Chester</persName>
                      <persName key="amp_person_22">Enzinger, Josef</persName>
@@ -567,9 +551,9 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_42" when="1968-01-05">
+               <event xml:id="amp_event_id_42">
                   <label>Prague Spring, 1968</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_100">Czechoslovakia</placeName>
@@ -580,16 +564,16 @@
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
-               <event xml:id="amp_event_id_43" when="1972-09-30">
-                  <label>Auden's relocation from New York City to Christ Church, Oxford, 1972</label>
-                  <desc>personal</desc>
+               <event xml:id="amp_event_id_43">
+                  <label>W. H. Auden's relocation from New York City to Christ Church, Oxford, 1972</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_45">
-                  <label>Auden's legal dispute with Austrian tax authorities, 1972</label>
-                  <desc>personal</desc>
+                  <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_78">Spiel, Hilde</persName>
@@ -605,7 +589,7 @@
                </event>
                <event xml:id="amp_event_id_46" when="1966-10-25">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_59">Fritsch, Gerhard</persName>
@@ -623,15 +607,7 @@
                </event>
                <event xml:id="amp_event_id_47">
                   <label>Vietnam war, 1955-1975</label>
-                  <desc>historic</desc>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_15">United States of America</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>39.76, -98.5</geo>
-                     </location>
-                  </ab>
+                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_236">Vietnam</placeName>
@@ -641,12 +617,12 @@
                </event>
                <event xml:id="amp_event_id_48">
                   <label>Pueblo incident, 1968</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
                <event xml:id="amp_event_id_49" when="1965-10-30">
-                  <label>Commemorative event Weinheber’s death, 1965</label>
-                  <desc>professional</desc>
+                  <label>Commemorative event Josef Weinheber’s death, 1965</label>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_200">Seitz, Josef</persName>
                   </ab>
@@ -661,7 +637,7 @@
                </event>
                <event xml:id="amp_event_id_50" when="1945-04-08">
                   <label>Death of Josef Weinheber, 1945</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_5">Weinheber, Josef</persName>
                   </ab>
@@ -676,14 +652,18 @@
                </event>
                <event xml:id="amp_event_id_51">
                   <label>Death of Josef Eiermann</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_17">Eiermann, Josef</persName>
                   </ab>
                </event>
                <event xml:id="amp_event_id_52">
                   <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
-                  <desc>historic</desc>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_16">Eiermann, Emma</persName>
+                     <persName key="amp_person_17">Eiermann, Josef</persName>
+                  </ab>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_100">Czechoslovakia</placeName>
@@ -696,17 +676,17 @@
                </event>
                <event xml:id="amp_event_id_53">
                   <label>First World War, 1914-1918</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
                </event>
                <event xml:id="amp_event_id_54">
                   <label>Second World War, 1939-1945</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
                <event xml:id="amp_event_id_55" when="1938-03-12">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
-                  <desc>historic</desc>
+                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -719,24 +699,48 @@
                </event>
                <event xml:id="amp_event_id_56">
                   <label>Salzburg Festival</label>
-                  <desc>recurrent</desc>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_37">Salzburg</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.79941, 13.04399</geo>
+                     </location>
+                  </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57">
                   <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>
-                  <desc>personal</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_3">Zimmer, Christiane</persName>
                   </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.181531884216675, 15.811512574434994</geo>
+                     </location>
+                  </ab>
                </event>
-               <event xml:id="amp_event_id_58">
+               <event xml:id="amp_event_id_58" when="1967-01-05">
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
-                  <desc>professional</desc>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
                </event>
                <event xml:id="amp_event_id_59">
                   <label>First Asian Conference on Cultural Freedom, 1951</label>
-                  <desc>professional</desc>
+                  <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_8">Spender, Stephen</persName>
