@@ -421,7 +421,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_30" when="1966-01-01">
+               <event xml:id="amp_event_id_30" when="1966-10-18">
                   <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
                   <desc>professional</desc>
                   <ab type="participants">
@@ -436,7 +436,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_31" when="1967-04-04">
+               <event xml:id="amp_event_id_31" when="1967-04-24">
                   <label>Round table "Literatur als Tradition und Revolution", 1967</label>
                   <desc>professional</desc>
                   <ab type="participants">
@@ -459,7 +459,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_32" when="1967-08-01">
+               <event xml:id="amp_event_id_32" when="1968-08-01">
                   <label>Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
                   <desc>professional</desc>
                   <ab type="participants">
@@ -544,7 +544,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_40" when="1973-09-29">
+               <event xml:id="amp_event_id_40" when="1973-09-30">
                   <label>Preparation of Auden's funeral, 1973</label>
                   <desc>personal</desc>
                   <ab type="participants">
@@ -626,6 +626,14 @@
                   <desc>historic</desc>
                   <ab type="location">
                      <location type="located_in_place">
+                        <placeName key="amp_place_id_15">United States of America</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>39.76, -98.5</geo>
+                     </location>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
                         <placeName key="amp_place_id_236">Vietnam</placeName>
                      </location>
                   </ab>
@@ -674,7 +682,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_52">
-                  <label>Expulsion of Germans from Czechoslovakia, 1945-1946</label>
+                  <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
                   <desc>historic</desc>
                   <ab type="location">
                      <location type="located_in_place">
@@ -696,7 +704,7 @@
                   <desc>historic</desc>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
-               <event xml:id="amp_event_id_55">
+               <event xml:id="amp_event_id_55" when="1938-03-12">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
                   <desc>historic</desc>
                   <ab type="location">
@@ -726,7 +734,7 @@
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
                   <desc>professional</desc>
                </event>
-               <event xml:id="amp_event_id_59" when="1951-03-21">
+               <event xml:id="amp_event_id_59">
                   <label>First Asian Conference on Cultural Freedom, 1951</label>
                   <desc>professional</desc>
                   <ab type="participants">
