@@ -79,6 +79,9 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q178698</idno>
                   <listBibl>
                      <bibl n="lit_work_id_2">Homage to Clio</bibl>
+                     <bibl n="lit_work_id_3">The Rake's Progress</bibl>
+                     <bibl n="lit_work_id_4">Elegy for Young Lovers</bibl>
+                     <bibl n="lit_work_id_5">The Bassarids</bibl>
                      <bibl n="lit_work_id_16">The Rake's Progress libretto</bibl>
                      <bibl n="lit_work_id_17">Elegy for Young Lovers libretto</bibl>
                      <bibl n="lit_work_id_18">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
@@ -86,8 +89,8 @@
                      <bibl n="lit_work_id_21">The Magic Flute libretto</bibl>
                      <bibl n="lit_work_id_22">Don Giovanni libretto</bibl>
                      <bibl n="lit_work_id_23">Die Sieben Todsünden libretto</bibl>
-                     <bibl n="lit_work_id_24">Rise and Fall of the City of Mahagonny libretto</bibl>
-                     <bibl n="lit_work_id_25">Archifanfaro libretto</bibl>
+                     <bibl n="lit_work_id_24">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
+                     <bibl n="lit_work_id_25">Arcifanfano Re De Matti libretto</bibl>
                      <bibl n="lit_work_id_28">W.H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_29">Markings</bibl>
                      <bibl n="lit_work_id_31">The Dyer's Hand</bibl>
@@ -198,6 +201,9 @@
                   <idno type="GND">https://d-nb.info/gnd/119544911</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5093626</idno>
                   <listBibl>
+                     <bibl n="lit_work_id_3">The Rake's Progress</bibl>
+                     <bibl n="lit_work_id_4">Elegy for Young Lovers</bibl>
+                     <bibl n="lit_work_id_5">The Bassarids</bibl>
                      <bibl n="lit_work_id_16">The Rake's Progress libretto</bibl>
                      <bibl n="lit_work_id_17">Elegy for Young Lovers libretto</bibl>
                      <bibl n="lit_work_id_18">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
@@ -205,8 +211,8 @@
                      <bibl n="lit_work_id_21">The Magic Flute libretto</bibl>
                      <bibl n="lit_work_id_22">Don Giovanni libretto</bibl>
                      <bibl n="lit_work_id_23">Die Sieben Todsünden libretto</bibl>
-                     <bibl n="lit_work_id_24">Rise and Fall of the City of Mahagonny libretto</bibl>
-                     <bibl n="lit_work_id_25">Archifanfaro libretto</bibl>
+                     <bibl n="lit_work_id_24">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
+                     <bibl n="lit_work_id_25">Arcifanfano Re De Matti libretto</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -384,8 +390,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118584596</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q254</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_7">The Magic Flute</bibl>
-                     <bibl n="lit_work_id_8">Don Giovanni</bibl>
+                     <bibl n="lit_work_id_7">Die Zauberflöte (The Magic Flute)</bibl>
+                     <bibl n="lit_work_id_8">Il dissoluto punito ossia Il Don Giovanni</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_14">
@@ -808,7 +814,7 @@
                   <idno type="GND">https://d-nb.info/gnd/11885349X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q771698</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_1">Mapp and Lucia (series)</bibl>
+                     <bibl n="lit_work_id_1">Mapp and Lucia</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_40">
@@ -831,7 +837,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118630202</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55004</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_10">Rise and Fall of the City of Mahagonny</bibl>
+                     <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
+                     <bibl n="lit_work_id_10">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_41">
@@ -1714,6 +1721,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118652044</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q310184</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_87">
                   <persName>
@@ -1950,7 +1960,6 @@
                   <idno type="GND">https://d-nb.info/gnd/118575449</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9554</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_12">New Testament</bibl>
                      <bibl n="lit_work_id_109">Luther Bible</bibl>
                   </listBibl>
                </person>
@@ -2088,7 +2097,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118514768</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q38757</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_9">Die Sieben Todsünden</bibl>
+                     <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
+                     <bibl n="lit_work_id_10">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_116">
@@ -2111,7 +2121,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118540505</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q165534</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_11">Archifanfaro</bibl>
+                     <bibl n="lit_work_id_11">Arcifanfano Re De Matti</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_118">
@@ -3255,6 +3265,51 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119022354</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q87991</idno>
+               </person>
+               <person xml:id="amp_person_205">
+                  <persName>
+                     <forename>Emanuel</forename>
+                     <surname>Schikaneder </surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1751-09-01">1751-09-01</date>
+                     <settlement key="amp_place_id_283">
+                        <placeName>Straubing</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1812-09-21">1812-09-21</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11860757X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q213547</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_142">Die Zauberflöte (The Magic Flute)</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_206">
+                  <persName>
+                     <forename>Lorenzo</forename>
+                     <surname>Da Ponte</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1749-01-01">1749-01-01</date>
+                     <settlement key="amp_place_id_284">
+                        <placeName>Ceneda</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1838-08-17">1838-08-17</date>
+                     <settlement key="amp_place_id_28">
+                        <placeName>New York City</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q268166</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_143">Il dissoluto punito ossia Il Don Giovanni</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

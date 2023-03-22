@@ -58,7 +58,7 @@
       <body>
          <listBibl>
             <bibl xml:id="lit_work_id_1">
-               <title>Mapp and Lucia (series)</title>
+               <title>Mapp and Lucia</title>
                <author ref="#amp_person_39">
                   <persName>Benson, Edward Frederic</persName>
                </author>
@@ -76,6 +76,12 @@
             </bibl>
             <bibl xml:id="lit_work_id_3">
                <title>The Rake's Progress</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
                <author ref="#amp_person_25">
                   <persName>Stravinsky, Igor</persName>
                </author>
@@ -85,6 +91,12 @@
             </bibl>
             <bibl xml:id="lit_work_id_4">
                <title>Elegy for Young Lovers</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
                <author ref="#amp_person_79">
                   <persName>Henze, Hans Werner</persName>
                </author>
@@ -94,10 +106,16 @@
             </bibl>
             <bibl xml:id="lit_work_id_5">
                <title>The Bassarids</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
                <author ref="#amp_person_79">
                   <persName>Henze, Hans Werner</persName>
                </author>
-               <date when="1965">1965</date>
+               <date when="1966">1966</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q844406</idno>
                <lang/>
             </bibl>
@@ -106,12 +124,11 @@
                <author ref="#amp_person_10">
                   <persName>Shakespeare, William</persName>
                </author>
-               <date when="1597">1597</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q128610</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_7">
-               <title>The Magic Flute</title>
+               <title>Die Zauberflöte (The Magic Flute)</title>
                <author ref="#amp_person_13">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -120,7 +137,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_8">
-               <title>Don Giovanni</title>
+               <title>Il dissoluto punito ossia Il Don Giovanni</title>
                <author ref="#amp_person_13">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
@@ -129,25 +146,34 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_9">
-               <title>Die Sieben Todsünden</title>
+               <title>Die Sieben Todsünden (The Seven Deadly Sins)</title>
+               <author ref="#amp_person_40">
+                  <persName>Weill, Kurt</persName>
+               </author>
+               <author ref="#amp_person_86">
+                  <persName>Balanchine, George</persName>
+               </author>
                <author ref="#amp_person_115">
                   <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1933">1933</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q533623</idno>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/7615100-1</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_10">
-               <title>Rise and Fall of the City of Mahagonny</title>
+               <title>Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</title>
                <author ref="#amp_person_40">
                   <persName>Weill, Kurt</persName>
+               </author>
+               <author ref="#amp_person_115">
+                  <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1930">1930</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q760054</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_11">
-               <title>Archifanfaro</title>
+               <title>Arcifanfano Re De Matti</title>
                <author ref="#amp_person_116">
                   <persName>Goldoni, Carlo</persName>
                </author>
@@ -156,22 +182,16 @@
             </bibl>
             <bibl xml:id="lit_work_id_12">
                <title>New Testament</title>
-               <author ref="#amp_person_102">
-                  <persName>Luther, Martin</persName>
-               </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
             <bibl xml:id="lit_work_id_13">
                <title>Book of Common Prayer</title>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q784710</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_14">
-               <title>Corinthians I</title>
-               <biblScope type="volume">1</biblScope>
-               <biblScope type="chapter">15</biblScope>
-               <idno type="WIKIDATA"/>
+               <title>First Epistle to the Corinthians</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q80355</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_16">
@@ -268,19 +288,19 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_24">
-               <title>Rise and Fall of the City of Mahagonny libretto</title>
+               <title>Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1976">1976</date>
+               <date when="1930">1930</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_25">
-               <title>Archifanfaro libretto</title>
+               <title>Arcifanfano Re De Matti libretto</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -707,12 +727,6 @@
                <title>The Bacchae of Euripides</title>
                <date when="1966">1966</date>
                <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_76">
-               <title>Sunday Telegraph</title>
-               <date when="1961">1961</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q12741725</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_77">
@@ -1181,7 +1195,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_136">
-               <title>Collected Longer Poems (London, 1968; New York, 1969).</title>
+               <title>Collected Longer Poems (London, 1968; New York, 1969)</title>
                <date when="1968">1968</date>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -1202,6 +1216,28 @@
                <title>Freedom and Necessity in the Arts (Expression: incomplete German translation by Janko Musulin, 1970)</title>
                <idno type="WIKIDATA"/>
                <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_142">
+               <title>Die Zauberflöte (The Magic Flute)</title>
+               <author ref="#amp_person_205">
+                  <persName>Schikaneder , Emanuel</persName>
+               </author>
+               <date when="1791">1791</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_143">
+               <title>Il dissoluto punito ossia Il Don Giovanni</title>
+               <author ref="#amp_person_206">
+                  <persName>Da Ponte, Lorenzo</persName>
+               </author>
+               <date when="1787">1787</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_144">
+               <title/>
+               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>
