@@ -150,8 +150,8 @@
                      <bibl n="lit_work_id_87">your piece (work)</bibl>
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970)</bibl>
                      <bibl n="lit_work_id_93">Josef Weinheber (expression: German prose translation by Stella Musulin 1965)</bibl>
-                     <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
-                     <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities (Trans, Stella Musulin)</bibl>
+                     <bibl n="lit_work_id_94">Josef Weinheber (expression: notes by Stella Musulin 1965)</bibl>
+                     <bibl n="lit_work_id_98">W. H. Auden Statement to Austrian Tax Authorities  (expression: German translation by Stella Musulin)</bibl>
                      <bibl n="lit_work_id_104">Statement (to the Austrian tax authorities) (Expression: English re-translation Stella Musulin)</bibl>
                      <bibl n="lit_work_id_106">Statement (to the Austrian tax authorities). 1 (English Translation passage Stella Musulin)</bibl>
                      <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
@@ -847,6 +847,9 @@
                   </birth>
                   <death>
                      <date when-iso="1973-09-02">1973-09-02</date>
+                     <settlement key="amp_place_id_275">
+                        <placeName>Bournemouth</placeName>
+                     </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118623222</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q892</idno>
@@ -1220,7 +1223,7 @@
                   <birth>
                      <date when-iso="1929-01-02">1929-01-02</date>
                      <settlement key="amp_place_id_121">
-                        <placeName>Nitra</placeName>
+                        <placeName>Cabaj-Čápor</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1626,7 +1629,7 @@
                   <death>
                      <date when-iso="1986-08-31">1986-08-31</date>
                      <settlement key="amp_place_id_143">
-                        <placeName>Perry Green</placeName>
+                        <placeName>Much Hadham</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118583875</idno>
@@ -1647,6 +1650,9 @@
                      <date when-iso="1980-02-22">1980-02-22</date>
                      <settlement key="amp_place_id_145">
                         <placeName>Villeneuve</placeName>
+                     </settlement>
+                     <settlement key="amp_place_id_276">
+                        <placeName>Montreux</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118564722</idno>
@@ -1803,7 +1809,7 @@
                      <surname>Musulin</surname>
                   </persName>
                   <listBibl>
-                     <bibl n="lit_work_id_94">Josef Weinheber (Exp SM notes)</bibl>
+                     <bibl n="lit_work_id_94">Josef Weinheber (expression: notes by Stella Musulin 1965)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_94">
@@ -2115,6 +2121,9 @@
                   </persName>
                   <birth>
                      <date when-iso="1923-06-23">1923-06-23</date>
+                     <settlement key="amp_place_id_277">
+                        <placeName>Cromford</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="2014-09-01">2014-09-01</date>
@@ -2163,6 +2172,9 @@
                      <settlement key="amp_place_id_179">
                         <placeName>Kildare</placeName>
                      </settlement>
+                     <settlement key="amp_place_id_278">
+                        <placeName>Newbridge</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1996-04-22">1996-04-22</date>
@@ -2204,7 +2216,7 @@
                   <birth>
                      <date when-iso="1911-07-09">1911-07-09</date>
                      <settlement key="amp_place_id_182">
-                        <placeName>Lianxi District</placeName>
+                        <placeName>Guling, Jiujiang</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -2779,7 +2791,7 @@
                <person xml:id="amp_person_163">
                   <persName>
                      <forename>Cornelia</forename>
-                     <surname>Jacobsen</surname>
+                     <surname>Schmalz-Jacobsen</surname>
                   </persName>
                   <birth>
                      <date when-iso="1934-11-11">1934-11-11</date>
@@ -2853,7 +2865,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1979-03-06">1979-03-06</date>
+                     <date when-iso="1978-03-06">1978-03-06</date>
                      <settlement key="amp_place_id_8">
                         <placeName>Ober-Grafendorf</placeName>
                      </settlement>
@@ -2863,15 +2875,9 @@
                </person>
                <person xml:id="amp_person_168">
                   <persName>
-                     <forename>Sally</forename>
+                     <forename>Frances Genevieve Sally</forename>
                      <surname>Toynbee</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1923-04-23">1923-04-23</date>
-                  </birth>
-                  <death>
-                     <date when-iso="2003-03-08">2003-03-08</date>
-                  </death>
                </person>
                <person xml:id="amp_person_169">
                   <persName>
@@ -2898,8 +2904,8 @@
                   </birth>
                   <death>
                      <date when-iso="1625-03-27">1625-03-27</date>
-                     <settlement key="amp_place_id_87">
-                        <placeName>Westminster Abbey</placeName>
+                     <settlement key="amp_place_id_280">
+                        <placeName>Theobalds Park</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118639889</idno>
@@ -2919,6 +2925,9 @@
                      <forename>Gherardo</forename>
                      <surname>Tacoli</surname>
                   </persName>
+                  <death>
+                     <date when-iso="1996-12-21">1996-12-21</date>
+                  </death>
                </person>
                <person xml:id="amp_person_173">
                   <persName>
@@ -2931,6 +2940,12 @@
                         <placeName>Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="1999-10-18">1999-10-18</date>
+                     <settlement key="amp_place_id_238">
+                        <placeName>Bad Vilbel</placeName>
+                     </settlement>
+                  </death>
                   <idno type="GND">https://d-nb.info/gnd/119200015</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q106600</idno>
                   <listBibl>
@@ -3043,6 +3058,9 @@
                   </persName>
                   <birth>
                      <date when-iso="1872-08-27">1872-08-27</date>
+                     <settlement key="amp_place_id_279">
+                        <placeName>Horninglow</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1957-05-03">1957-05-03</date>
@@ -3052,13 +3070,10 @@
                <person xml:id="amp_person_184">
                   <persName>
                      <forename>Constance Rosalie</forename>
-                     <surname>Bicknell</surname>
+                     <surname>Auden</surname>
                   </persName>
                   <birth>
                      <date when-iso="1869-02-13">1869-02-13</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
-                     </settlement>
                   </birth>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
                </person>
@@ -3083,9 +3098,6 @@
                   </birth>
                   <death>
                      <date when-iso="2010-10-21">2010-10-21</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
-                     </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/117492140</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6968502</idno>
@@ -3159,7 +3171,7 @@
                </person>
                <person xml:id="amp_person_199">
                   <persName>
-                     <forename>JDF</forename>
+                     <forename>J. D. F.</forename>
                      <surname>Jones</surname>
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/173536794</idno>
@@ -3170,15 +3182,15 @@
                      <surname>Seitz</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1919-09-05">1919-09-05</date>
-                     <settlement key="amp_place_id_5">
-                        <placeName>Kirchstetten</placeName>
+                     <date when-iso="1916-05-09">1916-05-09</date>
+                     <settlement key="amp_place_id_273">
+                        <placeName>Michelbach</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1986-11-08">1986-11-08</date>
-                     <settlement key="amp_place_id_1">
-                        <placeName>Vienna</placeName>
+                     <date when-iso="1970-06-16">1970-06-16</date>
+                     <settlement key="amp_place_id_9">
+                        <placeName>St. Pölten</placeName>
                      </settlement>
                   </death>
                </person>
@@ -3207,12 +3219,6 @@
                      <forename>August Wilhelm von</forename>
                      <surname>Schlegel</surname>
                   </persName>
-                  <birth>
-                     <date when-iso="1767-09-08">1767-09-08</date>
-                     <settlement key="amp_place_id_262">
-                        <placeName>Hanover</placeName>
-                     </settlement>
-                  </birth>
                   <death>
                      <date when-iso="1845-05-12">1845-05-12</date>
                      <settlement key="amp_place_id_58">

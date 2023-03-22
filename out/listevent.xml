@@ -58,7 +58,7 @@
       <body>
          <div type="index_events">
             <listEvent xml:id="listevent">
-               <event xml:id="amp_event_id_1" when="1967-11-04">
+               <event xml:id="amp_event_id_1">
                   <label>Death of Emma Eiermann, 1967</label>
                   <desc/>
                   <ab type="participants">
@@ -80,7 +80,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_3" when="1973-09-28">
+               <event xml:id="amp_event_id_3">
                   <label>W. H. Auden reading "Gedichte/Poems", 1973</label>
                   <desc/>
                   <ab type="participants">
@@ -96,7 +96,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_4" when="1965-11-09">
+               <event xml:id="amp_event_id_4">
                   <label>Northeast blackout of 1965</label>
                   <desc/>
                   <ab type="participants">
@@ -201,7 +201,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_14" when="1970-06-13">
+               <event xml:id="amp_event_id_14">
                   <label>Wedding near Krems, 1970</label>
                   <desc/>
                   <ab type="participants">
@@ -234,7 +234,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_17" when="1962-10-20">
+               <event xml:id="amp_event_id_17">
                   <label>W. H. Auden's dinner with Father Lustkandl, 1962</label>
                   <desc/>
                   <ab type="participants">
@@ -266,7 +266,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_19" when="1973-10-04">
+               <event xml:id="amp_event_id_19">
                   <label>Funeral of W. H. Auden, 1973</label>
                   <desc/>
                   <ab type="participants">
@@ -311,7 +311,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_22" when="1969-05-28">
+               <event xml:id="amp_event_id_22">
                   <label>Visit by Stella Musulin and Friedrich Heer at Hinterholz 6, 1969</label>
                   <desc/>
                   <ab type="participants">
@@ -329,7 +329,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_23" when="1977-05-05">
+               <event xml:id="amp_event_id_23">
                   <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977</label>
                   <desc/>
                   <ab type="participants">
@@ -397,7 +397,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_29" when="1965-05-24">
+               <event xml:id="amp_event_id_29">
                   <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
                   <desc/>
                   <ab type="participants">
@@ -413,7 +413,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_30" when="1966-10-18">
+               <event xml:id="amp_event_id_30">
                   <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
                   <desc/>
                   <ab type="participants">
@@ -451,7 +451,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_32" when="1968-07-25">
+               <event xml:id="amp_event_id_32">
                   <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
                   <desc/>
                   <ab type="participants">
@@ -496,7 +496,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_37" when="1970-06-14">
+               <event xml:id="amp_event_id_37">
                   <label>Lyrik 70 poetry convention, 1970</label>
                   <desc/>
                   <ab type="participants">
@@ -529,7 +529,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_40" when="1973-09-30">
+               <event xml:id="amp_event_id_40">
                   <label>Preparation of W. H. Auden's funeral, 1973</label>
                   <desc/>
                   <ab type="participants">
@@ -587,7 +587,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_46" when="1966-10-25">
+               <event xml:id="amp_event_id_46">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
                   <desc/>
                   <ab type="participants">
@@ -620,7 +620,7 @@
                   <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
-               <event xml:id="amp_event_id_49" when="1965-10-30">
+               <event xml:id="amp_event_id_49">
                   <label>Commemorative event Josef Weinheber’s death, 1965</label>
                   <desc/>
                   <ab type="participants">
@@ -635,7 +635,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_50" when="1945-04-08">
+               <event xml:id="amp_event_id_50">
                   <label>Death of Josef Weinheber, 1945</label>
                   <desc/>
                   <ab type="participants">
@@ -684,7 +684,7 @@
                   <desc/>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
-               <event xml:id="amp_event_id_55" when="1938-03-12">
+               <event xml:id="amp_event_id_55">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
                   <desc/>
                   <ab type="location">
@@ -726,7 +726,7 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_58" when="1967-01-05">
+               <event xml:id="amp_event_id_58">
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
                   <desc/>
                   <ab type="location">
@@ -744,6 +744,11 @@
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
                      <persName key="amp_person_8">Spender, Stephen</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_274">Mumbai</placeName>
+                     </location>
                   </ab>
                </event>
             </listEvent>

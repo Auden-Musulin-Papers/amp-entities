@@ -540,6 +540,12 @@
                </org>
                <org xml:id="amp_organization_45">
                   <orgName>Episcopal Church (United States)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
                   <note/>
                </org>
@@ -550,6 +556,12 @@
                </org>
                <org xml:id="amp_organization_47">
                   <orgName>English PEN</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18353598</idno>
                   <note/>
                </org>
@@ -592,27 +604,45 @@
                </org>
                <org xml:id="amp_organization_53">
                   <orgName>Sunday Telegraph</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q12741725</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_54">
                   <orgName>London Underground</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_46">Oxford</placeName>
+                     <placeName key="amp_place_id_56">London</placeName>
                   </location>
                   <location type="coords">
-                     <geo>51.75222, -1.25596</geo>
+                     <geo>51.50853, -0.12574</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q20075</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_55">
                   <orgName>University of Oxford</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q34433</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_56">
                   <orgName>TU Wien</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689400</idno>
                   <note/>
                </org>

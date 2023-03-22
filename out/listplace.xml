@@ -1654,15 +1654,15 @@
                </place>
                <place xml:id="amp_place_id_121">
                   <settlement type="P">
-                     <placeName>Nitra</placeName>
+                     <placeName>Cabaj-Čápor</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>SK, Slovakia</country>
                   <location type="coords">
                      <geo>48.30763, 18.08453</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/3058531/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q26397</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/3060842/</idno>
+                  <idno type="WIKIDATA">https://d-nb.info/gnd/4539638-3</idno>
                   <idno type="GND">https://d-nb.info/gnd/4101153-3</idno>
                   <note/>
                </place>
@@ -2005,7 +2005,7 @@
                </place>
                <place xml:id="amp_place_id_143">
                   <settlement type="P">
-                     <placeName>Perry Green</placeName>
+                     <placeName>Much Hadham</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
@@ -2015,9 +2015,9 @@
                   <location type="coords">
                      <geo>51.83952, 0.08527</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/11593367/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60240</idno>
-                  <idno type="GND">https://d-nb.info/gnd/7608773-6</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/2642057/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1065388</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4528828-8</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_144">
@@ -2570,15 +2570,12 @@
                </place>
                <place xml:id="amp_place_id_182">
                   <settlement type="P">
-                     <placeName>Lianxi District</placeName>
+                     <placeName>Guling, Jiujiang</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CN, China</country>
-                  <location type="coords">
-                     <geo>28.57101, 110.08464</geo>
-                  </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/10373557/</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1336356</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/1809406/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q107619098</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_183">
@@ -3516,6 +3513,66 @@
                <place xml:id="amp_place_id_273">
                   <placeName>Michelbach</placeName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q680106</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_274">
+                  <placeName>Mumbai</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/1275339/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1156</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4007629-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_275">
+                  <placeName>Bournemouth</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2655095/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q170478</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4140811-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_276">
+                  <placeName>Montreux</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2659601/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q69354</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4114631-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_277">
+                  <placeName>Cromford</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2651927/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1000915</idno>
+                  <idno type="GND">https://d-nb.info/gnd/7788639-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_278">
+                  <placeName>Newbridge</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2962290/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q958397</idno>
+                  <idno type="GND">https://d-nb.info/gnd/7547423-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_279">
+                  <placeName>Horninglow</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2646586/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5904415</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_280">
+                  <placeName>Theobalds Park</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/9951799/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_281">
+                  <placeName>Salamis Island</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/254143/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q202422</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4105212-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_282">
+                  <placeName>Pella</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/734726/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q213679</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4045057-0</idno>
                   <note/>
                </place>
             </listPlace>
