@@ -105,7 +105,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_5">
-               <title>The Bassarids</title>
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -120,7 +120,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_6">
-               <title>Love´s Labours Lost</title>
+               <title>Love's Labour's Lost</title>
                <author ref="#amp_person_10">
                   <persName>Shakespeare, William</persName>
                </author>
@@ -132,14 +132,20 @@
                <author ref="#amp_person_13">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
+               <author ref="#amp_person_205">
+                  <persName>Schikaneder , Emanuel</persName>
+               </author>
                <date when="1791">1791</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_8">
-               <title>Il dissoluto punito ossia Il Don Giovanni</title>
+               <title>Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</title>
                <author ref="#amp_person_13">
                   <persName>Mozart, Wolfgang Amadeus</persName>
+               </author>
+               <author ref="#amp_person_206">
+                  <persName>Da Ponte, Lorenzo</persName>
                </author>
                <date when="1787">1787</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q192039</idno>
@@ -173,11 +179,15 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_11">
-               <title>Arcifanfano Re De Matti</title>
+               <title>Arcifanfano Re De Matti (Arcifanfano, King of Fools)</title>
                <author ref="#amp_person_116">
                   <persName>Goldoni, Carlo</persName>
                </author>
-               <idno type="WIKIDATA"/>
+               <author ref="#amp_person_208">
+                  <persName>Galuppi, Baldassare</persName>
+               </author>
+               <date when="1749">1749</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/7615440-3</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_12">
@@ -195,19 +205,19 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_16">
-               <title>The Rake's Progress libretto</title>
+               <title>The Rake's Progress</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1954">1954</date>
-               <idno type="WIKIDATA"/>
+               <date when="1951">1951</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/7669413-6</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_17">
-               <title>Elegy for Young Lovers libretto</title>
+               <title>Elegy for Young Lovers</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -215,7 +225,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/1068414596</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_18">
@@ -226,21 +236,27 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
+               <date when="1966">1966</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/1103166417</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_19">
-               <title>Love´s Labours Lost opera</title>
-               <author ref="#amp_person_114">
-                  <persName>Kirstein, Lincoln</persName>
+               <title>Love's Labour's Lost</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <author ref="#amp_person_207">
+                  <persName>Nabokov, Nicolas</persName>
                </author>
                <date when="1973">1973</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_20">
-               <title>Love's Lavours Lost libretto</title>
+               <title>Love's Labour's Lost</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -252,62 +268,47 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_21">
-               <title>The Magic Flute libretto</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
+               <title>Die Zauberflöte (The Magic Flute)</title>
+               <author ref="#amp_person_205">
+                  <persName>Schikaneder , Emanuel</persName>
                </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
-               </author>
-               <date when="1956">1956</date>
-               <idno type="WIKIDATA"/>
+               <date when="1791">1791</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_22">
-               <title>Don Giovanni libretto</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
+               <title>Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</title>
+               <author ref="#amp_person_206">
+                  <persName>Da Ponte, Lorenzo</persName>
                </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
-               </author>
-               <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
+               <date when="1787">1787</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_23">
-               <title>Die Sieben Todsünden libretto</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
+               <title>Die Sieben Todsünden (The Seven Deadly Sins)</title>
+               <author ref="#amp_person_115">
+                  <persName>Brecht, Bertolt</persName>
                </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
-               </author>
-               <date when="1956">1956</date>
+               <date when="1933">1933</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_24">
                <title>Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
-               </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
+               <author ref="#amp_person_115">
+                  <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1930">1930</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/1232284610</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_25">
-               <title>Arcifanfano Re De Matti libretto</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
+               <title>Arcifanfano Re De Matti (Arcifanfano, King of Fools)</title>
+               <author ref="#amp_person_116">
+                  <persName>Goldoni, Carlo</persName>
                </author>
-               <author ref="#amp_person_4">
-                  <persName>Kallman, Chester</persName>
-               </author>
-               <date when="1963">1963</date>
+               <date when="1749">1749</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -322,19 +323,18 @@
             </bibl>
             <bibl xml:id="lit_work_id_27">
                <title>The Elder Edda</title>
-               <date when="1260">1260</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q205874</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_28">
-               <title>W.H. Auden: Collected Poems</title>
+               <title>W. H. Auden: Collected Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_98">
                   <persName>Mendelson, Edward</persName>
                </author>
-               <date when="1991">1991</date>
+               <date when="1976">1976</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
