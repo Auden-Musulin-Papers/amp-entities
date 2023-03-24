@@ -339,7 +339,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_29">
-               <title>Markings</title>
+               <title>Vägmärken (Markings)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -351,7 +351,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_30">
-               <title>Vägmärken</title>
+               <title>Vägmärken (Markings)</title>
                <author ref="#amp_person_131">
                   <persName>Hammarskjöld, Dag</persName>
                </author>
@@ -376,7 +376,7 @@
                <author ref="#amp_person_145">
                   <persName>Kronenberger, Louis</persName>
                </author>
-               <date when="1964">1964</date>
+               <date when="1962">1962</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -390,7 +390,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_34">
-               <title>Nineteenth Century Book of Minor Poets</title>
+               <title>Nineteenth Century Minor Poets</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -399,7 +399,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_35">
-               <title>Le Sacre du Printemps</title>
+               <title>Le Sacre du Printemps (The Rite of Spring)</title>
                <author ref="#amp_person_25">
                   <persName>Stravinsky, Igor</persName>
                </author>
@@ -429,12 +429,12 @@
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1967">1967</date>
+               <date when="1969">1969</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_39">
-               <title>W.H. Auden: A Biography</title>
+               <title>W. H. Auden: A Biography</title>
                <author ref="#amp_person_100">
                   <persName>Carpenter, Humphrey</persName>
                </author>
@@ -443,7 +443,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_40">
-               <title>Auf das Unabwendbare (Poem)</title>
+               <title>Auf das Unabwendbare</title>
                <author ref="#amp_person_5">
                   <persName>Weinheber, Josef</persName>
                </author>
@@ -452,7 +452,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_41">
-               <title>Kammermusik (Poem)</title>
+               <title>Kammermusik</title>
                <author ref="#amp_person_5">
                   <persName>Weinheber, Josef</persName>
                </author>
@@ -460,19 +460,8 @@
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
-            <bibl xml:id="lit_work_id_42">
-               <title>Neue Rundschau</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
-               </author>
-               <date when="1965">1965</date>
-               <biblScope type="volume">3</biblScope>
-               <biblScope type="chapter">76</biblScope>
-               <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
             <bibl xml:id="lit_work_id_43">
-               <title>Stark Bewölkt</title>
+               <title>Stark Bewölkt (version 1971-10-19)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -481,12 +470,12 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_44">
-               <title>Leben und Ereignisse des Peter Prosch</title>
+               <title>Leben und Ereignisse des Peter Prosch, eines Tyrolers von Ried im Zillertal, oder Das wunderbare Schicksal, geschrieben zur Zeit der Aufklärung</title>
                <author ref="#amp_person_34">
                   <persName>Prosch, Peter</persName>
                </author>
                <date when="1789">1789</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/1250103363</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_45">
@@ -543,10 +532,7 @@
             <bibl xml:id="lit_work_id_51">
                <title>The Oxford English Dictionary</title>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44996</idno>
-            </bibl>
-            <bibl xml:id="lit_work_id_52">
-               <title>The Times</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q50008</idno>
+               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_53">
                <title>Forewords and Afterwords</title>
@@ -562,20 +548,21 @@
                <author ref="#amp_person_41">
                   <persName>Tolkien, J. R. R.</persName>
                </author>
-               <idno type="WIKIDATA"/>
+               <date when="1954">1954</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15228</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_55">
-               <title>For the Time Being</title>
+               <title>For the Time Being: A Christmas Oratorio</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1966">1966</date>
-               <idno type="WIKIDATA"/>
+               <date when="1944">1944</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5467148</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_56">
-               <title>Hier und Jetzt  (Expression: German translation of W. H. Auden's "For the Time Being" by Gerhard Fritsch  (1961))</title>
+               <title>Hier und Jetzt: Ein Weihnachtsoratorium</title>
                <author ref="#amp_person_59">
                   <persName>Fritsch, Gerhard</persName>
                </author>
@@ -588,26 +575,25 @@
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1969">1969</date>
-               <idno type="WIKIDATA"/>
+               <date when="1972">1972</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_58">
-               <title>Elegy (In Memoriam Emma Eiermann)</title>
+               <title>Elegy (version 1968-10-04)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1967">1967</date>
+               <date when="1968">1968</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_59">
                <title>Bible</title>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
-               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_60">
-               <title>Joseph Weinheber (Work)</title>
+               <title>Joseph Weinheber</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -616,7 +602,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_61">
-               <title>Joseph Weinheber (expression: version W. H. Auden, 1965-03-15)</title>
+               <title>Joseph Weinheber (version 1965-03-15)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -625,7 +611,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_62">
-               <title>Joseph Weinheber (expression: version W. H. Auden, 1965-04-28)</title>
+               <title>Joseph Weinheber (version 1965-04-28)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -634,31 +620,31 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_63">
-               <title>New Yorker</title>
+               <title>The New Yorker</title>
                <date when="1925">1925</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q217305</idno>
-               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_64">
                <title>Die Presse</title>
-               <date when="1946">1946</date>
+               <date when="1848">1848</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689934</idno>
-               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_65">
                <title>Die Zeit</title>
                <date when="1946">1946</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q157142</idno>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_66">
-               <title>Die Furche</title>
-               <date when="1945">1945</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1212798</idno>
-               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_67">
                <title>Gedichte/Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_78">
+                  <persName>Spiel, Hilde</persName>
+               </author>
+               <author ref="#amp_person_173">
+                  <persName>Heckmann, Herbert</persName>
+               </author>
                <date when="1973">1973</date>
                <idno type="WIKIDATA"/>
                <lang/>
@@ -682,24 +668,12 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_70">
-               <title>Italienische Reise</title>
+               <title>Italienische Reise (Italian Journey)</title>
                <author ref="#amp_person_11">
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
-               <date when="1786">1786</date>
+               <date when="1816">1816</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q455305</idno>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_71">
-               <title>Italian Journey</title>
-               <author ref="#amp_person_1">
-                  <persName>Auden, W. H.</persName>
-               </author>
-               <author ref="#amp_person_157">
-                  <persName>Mayer, Elizabeth</persName>
-               </author>
-               <date when="1982">1982</date>
-               <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_72">
@@ -718,23 +692,28 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_74">
-               <title>The Common Life (for Chester Kallman)</title>
-               <date when="1964">1964</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2077624</idno>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_75">
-               <title>The Bacchae of Euripides</title>
-               <date when="1966">1966</date>
+               <title>The Common Life</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
+            <bibl xml:id="lit_work_id_75">
+               <title>The Bacchae</title>
+               <author ref="#amp_person_203">
+                  <persName>, Euripides</persName>
+               </author>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q934597</idno>
+               <lang/>
+            </bibl>
             <bibl xml:id="lit_work_id_77">
-               <title>Letters of Beethoven</title>
+               <title>The Letters of Beethoven</title>
                <author ref="#amp_person_106">
                   <persName>Anderson, Emily</persName>
                </author>
-               <date when="1952">1952</date>
+               <date when="1961">1961</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -752,19 +731,19 @@
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1964">1964</date>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_80">
-               <title>The English Auden</title>
+               <title>The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_98">
                   <persName>Mendelson, Edward</persName>
                </author>
-               <date when="1978">1978</date>
+               <date when="1977">1977</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -800,15 +779,16 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_87">
-               <title>your piece (work)</title>
+               <title>"your piece in Die Presse"</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
+               <date when="1961">1961</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_88">
-               <title>August 1968</title>
+               <title>August 1968 (version 1968-10-04)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -817,16 +797,16 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_89">
-               <title>Josef Weinheber   (Expression: German translation by Herbert Heckmann. Neue Rundschau  76:3(1965))</title>
+               <title>Josef Weinheber</title>
                <author ref="#amp_person_173">
                   <persName>Heckmann, Herbert</persName>
                </author>
-               <date when="1972">1972</date>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_90">
-               <title>Freedom and Necessity in the Arts (Expression: W. H. Auden, 1970)</title>
+               <title>Freedom and Necessity in the Arts (version 1970-05-21)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -835,7 +815,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_91">
-               <title>Freedom and Necessity in the Arts (Expression: German Translation  by Stella Musulin, 1970)</title>
+               <title>Freedom and Necessity in the Arts</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -844,7 +824,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_92">
-               <title>Joseph Weinheber (expression: German prose translation by W. H. Auden and Elizabeth Mayer 1965)</title>
+               <title>Joseph Weinheber</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -856,16 +836,19 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_93">
-               <title>Josef Weinheber (expression: German prose translation by Stella Musulin 1965)</title>
+               <title>Joseph Weinheber</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
+               </author>
+               <author ref="#amp_person_93">
+                  <persName>Musulin, Elsa von</persName>
                </author>
                <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_94">
-               <title>Josef Weinheber (expression: notes by Stella Musulin 1965)</title>
+               <title>Joseph Weinheber</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -895,27 +878,20 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_97">
-               <title>The doors of perception</title>
+               <title>The Doors of Perception</title>
                <author ref="#amp_person_143">
                   <persName>Huxley, Aldous</persName>
                </author>
                <date when="1954">1954</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_98">
-               <title>W. H. Auden Statement to Austrian Tax Authorities  (expression: German translation by Stella Musulin)</title>
-               <author ref="#amp_person_2">
-                  <persName>Musulin, Stella</persName>
-               </author>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1215450</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_99">
-               <title>Statement (to the Austrian tax authorities) (Expression: English original W. H. Auden)</title>
+               <title>Statement (addressed to the Austrian tax authorities)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -945,15 +921,16 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_103">
-               <title>Statement (to the Austrian tax authorities) (Expression: German translation Hilde Spiel)</title>
+               <title>Statement (addressed to the Austrian tax authorities)</title>
                <author ref="#amp_person_78">
                   <persName>Spiel, Hilde</persName>
                </author>
+               <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_104">
-               <title>Statement (to the Austrian tax authorities) (Expression: English re-translation Stella Musulin)</title>
+               <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -961,15 +938,15 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_105">
-               <title>Statement (to the Austrian tax authorities)</title>
+               <title>Statement (addressed to the Austrian tax authorities)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
-               <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_106">
-               <title>Statement (to the Austrian tax authorities). 1 (English Translation passage Stella Musulin)</title>
+               <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -1117,12 +1094,6 @@
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
-            <bibl xml:id="lit_work_id_125">
-               <title>Die Furche</title>
-               <date when="1945">1945</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1212798</idno>
-               <lang/>
-            </bibl>
             <bibl xml:id="lit_work_id_126">
                <title>W. H. Auden und die Österreicher</title>
                <date when="1977">1977</date>
@@ -1213,7 +1184,11 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_139">
-               <title>Freedom and Necessity in the Arts (Expression: incomplete German translation by Janko Musulin, 1970)</title>
+               <title>Freedom and Necessity in the Arts</title>
+               <author ref="#amp_person_167">
+                  <persName>Musulin, Janko von</persName>
+               </author>
+               <date when="1970">1970</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -1234,10 +1209,6 @@
                <date when="1787">1787</date>
                <idno type="WIKIDATA"/>
                <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_144">
-               <title/>
-               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>
