@@ -719,6 +719,54 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q669768</idno>
                   <note>https://d-nb.info/gnd/4224678-7</note>
                </org>
+               <org xml:id="amp_organization_65">
+                  <orgName>The New Yorker</orgName>
+                  <desc>Was founded in year 1925.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q217305</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_66">
+                  <orgName>Die Zeit</orgName>
+                  <desc>Was founded in year 1946.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_126">Hamburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>53.55073, 9.99302</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q157142</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_67">
+                  <orgName>Kronenzeitung</orgName>
+                  <desc>Was founded in year 1900.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q644103</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_68">
+                  <orgName>Morgen</orgName>
+                  <desc>Was founded in year 1977.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

@@ -114,13 +114,28 @@
                      <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
                      <bibl n="lit_work_id_99">Statement (addressed to the Austrian tax authorities)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
-                     <bibl n="lit_work_id_102">For friends only</bibl>
+                     <bibl n="lit_work_id_102">For Friends Only</bibl>
                      <bibl n="lit_work_id_105">Statement (addressed to the Austrian tax authorities)</bibl>
-                     <bibl n="lit_work_id_107">Elegy  (In Memoriam Emma Eiermann) (Work)</bibl>
-                     <bibl n="lit_work_id_112">Review of London Labour and the London Poor</bibl>
+                     <bibl n="lit_work_id_107">Elegy</bibl>
+                     <bibl n="lit_work_id_112">A Very Inquisitive Old Party</bibl>
                      <bibl n="lit_work_id_116">Secondary Worlds</bibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
                      <bibl n="lit_work_id_122">Coal Face</bibl>
+                     <bibl n="lit_work_id_123">Auden: Poems/Moore: Lithographs</bibl>
+                     <bibl n="lit_work_id_124">Austria and the Austrians</bibl>
+                     <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</bibl>
+                     <bibl n="lit_work_id_132">Loneliness</bibl>
+                     <bibl n="lit_work_id_133">On Drugs and Drivel</bibl>
+                     <bibl n="lit_work_id_134">About the House</bibl>
+                     <bibl n="lit_work_id_135">Collected Shorter Poems 1927–1957</bibl>
+                     <bibl n="lit_work_id_136">Collected Longer Poems</bibl>
+                     <bibl n="lit_work_id_137">City Without Walls</bibl>
+                     <bibl n="lit_work_id_138">Epistle to a Godson and Other Poems</bibl>
+                     <bibl n="lit_work_id_148">The Magic Flute</bibl>
+                     <bibl n="lit_work_id_149">Don Giovanni</bibl>
+                     <bibl n="lit_work_id_150">The Seven Deadly Sins</bibl>
+                     <bibl n="lit_work_id_151">Rise and Fall of the City of Mahagonny</bibl>
+                     <bibl n="lit_work_id_152">Arcifanfano (It's Always too Late to Learn)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -152,8 +167,12 @@
                      <bibl n="lit_work_id_94">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</bibl>
                      <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
-                     <bibl n="lit_work_id_108">Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</bibl>
-                     <bibl n="lit_work_id_115">Die zwei Welten des W. H. Auden. Auf den Spuren des englischen Poeten in Kirchstetten</bibl>
+                     <bibl n="lit_work_id_108">Auden in Kirchstetten</bibl>
+                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria</bibl>
+                     <bibl n="lit_work_id_115">Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten</bibl>
+                     <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
+                     <bibl n="lit_work_id_124">Austria and the Austrians</bibl>
+                     <bibl n="lit_work_id_126">W. H. Auden und die Österreicher</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -204,6 +223,11 @@
                      <bibl n="lit_work_id_18">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
                      <bibl n="lit_work_id_19">Love's Labour's Lost</bibl>
                      <bibl n="lit_work_id_20">Love's Labour's Lost</bibl>
+                     <bibl n="lit_work_id_148">The Magic Flute</bibl>
+                     <bibl n="lit_work_id_149">Don Giovanni</bibl>
+                     <bibl n="lit_work_id_150">The Seven Deadly Sins</bibl>
+                     <bibl n="lit_work_id_151">Rise and Fall of the City of Mahagonny</bibl>
+                     <bibl n="lit_work_id_152">Arcifanfano (It's Always too Late to Learn)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -292,6 +316,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118751840</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q448764</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_9">
                   <persName>
@@ -1313,7 +1340,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118610880</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76332</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_128">Mord im Dom  (Expression: German Translation of T. S.'s Eliot's "Murder in the Cathedral" by Rudolf Alexander Schröder(1939))</bibl>
+                     <bibl n="lit_work_id_128">Mord im Dom</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_67">
@@ -1633,6 +1660,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118583875</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151097</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_123">Auden: Poems/Moore: Lithographs</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_83">
                   <persName>
@@ -1900,7 +1930,7 @@
                      <bibl n="lit_work_id_28">W. H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_49">Early Auden</bibl>
                      <bibl n="lit_work_id_80">The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</bibl>
-                     <bibl n="lit_work_id_117">The untitled collection edited by Ed Mendelson on Auden's life</bibl>
+                     <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_99">
@@ -2066,6 +2096,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/124923437</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q351339</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_115">
                   <persName>
@@ -2139,7 +2172,7 @@
                   </persName>
                   <idno type="GND">https://d-nb.info/gnd/130202290</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_114">The untitled volume edited by Peter Müller on Auden's life in Austria</bibl>
+                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_120">
@@ -2429,7 +2462,8 @@
                   <idno type="GND">https://d-nb.info/gnd/118515527</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_123">Auden: poems, Moore: lithographs.</bibl>
+                     <bibl n="lit_work_id_121">Night Mail</bibl>
+                     <bibl n="lit_work_id_122">Coal Face</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_137">
@@ -2754,7 +2788,7 @@
                   <idno type="GND">https://d-nb.info/gnd/129569321</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q408758</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_119">The Double Man, a portrait of W. H. Auden on Radio 3</bibl>
+                     <bibl n="lit_work_id_118">The Auden Landscape</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_159">
@@ -2804,7 +2838,7 @@
                   <idno type="GND">https://d-nb.info/gnd/118608460</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q103529</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin</bibl>
+                     <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_164">
@@ -3219,6 +3253,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/12989432X</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57239</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_129">Shakespeare's dramatische Werke</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_202">
                   <persName>
@@ -3233,6 +3270,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118607960</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q57281</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_129">Shakespeare's dramatische Werke</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_203">
                   <persName>
@@ -3357,6 +3397,141 @@
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208338</idno>
                   <listBibl>
                      <bibl n="lit_work_id_11">Arcifanfano Re De Matti (Arcifanfano, King of Fools)</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_209">
+                  <persName>
+                     <forename>Harry</forename>
+                     <surname>Watt</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1906-10-18">1906-10-18</date>
+                     <settlement key="amp_place_id_287">
+                        <placeName>Amersham</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1987-04-02">1987-04-02</date>
+                     <settlement key="amp_place_id_204">
+                        <placeName>Edinburgh</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/134067584</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1637771</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_121">Night Mail</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_210">
+                  <persName>
+                     <forename>Basil</forename>
+                     <surname>Wright</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1907-06-12">1907-06-12</date>
+                     <settlement key="amp_place_id_288">
+                        <placeName>Sutton</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1987-10-14">1987-10-14</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/134067606</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q810048</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_121">Night Mail</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_211">
+                  <persName>
+                     <forename>Alberto</forename>
+                     <surname>Cavalcanti</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1897-02-06">1897-02-06</date>
+                     <settlement key="amp_place_id_289">
+                        <placeName>Rio de Janeiro</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1982-08-23">1982-08-23</date>
+                     <settlement key="amp_place_id_84">
+                        <placeName>Paris</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118667556</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q728396</idno>
+               </person>
+               <person xml:id="amp_person_212">
+                  <persName>
+                     <forename>Erich</forename>
+                     <surname>Fried</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-05-06">1921-05-06</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1988-11-22">1988-11-22</date>
+                     <settlement key="amp_place_id_290">
+                        <placeName>Baden-Baden</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118703145</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q84393</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_213">
+                  <persName>
+                     <forename>Hans Egon</forename>
+                     <surname>Holthusen</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1913-04-15">1913-04-15</date>
+                     <settlement key="amp_place_id_291">
+                        <placeName>Rendsburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1977-04-21">1977-04-21</date>
+                     <settlement key="amp_place_id_26">
+                        <placeName>Munich</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118706675</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q92510</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_214">
+                  <persName>
+                     <forename>Ernst</forename>
+                     <surname>Jandl</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1925-08-01">1925-08-01</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2005-06-09">2005-06-09</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118556894</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q44775</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
                </person>
             </listPerson>

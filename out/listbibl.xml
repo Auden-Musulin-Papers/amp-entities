@@ -619,21 +619,6 @@
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
-            <bibl xml:id="lit_work_id_63">
-               <title>The New Yorker</title>
-               <date when="1925">1925</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q217305</idno>
-            </bibl>
-            <bibl xml:id="lit_work_id_64">
-               <title>Die Presse</title>
-               <date when="1848">1848</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q689934</idno>
-            </bibl>
-            <bibl xml:id="lit_work_id_65">
-               <title>Die Zeit</title>
-               <date when="1946">1946</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q157142</idno>
-            </bibl>
             <bibl xml:id="lit_work_id_67">
                <title>Gedichte/Poems</title>
                <author ref="#amp_person_1">
@@ -644,6 +629,15 @@
                </author>
                <author ref="#amp_person_173">
                   <persName>Heckmann, Herbert</persName>
+               </author>
+               <author ref="#amp_person_212">
+                  <persName>Fried, Erich</persName>
+               </author>
+               <author ref="#amp_person_213">
+                  <persName>Holthusen, Hans Egon</persName>
+               </author>
+               <author ref="#amp_person_214">
+                  <persName>Jandl, Ernst</persName>
                </author>
                <date when="1973">1973</date>
                <idno type="WIKIDATA"/>
@@ -683,12 +677,6 @@
                </author>
                <date when="1964">1964</date>
                <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_73">
-               <title>National Review</title>
-               <date when="1955">1955</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1699649</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_74">
@@ -756,12 +744,6 @@
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
                <lang/>
             </bibl>
-            <bibl xml:id="lit_work_id_84">
-               <title>Kronenzeitung</title>
-               <date when="1900">1900</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q644103</idno>
-               <lang/>
-            </bibl>
             <bibl xml:id="lit_work_id_85">
                <title>Freedom and Necessity in the Arts</title>
                <author ref="#amp_person_1">
@@ -769,13 +751,6 @@
                </author>
                <date when="1970">1970</date>
                <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_86">
-               <title>Morgen</title>
-               <date when="1977">1977</date>
-               <biblScope type="volume">1</biblScope>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_87">
@@ -909,14 +884,16 @@
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <date when="1960">1960</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_102">
-               <title>For friends only</title>
+               <title>For Friends Only</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -954,16 +931,16 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_107">
-               <title>Elegy  (In Memoriam Emma Eiermann) (Work)</title>
+               <title>Elegy</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
-               <date when="1967">1967</date>
+               <date when="1969">1969</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_108">
-               <title>Auden in Kirchstetten (Draft of the talk given by Stella Musulin at the PEN Club, London, 1976)</title>
+               <title>Auden in Kirchstetten</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -977,13 +954,12 @@
                   <persName>Luther, Martin</persName>
                </author>
                <date when="1534">1534</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_110">
-               <title>Corinthians II</title>
-               <biblScope type="volume">2</biblScope>
-               <idno type="WIKIDATA"/>
+               <title>Second Epistle to the Corinthians</title>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q123808</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_111">
@@ -991,24 +967,27 @@
                <author ref="#amp_person_195">
                   <persName>Mayhew, Henry</persName>
                </author>
-               <biblScope type="volume">3</biblScope>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1217731</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_112">
-               <title>Review of London Labour and the London Poor</title>
+               <title>A Very Inquisitive Old Party</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <date when="1968">1968</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_113">
                <title>New Testament</title>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
             <bibl xml:id="lit_work_id_114">
-               <title>The untitled volume edited by Peter Müller on Auden's life in Austria</title>
+               <title>Unpublished volume on W. H. Auden in Austria</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
                <author ref="#amp_person_119">
                   <persName>Müller, Peter</persName>
                </author>
@@ -1016,7 +995,7 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_115">
-               <title>Die zwei Welten des W. H. Auden. Auf den Spuren des englischen Poeten in Kirchstetten</title>
+               <title>Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
@@ -1034,31 +1013,34 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_117">
-               <title>The untitled collection edited by Ed Mendelson on Auden's life</title>
+               <title>Unpublished volume on W. H. Auden</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
+               <author ref="#amp_person_8">
+                  <persName>Spender, Stephen</persName>
+               </author>
                <author ref="#amp_person_98">
                   <persName>Mendelson, Edward</persName>
+               </author>
+               <author ref="#amp_person_114">
+                  <persName>Kirstein, Lincoln</persName>
                </author>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_118">
                <title>The Auden Landscape</title>
+               <author ref="#amp_person_158">
+                  <persName>Robinson, Robert</persName>
+               </author>
                <date when="1982">1982</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_119">
-               <title>The Double Man, a portrait of W. H. Auden on Radio 3</title>
-               <author ref="#amp_person_158">
-                  <persName>Robinson, Robert</persName>
-               </author>
+               <title>The Double Man, a Portrait of W. H. Auden</title>
                <date when="1981">1981</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
-            </bibl>
-            <bibl xml:id="lit_work_id_120">
-               <title>The Lively Arts</title>
-               <date when="1977">1977</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -1066,6 +1048,15 @@
                <title>Night Mail</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_136">
+                  <persName>Britten, Benjamin</persName>
+               </author>
+               <author ref="#amp_person_209">
+                  <persName>Watt, Harry</persName>
+               </author>
+               <author ref="#amp_person_210">
+                  <persName>Wright, Basil</persName>
                </author>
                <date when="1936">1936</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q943563</idno>
@@ -1076,32 +1067,51 @@
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
+               <author ref="#amp_person_136">
+                  <persName>Britten, Benjamin</persName>
+               </author>
                <date when="1935">1935</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21646703</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_123">
-               <title>Auden: poems, Moore: lithographs.</title>
-               <author ref="#amp_person_136">
-                  <persName>Britten, Benjamin</persName>
+               <title>Auden: Poems/Moore: Lithographs</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
                </author>
+               <author ref="#amp_person_82">
+                  <persName>Moore, Henry</persName>
+               </author>
+               <date when="1974">1974</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_124">
                <title>Austria and the Austrians</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
                <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_126">
                <title>W. H. Auden und die Österreicher</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella</persName>
+               </author>
                <date when="1977">1977</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_127">
-               <title>Ein halbes Jahr zu Gast in Berlin</title>
+               <title>Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_163">
                   <persName>Schmalz-Jacobsen, Cornelia</persName>
                </author>
@@ -1110,17 +1120,23 @@
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_128">
-               <title>Mord im Dom  (Expression: German Translation of T. S.'s Eliot's "Murder in the Cathedral" by Rudolf Alexander Schröder(1939))</title>
+               <title>Mord im Dom</title>
                <author ref="#amp_person_66">
                   <persName>Schröder, Rudolf Alexander</persName>
                </author>
                <date when="1939">1939</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1947367</idno>
+               <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_129">
                <title>Shakespeare's dramatische Werke</title>
-               <date when="1964">1964</date>
+               <author ref="#amp_person_201">
+                  <persName>Tieck, Ludwig</persName>
+               </author>
+               <author ref="#amp_person_202">
+                  <persName>Schlegel, August Wilhelm von</persName>
+               </author>
+               <date when="1825">1825</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
@@ -1144,41 +1160,63 @@
             </bibl>
             <bibl xml:id="lit_work_id_132">
                <title>Loneliness</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1972">1972</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_133">
                <title>On Drugs and Drivel</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <date when="1967">1967</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_134">
                <title>About the House</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <date when="1965">1965</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4668603</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_135">
-               <title>Collected Shorter Poems 1927–1957 (London, 1966; New York, 1967)</title>
-               <date when="1967">1967</date>
+               <title>Collected Shorter Poems 1927–1957</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1966">1966</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_136">
-               <title>Collected Longer Poems (London, 1968; New York, 1969)</title>
+               <title>Collected Longer Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <date when="1968">1968</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_137">
                <title>City Without Walls</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <date when="1969">1969</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5123514</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_138">
                <title>Epistle to a Godson and Other Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <date when="1972">1972</date>
                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
                <lang/>
@@ -1198,7 +1236,7 @@
                   <persName>Schikaneder , Emanuel</persName>
                </author>
                <date when="1791">1791</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_143">
@@ -1207,6 +1245,66 @@
                   <persName>Da Ponte, Lorenzo</persName>
                </author>
                <date when="1787">1787</date>
+               <idno type="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_148">
+               <title>The Magic Flute</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1956">1956</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_149">
+               <title>Don Giovanni</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1961">1961</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_150">
+               <title>The Seven Deadly Sins</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1959">1959</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_151">
+               <title>Rise and Fall of the City of Mahagonny</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1960">1960</date>
+               <idno type="WIKIDATA"/>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_152">
+               <title>Arcifanfano (It's Always too Late to Learn)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1965">1965</date>
                <idno type="WIKIDATA"/>
                <lang/>
             </bibl>
