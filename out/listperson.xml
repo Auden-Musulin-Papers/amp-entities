@@ -3534,6 +3534,155 @@
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
                </person>
+               <person xml:id="amp_person_215">
+                  <persName>
+                     <forename>Edgar</forename>
+                     <surname>Lohner</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/117196770</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q55843175</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_216">
+                  <persName>
+                     <forename>Friederike</forename>
+                     <surname>Mayröcker</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1924-12-20">1924-12-20</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2021-06-04">2021-06-04</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118732404</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q93614</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_217">
+                  <persName>
+                     <forename>Georg von der</forename>
+                     <surname>Vring</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1889-12-30">1889-12-30</date>
+                     <settlement key="amp_place_id_294">
+                        <placeName>Brake</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1968-03-01">1968-03-01</date>
+                     <settlement key="amp_place_id_26">
+                        <placeName>Munich</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118805819</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1506744</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_218">
+                  <persName>
+                     <forename>Herbert</forename>
+                     <surname>Zand</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1923-11-14">1923-11-14</date>
+                     <settlement key="amp_place_id_295">
+                        <placeName>Pichl-Kainisch</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1970-07-14">1970-07-14</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/11877221X</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q89982</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_219">
+                  <persName>
+                     <forename>Astrid</forename>
+                     <surname>Gehlhoff-Claes</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1928-01-28">1928-01-28</date>
+                     <settlement key="amp_place_id_296">
+                        <placeName>Leverkusen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2011-12-01">2011-12-01</date>
+                     <settlement key="amp_place_id_267">
+                        <placeName>Düsseldorf</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119089211</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q750563</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_220">
+                  <persName>
+                     <forename>Herta Felicia</forename>
+                     <surname>Staub</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1908-12-21">1908-12-21</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1996-08-18">1996-08-18</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/119436299</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q59653297</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_221">
+                  <persName>
+                     <forename>Kurt</forename>
+                     <surname>Hoffmann</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1910-11-12">1910-11-12</date>
+                     <settlement key="amp_place_id_297">
+                        <placeName>Freiburg im Breisgau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2001-06-25">2001-06-25</date>
+                     <settlement key="amp_place_id_26">
+                        <placeName>Munich</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/123050561</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q77890</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
             </listPerson>
          </div>
       </body>
