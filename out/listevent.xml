@@ -751,6 +751,18 @@
                      </location>
                   </ab>
                </event>
+               <event xml:id="amp_event_id_60">
+                  <label>W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor, 1941-1942</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_298">Ann Arbor</placeName>
+                     </location>
+                  </ab>
+               </event>
             </listEvent>
          </div>
       </body>

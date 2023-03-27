@@ -667,8 +667,12 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_58">
-                  <orgName>Middle Western College</orgName>
-                  <idno type="WIKIDATA"/>
+                  <orgName>University of Michigan</orgName>
+                  <desc>Was founded in year 1817.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_298">Ann Arbor</placeName>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q230492</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_59">
