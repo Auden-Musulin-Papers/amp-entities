@@ -3464,6 +3464,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118667556</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q728396</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_122">Coal Face</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_212">
                   <persName>
@@ -3500,7 +3503,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="1977-04-21">1977-04-21</date>
+                     <date when-iso="1997-01-21">1997-01-21</date>
                      <settlement key="amp_place_id_26">
                         <placeName>Munich</placeName>
                      </settlement>
@@ -3523,7 +3526,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date when-iso="2005-06-09">2005-06-09</date>
+                     <date when-iso="2000-06-09">2000-06-09</date>
                      <settlement key="amp_place_id_1">
                         <placeName>Vienna</placeName>
                      </settlement>
@@ -3620,7 +3623,7 @@
                      <surname>Gehlhoff-Claes</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1928-01-28">1928-01-28</date>
+                     <date when-iso="1928-01-06">1928-01-06</date>
                      <settlement key="amp_place_id_296">
                         <placeName>Leverkusen</placeName>
                      </settlement>
@@ -3679,6 +3682,39 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/123050561</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q77890</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_222">
+                  <persName>
+                     <forename>Claus</forename>
+                     <surname>Pack</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-10-31">1921-10-31</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1997-02-03">1997-02-03</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/121544516</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q59526640</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_223">
+                  <persName>
+                     <forename>Will</forename>
+                     <surname>Keller</surname>
+                  </persName>
+                  <idno type="GND">https://d-nb.info/gnd/116174889</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
