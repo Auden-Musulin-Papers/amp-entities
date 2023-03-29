@@ -528,19 +528,13 @@
                <org xml:id="amp_organization_44">
                   <orgName>Amt der niederösterreichischen Landesregierung (Office of the Federal Government of Lower Austria)</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
-                  </location>
-                  <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 15.63333</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19834531</idno>
-                  <note/>
+                  <note>#just deleted Vienna to see if the 2 locations messed up the system</note>
                </org>
                <org xml:id="amp_organization_45">
                   <orgName>Episcopal Church</orgName>
