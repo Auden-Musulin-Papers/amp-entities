@@ -3680,7 +3680,14 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_298">
-                  <placeName>Ann Arbor</placeName>
+                  <settlement type="P">
+                     <placeName>Ann Arbor</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
                   <idno type="GEONAMES">https://sws.geonames.org/4984247/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q485172</idno>
                   <idno type="GND">https://d-nb.info/gnd/4079792-2</idno>
