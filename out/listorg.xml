@@ -283,7 +283,7 @@
                      <placeName key="amp_place_id_210">Trumansburg</placeName>
                   </location>
                   <location type="coords">
-                     <geo>42.46259177654697, -76.53062245912945</geo>
+                     <geo>42.54229, -76.66606</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note>formerly known as Crossing Press, now it is acquired by Ten Speed Press</note>
@@ -663,6 +663,12 @@
                <org xml:id="amp_organization_58">
                   <orgName>University of Michigan</orgName>
                   <desc>Was founded in year 1817.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_298">Ann Arbor</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>42.27756, -83.74088</geo>
+                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q230492</idno>
                   <note/>
                </org>

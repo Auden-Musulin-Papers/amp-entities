@@ -92,7 +92,7 @@
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.2064399676074, 16.367798975228684</geo>
+                        <geo>48.20644, 16.3678</geo>
                      </location>
                   </ab>
                </event>
@@ -230,7 +230,7 @@
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
@@ -247,7 +247,7 @@
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
@@ -262,7 +262,7 @@
                         <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.20378854425725, 16.37118272746974</geo>
+                        <geo>48.20379, 16.37118</geo>
                      </location>
                   </ab>
                </event>
@@ -325,7 +325,7 @@
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
@@ -340,7 +340,7 @@
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.2064399676074, 16.367798975228684</geo>
+                        <geo>48.20644, 16.3678</geo>
                      </location>
                   </ab>
                </event>
@@ -363,7 +363,7 @@
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.2064399676074, 16.367798975228684</geo>
+                        <geo>48.20644, 16.3678</geo>
                      </location>
                   </ab>
                </event>
@@ -447,7 +447,7 @@
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.2064399676074, 16.367798975228684</geo>
+                        <geo>48.20644, 16.3678</geo>
                      </location>
                   </ab>
                </event>
@@ -508,7 +508,7 @@
                         <placeName key="amp_place_id_47">Neulengbach</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.19979820714975, 15.908621293769759</geo>
+                        <geo>48.19745, 15.90219</geo>
                      </location>
                   </ab>
                </event>
@@ -525,7 +525,7 @@
                         <placeName key="amp_place_id_71">Eslarngasse</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.19498822750462, 16.393747926634855</geo>
+                        <geo>48.19499, 16.39375</geo>
                      </location>
                   </ab>
                </event>
@@ -547,7 +547,7 @@
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
@@ -611,6 +611,9 @@
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_236">Vietnam</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>16.16667, 107.83333</geo>
                      </location>
                   </ab>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
@@ -722,7 +725,7 @@
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.181531884216675, 15.811512574434994</geo>
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
@@ -749,6 +752,9 @@
                      <location type="located_in_place">
                         <placeName key="amp_place_id_274">Mumbai</placeName>
                      </location>
+                     <location type="coords">
+                        <geo>19.07283, 72.88261</geo>
+                     </location>
                   </ab>
                </event>
                <event xml:id="amp_event_id_60">
@@ -760,6 +766,9 @@
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_298">Ann Arbor</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>42.27756, -83.74088</geo>
                      </location>
                   </ab>
                </event>
