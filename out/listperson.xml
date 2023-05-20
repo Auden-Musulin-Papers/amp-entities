@@ -3727,6 +3727,25 @@
                      <surname>Colville</surname>
                   </persName>
                </person>
+               <person xml:id="amp_person_226">
+                  <persName>
+                     <forename>Friedrich Graf von Colloredo-Mannsfeld</forename>
+                     <surname>Colloredo-Mansfeld</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1917-04-03">1917-04-03</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2023-07-29">2023-07-29</date>
+                     <settlement key="amp_place_id_300">
+                        <placeName>Öblarn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
+               </person>
             </listPerson>
          </div>
       </body>
