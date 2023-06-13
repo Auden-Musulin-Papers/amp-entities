@@ -31,7 +31,7 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "tei": "@notBefore",
-    "cidoc": "P4 has time-span (is time-span of)",
+    "cidoc": "P4_has_time-span",
     "explainable": ""
   },
   "6": {
@@ -51,7 +51,7 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "tei": "idno",
+    "tei": "@source",
     "cidoc": "P70_is_documented_in",
     "explainable": "http://linkedu.eu/dedalo/explanationPattern.owl#isBasedOn"
   },
@@ -66,7 +66,7 @@
     "id": 10,
     "order": "10.00000000000000000000",
     "tei": "@cert",
-    "cidoc": "E91 Co-Reference Assignment",
+    "cidoc": "E91_co_reference_assignment",
     "explainable": ""
   },
   "11": {
