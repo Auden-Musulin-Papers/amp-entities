@@ -3746,6 +3746,51 @@
                   </death>
                   <idno type="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
                </person>
+               <person xml:id="amp_person_227">
+                  <persName>
+                     <forename>Charles</forename>
+                     <surname>Osborne</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1927-11-24">1927-11-24</date>
+                     <settlement key="amp_place_id_302">
+                        <placeName>Brisbane</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2017-09-23">2017-09-23</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/131541552</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1065689</idno>
+               </person>
+               <person xml:id="amp_person_228">
+                  <persName>
+                     <forename>Marny (Margaret)</forename>
+                     <surname>Yates</surname>
+                  </persName>
+                  <death>
+                     <date when-iso="2017-01-31">2017-01-31</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="amp_person_229">
+                  <persName>
+                     <forename>Michael</forename>
+                     <surname>Yates</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1919-07-20">1919-07-20</date>
+                     <settlement key="amp_place_id_239">
+                        <placeName>England</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2001-11-28">2001-11-28</date>
+                  </death>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6835474</idno>
+               </person>
             </listPerson>
          </div>
       </body>
