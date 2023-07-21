@@ -4336,6 +4336,21 @@
                   </location>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_304">
+                  <placeName>Ho Chi Minh City - Saigon</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/1566083/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1854</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4095370-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_305">
+                  <placeName>70 Lexham Gardens</placeName>
+                  <location type="coords">
+                     <geo>51.49647842887996, -0.19083175582250725</geo>
+                  </location>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q28455234</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

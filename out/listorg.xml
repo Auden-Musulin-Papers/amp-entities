@@ -768,6 +768,18 @@
                   <idno type="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_69">
+                  <orgName>Oxford University Press</orgName>
+                  <desc>Was founded in year 1586.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q217595</idno>
+                  <note>https://d-nb.info/gnd/812629-X</note>
+               </org>
             </listOrg>
          </div>
       </body>
