@@ -780,6 +780,88 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q217595</idno>
                   <note>https://d-nb.info/gnd/812629-X</note>
                </org>
+               <org xml:id="amp_organization_70">
+                  <orgName>Post Kirchstetten</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.22902, 14.11039</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_71">
+                  <orgName>Post Ober-Grafendorf</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.14651, 15.55345</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_72">
+                  <orgName>Post Oberndorf an der Melk</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.33333, 15.75</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_73">
+                  <orgName>Post Wien 1030</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_74">
+                  <orgName>Post Wien 1040</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_75">
+                  <orgName>Post Wien 101</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_76">
+                  <orgName>Post Wien 1150</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_77">
+                  <orgName>Deutsche Post AG (German Post)</orgName>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
