@@ -534,7 +534,7 @@
                      <geo>48.2, 15.63333</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q19834531</idno>
-                  <note>#just deleted Vienna to see if the 2 locations messed up the system</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_45">
                   <orgName>Episcopal Church</orgName>
@@ -781,7 +781,7 @@
                   <note>https://d-nb.info/gnd/812629-X</note>
                </org>
                <org xml:id="amp_organization_70">
-                  <orgName>Post Kirchstetten</orgName>
+                  <orgName>Post Office Kirchstetten</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
@@ -792,7 +792,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_71">
-                  <orgName>Post Ober-Grafendorf</orgName>
+                  <orgName>Post Office Ober-Grafendorf</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
                   </location>
@@ -803,7 +803,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_72">
-                  <orgName>Post Oberndorf an der Melk</orgName>
+                  <orgName>Post Office Oberndorf an der Melk</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
@@ -814,7 +814,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_73">
-                  <orgName>Post Wien 1030</orgName>
+                  <orgName>Post Office Wien 1030</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -825,7 +825,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_74">
-                  <orgName>Post Wien 1040</orgName>
+                  <orgName>Post Office  Wien 1040</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -836,7 +836,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_75">
-                  <orgName>Post Wien 101</orgName>
+                  <orgName>Post Office Wien 101</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -847,7 +847,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_76">
-                  <orgName>Post Wien 1150</orgName>
+                  <orgName>Post Office Wien 1150</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -858,8 +858,87 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_77">
-                  <orgName>Deutsche Post AG (German Post)</orgName>
+                  <orgName>Deutsche Bundespost (German Federal Post)</orgName>
+                  <desc>Was founded in year 1918.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_58">Bonn</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.73438, 7.09549</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q181653</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_78">
+                  <orgName>Post Office Berlin 33</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
                   <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_79">
+                  <orgName>Post Office 113</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_80">
+                  <orgName>Royal Mail</orgName>
+                  <desc>Was founded in year 1516.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q638098</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_81">
+                  <orgName>Post Office Oxford</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_82">
+                  <orgName>Post Office London W.I.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_83">
+                  <orgName>Post Office St John's Wood</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="WIKIDATA"/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_84">
+                  <orgName>United States Postal Service</orgName>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q668687</idno>
                   <note/>
                </org>
             </listOrg>
