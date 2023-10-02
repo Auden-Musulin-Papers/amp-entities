@@ -4356,7 +4356,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_306">
-                  <placeName>Washington D.C</placeName>
+                  <placeName>Washington, D.C.</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
@@ -4402,6 +4402,31 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2779138/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q653289</idno>
                   <idno type="GND">https://d-nb.info/gnd/4108814-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_311">
+                  <placeName>Oberndorf an der Melk</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/7871900/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q304184</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4804912-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_312">
+                  <placeName>Grunewald</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2914210/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q2874431</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4087315-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_313">
+                  <placeName>Schmargendorf</placeName>
+                  <idno type="GEONAMES">https://sws.geonames.org/2838009/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q641689</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4666506-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_314">
+                  <placeName/>
                   <note/>
                </place>
             </listPlace>
