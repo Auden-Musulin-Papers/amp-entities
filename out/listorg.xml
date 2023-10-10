@@ -830,8 +830,8 @@
                   <location type="coords">
                      <geo>48.19811, 16.39482</geo>
                   </location>
-                  <idno type="WIKIDATA"/>
-                  <note/>
+                  <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Rochusplatz</idno>
+                  <note>also known as Postamt Wien 40</note>
                </org>
                <org xml:id="amp_organization_74">
                   <orgName>Hauptpostamt 1040 (main post office 1040)</orgName>
@@ -993,20 +993,8 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_86">
-                  <orgName>Postamt Wien 40 (post office Vienna 40)</orgName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_156">Landstraße</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.19811, 16.39482</geo>
-                  </location>
-                  <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Rochusplatz</idno>
+                  <orgName/>
+                  <idno type="WIKIDATA"/>
                   <note/>
                </org>
             </listOrg>
