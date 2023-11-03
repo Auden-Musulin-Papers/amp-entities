@@ -695,10 +695,10 @@
                </place>
                <place xml:id="amp_place_id_44">
                   <settlement type="S">
-                     <placeName>24 Russel Square</placeName>
+                     <placeName>24 Russell Square</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
+                  <country>AT, United Kingdom</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -3824,7 +3824,6 @@
                      <placeName>Edom</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
-                  <country>DE, Germany</country>
                   <location type="coords">
                      <geo>47.49209, 11.09576</geo>
                   </location>
