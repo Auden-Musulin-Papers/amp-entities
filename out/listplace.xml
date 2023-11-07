@@ -87,7 +87,7 @@
                      <geo>48.18153, 15.81151</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/12503995/</idno>
-                  <note>known as Auden Strasse</note>
+                  <note>also known as Audenstraße</note>
                </place>
                <place xml:id="amp_place_id_3">
                   <settlement type="P">
@@ -131,6 +131,7 @@
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2774361/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q674814</idno>
+                  <idno type="GND">https://d-nb.info/gnd/4801892-2</idno>
                </place>
                <place xml:id="amp_place_id_6">
                   <settlement type="A">
@@ -4428,7 +4429,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_314">
-                  <placeName/>
+                  <placeName>"the wrong Kirchstetten"</placeName>
                   <note/>
                </place>
             </listPlace>

@@ -12,12 +12,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -41,12 +41,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -69,14 +69,14 @@
     ],
     "has_role": [
       {
-        "id": 9874,
-        "value": "reciter_in",
-        "color": "green"
+        "id": 9875,
+        "value": "is_activeparticipant_in",
+        "color": "red"
       },
       {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
+        "id": 9870,
+        "value": "is_speaker_in",
+        "color": "dark-orange"
       }
     ],
     "event": [
@@ -99,13 +99,13 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       },
       {
-        "id": 9874,
-        "value": "reciter_in",
-        "color": "green"
+        "id": 9870,
+        "value": "is_speaker_in",
+        "color": "dark-orange"
       }
     ],
     "event": [
@@ -128,7 +128,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -152,7 +152,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -176,7 +176,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -200,7 +200,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -224,7 +224,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -248,7 +248,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -272,7 +272,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -296,7 +296,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -306,82 +306,6 @@
         "value": "Auden's interview of Strobls, 1968"
       }
     ]
-  },
-  "13": {
-    "id": 13,
-    "order": "13.00000000000000000000",
-    "amp_id": "person_event__13",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
-  },
-  "14": {
-    "id": 14,
-    "order": "14.00000000000000000000",
-    "amp_id": "person_event__14",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
-  },
-  "15": {
-    "id": 15,
-    "order": "15.00000000000000000000",
-    "amp_id": "person_event__15",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
-  },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "amp_id": "person_event__16",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
   },
   "17": {
     "id": 17,
@@ -396,7 +320,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -415,27 +339,8 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
-      }
-    ],
-    "event": []
-  },
-  "19": {
-    "id": 19,
-    "order": "19.00000000000000000000",
-    "amp_id": "person_event__19",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
       }
     ],
     "event": []
@@ -453,7 +358,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -472,7 +377,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -491,7 +396,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -510,7 +415,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -529,7 +434,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -553,7 +458,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -577,32 +482,8 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
-      }
-    ],
-    "event": [
-      {
-        "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria, 1969"
-      }
-    ]
-  },
-  "27": {
-    "id": 27,
-    "order": "27.00000000000000000000",
-    "amp_id": "person_event__27",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
       }
     ],
     "event": [
@@ -625,8 +506,13 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
+      },
+      {
+        "id": 9872,
+        "value": "is_attendee_of",
+        "color": "light-red"
       }
     ],
     "event": [
@@ -649,13 +535,8 @@
     "has_role": [
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
-      },
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
       }
     ],
     "event": [
@@ -678,13 +559,8 @@
     "has_role": [
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
-      },
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
       }
     ],
     "event": [
@@ -693,54 +569,6 @@
         "value": "Wedding near Krems, 1970"
       }
     ]
-  },
-  "31": {
-    "id": 31,
-    "order": "31.00000000000000000000",
-    "amp_id": "person_event__31",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      },
-      {
-        "id": 9874,
-        "value": "reciter_in",
-        "color": "green"
-      }
-    ],
-    "event": []
-  },
-  "32": {
-    "id": 32,
-    "order": "32.00000000000000000000",
-    "amp_id": "person_event__32",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      },
-      {
-        "id": 9872,
-        "value": "present_in",
-        "color": "light-red"
-      }
-    ],
-    "event": []
   },
   "33": {
     "id": 33,
@@ -755,7 +583,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -778,14 +606,9 @@
     ],
     "has_role": [
       {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      },
-      {
-        "id": 9872,
-        "value": "present_in",
-        "color": "light-red"
+        "id": 9875,
+        "value": "is_activeparticipant_in",
+        "color": "red"
       }
     ],
     "event": [
@@ -808,12 +631,12 @@
     "has_role": [
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
       },
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -837,7 +660,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -861,7 +684,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -885,7 +708,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -908,9 +731,9 @@
     ],
     "has_role": [
       {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
+        "id": 9876,
+        "value": "is_passiveparticipant_in",
+        "color": "gray"
       }
     ],
     "event": [
@@ -932,9 +755,9 @@
     ],
     "has_role": [
       {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
+        "id": 9876,
+        "value": "is_passiveparticipant_in",
+        "color": "gray"
       }
     ],
     "event": [
@@ -957,7 +780,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -981,8 +804,13 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
+      },
+      {
+        "id": 9872,
+        "value": "is_attendee_of",
+        "color": "light-red"
       }
     ],
     "event": [
@@ -1005,7 +833,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -1029,7 +857,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -1037,49 +865,6 @@
       {
         "id": 19,
         "value": "Funeral of W. H. Auden, 1973"
-      }
-    ]
-  },
-  "45": {
-    "id": 45,
-    "order": "45.00000000000000000000",
-    "amp_id": "person_event__45",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
-  },
-  "46": {
-    "id": 46,
-    "order": "46.00000000000000000000",
-    "amp_id": "person_event__46",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\", 1984"
       }
     ]
   },
@@ -1096,31 +881,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": [
-      {
-        "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\", 1984"
-      }
-    ]
-  },
-  "48": {
-    "id": 48,
-    "order": "48.00000000000000000000",
-    "amp_id": "person_event__48",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1144,7 +905,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1168,7 +929,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1192,12 +953,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1221,7 +982,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1245,7 +1006,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1269,7 +1030,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1293,12 +1054,12 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       },
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
       }
     ],
@@ -1322,7 +1083,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -1346,13 +1107,13 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       },
       {
-        "id": 9874,
-        "value": "reciter_in",
-        "color": "green"
+        "id": 9870,
+        "value": "is_speaker_in",
+        "color": "dark-orange"
       }
     ],
     "event": [
@@ -1375,13 +1136,8 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
-      },
-      {
-        "id": 9870,
-        "value": "speaker_in",
-        "color": "dark-orange"
       }
     ],
     "event": [
@@ -1390,25 +1146,6 @@
         "value": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965"
       }
     ]
-  },
-  "59": {
-    "id": 59,
-    "order": "59.00000000000000000000",
-    "amp_id": "person_event__59",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
   },
   "60": {
     "id": 60,
@@ -1423,12 +1160,12 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       },
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       }
     ],
@@ -1452,7 +1189,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       },
       {
@@ -1481,12 +1218,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1510,13 +1247,13 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       },
       {
-        "id": 9892,
-        "value": "listener",
-        "color": "gray"
+        "id": 9872,
+        "value": "is_attendee_of",
+        "color": "light-red"
       }
     ],
     "event": [
@@ -1539,12 +1276,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1568,12 +1305,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1597,12 +1334,12 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       },
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       }
     ],
@@ -1626,12 +1363,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1655,12 +1392,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1684,12 +1421,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1713,12 +1450,12 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       },
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
       }
     ],
@@ -1742,12 +1479,12 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       },
       {
         "id": 9872,
-        "value": "present_in",
+        "value": "is_attendee_of",
         "color": "light-red"
       }
     ],
@@ -1771,12 +1508,12 @@
     "has_role": [
       {
         "id": 9870,
-        "value": "speaker_in",
+        "value": "is_speaker_in",
         "color": "dark-orange"
       },
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1786,54 +1523,6 @@
         "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\", 1968"
       }
     ]
-  },
-  "73": {
-    "id": 73,
-    "order": "73.00000000000000000000",
-    "amp_id": "person_event__73",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      },
-      {
-        "id": 9892,
-        "value": "listener",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 32,
-        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\", 1968"
-      }
-    ]
-  },
-  "74": {
-    "id": 74,
-    "order": "74.00000000000000000000",
-    "amp_id": "person_event__74",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
   },
   "75": {
     "id": 75,
@@ -1848,7 +1537,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1872,7 +1561,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -1882,73 +1571,6 @@
         "value": "W. H. Auden's car accident in Kirchstetten"
       }
     ]
-  },
-  "77": {
-    "id": 77,
-    "order": "77.00000000000000000000",
-    "amp_id": "person_event__77",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": [
-      {
-        "id": 34,
-        "value": "W. H. Auden's car accident in Kirchstetten"
-      }
-    ]
-  },
-  "78": {
-    "id": 78,
-    "order": "78.00000000000000000000",
-    "amp_id": "person_event__78",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 34,
-        "value": "W. H. Auden's car accident in Kirchstetten"
-      }
-    ]
-  },
-  "79": {
-    "id": 79,
-    "order": "79.00000000000000000000",
-    "amp_id": "person_event__79",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
   },
   "80": {
     "id": 80,
@@ -1963,7 +1585,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -1971,102 +1593,6 @@
       {
         "id": 36,
         "value": "Arrest and court trial of Hugo K., 1962"
-      }
-    ]
-  },
-  "81": {
-    "id": 81,
-    "order": "81.00000000000000000000",
-    "amp_id": "person_event__81",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 36,
-        "value": "Arrest and court trial of Hugo K., 1962"
-      }
-    ]
-  },
-  "82": {
-    "id": 82,
-    "order": "82.00000000000000000000",
-    "amp_id": "person_event__82",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 36,
-        "value": "Arrest and court trial of Hugo K., 1962"
-      }
-    ]
-  },
-  "83": {
-    "id": 83,
-    "order": "83.00000000000000000000",
-    "amp_id": "person_event__83",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 2,
-        "value": "Death of Yannis Boras in a car accident, 1968"
-      }
-    ]
-  },
-  "84": {
-    "id": 84,
-    "order": "84.00000000000000000000",
-    "amp_id": "person_event__84",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 2,
-        "value": "Death of Yannis Boras in a car accident, 1968"
       }
     ]
   },
@@ -2083,7 +1609,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2107,32 +1633,13 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
-      }
-    ],
-    "event": [
+      },
       {
-        "id": 37,
-        "value": "Lyrik 70 poetry convention, 1970"
-      }
-    ]
-  },
-  "87": {
-    "id": 87,
-    "order": "87.00000000000000000000",
-    "amp_id": "person_event__87",
-    "person": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella"
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
+        "id": 9870,
+        "value": "is_speaker_in",
+        "color": "dark-orange"
       }
     ],
     "event": [
@@ -2155,7 +1662,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2163,30 +1670,6 @@
       {
         "id": 37,
         "value": "Lyrik 70 poetry convention, 1970"
-      }
-    ]
-  },
-  "89": {
-    "id": 89,
-    "order": "89.00000000000000000000",
-    "amp_id": "person_event__89",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": [
-      {
-        "id": 38,
-        "value": "Party at Chester Kallman's apartment in Eslarngasse"
       }
     ]
   },
@@ -2203,7 +1686,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2227,8 +1710,13 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
+      },
+      {
+        "id": 9872,
+        "value": "is_attendee_of",
+        "color": "light-red"
       }
     ],
     "event": [
@@ -2251,7 +1739,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2275,7 +1763,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2299,7 +1787,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2323,7 +1811,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2347,7 +1835,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2371,7 +1859,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2395,7 +1883,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2419,7 +1907,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2443,7 +1931,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2451,30 +1939,6 @@
       {
         "id": 19,
         "value": "Funeral of W. H. Auden, 1973"
-      }
-    ]
-  },
-  "101": {
-    "id": 101,
-    "order": "101.00000000000000000000",
-    "amp_id": "person_event__101",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9876,
-        "value": "passive_participant",
-        "color": "gray"
-      }
-    ],
-    "event": [
-      {
-        "id": 40,
-        "value": "Preparation of W. H. Auden's funeral, 1973"
       }
     ]
   },
@@ -2491,7 +1955,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2515,7 +1979,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2539,7 +2003,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2563,7 +2027,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2587,7 +2051,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2611,7 +2075,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2635,7 +2099,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2659,7 +2123,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2669,25 +2133,6 @@
         "value": "Preparation of W. H. Auden's funeral, 1973"
       }
     ]
-  },
-  "110": {
-    "id": 110,
-    "order": "110.00000000000000000000",
-    "amp_id": "person_event__110",
-    "person": [
-      {
-        "id": 1,
-        "value": "Auden, W. H."
-      }
-    ],
-    "has_role": [
-      {
-        "id": 9875,
-        "value": "active_participant",
-        "color": "red"
-      }
-    ],
-    "event": []
   },
   "111": {
     "id": 111,
@@ -2702,7 +2147,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2721,7 +2166,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2745,7 +2190,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2769,7 +2214,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2793,7 +2238,7 @@
     "has_role": [
       {
         "id": 9875,
-        "value": "active_participant",
+        "value": "is_activeparticipant_in",
         "color": "red"
       }
     ],
@@ -2817,7 +2262,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2841,7 +2286,7 @@
     "has_role": [
       {
         "id": 9876,
-        "value": "passive_participant",
+        "value": "is_passiveparticipant_in",
         "color": "gray"
       }
     ],
@@ -2849,6 +2294,30 @@
       {
         "id": 1,
         "value": "Death of Emma Eiermann, 1967"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "amp_id": "person_event__118",
+    "person": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "has_role": [
+      {
+        "id": 9876,
+        "value": "is_passiveparticipant_in",
+        "color": "gray"
+      }
+    ],
+    "event": [
+      {
+        "id": 2,
+        "value": "Death of Yannis Boras in a car accident, 1968"
       }
     ]
   }
