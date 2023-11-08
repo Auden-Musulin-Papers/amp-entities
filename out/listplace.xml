@@ -151,7 +151,7 @@
                </place>
                <place xml:id="amp_place_id_7">
                   <settlement type="P">
-                     <placeName>Fridau (Schloss Fridau)</placeName>
+                     <placeName>Schloss Fridau</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -161,7 +161,7 @@
                   <location type="coords">
                      <geo>48.14765, 15.55595</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/2779247/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/12504042/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1651450</idno>
                   <idno type="GND">https://lobid.org/gnd/1052612687</idno>
                </place>
@@ -4429,7 +4429,11 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_314">
-                  <placeName>"the wrong Kirchstetten"</placeName>
+                  <placeName>"the wrong Kirchstetten" (amp-transcript__0070.xml)</placeName>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_315">
+                  <placeName>"your place" (amp-transcript__0058.xml)</placeName>
                   <note/>
                </place>
             </listPlace>
