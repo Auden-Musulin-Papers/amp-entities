@@ -776,6 +776,60 @@
                      </location>
                   </ab>
                </event>
+               <event xml:id="amp_event_id_61">
+                  <label>Letter Stella Musulin to W. H. Auden 1959-10-05</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_62">
+                  <label>Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_63">
+                  <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_64">
+                  <label>Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_315">"your place" (amp-transcript__0058.xml)</placeName>
+                     </location>
+                  </ab>
+               </event>
             </listEvent>
          </div>
       </body>
