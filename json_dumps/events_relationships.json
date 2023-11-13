@@ -2320,5 +2320,29 @@
         "value": "Death of Yannis Boras in a car accident, 1968"
       }
     ]
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "amp_id": "person_event__119",
+    "person": [
+      {
+        "id": 5,
+        "value": "Weinheber, Josef"
+      }
+    ],
+    "has_role": [
+      {
+        "id": 9875,
+        "value": "is_activeparticipant_in",
+        "color": "red"
+      }
+    ],
+    "event": [
+      {
+        "id": 50,
+        "value": "Death of Josef Weinheber, 1945"
+      }
+    ]
   }
 }
