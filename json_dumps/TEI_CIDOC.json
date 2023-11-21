@@ -1,0 +1,79 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "tei": "event",
+    "cidoc": "E5_Event",
+    "explainable": "ex:Explanation"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "tei": "@resp",
+    "cidoc": "P1_is_identified_by",
+    "explainable": "IRI: https://purl.org/heals/eo#ExplanationCollection"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "tei": "@from",
+    "cidoc": "P82a_begin_of_the_begin",
+    "explainable": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "tei": "@to",
+    "cidoc": "P82b_end_of_the_end",
+    "explainable": ""
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "tei": "@notBefore",
+    "cidoc": "P4_has_time-span",
+    "explainable": ""
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "tei": "@noteAfter",
+    "cidoc": "P4 has time-span (is time-span of)",
+    "explainable": ""
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "tei": "@corresp",
+    "cidoc": "P123_resulted_from,P123_resulted_in",
+    "explainable": "IRI: https://purl.org/heals/eo#Evidence_Based_Explanation"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "tei": "@source",
+    "cidoc": "P70_is_documented_in",
+    "explainable": "http://linkedu.eu/dedalo/explanationPattern.owl#isBasedOn"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "tei": "@type",
+    "cidoc": "P2_has_type",
+    "explainable": "ex:Explanation"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "tei": "@cert",
+    "cidoc": "E91_co_reference_assignment",
+    "explainable": ""
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "tei": "persName",
+    "cidoc": "E21_Person",
+    "explainable": "IRI: https://purl.org/heals/eo#user"
+  }
+}

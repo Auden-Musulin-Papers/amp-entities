@@ -152,10 +152,11 @@
                   <death>
                      <date when-iso="1996-01-21">1996-01-21</date>
                      <settlement key="amp_place_id_7">
-                        <placeName>Fridau (Schloss Fridau)</placeName>
+                        <placeName>Schloss Fridau</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/127246711</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q120538514</idno>
                   <listBibl>
                      <bibl n="lit_work_id_45">Austria: People and Landscape</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
@@ -3305,6 +3306,9 @@
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/119022354</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87991</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_156">Meine Hinterhöfe</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_205">
                   <persName>
@@ -3720,6 +3724,96 @@
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="amp_person_225">
+                  <persName>
+                     <forename>Margaret</forename>
+                     <surname>Colville</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_226">
+                  <persName>
+                     <forename>Friedrich Graf von Colloredo-Mannsfeld</forename>
+                     <surname>Colloredo-Mansfeld</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1917-04-03">1917-04-03</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2023-07-29">2023-07-29</date>
+                     <settlement key="amp_place_id_300">
+                        <placeName>Öblarn</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
+               </person>
+               <person xml:id="amp_person_227">
+                  <persName>
+                     <forename>Charles</forename>
+                     <surname>Osborne</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1927-11-24">1927-11-24</date>
+                     <settlement key="amp_place_id_302">
+                        <placeName>Brisbane</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2017-09-23">2017-09-23</date>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/131541552</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q1065689</idno>
+               </person>
+               <person xml:id="amp_person_228">
+                  <persName>
+                     <forename>Marny (Margaret)</forename>
+                     <surname>Yates</surname>
+                  </persName>
+                  <death>
+                     <date when-iso="2017-01-31">2017-01-31</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="amp_person_229">
+                  <persName>
+                     <forename>Michael</forename>
+                     <surname>Yates</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1919-07-20">1919-07-20</date>
+                     <settlement key="amp_place_id_239">
+                        <placeName>England</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2001-11-28">2001-11-28</date>
+                  </death>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6835474</idno>
+               </person>
+               <person xml:id="amp_person_230">
+                  <persName>
+                     <forename>Anton</forename>
+                     <surname>Schickelgruber</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_231">
+                  <persName>
+                     <forename>Katherine</forename>
+                     <surname>Bucknell</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6376315</idno>
+               </person>
+               <person xml:id="amp_person_232">
+                  <persName>
+                     <forename>Nicholas</forename>
+                     <surname>Jenkins</surname>
+                  </persName>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75656400</idno>
                </person>
             </listPerson>
          </div>
