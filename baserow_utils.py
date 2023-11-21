@@ -291,18 +291,23 @@ def denormalize_json(fn, path, mapping):
             if dta[d][m]:
                 # get filename without ext
                 ldn = mpg[m].split(".")[0]
+                print(ldn, "json file found")
                 # get specific mapping from lockup file
                 lockup = files[ldn]
                 # iterate over mapping entity array
                 for i in dta[d][m]:
                     i_id = i["id"]
+                    print(i_id, "id found")
                     # use id for lockup file
-                    i_upt = lockup[str(i_id)]
-                    # create normalized data
-                    norm = {n: i_upt[n] for n in i_upt
-                            if not isinstance(i_upt[n], list) and n != "id" and n != "order"}
-                    i["data"] = norm
-                    i["data"]["filename"] = mpg[m]
+                    try:
+                        i_upt = lockup[str(i_id)]
+                        # create normalized data
+                        norm = {n: i_upt[n] for n in i_upt
+                                if not isinstance(i_upt[n], list) and n != "id" and n != "order"}
+                        i["data"] = norm
+                        i["data"]["filename"] = mpg[m]
+                    except KeyError:
+                        continue
     with open(save_and_open, "w") as w:
         json.dump(dta, w)
     print(f"finished update of {save_and_open} and save as {save_and_open}.")
