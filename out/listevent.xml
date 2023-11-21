@@ -218,7 +218,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_16">
-                  <label>Visit of Christiane Zimmer at Hinterholz 6, 1962</label>
+                  <label>Visit of Christiane Zimmer at Hinterholz 6 1962-08-01--1962-08-31</label>
                   <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -235,7 +235,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_17">
-                  <label>W. H. Auden's dinner with Father Lustkandl, 1962</label>
+                  <label>Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20</label>
                   <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -295,7 +295,7 @@
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
+                        <geo>48.18333, 15.81667</geo>
                      </location>
                   </ab>
                </event>
@@ -357,7 +357,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_25">
-                  <label>W. H. Auden's reading "Hier und Jetzt"</label>
+                  <label>W. H. Auden reading "Hier und Jetzt"</label>
                   <desc/>
                   <ab type="participants">
                      <persName key="amp_person_1">Auden, W. H.</persName>
@@ -481,7 +481,7 @@
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
+                        <geo>48.18333, 15.81667</geo>
                      </location>
                   </ab>
                </event>
@@ -638,22 +638,7 @@
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
                      </location>
                      <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
-                     </location>
-                  </ab>
-               </event>
-               <event xml:id="amp_event_id_50">
-                  <label>Death of Josef Weinheber, 1945</label>
-                  <desc/>
-                  <ab type="participants">
-                     <persName key="amp_person_5">Weinheber, Josef</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.22902, 14.11039</geo>
+                        <geo>48.18333, 15.81667</geo>
                      </location>
                   </ab>
                </event>
@@ -827,6 +812,95 @@
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_315">"your place" (amp-transcript__0058.xml)</placeName>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_65">
+                  <label>Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_66">
+                  <label>Christine Busta reading "Meine Hinterhöfe" 1962-05-23</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_4">Kallman, Chester</persName>
+                     <persName key="amp_person_204">Busta, Christine</persName>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_67">
+                  <label>Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                     <persName key="amp_person_204">Busta, Christine</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_301">Café Drei Viertel</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.42738, 14.02492</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_68">
+                  <label>Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_69">
+                  <label>International Rudolf Kassner Symposium 1963-05-12--1963-05-17</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_177">Palais Wilczek</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20882, 16.36624</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_70">
+                  <label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label>
+                  <desc/>
+                  <ab type="participants">
+                     <persName key="amp_person_1">Auden, W. H.</persName>
+                     <persName key="amp_person_2">Musulin, Stella</persName>
+                  </ab>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_19">Hubertusbader Straße 43</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>52.47901, 13.27565</geo>
                      </location>
                   </ab>
                </event>
