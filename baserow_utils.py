@@ -82,7 +82,7 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
     geo_u = 0
     for x in table:
         update = {}
-        if (x["updated"] is False):
+        if (x["updated_geonames"] is False):
             try:
                 norm_id = get_normalized_uri(x[field_name_input["geonames"]])
                 print(norm_id)
@@ -112,7 +112,7 @@ def geonames_to_location(br_table_id, user, field_name_input, field_name_update)
             except Exception:
                 print(f"no match for {norm_id} found.")
         if update:
-            update["updated"] = True
+            update["updated_geonames"] = True
             row_id = x["id"]
             url = f"{br_rows_url}{row_id}/?user_field_names=true"
             print(url)
