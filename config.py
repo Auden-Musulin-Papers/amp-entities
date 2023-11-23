@@ -13,12 +13,11 @@ GEONAMES_USER = os.environ.get("GEONAMES_USER")
 MAPPING_PERSONS = {
     "birth_place": "places.json",
     "death_place": "places.json",
-    "events_relationships": "relationships_person.json",
+    "person_event": "person_event.json",
     "relationships_place": "relationships_place.json",
     "literary_work": "literary_works.json",
-    "events": "events.json",
-    "residence": "places.json",
-    "workplace": "places.json",
+    "person_place": "person_place.json",
+    "person_org": "person_org.json",
 }
 MAPPING_PLACES = {
     "birth_place": "persons.json",
@@ -26,25 +25,31 @@ MAPPING_PLACES = {
     "organizations": "organizations.json",
     "is_part_of": "places.json",
     "persons_workedin": "persons.json",
-    "relationships_place": "places.json",
+    "persons_place": "persons_place.json",
+    "relation_types": "relation_types.json",
     "events": "events.json",
-    "persons_residence": "persons.json",
+    "person_place": "person_place.json",
     "same_as": "places.json",
 }
 MAPPING_ORGS = {
     "location": "places.json",
     "part_of": "organizations.json",
+    "literary_works": "literary_works.json",
+    "org_event": "org_event.json",
+    "person_org": "person_org.json",
 }
 MAPPING_EVENTS = {
     "participants": "persons.json",
     "place_of_event": "places.json",
-    "events_relationships": "events_relationships.json"
+    "events_relationships": "person_event.json",
+    "org_event": "org_event.json",
 }
 MAPPING_LITERARY_WORKS = {
     "is_written_by": "persons.json",
     "version_of": "literary_works.json",
     "relation_types": "relation_types.json",
-    "is_part_of": "literary_works.json"
+    "is_part_of": "literary_works.json",
+    "has_publisher": "organizations.json",
 }
 MAPPING_RELATIONSHIPS_PERSONS = {
     "source": "persons.json",
@@ -53,17 +58,31 @@ MAPPING_RELATIONSHIPS_PERSONS = {
 }
 MAPPING_RELATIONSHIPS_PLACES = {
     "source": "persons.json",
-    "target": "persons.json",
+    "target": "places.json",
     "relation_type_object": "relation_types.json"
 }
 MAPPING_RELATIONSHIPS_EVENTS = {
-    "person": "persons.json",
-    "event": "events.json",
+    "source": "persons.json",
+    "target": "events.json",
+    "relation_type_object": "relation_types.json"
+}
+MAPPING_RELATIONSHIPS_ORGS = {
+    "source": "persons.json",
+    "target": "organizations.json",
+    "relation_type_object": "relation_types.json"
+}
+MAPPING_RELATIONSHIPS_ORGS_EVENT = {
+    "source": "organizations.json",
+    "target": "events.json",
+    "relation_type_object": "relation_types.json"
 }
 MAPPING_RELATION_TYPES = {
     "has_broader": "relation_types.json",
-    "relationships_person": "relationships_person.json",
-    "relationships_place": "relationships_place.json",
+    "person_person": "person_person.json",
+    "person_place": "person_place.json",
+    "person_event": "person_event.json",
+    "org_event": "org_event.json",
+    "person_org": "person_org.json",
     "literary_works": "literary_works.json",
     "places": "places.json"
 }
