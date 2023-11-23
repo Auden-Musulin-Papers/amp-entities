@@ -138,10 +138,10 @@
                   <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
                   <desc>Was founded in year 1961.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
+                     <placeName key="amp_place_id_177">Palais Wilczek</placeName>
                   </location>
                   <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
+                     <geo>48.20882, 16.36624</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q303236</idno>
                   <note>Austrian Society for Literature</note>
@@ -792,7 +792,7 @@
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
                   <location type="coords">
-                     <geo>48.22902, 14.11039</geo>
+                     <geo>48.18333, 15.81667</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -819,6 +819,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_311">Oberndorf an der Melk</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.07064, 15.22478</geo>
+                  </location>
                   <idno type="WIKIDATA"/>
                   <note/>
                </org>
@@ -838,6 +841,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_308">Wieden</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.19198, 16.36714</geo>
+                  </location>
                   <idno type="WIKIDATA"/>
                   <note/>
                </org>
@@ -846,6 +852,9 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_309">Vienna West railway station</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>48.19667, 16.33722</geo>
+                  </location>
                   <idno type="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Postamt_101_(Wien_Westbahnhof)</idno>
                   <note/>
                </org>
@@ -853,6 +862,9 @@
                   <orgName>Hauptpostamt 1150 (main post office 1150)</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_310">Rudolfsheim-Fünfhaus</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19625, 16.32749</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -886,8 +898,14 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_312">Grunewald</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>52.48338, 13.26586</geo>
+                  </location>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_313">Schmargendorf</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.47517, 13.29071</geo>
                   </location>
                   <idno type="WIKIDATA"/>
                   <note/>
@@ -971,6 +989,9 @@
                   </location>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_306">Washington, D.C.</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>38.89511, -77.03637</geo>
                   </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3109672</idno>
                   <note/>
