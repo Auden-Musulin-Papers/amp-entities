@@ -14,7 +14,7 @@ MAPPING_PERSONS = {
     "birth_place": "places.json",
     "death_place": "places.json",
     "person_event": "person_event.json",
-    "relationships_place": "relationships_place.json",
+    "person_place": "person_place.json",
     "literary_work": "literary_works.json",
     "person_place": "person_place.json",
     "person_org": "person_org.json",
@@ -41,7 +41,7 @@ MAPPING_ORGS = {
 MAPPING_EVENTS = {
     "participants": "persons.json",
     "place_of_event": "places.json",
-    "events_relationships": "person_event.json",
+    "person_event": "person_event.json",
     "org_event": "org_event.json",
 }
 MAPPING_LITERARY_WORKS = {
