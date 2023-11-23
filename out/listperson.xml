@@ -162,7 +162,7 @@
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
                      <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
-                     <bibl n="lit_work_id_87">"your piece in Die Presse"</bibl>
+                     <bibl n="lit_work_id_87">Fleißaufgaben in Nächstenliebe</bibl>
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts</bibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_94">Joseph Weinheber</bibl>
@@ -2038,6 +2038,18 @@
                      <forename>Franz Josef</forename>
                      <surname>Lustkandl</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1915-07-05">1915-07-05</date>
+                     <settlement key="amp_place_id_8">
+                        <placeName>Ober-Grafendorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1968-03-20">1968-03-20</date>
+                     <settlement key="amp_place_id_9">
+                        <placeName>St. Pölten</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_111">
                   <persName>
@@ -3800,6 +3812,18 @@
                      <forename>Anton</forename>
                      <surname>Schickelgruber</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1934-11-16">1934-11-16</date>
+                     <settlement key="amp_place_id_316">
+                        <placeName>Reinprechtspölla</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2000-08-09">2000-08-09</date>
+                     <settlement key="amp_place_id_9">
+                        <placeName>St. Pölten</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_231">
                   <persName>

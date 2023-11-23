@@ -24,11 +24,9 @@ MAPPING_PLACES = {
     "death_place": "persons.json",
     "organizations": "organizations.json",
     "is_part_of": "places.json",
-    "persons_workedin": "persons.json",
-    "persons_place": "persons_place.json",
+    "person_place": "person_place.json",
     "relation_types": "relation_types.json",
     "events": "events.json",
-    "person_place": "person_place.json",
     "same_as": "places.json",
 }
 MAPPING_ORGS = {
@@ -39,7 +37,6 @@ MAPPING_ORGS = {
     "person_org": "person_org.json",
 }
 MAPPING_EVENTS = {
-    "participants": "persons.json",
     "place_of_event": "places.json",
     "person_event": "person_event.json",
     "org_event": "org_event.json",
