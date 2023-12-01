@@ -318,9 +318,6 @@
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
                   </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_307">West Germany</placeName>
-                  </location>
                   <location type="coords">
                      <geo>52.52437, 13.41053</geo>
                   </location>
@@ -434,12 +431,12 @@
                      <geo>48.13743, 11.57549</geo>
                   </location>
                   <idno type="GEONAMES">https://sws.geonames.org/2867714/</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q32664319</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1726</idno>
                   <idno type="GND">https://d-nb.info/gnd/4127793-4</idno>
                </place>
                <place xml:id="amp_place_id_27">
                   <settlement type="S">
-                     <placeName>Amerika-Haus</placeName>
+                     <placeName>Amerikahaus Vienna (1957-1971)</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -4553,6 +4550,10 @@
                   <idno type="GEONAMES">https://sws.geonames.org/2767699/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q63441039</idno>
                   <idno type="GND">https://d-nb.info/gnd/4809872-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_317">
+                  <placeName/>
                   <note/>
                </place>
             </listPlace>

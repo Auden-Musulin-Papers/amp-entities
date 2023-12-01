@@ -488,12 +488,6 @@
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>47.33333, 13.33333</geo>
-                  </location>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1747022</idno>
                   <note/>
                </org>
@@ -1014,6 +1008,24 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_86">
+                  <orgName>Amerikahaus</orgName>
+                  <desc>Was founded in year 1945.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20227, 16.36881</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_306">Washington, D.C.</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>38.89511, -77.03637</geo>
+                  </location>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q467942</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_87">
                   <orgName/>
                   <idno type="WIKIDATA"/>
                   <note/>

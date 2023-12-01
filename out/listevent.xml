@@ -703,6 +703,30 @@
                   <label>Telephone call W. H. Auden to Stella Musulin 1965-04-28</label>
                   <desc/>
                </event>
+               <event xml:id="amp_event_id_74">
+                  <label>Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_75">
+                  <label>Reception Amerikahaus Vienna (1957-1971) 1965-10-05</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20227, 16.36881</geo>
+                     </location>
+                  </ab>
+               </event>
             </listEvent>
          </div>
       </body>
