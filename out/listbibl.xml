@@ -867,7 +867,7 @@
                   <persName>Williams, Charles</persName>
                </author>
                <date when="1958">1958</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/96</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_96">
@@ -876,7 +876,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1959">1959</date>
-               <idno type="WIKIDATA"/>
+               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/95</idno>
                <lang/>
             </bibl>
             <bibl xml:id="lit_work_id_97">
@@ -1363,6 +1363,34 @@
                <date when="1958">1958</date>
                <idno type="WIKIDATA"/>
                <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_157">
+               <title>Seriously Unserious</title>
+               <author ref="#amp_person_8">
+                  <persName>Spender, Stephen</persName>
+               </author>
+               <date when="1951">1951</date>
+               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/158</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_158">
+               <title>Nones</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1951">1951</date>
+               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7049297</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_159">
+               <title>Harrison Birtwistle: Writing Music is Like Knitting</title>
+               <date when="2014">2014</date>
+               <idno type="WIKIDATA">https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html</idno>
+               <lang/>
+            </bibl>
+            <bibl xml:id="lit_work_id_160">
+               <title/>
+               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>

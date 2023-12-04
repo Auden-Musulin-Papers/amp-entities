@@ -136,6 +136,7 @@
                      <bibl n="lit_work_id_150">The Seven Deadly Sins</bibl>
                      <bibl n="lit_work_id_151">Rise and Fall of the City of Mahagonny</bibl>
                      <bibl n="lit_work_id_152">Arcifanfano (It's Always too Late to Learn)</bibl>
+                     <bibl n="lit_work_id_158">Nones</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -311,14 +312,15 @@
                   </birth>
                   <death>
                      <date when-iso="1995-07-16">1995-07-16</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
+                     <settlement key="amp_place_id_272">
+                        <placeName>St John's Wood</placeName>
                      </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/118751840</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q448764</idno>
                   <listBibl>
                      <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
+                     <bibl n="lit_work_id_157">Seriously Unserious</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_9">
@@ -341,7 +343,7 @@
                      <surname>Shakespeare</surname>
                   </persName>
                   <death>
-                     <date when-iso="1616-05-03">1616-05-03</date>
+                     <date when-iso="1616-04-23">1616-04-23</date>
                      <settlement key="amp_place_id_32">
                         <placeName>Stratford-upon-Avon</placeName>
                      </settlement>
@@ -1842,6 +1844,12 @@
                      <forename>Elsa von</forename>
                      <surname>Musulin</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1889-01-05">1889-01-05</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1976-12-20">1976-12-20</date>
+                  </death>
                   <listBibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber</bibl>
                      <bibl n="lit_work_id_94">Joseph Weinheber</bibl>
@@ -3840,6 +3848,32 @@
                      <surname>Jenkins</surname>
                   </persName>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75656400</idno>
+               </person>
+               <person xml:id="amp_person_233">
+                  <persName>
+                     <forename/>
+                     <surname>"a seventeen year old girl"</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_234">
+                  <persName>
+                     <forename>Harrison</forename>
+                     <surname>Birtwistle</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1934-07-15">1934-07-15</date>
+                     <settlement key="amp_place_id_317">
+                        <placeName>Accrington</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2022-04-18">2022-04-18</date>
+                     <settlement key="amp_place_id_318">
+                        <placeName>Mere, Wiltshire</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118851780</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q354335</idno>
                </person>
             </listPerson>
          </div>

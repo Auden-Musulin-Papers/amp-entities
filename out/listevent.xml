@@ -87,7 +87,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_4">
-                  <label>Northeast blackout of 1965</label>
+                  <label>Northeast blackout of 1965 1965-11-09--1965-11-10</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -100,7 +100,7 @@
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5">
-                  <label>New York City transit strike, 1966</label>
+                  <label>1966 New York City transit strike 1966-01-01--1966-01-13</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -387,7 +387,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_38">
-                  <label>Party at Chester Kallman's apartment in Eslarngasse</label>
+                  <label>Party at Chester Kallman's apartment in Eslarngasse 1965-12-21--1966-02-03</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -724,6 +724,30 @@
                      </location>
                      <location type="coords">
                         <geo>48.20227, 16.36881</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_76">
+                  <label>Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.72839, -73.98359</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_77">
+                  <label>Telegram Harrison 1965-09-29--1966-02-03</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
                </event>
