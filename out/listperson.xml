@@ -483,9 +483,15 @@
                   </persName>
                   <birth>
                      <date when-iso="1921-06-03">1921-06-03</date>
+                     <settlement key="amp_place_id_319">
+                        <placeName>Bronxville, New York</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1991-10-02">1991-10-02</date>
+                     <settlement key="amp_place_id_13">
+                        <placeName>Athens</placeName>
+                     </settlement>
                   </death>
                   <idno type="GND">https://d-nb.info/gnd/172137276</idno>
                   <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7174657</idno>
