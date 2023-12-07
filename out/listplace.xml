@@ -605,7 +605,7 @@
                </place>
                <place xml:id="amp_place_id_38">
                   <settlement type="S">
-                     <placeName>Wipplingerstrasse 24-26</placeName>
+                     <placeName>Wipplingerstrasse 24</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -676,7 +676,7 @@
                   <location type="coords">
                      <geo>48.20898, 16.37514</geo>
                   </location>
-                  <idno type="GEONAMES">https://sws.geonames.org/12503999/</idno>
+                  <idno type="GEONAMES">https://sws.geonames.org/10285452/</idno>
                </place>
                <place xml:id="amp_place_id_43">
                   <settlement type="P">
@@ -4570,6 +4570,19 @@
                   <idno type="GEONAMES">https://sws.geonames.org/5110269/</idno>
                   <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q928168</idno>
                   <idno type="GND">https://d-nb.info/gnd/4341646-9</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_320">
+                  <placeName>"Wandl"</placeName>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_321">
+                  <placeName>Hotel Wandl</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="GEONAMES">https://sws.geonames.org/6526692/</idno>
+                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q38027210</idno>
                   <note/>
                </place>
             </listPlace>
