@@ -97,7 +97,7 @@
                         <geo>39.76, -98.5</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5">
                   <label>1966 New York City transit strike 1966-01-01--1966-01-13</label>
@@ -110,10 +110,10 @@
                         <geo>40.71427, -74.00597</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
                <event xml:id="amp_event_id_6">
-                  <label>T. S. Eliot Memorial Lectures 1967-10-01--1967-10-31</label>
+                  <label>T S Eliot Memorial Lectures: "Secondary Worlds - Art and Truth" 1967-10-25--1967-10-28</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -123,6 +123,7 @@
                         <geo>51.27904, 1.07992</geo>
                      </location>
                   </ab>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                </event>
                <event xml:id="amp_event_id_7">
                   <label>State visit of Queen Elizabeth II in Austria, 1969</label>
@@ -135,15 +136,15 @@
                         <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
                <event xml:id="amp_event_id_8">
                   <label>Biedermeier period</label>
                   <desc/>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
                </event>
                <event xml:id="amp_event_id_9">
-                  <label>W. H. Auden's lecture "The Martyr as Dramatic Hero" 1967-10-01--1967-10-31</label>
+                  <label>W. H. Auden's lecture "The Martyr as Dramatic Hero" 1967-10-25</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -421,7 +422,7 @@
                         <geo>50.08292, 14.46672</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
                <event xml:id="amp_event_id_43">
                   <label>W. H. Auden's relocation from New York City to Christ Church, Oxford, 1972</label>
@@ -462,12 +463,12 @@
                         <geo>16.16667, 107.83333</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
                <event xml:id="amp_event_id_48">
                   <label>Pueblo incident, 1968</label>
                   <desc/>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
                <event xml:id="amp_event_id_49">
                   <label>Commemorative event Josef Weinheber’s death, 1965</label>
@@ -496,17 +497,17 @@
                         <geo>50.08292, 14.46672</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                </event>
                <event xml:id="amp_event_id_53">
                   <label>First World War, 1914-1918</label>
                   <desc/>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
                </event>
                <event xml:id="amp_event_id_54">
                   <label>Second World War, 1939-1945</label>
                   <desc/>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
                <event xml:id="amp_event_id_55">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
@@ -519,7 +520,7 @@
                         <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
                </event>
                <event xml:id="amp_event_id_56">
                   <label>Salzburg Festival</label>
@@ -532,7 +533,7 @@
                         <geo>47.79941, 13.04399</geo>
                      </location>
                   </ab>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57">
                   <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>

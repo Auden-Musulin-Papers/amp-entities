@@ -62,8 +62,8 @@
                <author ref="#amp_person_39">
                   <persName>Benson, Edward Frederic</persName>
                </author>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6754148</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6754148</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_2">
                <title>Homage to Clio</title>
@@ -71,8 +71,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1960">1960</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q16386068</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16386068</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_3">
                <title>The Rake's Progress</title>
@@ -86,8 +86,8 @@
                   <persName>Stravinsky, Igor</persName>
                </author>
                <date when="1951">1951</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q539339</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q539339</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_4">
                <title>Elegy for Young Lovers</title>
@@ -101,8 +101,8 @@
                   <persName>Henze, Hans Werner</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q3050642</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3050642</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_5">
                <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
@@ -116,16 +116,16 @@
                   <persName>Henze, Hans Werner</persName>
                </author>
                <date when="1966">1966</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q844406</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q844406</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_6">
                <title>Love's Labour's Lost</title>
                <author ref="#amp_person_10">
                   <persName>Shakespeare, William</persName>
                </author>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q128610</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q128610</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_7">
                <title>Die Zauberflöte (The Magic Flute)</title>
@@ -136,8 +136,8 @@
                   <persName>Schikaneder , Emanuel</persName>
                </author>
                <date when="1791">1791</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_8">
                <title>Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</title>
@@ -148,8 +148,8 @@
                   <persName>Da Ponte, Lorenzo</persName>
                </author>
                <date when="1787">1787</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q192039</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q192039</idno>
+               <lang>it</lang>
             </bibl>
             <bibl xml:id="lit_work_id_9">
                <title>Die Sieben Todsünden (The Seven Deadly Sins)</title>
@@ -163,8 +163,8 @@
                   <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1933">1933</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/7615100-1</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/7615100-1</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_10">
                <title>Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</title>
@@ -175,8 +175,8 @@
                   <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1930">1930</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q760054</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q760054</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_11">
                <title>Arcifanfano Re De Matti (Arcifanfano, King of Fools)</title>
@@ -187,22 +187,22 @@
                   <persName>Galuppi, Baldassare</persName>
                </author>
                <date when="1749">1749</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/7615440-3</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/7615440-3</idno>
+               <lang>it</lang>
             </bibl>
             <bibl xml:id="lit_work_id_12">
                <title>New Testament</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
             <bibl xml:id="lit_work_id_13">
                <title>Book of Common Prayer</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q784710</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q784710</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_14">
                <title>First Epistle to the Corinthians</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q80355</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q80355</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_16">
                <title>The Rake's Progress</title>
@@ -213,8 +213,8 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1951">1951</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/7669413-6</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/7669413-6</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_17">
                <title>Elegy for Young Lovers</title>
@@ -225,8 +225,8 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/1068414596</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1068414596</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_18">
                <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
@@ -237,8 +237,8 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1966">1966</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/1103166417</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1103166417</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_19">
                <title>Love's Labour's Lost</title>
@@ -252,8 +252,7 @@
                   <persName>Nabokov, Nicolas</persName>
                </author>
                <date when="1973">1973</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_20">
                <title>Love's Labour's Lost</title>
@@ -264,8 +263,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1973">1973</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_21">
                <title>Die Zauberflöte (The Magic Flute)</title>
@@ -273,8 +271,8 @@
                   <persName>Schikaneder , Emanuel</persName>
                </author>
                <date when="1791">1791</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_22">
                <title>Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</title>
@@ -282,8 +280,8 @@
                   <persName>Da Ponte, Lorenzo</persName>
                </author>
                <date when="1787">1787</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
+               <lang>it</lang>
             </bibl>
             <bibl xml:id="lit_work_id_23">
                <title>Die Sieben Todsünden (The Seven Deadly Sins)</title>
@@ -291,8 +289,7 @@
                   <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1933">1933</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_24">
                <title>Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</title>
@@ -300,8 +297,8 @@
                   <persName>Brecht, Bertolt</persName>
                </author>
                <date when="1930">1930</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/1232284610</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1232284610</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_25">
                <title>Arcifanfano Re De Matti (Arcifanfano, King of Fools)</title>
@@ -309,8 +306,7 @@
                   <persName>Goldoni, Carlo</persName>
                </author>
                <date when="1749">1749</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>it</lang>
             </bibl>
             <bibl xml:id="lit_work_id_26">
                <title>The Rising Tide</title>
@@ -318,13 +314,12 @@
                   <persName>Keane, Molly</persName>
                </author>
                <date when="1937">1937</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_27">
                <title>The Elder Edda</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q205874</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q205874</idno>
+               <lang>non</lang>
             </bibl>
             <bibl xml:id="lit_work_id_28">
                <title>W. H. Auden: Collected Poems</title>
@@ -335,8 +330,7 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1976">1976</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_29">
                <title>Vägmärken (Markings)</title>
@@ -347,8 +341,7 @@
                   <persName>Sjöberg, Leif</persName>
                </author>
                <date when="1964">1964</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_30">
                <title>Vägmärken (Markings)</title>
@@ -356,8 +349,8 @@
                   <persName>Hammarskjöld, Dag</persName>
                </author>
                <date when="1963">1963</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7944306</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7944306</idno>
+               <lang>se</lang>
             </bibl>
             <bibl xml:id="lit_work_id_31">
                <title>The Dyer's Hand</title>
@@ -365,8 +358,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1962">1962</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7731278</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7731278</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_32">
                <title>The Faber Book of Aphorisms</title>
@@ -377,8 +370,7 @@
                   <persName>Kronenberger, Louis</persName>
                </author>
                <date when="1962">1962</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_33">
                <title>A Certain World: A Commonplace Book</title>
@@ -386,8 +378,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1970">1970</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4655792</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4655792</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_34">
                <title>Nineteenth Century Minor Poets</title>
@@ -395,8 +387,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1966">1966</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_35">
                <title>Le Sacre du Printemps (The Rite of Spring)</title>
@@ -404,7 +395,7 @@
                   <persName>Stravinsky, Igor</persName>
                </author>
                <date when="1913">1913</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q206015</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q206015</idno>
             </bibl>
             <bibl xml:id="lit_work_id_36">
                <title>The Rise and Fall of the British Nanny</title>
@@ -412,8 +403,7 @@
                   <persName>Gathorne-Hardy, Jonathan</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_37">
                <title>The Cave of Making</title>
@@ -421,8 +411,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_38">
                <title>Prologue at Sixty</title>
@@ -430,8 +419,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1969">1969</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_39">
                <title>W. H. Auden: A Biography</title>
@@ -439,8 +427,7 @@
                   <persName>Carpenter, Humphrey</persName>
                </author>
                <date when="1981">1981</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_40">
                <title>Auf das Unabwendbare</title>
@@ -448,8 +435,7 @@
                   <persName>Weinheber, Josef</persName>
                </author>
                <date when="1936">1936</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_41">
                <title>Kammermusik</title>
@@ -457,8 +443,7 @@
                   <persName>Weinheber, Josef</persName>
                </author>
                <date when="1939">1939</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_43">
                <title>Stark Bewölkt (version 1971-10-19)</title>
@@ -466,8 +451,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1971">1971</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_44">
                <title>Leben und Ereignisse des Peter Prosch, eines Tyrolers von Ried im Zillertal, oder Das wunderbare Schicksal, geschrieben zur Zeit der Aufklärung</title>
@@ -475,8 +460,8 @@
                   <persName>Prosch, Peter</persName>
                </author>
                <date when="1789">1789</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/1250103363</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1250103363</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_45">
                <title>Austria: People and Landscape</title>
@@ -484,24 +469,23 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1971">1971</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_46">
                <title>In Retrospect</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_47">
                <title>The Years in Austria</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_48">
                <title>Auden in Love</title>
@@ -509,8 +493,7 @@
                   <persName>Farnan, Dorothy Jean</persName>
                </author>
                <date when="1984">1984</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_49">
                <title>Early Auden</title>
@@ -518,21 +501,19 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1981">1981</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_50">
                <title>Auden in Kirchstetten</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_51">
                <title>The Oxford English Dictionary</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44996</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44996</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_53">
                <title>Forewords and Afterwords</title>
@@ -540,8 +521,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1973">1973</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5469518</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5469518</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_54">
                <title>Lord of the Rings</title>
@@ -549,8 +530,8 @@
                   <persName>Tolkien, J. R. R.</persName>
                </author>
                <date when="1954">1954</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15228</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15228</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_55">
                <title>For the Time Being: A Christmas Oratorio</title>
@@ -558,8 +539,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1944">1944</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5467148</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5467148</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_56">
                <title>Hier und Jetzt: Ein Weihnachtsoratorium</title>
@@ -567,8 +548,7 @@
                   <persName>Fritsch, Gerhard</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_57">
                <title>Doggerel by a Senior Citizen</title>
@@ -576,8 +556,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_58">
                <title>Elegy (version 1968-10-04)</title>
@@ -585,12 +565,12 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_59">
                <title>Bible</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
             </bibl>
             <bibl xml:id="lit_work_id_60">
                <title>Joseph Weinheber</title>
@@ -598,8 +578,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_61">
                <title>Joseph Weinheber (version 1965-03-15)</title>
@@ -607,8 +587,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_62">
                <title>Joseph Weinheber (version 1965-04-28)</title>
@@ -616,8 +596,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_67">
                <title>Gedichte/Poems</title>
@@ -667,8 +647,8 @@
                   <persName>Keller, Will</persName>
                </author>
                <date when="1973">1973</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_68">
                <title>Murder in Cathedral</title>
@@ -676,8 +656,8 @@
                   <persName>Eliot, T. S.</persName>
                </author>
                <date when="1935">1935</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1947367</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1947367</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_69">
                <title>The Cantos</title>
@@ -685,8 +665,8 @@
                   <persName>Pound, Ezra</persName>
                </author>
                <date when="1917">1917</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2701465</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2701465</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_70">
                <title>Italienische Reise (Italian Journey)</title>
@@ -694,8 +674,8 @@
                   <persName>Goethe, Johann Wolfgang von</persName>
                </author>
                <date when="1816">1816</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q455305</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q455305</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_72">
                <title>The Rise of the South African Reich</title>
@@ -703,8 +683,7 @@
                   <persName>Bunting, Brian</persName>
                </author>
                <date when="1964">1964</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_74">
                <title>The Common Life</title>
@@ -712,16 +691,15 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_75">
                <title>The Bacchae</title>
                <author ref="#amp_person_203">
                   <persName>, Euripides</persName>
                </author>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q934597</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q934597</idno>
+               <lang>grc</lang>
             </bibl>
             <bibl xml:id="lit_work_id_77">
                <title>The Letters of Beethoven</title>
@@ -729,8 +707,7 @@
                   <persName>Anderson, Emily</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_78">
                <title>W. H. Auden in America</title>
@@ -738,8 +715,7 @@
                   <persName>Wilson, Edmund</persName>
                </author>
                <date when="1956">1956</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_79">
                <title>Whitsunday in Kirchstetten</title>
@@ -747,8 +723,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_80">
                <title>The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</title>
@@ -759,8 +735,7 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1977">1977</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_82">
                <title>King James Version</title>
@@ -768,8 +743,8 @@
                   <persName>VI and I, James</persName>
                </author>
                <date when="1611">1611</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_85">
                <title>Freedom and Necessity in the Arts</title>
@@ -777,8 +752,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1970">1970</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_87">
                <title>Fleißaufgaben in Nächstenliebe</title>
@@ -786,8 +761,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_88">
                <title>August 1968 (version 1968-10-04)</title>
@@ -795,8 +769,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_89">
                <title>Josef Weinheber</title>
@@ -804,8 +777,7 @@
                   <persName>Heckmann, Herbert</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_90">
                <title>Freedom and Necessity in the Arts (version 1970-05-21)</title>
@@ -813,8 +785,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1970">1970</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_91">
                <title>Freedom and Necessity in the Arts</title>
@@ -822,8 +794,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1970">1970</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_92">
                <title>Joseph Weinheber</title>
@@ -834,8 +805,7 @@
                   <persName>Mayer, Elizabeth</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_93">
                <title>Joseph Weinheber</title>
@@ -846,8 +816,7 @@
                   <persName>Musulin, Elsa von</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_94">
                <title>Joseph Weinheber</title>
@@ -858,8 +827,8 @@
                   <persName>Musulin, Elsa von</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_95">
                <title>The Image of the City, and Other Essays</title>
@@ -867,8 +836,8 @@
                   <persName>Williams, Charles</persName>
                </author>
                <date when="1958">1958</date>
-               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/96</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/96</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_96">
                <title>The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</title>
@@ -876,8 +845,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1959">1959</date>
-               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/95</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/95</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_97">
                <title>The Doors of Perception</title>
@@ -885,8 +854,8 @@
                   <persName>Huxley, Aldous</persName>
                </author>
                <date when="1954">1954</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1215450</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1215450</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_99">
                <title>Statement (addressed to the Austrian tax authorities)</title>
@@ -894,8 +863,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_100">
                <title>Akenfield : Portrait of an English Village</title>
@@ -903,8 +871,7 @@
                   <persName>Blythe, Ronald</persName>
                </author>
                <date when="1969">1969</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_101">
                <title>On Installing an American Kitchen in Lower Austria</title>
@@ -912,8 +879,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1960">1960</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_102">
                <title>For Friends Only</title>
@@ -921,8 +887,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_103">
                <title>Statement (addressed to the Austrian tax authorities)</title>
@@ -930,16 +895,14 @@
                   <persName>Spiel, Hilde</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_104">
                <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_105">
                <title>Statement (addressed to the Austrian tax authorities)</title>
@@ -947,15 +910,13 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
             </bibl>
             <bibl xml:id="lit_work_id_106">
                <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_107">
                <title>Elegy</title>
@@ -963,8 +924,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1969">1969</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_108">
                <title>Auden in Kirchstetten</title>
@@ -972,8 +933,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1976">1976</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_109">
                <title>Luther Bible</title>
@@ -981,21 +941,21 @@
                   <persName>Luther, Martin</persName>
                </author>
                <date when="1534">1534</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_110">
                <title>Second Epistle to the Corinthians</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q123808</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123808</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_111">
                <title>London Labour and the London Poor</title>
                <author ref="#amp_person_195">
                   <persName>Mayhew, Henry</persName>
                </author>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1217731</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1217731</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_112">
                <title>A Very Inquisitive Old Party</title>
@@ -1003,12 +963,11 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_113">
                <title>New Testament</title>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
             <bibl xml:id="lit_work_id_114">
                <title>Unpublished volume on W. H. Auden in Austria</title>
@@ -1018,8 +977,8 @@
                <author ref="#amp_person_119">
                   <persName>Müller, Peter</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_115">
                <title>Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten</title>
@@ -1027,8 +986,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1977">1977</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_116">
                <title>Secondary Worlds</title>
@@ -1036,8 +994,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_117">
                <title>Unpublished volume on W. H. Auden</title>
@@ -1053,8 +1011,7 @@
                <author ref="#amp_person_114">
                   <persName>Kirstein, Lincoln</persName>
                </author>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_118">
                <title>The Auden Landscape</title>
@@ -1062,14 +1019,12 @@
                   <persName>Robinson, Robert</persName>
                </author>
                <date when="1982">1982</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_119">
                <title>The Double Man, a Portrait of W. H. Auden</title>
                <date when="1981">1981</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_121">
                <title>Night Mail</title>
@@ -1086,8 +1041,8 @@
                   <persName>Wright, Basil</persName>
                </author>
                <date when="1936">1936</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q943563</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q943563</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_122">
                <title>Coal Face</title>
@@ -1101,8 +1056,8 @@
                   <persName>Cavalcanti, Alberto</persName>
                </author>
                <date when="1935">1935</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q21646703</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21646703</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_123">
                <title>Auden: Poems/Moore: Lithographs</title>
@@ -1113,8 +1068,7 @@
                   <persName>Moore, Henry</persName>
                </author>
                <date when="1974">1974</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_124">
                <title>Austria and the Austrians</title>
@@ -1125,8 +1079,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_126">
                <title>W. H. Auden und die Österreicher</title>
@@ -1134,8 +1087,7 @@
                   <persName>Musulin, Stella</persName>
                </author>
                <date when="1977">1977</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_127">
                <title>Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</title>
@@ -1146,8 +1098,7 @@
                   <persName>Schmalz-Jacobsen, Cornelia</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_128">
                <title>Mord im Dom</title>
@@ -1155,8 +1106,7 @@
                   <persName>Schröder, Rudolf Alexander</persName>
                </author>
                <date when="1939">1939</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_129">
                <title>Shakespeare's dramatische Werke</title>
@@ -1167,8 +1117,7 @@
                   <persName>Schlegel, August Wilhelm von</persName>
                </author>
                <date when="1825">1825</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_130">
                <title>Cantos I-XXX</title>
@@ -1176,8 +1125,8 @@
                   <persName>Hesse, Eva</persName>
                </author>
                <date when="1964">1964</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/575427620</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/575427620</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_131">
                <title>Die Pisaner Gesänge</title>
@@ -1185,8 +1134,8 @@
                   <persName>Hesse, Eva</persName>
                </author>
                <date when="1956">1956</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/575427612</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/575427612</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_132">
                <title>Loneliness</title>
@@ -1194,8 +1143,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_133">
                <title>On Drugs and Drivel</title>
@@ -1203,8 +1151,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1967">1967</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_134">
                <title>About the House</title>
@@ -1212,8 +1159,9 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4668603</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4668603</idno>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_135">
                <title>Collected Shorter Poems 1927–1957</title>
@@ -1221,8 +1169,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1966">1966</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_136">
                <title>Collected Longer Poems</title>
@@ -1230,8 +1177,7 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1968">1968</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_137">
                <title>City Without Walls</title>
@@ -1239,8 +1185,9 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1969">1969</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5123514</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5123514</idno>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_138">
                <title>Epistle to a Godson and Other Poems</title>
@@ -1248,8 +1195,8 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5383618</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_139">
                <title>Freedom and Necessity in the Arts</title>
@@ -1257,8 +1204,7 @@
                   <persName>Musulin, Janko von</persName>
                </author>
                <date when="1970">1970</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_142">
                <title>Die Zauberflöte (The Magic Flute)</title>
@@ -1266,8 +1212,8 @@
                   <persName>Schikaneder , Emanuel</persName>
                </author>
                <date when="1791">1791</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4275395-8</idno>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_143">
                <title>Il dissoluto punito ossia Il Don Giovanni</title>
@@ -1275,8 +1221,8 @@
                   <persName>Da Ponte, Lorenzo</persName>
                </author>
                <date when="1787">1787</date>
-               <idno type="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4278692-7</idno>
+               <lang>it</lang>
             </bibl>
             <bibl xml:id="lit_work_id_148">
                <title>The Magic Flute</title>
@@ -1287,8 +1233,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1956">1956</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_149">
                <title>Don Giovanni</title>
@@ -1299,8 +1244,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1961">1961</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_150">
                <title>The Seven Deadly Sins</title>
@@ -1311,8 +1255,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1959">1959</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_151">
                <title>Rise and Fall of the City of Mahagonny</title>
@@ -1323,8 +1266,7 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1960">1960</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_152">
                <title>Arcifanfano (It's Always too Late to Learn)</title>
@@ -1335,25 +1277,21 @@
                   <persName>Kallman, Chester</persName>
                </author>
                <date when="1965">1965</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_153">
                <title>Auden Studies</title>
                <date when="1990">1990</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_154">
                <title>W. H. Auden: 'The Language of Learning and the Language of Love' (Auden Studies 2)</title>
                <date when="1994">1994</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_155">
                <title>Notes to OUP Authors</title>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_156">
                <title>Meine Hinterhöfe</title>
@@ -1361,8 +1299,7 @@
                   <persName>Busta, Christine</persName>
                </author>
                <date when="1958">1958</date>
-               <idno type="WIKIDATA"/>
-               <lang/>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_157">
                <title>Seriously Unserious</title>
@@ -1370,8 +1307,8 @@
                   <persName>Spender, Stephen</persName>
                </author>
                <date when="1951">1951</date>
-               <idno type="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/158</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://baserow.acdh-dev.oeaw.ac.at/database/274/table/1487/5647/row/158</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_158">
                <title>Nones</title>
@@ -1379,18 +1316,17 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1951">1951</date>
-               <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7049297</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7049297</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_159">
                <title>Harrison Birtwistle: Writing Music is Like Knitting</title>
                <date when="2014">2014</date>
-               <idno type="WIKIDATA">https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html</idno>
-               <lang/>
+               <idno type="URI" subtype="WIKIDATA">https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html</idno>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_160">
                <title/>
-               <idno type="WIKIDATA"/>
             </bibl>
       </listBibl>
       </body>

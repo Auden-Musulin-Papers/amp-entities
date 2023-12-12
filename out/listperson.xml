@@ -75,8 +75,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118650963</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q178698</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118650963</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q178698</idno>
                   <listBibl>
                      <bibl n="lit_work_id_2">Homage to Clio</bibl>
                      <bibl n="lit_work_id_3">The Rake's Progress</bibl>
@@ -156,8 +156,8 @@
                         <placeName>Schloss Fridau</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/127246711</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q120538514</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/127246711</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q120538514</idno>
                   <listBibl>
                      <bibl n="lit_work_id_45">Austria: People and Landscape</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
@@ -194,8 +194,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118975803</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q24260023</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118975803</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q24260023</idno>
                </person>
                <person xml:id="amp_person_4">
                   <persName>
@@ -214,8 +214,8 @@
                         <placeName>Athens</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119544911</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5093626</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119544911</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5093626</idno>
                   <listBibl>
                      <bibl n="lit_work_id_3">The Rake's Progress</bibl>
                      <bibl n="lit_work_id_4">Elegy for Young Lovers</bibl>
@@ -249,8 +249,8 @@
                         <placeName>Kirchstetten</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118766287</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q78776</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118766287</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78776</idno>
                   <listBibl>
                      <bibl n="lit_work_id_40">Auf das Unabwendbare</bibl>
                      <bibl n="lit_work_id_41">Kammermusik</bibl>
@@ -273,8 +273,8 @@
                         <placeName>Oxford</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118807439</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q124735</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118807439</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124735</idno>
                   <listBibl>
                      <bibl n="lit_work_id_95">The Image of the City, and Other Essays</bibl>
                   </listBibl>
@@ -296,8 +296,8 @@
                         <placeName>Brandenburg an der Havel</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118556509</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45243</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118556509</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45243</idno>
                </person>
                <person xml:id="amp_person_8">
                   <persName>
@@ -316,8 +316,8 @@
                         <placeName>St John's Wood</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118751840</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q448764</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118751840</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q448764</idno>
                   <listBibl>
                      <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
                      <bibl n="lit_work_id_157">Seriously Unserious</bibl>
@@ -334,8 +334,8 @@
                         <placeName>Ravenna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118523708</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1067</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118523708</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1067</idno>
                </person>
                <person xml:id="amp_person_10">
                   <persName>
@@ -348,8 +348,8 @@
                         <placeName>Stratford-upon-Avon</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118613723</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q692</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118613723</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q692</idno>
                   <listBibl>
                      <bibl n="lit_work_id_6">Love's Labour's Lost</bibl>
                   </listBibl>
@@ -371,8 +371,8 @@
                         <placeName>Weimar</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118540238</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118540238</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
                   <listBibl>
                      <bibl n="lit_work_id_70">Italienische Reise (Italian Journey)</bibl>
                   </listBibl>
@@ -388,8 +388,8 @@
                         <placeName>Venice</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118622994</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47551</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118622994</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47551</idno>
                </person>
                <person xml:id="amp_person_13">
                   <persName>
@@ -408,8 +408,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118584596</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q254</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118584596</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q254</idno>
                   <listBibl>
                      <bibl n="lit_work_id_7">Die Zauberflöte (The Magic Flute)</bibl>
                      <bibl n="lit_work_id_8">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
@@ -438,8 +438,8 @@
                         <placeName>Oxford</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118927922</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q336569</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118927922</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q336569</idno>
                </person>
                <person xml:id="amp_person_16">
                   <persName>
@@ -473,8 +473,8 @@
                         <placeName>Venice</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118594117</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594117</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
                </person>
                <person xml:id="amp_person_19">
                   <persName>
@@ -493,8 +493,8 @@
                         <placeName>Athens</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/172137276</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7174657</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/172137276</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7174657</idno>
                </person>
                <person xml:id="amp_person_20">
                   <persName>
@@ -513,8 +513,8 @@
                         <placeName>Paris</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118632779</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q30875</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118632779</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30875</idno>
                </person>
                <person xml:id="amp_person_21">
                   <persName>
@@ -530,7 +530,7 @@
                   <birth>
                      <date when-iso="1923-02-17">1923-02-17</date>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123685608</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123685608</idno>
                </person>
                <person xml:id="amp_person_23">
                   <persName>
@@ -543,7 +543,7 @@
                         <placeName>Livadaki</placeName>
                      </settlement>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123594251</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123594251</idno>
                </person>
                <person xml:id="amp_person_24">
                   <persName>
@@ -556,8 +556,8 @@
                         <placeName>Rome</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118818686</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q179277</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118818686</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q179277</idno>
                </person>
                <person xml:id="amp_person_25">
                   <persName>
@@ -576,8 +576,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118642545</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7314</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118642545</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7314</idno>
                   <listBibl>
                      <bibl n="lit_work_id_3">The Rake's Progress</bibl>
                      <bibl n="lit_work_id_35">Le Sacre du Printemps (The Rite of Spring)</bibl>
@@ -600,8 +600,8 @@
                         <placeName>Mougins</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118594206</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5593</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594206</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5593</idno>
                </person>
                <person xml:id="amp_person_27">
                   <persName>
@@ -620,8 +620,8 @@
                         <placeName>Kensington</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118529854</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q37767</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118529854</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q37767</idno>
                   <listBibl>
                      <bibl n="lit_work_id_68">Murder in Cathedral</bibl>
                   </listBibl>
@@ -643,8 +643,8 @@
                         <placeName>Rome</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118582143</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5592</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118582143</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5592</idno>
                </person>
                <person xml:id="amp_person_29">
                   <persName>
@@ -663,16 +663,16 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118508288</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q255</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118508288</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q255</idno>
                </person>
                <person xml:id="amp_person_30">
                   <persName>
                      <forename>Plato</forename>
                      <surname/>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118594893</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594893</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
                </person>
                <person xml:id="amp_person_31">
                   <persName>
@@ -691,8 +691,8 @@
                         <placeName>Vence</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118570358</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q34970</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118570358</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q34970</idno>
                </person>
                <person xml:id="amp_person_32">
                   <persName>
@@ -717,8 +717,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118558161</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q183266</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558161</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183266</idno>
                </person>
                <person xml:id="amp_person_34">
                   <persName>
@@ -737,8 +737,8 @@
                         <placeName>Ried</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118742019</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2077624</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118742019</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2077624</idno>
                   <listBibl>
                      <bibl n="lit_work_id_44">Leben und Ereignisse des Peter Prosch, eines Tyrolers von Ried im Zillertal, oder Das wunderbare Schicksal, geschrieben zur Zeit der Aufklärung</bibl>
                   </listBibl>
@@ -760,8 +760,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118515799</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q81752</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118515799</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q81752</idno>
                </person>
                <person xml:id="amp_person_36">
                   <persName>
@@ -780,8 +780,8 @@
                         <placeName>Linz</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118618156</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q168542</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118618156</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q168542</idno>
                </person>
                <person xml:id="amp_person_37">
                   <persName>
@@ -800,8 +800,8 @@
                         <placeName>Pottenstein</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118597914</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45025</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118597914</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45025</idno>
                </person>
                <person xml:id="amp_person_38">
                   <persName>
@@ -820,8 +820,8 @@
                         <placeName>Graz</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118587080</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44862</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118587080</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44862</idno>
                </person>
                <person xml:id="amp_person_39">
                   <persName>
@@ -840,8 +840,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/11885349X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q771698</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11885349X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q771698</idno>
                   <listBibl>
                      <bibl n="lit_work_id_1">Mapp and Lucia</bibl>
                   </listBibl>
@@ -863,8 +863,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118630202</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55004</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118630202</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55004</idno>
                   <listBibl>
                      <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
                      <bibl n="lit_work_id_10">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
@@ -887,8 +887,8 @@
                         <placeName>Bournemouth</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118623222</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q892</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118623222</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q892</idno>
                   <listBibl>
                      <bibl n="lit_work_id_54">Lord of the Rings</bibl>
                   </listBibl>
@@ -910,8 +910,8 @@
                         <placeName>Rodaun</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118552759</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51513</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118552759</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q51513</idno>
                </person>
                <person xml:id="amp_person_43">
                   <persName>
@@ -930,8 +930,8 @@
                         <placeName>Paddington</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/116952199</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76361745</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116952199</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76361745</idno>
                </person>
                <person xml:id="amp_person_44">
                   <persName>
@@ -950,8 +950,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1144902630</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q75313732</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1144902630</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q75313732</idno>
                </person>
                <person xml:id="amp_person_45">
                   <persName>
@@ -967,7 +967,7 @@
                   <death>
                      <date when-iso="1980-03-28">1980-03-28</date>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75311853</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75311853</idno>
                </person>
                <person xml:id="amp_person_46">
                   <persName>
@@ -986,7 +986,7 @@
                   <birth>
                      <date when-iso="1946-02-13">1946-02-13</date>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75311857</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75311857</idno>
                </person>
                <person xml:id="amp_person_48">
                   <persName>
@@ -1005,8 +1005,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/105184292</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q128576</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/105184292</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q128576</idno>
                </person>
                <person xml:id="amp_person_49">
                   <persName>
@@ -1025,8 +1025,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118771663</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q79178</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118771663</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79178</idno>
                </person>
                <person xml:id="amp_person_51">
                   <persName>
@@ -1045,8 +1045,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118535560</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112255</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118535560</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112255</idno>
                </person>
                <person xml:id="amp_person_52">
                   <persName>
@@ -1065,8 +1065,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118623362</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q112880</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118623362</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112880</idno>
                </person>
                <person xml:id="amp_person_53">
                   <persName>
@@ -1085,8 +1085,8 @@
                         <placeName>Gmunden</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118509861</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44336</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118509861</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44336</idno>
                </person>
                <person xml:id="amp_person_54">
                   <persName>
@@ -1105,8 +1105,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118547666</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87771</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118547666</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87771</idno>
                </person>
                <person xml:id="amp_person_55">
                   <persName>
@@ -1125,8 +1125,8 @@
                         <placeName>Mezzegra</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118585967</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q23559</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118585967</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q23559</idno>
                </person>
                <person xml:id="amp_person_56">
                   <persName>
@@ -1145,8 +1145,8 @@
                         <placeName>Paris</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118539124</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q47484</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118539124</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47484</idno>
                </person>
                <person xml:id="amp_person_57">
                   <persName>
@@ -1165,8 +1165,8 @@
                         <placeName>Sierre</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118560492</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84835</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118560492</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84835</idno>
                </person>
                <person xml:id="amp_person_58">
                   <persName>
@@ -1185,8 +1185,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118535315</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9215</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118535315</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9215</idno>
                </person>
                <person xml:id="amp_person_59">
                   <persName>
@@ -1205,8 +1205,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118536133</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118536133</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87532</idno>
                   <listBibl>
                      <bibl n="lit_work_id_56">Hier und Jetzt: Ein Weihnachtsoratorium</bibl>
                   </listBibl>
@@ -1228,8 +1228,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/120720124</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q15451051</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120720124</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15451051</idno>
                </person>
                <person xml:id="amp_person_61">
                   <persName>
@@ -1248,8 +1248,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/116499230</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59601596</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116499230</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59601596</idno>
                </person>
                <person xml:id="amp_person_62">
                   <persName>
@@ -1268,8 +1268,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118727192</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q583021</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118727192</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q583021</idno>
                </person>
                <person xml:id="amp_person_63">
                   <persName>
@@ -1288,8 +1288,8 @@
                         <placeName>Geneva</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/134651162</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1532072</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/134651162</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1532072</idno>
                </person>
                <person xml:id="amp_person_64">
                   <persName>
@@ -1308,8 +1308,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/13041185X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89249</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/13041185X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89249</idno>
                </person>
                <person xml:id="amp_person_65">
                   <persName>
@@ -1328,8 +1328,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118542192</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154438</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118542192</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154438</idno>
                </person>
                <person xml:id="amp_person_66">
                   <persName>
@@ -1348,8 +1348,8 @@
                         <placeName>Bad Wiessee</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118610880</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76332</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118610880</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76332</idno>
                   <listBibl>
                      <bibl n="lit_work_id_128">Mord im Dom</bibl>
                   </listBibl>
@@ -1371,8 +1371,8 @@
                         <placeName>Munich</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/122585119</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1379218</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/122585119</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1379218</idno>
                   <listBibl>
                      <bibl n="lit_work_id_130">Cantos I-XXX</bibl>
                      <bibl n="lit_work_id_131">Die Pisaner Gesänge</bibl>
@@ -1395,8 +1395,8 @@
                         <placeName>Venice</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118596039</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q163366</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118596039</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q163366</idno>
                   <listBibl>
                      <bibl n="lit_work_id_69">The Cantos</bibl>
                   </listBibl>
@@ -1418,8 +1418,8 @@
                         <placeName>Chicago</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118622692</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q60104</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118622692</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60104</idno>
                </person>
                <person xml:id="amp_person_70">
                   <persName>
@@ -1438,8 +1438,8 @@
                         <placeName>Cape Town</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1017201366</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q31739891</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1017201366</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q31739891</idno>
                   <listBibl>
                      <bibl n="lit_work_id_72">The Rise of the South African Reich</bibl>
                   </listBibl>
@@ -1461,8 +1461,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118575988</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1353378</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118575988</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1353378</idno>
                </person>
                <person xml:id="amp_person_72">
                   <persName>
@@ -1481,8 +1481,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118575686</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q268147</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118575686</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q268147</idno>
                </person>
                <person xml:id="amp_person_73">
                   <persName>
@@ -1501,8 +1501,8 @@
                         <placeName>Zürich</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118840940</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q121694</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118840940</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q121694</idno>
                </person>
                <person xml:id="amp_person_74">
                   <persName>
@@ -1521,8 +1521,8 @@
                         <placeName>Potsdam</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118531271</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q518172</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531271</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q518172</idno>
                </person>
                <person xml:id="amp_person_75">
                   <persName>
@@ -1541,8 +1541,8 @@
                         <placeName>Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118599194</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q33637</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118599194</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33637</idno>
                </person>
                <person xml:id="amp_person_76">
                   <persName>
@@ -1561,8 +1561,8 @@
                         <placeName>Moscow</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118642111</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q997</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118642111</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q997</idno>
                </person>
                <person xml:id="amp_person_78">
                   <persName>
@@ -1581,8 +1581,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118751980</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118751980</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                      <bibl n="lit_work_id_103">Statement (addressed to the Austrian tax authorities)</bibl>
@@ -1605,8 +1605,8 @@
                         <placeName>Dresden</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118549383</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q76915</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118549383</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q76915</idno>
                   <listBibl>
                      <bibl n="lit_work_id_4">Elegy for Young Lovers</bibl>
                      <bibl n="lit_work_id_5">The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</bibl>
@@ -1629,8 +1629,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118970585</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q175366</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118970585</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q175366</idno>
                </person>
                <person xml:id="amp_person_81">
                   <persName>
@@ -1649,8 +1649,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118566288</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44328</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118566288</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44328</idno>
                </person>
                <person xml:id="amp_person_82">
                   <persName>
@@ -1669,8 +1669,8 @@
                         <placeName>Much Hadham</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118583875</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151097</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118583875</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151097</idno>
                   <listBibl>
                      <bibl n="lit_work_id_123">Auden: Poems/Moore: Lithographs</bibl>
                   </listBibl>
@@ -1695,8 +1695,8 @@
                         <placeName>Montreux</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118564722</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q154260</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118564722</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154260</idno>
                </person>
                <person xml:id="amp_person_84">
                   <persName>
@@ -1715,8 +1715,8 @@
                         <placeName>Talcottville</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118633481</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q704931</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118633481</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q704931</idno>
                   <listBibl>
                      <bibl n="lit_work_id_78">W. H. Auden in America</bibl>
                   </listBibl>
@@ -1732,8 +1732,8 @@
                         <placeName>Winchester</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/131850520</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55590162</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131850520</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55590162</idno>
                </person>
                <person xml:id="amp_person_86">
                   <persName>
@@ -1752,8 +1752,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118652044</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q310184</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118652044</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q310184</idno>
                   <listBibl>
                      <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
                   </listBibl>
@@ -1775,8 +1775,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/115600817</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q363515</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115600817</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q363515</idno>
                </person>
                <person xml:id="amp_person_88">
                   <persName>
@@ -1795,16 +1795,16 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1089340591</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q14946819</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1089340591</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q14946819</idno>
                </person>
                <person xml:id="amp_person_89">
                   <persName>
                      <forename>Frederic Davey [David]</forename>
                      <surname>Luke</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/129219827</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18526943</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129219827</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18526943</idno>
                </person>
                <person xml:id="amp_person_90">
                   <persName>
@@ -1823,8 +1823,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/124223478</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7561744</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/124223478</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7561744</idno>
                </person>
                <person xml:id="amp_person_91">
                   <persName>
@@ -1843,8 +1843,8 @@
                         <placeName>St Briavels</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/117421413</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7184481</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117421413</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7184481</idno>
                </person>
                <person xml:id="amp_person_93">
                   <persName>
@@ -1873,8 +1873,8 @@
                         <placeName>Dale</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/137925816</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94782596</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/137925816</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94782596</idno>
                </person>
                <person xml:id="amp_person_95">
                   <persName>
@@ -1893,7 +1893,7 @@
                         <placeName>Florence</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123679692</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123679692</idno>
                </person>
                <person xml:id="amp_person_96">
                   <persName>
@@ -1912,7 +1912,7 @@
                         <placeName>Florence</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q62566483</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q62566483</idno>
                </person>
                <person xml:id="amp_person_97">
                   <persName>
@@ -1943,8 +1943,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/14000761X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5344431</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/14000761X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5344431</idno>
                   <listBibl>
                      <bibl n="lit_work_id_28">W. H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_49">Early Auden</bibl>
@@ -1957,8 +1957,8 @@
                      <forename>Michael</forename>
                      <surname>O'Sullivan</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/1173017283</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123685632</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1173017283</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123685632</idno>
                </person>
                <person xml:id="amp_person_100">
                   <persName>
@@ -1977,8 +1977,8 @@
                         <placeName>Oxford</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/123681022</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q92775</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/123681022</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q92775</idno>
                   <listBibl>
                      <bibl n="lit_work_id_39">W. H. Auden: A Biography</bibl>
                   </listBibl>
@@ -2000,8 +2000,8 @@
                         <placeName>Eisleben Lutherstadt</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118575449</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9554</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118575449</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9554</idno>
                   <listBibl>
                      <bibl n="lit_work_id_109">Luther Bible</bibl>
                   </listBibl>
@@ -2017,7 +2017,7 @@
                   <death>
                      <date when-iso="2000-11-20">2000-11-20</date>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q104370574</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q104370574</idno>
                   <listBibl>
                      <bibl n="lit_work_id_29">Vägmärken (Markings)</bibl>
                   </listBibl>
@@ -2033,8 +2033,8 @@
                   <death>
                      <date when-iso="1962-10-26">1962-10-26</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1065958706</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5372032</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1065958706</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5372032</idno>
                   <listBibl>
                      <bibl n="lit_work_id_77">The Letters of Beethoven</bibl>
                   </listBibl>
@@ -2068,7 +2068,7 @@
                         <placeName>St. Pölten</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123594103</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123594103</idno>
                </person>
                <person xml:id="amp_person_111">
                   <persName>
@@ -2087,8 +2087,8 @@
                         <placeName>Hippo Regius</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118505114</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q8018</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118505114</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8018</idno>
                </person>
                <person xml:id="amp_person_112">
                   <persName>
@@ -2107,8 +2107,8 @@
                         <placeName>Trautmannsdorf an der Leitha</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119265311</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87277</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119265311</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87277</idno>
                </person>
                <person xml:id="amp_person_114">
                   <persName>
@@ -2127,8 +2127,8 @@
                         <placeName>Manhattan</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/124923437</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q351339</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/124923437</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q351339</idno>
                   <listBibl>
                      <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
                   </listBibl>
@@ -2150,8 +2150,8 @@
                         <placeName>East Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118514768</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q38757</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118514768</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q38757</idno>
                   <listBibl>
                      <bibl n="lit_work_id_9">Die Sieben Todsünden (The Seven Deadly Sins)</bibl>
                      <bibl n="lit_work_id_10">Aufstieg und Fall der Stadt Mahagonny (Rise and Fall of the City of Mahagonny)</bibl>
@@ -2176,8 +2176,8 @@
                         <placeName>Paris</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118540505</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q165534</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118540505</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q165534</idno>
                   <listBibl>
                      <bibl n="lit_work_id_11">Arcifanfano Re De Matti (Arcifanfano, King of Fools)</bibl>
                      <bibl n="lit_work_id_25">Arcifanfano Re De Matti (Arcifanfano, King of Fools)</bibl>
@@ -2203,7 +2203,7 @@
                      <forename>Peter</forename>
                      <surname>Müller</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/130202290</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/130202290</idno>
                   <listBibl>
                      <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria</bibl>
                   </listBibl>
@@ -2222,8 +2222,8 @@
                   <death>
                      <date when-iso="1995-05-09">1995-05-09</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1124937285</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18526885</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1124937285</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18526885</idno>
                </person>
                <person xml:id="amp_person_121">
                   <persName>
@@ -2251,8 +2251,8 @@
                         <placeName>Ardmore</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/114173028</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q4958431</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/114173028</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4958431</idno>
                   <listBibl>
                      <bibl n="lit_work_id_26">The Rising Tide</bibl>
                   </listBibl>
@@ -2274,8 +2274,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119037505</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2841470</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119037505</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2841470</idno>
                </person>
                <person xml:id="amp_person_124">
                   <persName>
@@ -2294,15 +2294,15 @@
                         <placeName>Burcot</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118878115</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6515</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118878115</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6515</idno>
                </person>
                <person xml:id="amp_person_125">
                   <persName>
                      <forename>Maurice</forename>
                      <surname>Feild</surname>
                   </persName>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6793071</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6793071</idno>
                </person>
                <person xml:id="amp_person_126">
                   <persName>
@@ -2315,8 +2315,8 @@
                         <placeName>Los Angeles</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/123221749</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q277103</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/123221749</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q277103</idno>
                </person>
                <person xml:id="amp_person_127">
                   <persName>
@@ -2329,8 +2329,8 @@
                         <placeName>Petzelsdorf</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/120503026</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1420740</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/120503026</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1420740</idno>
                </person>
                <person xml:id="amp_person_128">
                   <persName>
@@ -2349,8 +2349,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119374048</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q312851</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119374048</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q312851</idno>
                </person>
                <person xml:id="amp_person_129">
                   <persName>
@@ -2363,8 +2363,8 @@
                         <placeName>Magdeburg</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/119289075</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q104573</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119289075</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q104573</idno>
                </person>
                <person xml:id="amp_person_130">
                   <persName>
@@ -2383,8 +2383,8 @@
                         <placeName>Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118551655</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q352</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118551655</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q352</idno>
                </person>
                <person xml:id="amp_person_131">
                   <persName>
@@ -2403,8 +2403,8 @@
                         <placeName>Ndola</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118545388</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1267</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118545388</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1267</idno>
                   <listBibl>
                      <bibl n="lit_work_id_30">Vägmärken (Markings)</bibl>
                   </listBibl>
@@ -2426,8 +2426,8 @@
                         <placeName>Paris</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118521039</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q295830</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118521039</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q295830</idno>
                </person>
                <person xml:id="amp_person_133">
                   <persName>
@@ -2446,8 +2446,8 @@
                         <placeName>Meersburg</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118527533</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57307</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118527533</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q57307</idno>
                </person>
                <person xml:id="amp_person_134">
                   <persName>
@@ -2466,8 +2466,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118620126</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q18456</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118620126</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18456</idno>
                </person>
                <person xml:id="amp_person_135">
                   <persName>
@@ -2492,8 +2492,8 @@
                         <placeName>Aldeburgh</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118515527</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118515527</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
                   <listBibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
                      <bibl n="lit_work_id_122">Coal Face</bibl>
@@ -2516,8 +2516,8 @@
                         <placeName>Lienz</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/116413298</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1123315</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116413298</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1123315</idno>
                </person>
                <person xml:id="amp_person_138">
                   <persName>
@@ -2536,8 +2536,8 @@
                         <placeName>Balmoral Castle</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118529889</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9682</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118529889</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9682</idno>
                </person>
                <person xml:id="amp_person_139">
                   <persName>
@@ -2553,8 +2553,8 @@
                         <placeName>Royal Lodge</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118816896</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q10633</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118816896</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q10633</idno>
                </person>
                <person xml:id="amp_person_140">
                   <persName>
@@ -2567,8 +2567,8 @@
                         <placeName>Clarence House</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/118593978</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151754</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118593978</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151754</idno>
                </person>
                <person xml:id="amp_person_141">
                   <persName>
@@ -2599,8 +2599,8 @@
                         <placeName>Los Angeles</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118555081</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q81447</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118555081</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q81447</idno>
                   <listBibl>
                      <bibl n="lit_work_id_97">The Doors of Perception</bibl>
                   </listBibl>
@@ -2622,8 +2622,8 @@
                         <placeName>Aldeburgh</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1171154623</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6273178</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1171154623</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6273178</idno>
                   <listBibl>
                      <bibl n="lit_work_id_36">The Rise and Fall of the British Nanny</bibl>
                   </listBibl>
@@ -2645,8 +2645,8 @@
                         <placeName>Wellesley</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/116554762</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q6687573</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116554762</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6687573</idno>
                   <listBibl>
                      <bibl n="lit_work_id_32">The Faber Book of Aphorisms</bibl>
                   </listBibl>
@@ -2686,8 +2686,8 @@
                      <forename>Dorian</forename>
                      <surname>Gray</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/132210649</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q30611756</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132210649</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30611756</idno>
                </person>
                <person xml:id="amp_person_150">
                   <persName>
@@ -2706,7 +2706,7 @@
                         <placeName>Manhattan</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q96073363</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q96073363</idno>
                   <listBibl>
                      <bibl n="lit_work_id_48">Auden in Love</bibl>
                   </listBibl>
@@ -2728,8 +2728,8 @@
                         <placeName>Düsseldorf</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/113123302</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q108811081</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/113123302</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q108811081</idno>
                </person>
                <person xml:id="amp_person_152">
                   <persName>
@@ -2748,8 +2748,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/116469986</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2038348</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116469986</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2038348</idno>
                </person>
                <person xml:id="amp_person_153">
                   <persName>
@@ -2768,8 +2768,8 @@
                         <placeName>Garmisch-Partenkirchen</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/11861911X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q13894</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11861911X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q13894</idno>
                </person>
                <person xml:id="amp_person_155">
                   <persName>
@@ -2785,7 +2785,7 @@
                   <birth>
                      <date when-iso="1938-01-28">1938-01-28</date>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q39073705</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q39073705</idno>
                </person>
                <person xml:id="amp_person_157">
                   <persName>
@@ -2795,8 +2795,8 @@
                   <death>
                      <date when-iso="1970-03-14">1970-03-14</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/117542784</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q5363177</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117542784</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5363177</idno>
                   <listBibl>
                      <bibl n="lit_work_id_92">Joseph Weinheber</bibl>
                   </listBibl>
@@ -2818,8 +2818,8 @@
                         <placeName>Paddington</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/129569321</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q408758</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/129569321</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q408758</idno>
                   <listBibl>
                      <bibl n="lit_work_id_118">The Auden Landscape</bibl>
                   </listBibl>
@@ -2838,7 +2838,7 @@
                   <birth>
                      <date when-iso="1892-01-01">1892-01-01</date>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q96073350</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q96073350</idno>
                </person>
                <person xml:id="amp_person_161">
                   <persName>
@@ -2854,8 +2854,8 @@
                   <death>
                      <date when-iso="2000-02-19">2000-02-19</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118554786</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q151836</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118554786</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151836</idno>
                </person>
                <person xml:id="amp_person_163">
                   <persName>
@@ -2868,8 +2868,8 @@
                         <placeName>Berlin</placeName>
                      </settlement>
                   </birth>
-                  <idno type="GND">https://d-nb.info/gnd/118608460</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q103529</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118608460</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q103529</idno>
                   <listBibl>
                      <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</bibl>
                   </listBibl>
@@ -2891,16 +2891,16 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118828983</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45233</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118828983</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45233</idno>
                </person>
                <person xml:id="amp_person_165">
                   <persName>
                      <forename>Herod</forename>
                      <surname/>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118549847</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q51672</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118549847</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q51672</idno>
                </person>
                <person xml:id="amp_person_166">
                   <persName>
@@ -2919,8 +2919,8 @@
                         <placeName>Cambridge</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119200244</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q453288</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119200244</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q453288</idno>
                </person>
                <person xml:id="amp_person_167">
                   <persName>
@@ -2939,8 +2939,8 @@
                         <placeName>Ober-Grafendorf</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/115753761</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55845153</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/115753761</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55845153</idno>
                   <listBibl>
                      <bibl n="lit_work_id_139">Freedom and Necessity in the Arts</bibl>
                   </listBibl>
@@ -2962,7 +2962,7 @@
                         <placeName>Los Angeles</placeName>
                      </settlement>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q123679753</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123679753</idno>
                </person>
                <person xml:id="amp_person_170">
                   <persName>
@@ -2981,8 +2981,8 @@
                         <placeName>Theobalds Park</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118639889</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q79972</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118639889</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79972</idno>
                   <listBibl>
                      <bibl n="lit_work_id_82">King James Version</bibl>
                   </listBibl>
@@ -3019,8 +3019,8 @@
                         <placeName>Bad Vilbel</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119200015</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q106600</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119200015</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q106600</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                      <bibl n="lit_work_id_89">Josef Weinheber</bibl>
@@ -3067,8 +3067,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118581465</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q45662</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118581465</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45662</idno>
                </person>
                <person xml:id="amp_person_179">
                   <persName>
@@ -3093,8 +3093,8 @@
                         <placeName>Wormingford</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1044390549</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q7364685</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044390549</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7364685</idno>
                   <listBibl>
                      <bibl n="lit_work_id_100">Akenfield : Portrait of an English Village</bibl>
                   </listBibl>
@@ -3116,8 +3116,8 @@
                         <placeName>Schwertberg</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/1061459772</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q86638</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1061459772</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86638</idno>
                </person>
                <person xml:id="amp_person_182">
                   <persName>
@@ -3139,7 +3139,7 @@
                   <death>
                      <date when-iso="1957-05-03">1957-05-03</date>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q5536493</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5536493</idno>
                </person>
                <person xml:id="amp_person_184">
                   <persName>
@@ -3149,15 +3149,15 @@
                   <birth>
                      <date when-iso="1869-02-13">1869-02-13</date>
                   </birth>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
                </person>
                <person xml:id="amp_person_190">
                   <persName>
                      <forename>Paul</forename>
                      <surname>the Apostle</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118641549</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q9200</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118641549</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9200</idno>
                </person>
                <person xml:id="amp_person_191">
                   <persName>
@@ -3173,8 +3173,8 @@
                   <death>
                      <date when-iso="2010-10-21">2010-10-21</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/117492140</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6968502</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117492140</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6968502</idno>
                </person>
                <person xml:id="amp_person_192">
                   <persName>
@@ -3205,8 +3205,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/122305531</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1227273</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/122305531</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1227273</idno>
                   <listBibl>
                      <bibl n="lit_work_id_111">London Labour and the London Poor</bibl>
                   </listBibl>
@@ -3228,8 +3228,8 @@
                         <placeName>Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118540041</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q41749</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118540041</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41749</idno>
                </person>
                <person xml:id="amp_person_197">
                   <persName>
@@ -3248,7 +3248,7 @@
                      <forename>J. D. F.</forename>
                      <surname>Jones</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/173536794</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/173536794</idno>
                </person>
                <person xml:id="amp_person_200">
                   <persName>
@@ -3285,8 +3285,8 @@
                         <placeName>Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/12989432X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57239</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/12989432X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q57239</idno>
                   <listBibl>
                      <bibl n="lit_work_id_129">Shakespeare's dramatische Werke</bibl>
                   </listBibl>
@@ -3302,8 +3302,8 @@
                         <placeName>Bonn</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118607960</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q57281</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118607960</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q57281</idno>
                   <listBibl>
                      <bibl n="lit_work_id_129">Shakespeare's dramatische Werke</bibl>
                   </listBibl>
@@ -3313,8 +3313,8 @@
                      <forename>Euripides</forename>
                      <surname/>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/118531395</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q48305</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531395</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q48305</idno>
                   <listBibl>
                      <bibl n="lit_work_id_75">The Bacchae</bibl>
                   </listBibl>
@@ -3336,8 +3336,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119022354</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q87991</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119022354</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87991</idno>
                   <listBibl>
                      <bibl n="lit_work_id_156">Meine Hinterhöfe</bibl>
                   </listBibl>
@@ -3359,8 +3359,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/11860757X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q213547</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11860757X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q213547</idno>
                   <listBibl>
                      <bibl n="lit_work_id_7">Die Zauberflöte (The Magic Flute)</bibl>
                      <bibl n="lit_work_id_21">Die Zauberflöte (The Magic Flute)</bibl>
@@ -3384,7 +3384,7 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q268166</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q268166</idno>
                   <listBibl>
                      <bibl n="lit_work_id_8">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
                      <bibl n="lit_work_id_22">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
@@ -3408,8 +3408,8 @@
                         <placeName>New York City</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118586106</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q694009</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118586106</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q694009</idno>
                   <listBibl>
                      <bibl n="lit_work_id_19">Love's Labour's Lost</bibl>
                   </listBibl>
@@ -3431,7 +3431,7 @@
                         <placeName>Venice</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q208338</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q208338</idno>
                   <listBibl>
                      <bibl n="lit_work_id_11">Arcifanfano Re De Matti (Arcifanfano, King of Fools)</bibl>
                   </listBibl>
@@ -3453,8 +3453,8 @@
                         <placeName>Edinburgh</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/134067584</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1637771</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/134067584</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1637771</idno>
                   <listBibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
                   </listBibl>
@@ -3476,8 +3476,8 @@
                         <placeName>London</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/134067606</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q810048</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/134067606</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q810048</idno>
                   <listBibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
                   </listBibl>
@@ -3499,8 +3499,8 @@
                         <placeName>Paris</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118667556</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q728396</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118667556</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q728396</idno>
                   <listBibl>
                      <bibl n="lit_work_id_122">Coal Face</bibl>
                   </listBibl>
@@ -3522,8 +3522,8 @@
                         <placeName>Baden-Baden</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118703145</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q84393</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118703145</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84393</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3545,8 +3545,8 @@
                         <placeName>Munich</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118706675</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q92510</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118706675</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q92510</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3568,8 +3568,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118556894</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q44775</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118556894</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44775</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3579,8 +3579,8 @@
                      <forename>Edgar</forename>
                      <surname>Lohner</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/117196770</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q55843175</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117196770</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55843175</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3602,8 +3602,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118732404</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q93614</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118732404</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q93614</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3625,8 +3625,8 @@
                         <placeName>Munich</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118805819</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1506744</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118805819</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1506744</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3648,8 +3648,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/11877221X</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q89982</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11877221X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89982</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3671,8 +3671,8 @@
                         <placeName>Düsseldorf</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119089211</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q750563</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119089211</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q750563</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3694,8 +3694,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/119436299</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59653297</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119436299</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59653297</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3717,8 +3717,8 @@
                         <placeName>Munich</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/123050561</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q77890</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/123050561</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q77890</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3740,8 +3740,8 @@
                         <placeName>Vienna</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/121544516</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q59526640</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/121544516</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59526640</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3751,8 +3751,8 @@
                      <forename>Will</forename>
                      <surname>Keller</surname>
                   </persName>
-                  <idno type="GND">https://d-nb.info/gnd/116174889</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q94838086</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116174889</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94838086</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                   </listBibl>
@@ -3780,7 +3780,7 @@
                         <placeName>Öblarn</placeName>
                      </settlement>
                   </death>
-                  <idno type="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
                </person>
                <person xml:id="amp_person_227">
                   <persName>
@@ -3796,8 +3796,8 @@
                   <death>
                      <date when-iso="2017-09-23">2017-09-23</date>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/131541552</idno>
-                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q1065689</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/131541552</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1065689</idno>
                </person>
                <person xml:id="amp_person_228">
                   <persName>
@@ -3825,7 +3825,7 @@
                   <death>
                      <date when-iso="2001-11-28">2001-11-28</date>
                   </death>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6835474</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6835474</idno>
                </person>
                <person xml:id="amp_person_230">
                   <persName>
@@ -3850,14 +3850,14 @@
                      <forename>Katherine</forename>
                      <surname>Bucknell</surname>
                   </persName>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q6376315</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6376315</idno>
                </person>
                <person xml:id="amp_person_232">
                   <persName>
                      <forename>Nicholas</forename>
                      <surname>Jenkins</surname>
                   </persName>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q75656400</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75656400</idno>
                </person>
                <person xml:id="amp_person_233">
                   <persName>
@@ -3882,8 +3882,8 @@
                         <placeName>Mere, Wiltshire</placeName>
                      </settlement>
                   </death>
-                  <idno type="GND">https://d-nb.info/gnd/118851780</idno>
-                  <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q354335</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118851780</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q354335</idno>
                </person>
             </listPerson>
          </div>
