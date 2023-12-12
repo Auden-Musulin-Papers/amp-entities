@@ -90,7 +90,7 @@
                   {% endfor %}
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
                </event>
             {% endfor %}

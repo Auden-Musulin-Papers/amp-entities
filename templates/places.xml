@@ -88,13 +88,13 @@
                   </location>
                   {% endif %}
                   {% if x.geonames_id|length > 0 %}
-                  <idno type="GEONAMES">{{ x.geonames_id }}</idno>
+                  <idno type="URI" subtype="GEONAMES">{{ x.geonames_id }}</idno>
                   {% endif %}
                   {% if x.wikidata|length > 0 %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
                   {% if x.gnd|length > 0 %}
-                  <idno type="GND">{{ x.gnd }}</idno>
+                  <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                   {% endif %}
                   {% if x.comments is string %}
                   <note>{{ x.comments }}</note>

@@ -77,7 +77,7 @@
                <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
                {% endif %}
                {% if x.is_linked_with|length > 0 %}
-               <idno type="WIKIDATA">{{ x.is_linked_with }}</idno>
+               <idno type="URI" subtype="WIKIDATA">{{ x.is_linked_with }}</idno>
                {% endif %}
                {% for l in x.language if x.language %}
                <lang>{{ l.value }}</lang>

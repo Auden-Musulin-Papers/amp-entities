@@ -80,8 +80,8 @@
                   {% endif %}
                   {% endfor %}
                   {% endif %}
-                  {% if x.wikidata is string %}
-                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% if x.wikidata|length > 0 %}
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
                   {% if x.comments is string %}
                   <note>{{ x.comments }}</note>
