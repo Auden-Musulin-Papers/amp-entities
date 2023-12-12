@@ -76,12 +76,12 @@
                {% if x.chapter_number %}
                <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
                {% endif %}
-               {% if x.is_linked_with is string %}
+               {% if x.is_linked_with|length > 0 %}
                <idno type="WIKIDATA">{{ x.is_linked_with }}</idno>
                {% endif %}
-               {% if x.language %}
-               <lang>{{ x.language["value"] }}</lang>
-               {% endif %}
+               {% for l in x.language if x.language %}
+               <lang>{{ l.value }}</lang>
+               {% endfor %}
             </bibl>
          {% endfor %}
       </listBibl>
