@@ -752,6 +752,78 @@
                      </location>
                   </ab>
                </event>
+               <event xml:id="amp_event_id_78">
+                  <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_79">
+                  <label>Telegram Stella Musulin to W. H. Auden 1968-10-05</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_80">
+                  <label>Telephone call W. H. Auden to Stella Musulin 1968-10-05</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.19947, 16.38809</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_81">
+                  <label>Telephone call W. H. Auden to Stella Musulin 1968-10-06</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.19947, 16.38809</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_82">
+                  <label>Arrival W. H. Auden in Vienna 1968-02-12</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_1">Vienna</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20849, 16.37208</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_83">
+                  <label>Departure W. H. Auden to England 1968-10-07</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_239">England</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>53, -2</geo>
+                     </location>
+                  </ab>
+               </event>
             </listEvent>
          </div>
       </body>
