@@ -4566,7 +4566,11 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_319">
-                  <placeName>Bronxville, New York</placeName>
+                  <settlement type="P">
+                     <placeName>Bronxville, New York</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_15">United States of America</placeName>
                   </location>
