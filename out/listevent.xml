@@ -801,7 +801,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_82">
-                  <label>Arrival W. H. Auden in Vienna 1968-02-12</label>
+                  <label>Arrival W. H. Auden in Vienna from New York City 1968-02-12</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -813,14 +813,86 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_83">
-                  <label>Departure W. H. Auden to England 1968-10-07</label>
+                  <label>Departure W. H. Auden to England from Austria 1968-10-07</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
-                        <placeName key="amp_place_id_239">England</placeName>
+                        <placeName key="amp_place_id_10">Austria</placeName>
                      </location>
                      <location type="coords">
-                        <geo>53, -2</geo>
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_84">
+                  <label>Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18333, 15.81667</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_85">
+                  <label>Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18333, 15.81667</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_86">
+                  <label>Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18333, 15.81667</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_87">
+                  <label>Arrival W. H. Auden in London from Oxford 1968-10-14</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_88">
+                  <label>Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.51954, -0.16167</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_89">
+                  <label>Departure W. H. Auden to New York City from London 1968-11-01</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
                      </location>
                   </ab>
                </event>
