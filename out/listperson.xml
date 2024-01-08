@@ -536,7 +536,7 @@
                </person>
                <person xml:id="amp_person_23">
                   <persName>
-                     <forename>Yannis</forename>
+                     <forename>Ioannis</forename>
                      <surname>Boras</surname>
                   </persName>
                   <birth>
@@ -3886,6 +3886,18 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118851780</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q354335</idno>
+               </person>
+               <person xml:id="amp_person_235">
+                  <persName>
+                     <forename>Erich</forename>
+                     <surname>Mikesch</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_236">
+                  <persName>
+                     <forename/>
+                     <surname>"my lawyer"</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

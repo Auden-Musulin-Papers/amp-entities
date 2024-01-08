@@ -63,7 +63,7 @@
                   <desc/>
                </event>
                <event xml:id="amp_event_id_2">
-                  <label>Death of Yannis Boras in a car accident, 1968</label>
+                  <label>Death of Ioannis Boras in a car accident, 1968</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -885,7 +885,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_89">
-                  <label>Departure W. H. Auden to New York City from London 1968-11-01</label>
+                  <label>Departure W. H. Auden to New York City from London 1968-10-31</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -893,6 +893,54 @@
                      </location>
                      <location type="coords">
                         <geo>51.50853, -0.12574</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_90">
+                  <label>Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.51954, -0.16167</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_91">
+                  <label>Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.72839, -73.98359</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_92">
+                  <label>Telephone call Chester Kallman to W. H. Auden 1968-12-13</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.72839, -73.98359</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_93">
+                  <label>Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.72839, -73.98359</geo>
                      </location>
                   </ab>
                </event>
