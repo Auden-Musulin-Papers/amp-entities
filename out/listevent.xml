@@ -126,7 +126,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                </event>
                <event xml:id="amp_event_id_7">
-                  <label>State visit of Queen Elizabeth II in Austria, 1969</label>
+                  <label>State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -240,7 +240,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_22">
-                  <label>Visit by Stella Musulin and Friedrich Heer at Hinterholz 6, 1969</label>
+                  <label>Visit of Friedrich Heer and Stella Musulin at Hinterholz 6 1969-05-28</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -941,6 +941,30 @@
                      </location>
                      <location type="coords">
                         <geo>40.72839, -73.98359</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_94">
+                  <label>Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_95">
+                  <label>Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
                </event>

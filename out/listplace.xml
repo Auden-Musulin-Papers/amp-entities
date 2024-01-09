@@ -992,7 +992,7 @@
                </place>
                <place xml:id="amp_place_id_63">
                   <settlement type="P">
-                     <placeName>Ried</placeName>
+                     <placeName>Ried im Zillertal</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
@@ -1013,7 +1013,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
+                     <placeName key="amp_place_id_66">Linz</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.20969, 14.29004</geo>
@@ -2948,7 +2948,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
+                     <placeName key="amp_place_id_56">London</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.50954, -0.149</geo>
@@ -2965,7 +2965,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_10">Austria</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>57.03333, -3.23333</geo>
@@ -3329,13 +3329,12 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
+                     <placeName key="amp_place_id_308">Wieden</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.18724, 16.36848</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12504001/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106193865</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_225">
