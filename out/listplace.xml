@@ -111,6 +111,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_214">Pembrokeshire</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.70121, -5.17685</geo>
                   </location>
@@ -219,9 +222,6 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="located_in_place">
                      <placeName key="amp_place_id_156">Landstraße</placeName>
                   </location>
                   <location type="coords">
@@ -267,9 +267,6 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IT, Italy</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_30">Europe</placeName>
-                  </location>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_159">Italy</placeName>
                   </location>
@@ -1566,6 +1563,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IE, Ireland</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_249">Ireland</placeName>
+                  </location>
                   <location type="coords">
                      <geo>53.33306, -6.24889</geo>
                   </location>
@@ -1946,6 +1946,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>54.59682, -5.92541</geo>
                   </location>
@@ -2674,6 +2677,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IE, Ireland</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_249">Ireland</placeName>
+                  </location>
                   <location type="coords">
                      <geo>53.15611, -6.91444</geo>
                   </location>
@@ -2688,6 +2694,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IE, Ireland</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_249">Ireland</placeName>
+                  </location>
                   <location type="coords">
                      <geo>54.19782, -10.01265</geo>
                   </location>
@@ -3471,6 +3480,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>50.17866, 8.73756</geo>
                   </location>
@@ -3519,6 +3531,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>52.08218, 0.76075</geo>
                   </location>
@@ -3532,6 +3547,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.94876, 0.80861</geo>
                   </location>
@@ -3559,6 +3577,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.27343, 14.58066</geo>
                   </location>
@@ -3604,6 +3625,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                  </location>
                   <location type="coords">
                      <geo>40.72927, -73.98736</geo>
                   </location>
@@ -3618,6 +3642,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                  </location>
                   <location type="coords">
                      <geo>40.81013, -73.96418</geo>
                   </location>
@@ -3648,6 +3675,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.16363, 6.45022</geo>
                   </location>
@@ -3662,6 +3692,9 @@
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.33333, 15.96667</geo>
                   </location>
@@ -3676,6 +3709,9 @@
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.18696, 15.81104</geo>
                   </location>
@@ -3688,6 +3724,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.24594, 16.37556</geo>
                   </location>
@@ -3701,6 +3740,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.90767, 16.51942</geo>
                   </location>
@@ -3715,6 +3757,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.18054, 15.81357</geo>
                   </location>
@@ -3728,6 +3773,9 @@
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.31667, 12.8</geo>
                   </location>
@@ -3766,6 +3814,9 @@
                   </settlement>
                   <desc type="entity_type">road, railroad</desc>
                   <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
                   <location type="coords">
                      <geo>40.7281, -73.98648</geo>
                   </location>
@@ -3792,6 +3843,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.21059, 16.37868</geo>
                   </location>
@@ -3822,6 +3876,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.49209, 11.09576</geo>
                   </location>
@@ -3849,6 +3906,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>52.45902, 12.9663</geo>
                   </location>
@@ -3863,6 +3923,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
                   <location type="coords">
                      <geo>44.04996, -91.63932</geo>
                   </location>
@@ -3959,6 +4022,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.52991, -0.17467</geo>
                   </location>
@@ -3973,6 +4039,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.1, 15.75</geo>
                   </location>
@@ -3986,6 +4055,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IN, India</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_98">India</placeName>
+                  </location>
                   <location type="coords">
                      <geo>19.07283, 72.88261</geo>
                   </location>
@@ -4000,6 +4072,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>50.72048, -1.8795</geo>
                   </location>
@@ -4014,6 +4089,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CH, Switzerland</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_97">Switzerland</placeName>
+                  </location>
                   <location type="coords">
                      <geo>46.43301, 6.91143</geo>
                   </location>
@@ -4028,6 +4106,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>53.10848, -1.56014</geo>
                   </location>
@@ -4042,6 +4123,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IE, Ireland</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_249">Ireland</placeName>
+                  </location>
                   <location type="coords">
                      <geo>53.18194, -6.79667</geo>
                   </location>
@@ -4056,6 +4140,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>52.82238, -1.64222</geo>
                   </location>
@@ -4069,6 +4156,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.6885, -0.0564</geo>
                   </location>
@@ -4109,6 +4199,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.88353, 12.57966</geo>
                   </location>
@@ -4123,6 +4216,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>IT, Italy</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
                   <location type="coords">
                      <geo>45.97248, 12.29748</geo>
                   </location>
@@ -4151,6 +4247,9 @@
                   </settlement>
                   <desc type="entity_type">mountain,hill,rock,...</desc>
                   <country>IT, Italy</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_36">Venice</placeName>
+                  </location>
                   <location type="coords">
                      <geo>45.48627, 12.41725</geo>
                   </location>
@@ -4165,6 +4264,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.66685, -0.61405</geo>
                   </location>
@@ -4179,6 +4281,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.35, -0.2</geo>
                   </location>
@@ -4207,6 +4312,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.7606, 8.23975</geo>
                   </location>
@@ -4221,6 +4329,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>54.30663, 9.66313</geo>
                   </location>
@@ -4235,6 +4346,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>50.08258, 8.24932</geo>
                   </location>
@@ -4249,6 +4363,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>50.436, 7.373</geo>
                   </location>
@@ -4263,6 +4380,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>53.32525, 8.465</geo>
                   </location>
@@ -4277,6 +4397,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.5561, 13.8405</geo>
                   </location>
@@ -4290,6 +4413,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.05639, 7.02222</geo>
                   </location>
@@ -4304,6 +4430,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.9959, 7.85222</geo>
                   </location>
@@ -4335,6 +4464,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.42738, 14.02492</geo>
                   </location>
@@ -4349,6 +4481,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.42738, 14.02492</geo>
                   </location>
@@ -4374,6 +4509,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.19994, 16.35857</geo>
                   </location>
@@ -4400,6 +4538,9 @@
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>GB, United Kingdom</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.49651, -0.1909</geo>
                   </location>
@@ -4497,6 +4638,9 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.07064, 15.22478</geo>
                   </location>
@@ -4511,6 +4655,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
                   <location type="coords">
                      <geo>52.48338, 13.26586</geo>
                   </location>
@@ -4525,6 +4672,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
                   <location type="coords">
                      <geo>52.47517, 13.29071</geo>
                   </location>
@@ -4553,6 +4703,9 @@
                </place>
                <place xml:id="amp_place_id_317">
                   <placeName>Accrington</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2657770/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1622949</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4805727-7</idno>
@@ -4560,6 +4713,9 @@
                </place>
                <place xml:id="amp_place_id_318">
                   <placeName>Mere, Wiltshire</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2642730/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1221042</idno>
                   <note/>
