@@ -581,7 +581,7 @@
                      <geo>45.43713, 12.33265</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3164603/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33723961</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q641</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4062501-1</idno>
                </place>
                <place xml:id="amp_place_id_37">
@@ -1713,7 +1713,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>CZ, Czechia</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_97">Switzerland</placeName>
+                     <placeName key="amp_place_id_30">Europe</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.90469, 16.81605</geo>
@@ -1736,7 +1736,7 @@
                      <geo>46.29192, 7.53559</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658606/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22623308</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q68297</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_119">
@@ -2613,7 +2613,7 @@
                   <desc type="entity_type">parks,area, ...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                     <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.2, 16.18333</geo>
@@ -2829,7 +2829,7 @@
                      <geo>48.25628, 13.04343</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2781520/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21880244</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q131128</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008037-7</idno>
                   <note/>
                </place>
@@ -3957,12 +3957,15 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>UA, Ukraine</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
                   <location type="coords">
                      <geo>48.29045, 25.93241</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/710719/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q157725</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/2045762-5</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5351553-5</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_269">
@@ -4748,6 +4751,16 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_322">
+                  <placeName>Hellmonsödt</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2776531/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q693541</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/7663273-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_323">
                   <placeName/>
                   <note/>
                </place>

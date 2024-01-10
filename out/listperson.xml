@@ -2937,8 +2937,8 @@
                   </birth>
                   <death>
                      <date when-iso="1978-03-06">1978-03-06</date>
-                     <settlement key="amp_place_id_8">
-                        <placeName>Ober-Grafendorf</placeName>
+                     <settlement key="amp_place_id_7">
+                        <placeName>Schloss Fridau</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/115753761</idno>
@@ -3892,11 +3892,29 @@
                      <forename>Erich</forename>
                      <surname>Mikesch</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1913-03-23">1913-03-23</date>
+                     <settlement key="amp_place_id_322">
+                        <placeName>Hellmonsödt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1976-11-10">1976-11-10</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_236">
                   <persName>
                      <forename/>
                      <surname>"my lawyer"</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_237">
+                  <persName>
+                     <forename/>
+                     <surname>"Liebling"</surname>
                   </persName>
                </person>
             </listPerson>
