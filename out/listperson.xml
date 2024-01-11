@@ -2676,6 +2676,12 @@
                      <forename>Eva</forename>
                      <surname>Windisch-Graetz</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1921-04-05">1921-04-05</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
                </person>
                <person xml:id="amp_person_148">
                   <persName>
@@ -3250,6 +3256,18 @@
                      <forename>J. D. F.</forename>
                      <surname>Jones</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1939-07-10">1939-07-10</date>
+                     <settlement key="amp_place_id_323">
+                        <placeName>Merthyr Tydfil</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2009-03-04">2009-03-04</date>
+                     <settlement key="amp_place_id_324">
+                        <placeName>Somerset</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/173536794</idno>
                </person>
                <person xml:id="amp_person_200">

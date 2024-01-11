@@ -2861,7 +2861,7 @@
                   <location type="coords">
                      <geo>51.98333, 7.41667</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2908597/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/Q14943/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32054469</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4242646-7</idno>
                   <note/>
@@ -2879,7 +2879,7 @@
                      <geo>47.69419, 9.27113</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2872486/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32128461</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q498212</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4038336-2</idno>
                   <note/>
                </place>
@@ -4761,7 +4761,23 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_323">
-                  <placeName/>
+                  <placeName>Merthyr Tydfil</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2642705/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q752762</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4398958-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_324">
+                  <placeName>Somerset</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11609046/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23157</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118723-4</idno>
                   <note/>
                </place>
             </listPlace>
