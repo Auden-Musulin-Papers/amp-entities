@@ -1156,7 +1156,7 @@
                      <geo>47.32306, 12.79839</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2760634/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32242841</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q187572</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4067531-2</idno>
                </place>
                <place xml:id="amp_place_id_75">
@@ -2290,6 +2290,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>CZ, Czechia</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
                   <location type="coords">
                      <geo>50.08804, 14.42076</geo>
                   </location>
@@ -2629,6 +2632,9 @@
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>LV, Latvia</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
                   <location type="coords">
                      <geo>56.946, 24.10589</geo>
                   </location>
@@ -2851,7 +2857,7 @@
                </place>
                <place xml:id="amp_place_id_190">
                   <settlement type="P">
-                     <placeName>Havixbeck</placeName>
+                     <placeName>Burg Hülshoff</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -2861,14 +2867,14 @@
                   <location type="coords">
                      <geo>51.98333, 7.41667</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/Q14943/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32054469</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4242646-7</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2908773/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q883579</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4218378-9</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_191">
                   <settlement type="P">
-                     <placeName>Meersburg</placeName>
+                     <placeName>Burg Meersburg</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -2878,9 +2884,9 @@
                   <location type="coords">
                      <geo>47.69419, 9.27113</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2872486/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q498212</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4038336-2</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6324589/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q552305</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4267177-2</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_192">
@@ -3187,7 +3193,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_214">Pembrokeshire</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.67279, -4.70447</geo>
@@ -3204,7 +3210,7 @@
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_213">Tenby</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.83333, -4.91667</geo>
@@ -4773,7 +4779,7 @@
                <place xml:id="amp_place_id_324">
                   <placeName>Somerset</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11609046/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23157</idno>
