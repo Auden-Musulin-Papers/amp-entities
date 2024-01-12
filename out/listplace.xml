@@ -549,7 +549,7 @@
                      <geo>50.9803, 11.32903</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2812482/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32067990</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3955</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4065105-8</idno>
                </place>
                <place xml:id="amp_place_id_35">
@@ -748,7 +748,7 @@
                      <geo>48.19745, 15.90219</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2770730/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32136998</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q700307</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041812-1</idno>
                </place>
                <place xml:id="amp_place_id_48">
@@ -792,7 +792,7 @@
                      <geo>41.83274, 12.88178</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3171606/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30028551</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q243133</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4224216-2</idno>
                </place>
                <place xml:id="amp_place_id_51">
@@ -840,7 +840,7 @@
                      <geo>36.72016, -4.42034</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2514256/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q116450968</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8851</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4100040-7</idno>
                </place>
                <place xml:id="amp_place_id_54">
@@ -962,7 +962,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>52.68154, -1.82549</geo>
@@ -4784,6 +4784,12 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11609046/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q23157</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118723-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_325">
+                  <placeName>Wroxham</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2633472/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q478666</idno>
                   <note/>
                </place>
             </listPlace>

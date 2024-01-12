@@ -708,7 +708,7 @@
                      <surname>Johnson</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1708-09-18">1708-09-18</date>
+                     <date when-iso="1709-09-18">1709-09-18</date>
                      <settlement key="amp_place_id_61">
                         <placeName>Lichfield</placeName>
                      </settlement>
@@ -3156,7 +3156,16 @@
                   </persName>
                   <birth>
                      <date when-iso="1869-02-13">1869-02-13</date>
+                     <settlement key="amp_place_id_325">
+                        <placeName>Wroxham</placeName>
+                     </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="1941-08-21">1941-08-21</date>
+                     <settlement key="amp_place_id_269">
+                        <placeName>Birmingham</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q76104681</idno>
                </person>
                <person xml:id="amp_person_190">
