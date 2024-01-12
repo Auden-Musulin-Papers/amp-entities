@@ -376,7 +376,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_37">
-                  <label>Lyrik 70 poetry convention, 1970</label>
+                  <label>Lyrik 70 poetry convention 1970-06-14</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -500,7 +500,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                </event>
                <event xml:id="amp_event_id_53">
-                  <label>First World War, 1914-1918</label>
+                  <label>World War I 1914-07-28--1918-11-11</label>
                   <desc/>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
                </event>
@@ -958,6 +958,30 @@
                </event>
                <event xml:id="amp_event_id_95">
                   <label>Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_10">Austria</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_96">
+                  <label>Opera performance "Die Fledermaus" Vienna State Opera 1969-05-06</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_157">Vienna State Opera</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.20323, 16.36912</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_97">
+                  <label>Meeting W. H. Auden and Stella Musulin 1969-06-14</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">

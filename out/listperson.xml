@@ -552,6 +552,12 @@
                      <forename>Giovanni Pierluigi da</forename>
                      <surname>Palestrina</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1525-02-03">1525-02-03</date>
+                     <settlement key="amp_place_id_50">
+                        <placeName>Palestrina</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1594-02-02">1594-02-02</date>
                      <settlement key="amp_place_id_51">
@@ -2080,13 +2086,13 @@
                   <birth>
                      <date when-iso="0354-11-13">0354-11-13</date>
                      <settlement key="amp_place_id_164">
-                        <placeName>Thagaste</placeName>
+                        <placeName>Souk Ahras</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date when-iso="0430-08-28">0430-08-28</date>
                      <settlement key="amp_place_id_165">
-                        <placeName>Hippo Regius</placeName>
+                        <placeName>Annaba</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118505114</idno>
@@ -2577,12 +2583,30 @@
                      <forename>Sonja Maria</forename>
                      <surname>Lanier</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1929-06-07">1929-06-07</date>
+                     <settlement key="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2015-08-28">2015-08-28</date>
+                     <settlement key="amp_place_id_326">
+                        <placeName>Strelzhof</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_142">
                   <persName>
                      <forename>Amelie</forename>
                      <surname>Lanier</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1961-10-02">1961-10-02</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
                </person>
                <person xml:id="amp_person_143">
                   <persName>
@@ -3146,6 +3170,9 @@
                   </birth>
                   <death>
                      <date when-iso="1957-05-03">1957-05-03</date>
+                     <settlement key="amp_place_id_327">
+                        <placeName>Repton</placeName>
+                     </settlement>
                   </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5536493</idno>
                </person>
