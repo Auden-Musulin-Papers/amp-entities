@@ -168,7 +168,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_14">
-                  <label>Wedding near Krems, 1970</label>
+                  <label>"Wedding near Krems" 1970-06-13</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -386,6 +386,7 @@
                         <geo>48.19745, 15.90219</geo>
                      </location>
                   </ab>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124289732</idno>
                </event>
                <event xml:id="amp_event_id_38">
                   <label>Party at Chester Kallman's apartment in Eslarngasse 1965-12-21--1966-02-03</label>
@@ -989,6 +990,18 @@
                      </location>
                      <location type="coords">
                         <geo>47.33333, 13.33333</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_98">
+                  <label>Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18153, 15.81151</geo>
                      </location>
                   </ab>
                </event>
