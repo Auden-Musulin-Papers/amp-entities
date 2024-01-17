@@ -1290,7 +1290,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_88">Josefsplatz</placeName>
+                     <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.20644, 16.3678</geo>
@@ -1330,23 +1330,6 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6618996/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5933</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4206437-5</idno>
-               </place>
-               <place xml:id="amp_place_id_88">
-                  <settlement type="S">
-                     <placeName>Josefsplatz</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20684, 16.36702</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12504002/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3573245</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1068798920</idno>
-                  <note/>
                </place>
                <place xml:id="amp_place_id_89">
                   <settlement type="S">

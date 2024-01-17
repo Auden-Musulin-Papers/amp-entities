@@ -71,8 +71,8 @@
                   </birth>
                   <death>
                      <date when-iso="1973-09-29">1973-09-29</date>
-                     <settlement key="amp_place_id_1">
-                        <placeName>Vienna</placeName>
+                     <settlement key="amp_place_id_225">
+                        <placeName>Hotel "Altenburger Hof"</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118650963</idno>
@@ -95,7 +95,7 @@
                      <bibl n="lit_work_id_34">Nineteenth Century Minor Poets</bibl>
                      <bibl n="lit_work_id_37">The Cave of Making</bibl>
                      <bibl n="lit_work_id_38">Prologue at Sixty</bibl>
-                     <bibl n="lit_work_id_43">Stark Bewölkt (version 1971-10-19)</bibl>
+                     <bibl n="lit_work_id_43">Stark bewölkt (version 1971-10-19)</bibl>
                      <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_55">For the Time Being: A Christmas Oratorio</bibl>
                      <bibl n="lit_work_id_57">Doggerel by a Senior Citizen</bibl>
@@ -138,6 +138,7 @@
                      <bibl n="lit_work_id_152">Arcifanfano (It's Always too Late to Learn)</bibl>
                      <bibl n="lit_work_id_158">Nones</bibl>
                      <bibl n="lit_work_id_161">August 1968</bibl>
+                     <bibl n="lit_work_id_165">Stark bewölkt</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -547,6 +548,12 @@
                         <placeName>Livadaki</placeName>
                      </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="1968-12-13">1968-12-13</date>
+                     <settlement key="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123594251</idno>
                </person>
                <person xml:id="amp_person_24">
@@ -3219,6 +3226,9 @@
                   </birth>
                   <death>
                      <date when-iso="2010-10-21">2010-10-21</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117492140</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6968502</idno>

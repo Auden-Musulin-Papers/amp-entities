@@ -380,6 +380,7 @@
                <date when="1970">1970</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4655792</idno>
                <lang>en</lang>
+               <lang>yi</lang>
             </bibl>
             <bibl xml:id="lit_work_id_34">
                <title>Nineteenth Century Minor Poets</title>
@@ -446,7 +447,7 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_43">
-               <title>Stark Bewölkt (version 1971-10-19)</title>
+               <title>Stark bewölkt (version 1971-10-19)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -1365,6 +1366,15 @@
                </author>
                <lang>en</lang>
                <lang>fr</lang>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_165">
+               <title>Stark bewölkt</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1971">1971</date>
+               <lang>en</lang>
                <lang>de</lang>
             </bibl>
       </listBibl>

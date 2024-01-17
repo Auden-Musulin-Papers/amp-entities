@@ -59,11 +59,11 @@
          <div type="index_events">
             <listEvent xml:id="listevent">
                <event xml:id="amp_event_id_1">
-                  <label>Death of Emma Eiermann 1967-11-04</label>
+                  <label>Death Emma Eiermann 1967-11-04</label>
                   <desc/>
                </event>
                <event xml:id="amp_event_id_2">
-                  <label>Death of Ioannis Boras in a car accident, 1968</label>
+                  <label>Death Ioannis Boras in a car accident 1968-12-01--1968-12-13</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -75,7 +75,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_3">
-                  <label>W. H. Auden reading "Gedichte/Poems", 1973</label>
+                  <label>Reading W. H. Auden "Gedichte/Poems" 1973-09-28</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -204,7 +204,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_18">
-                  <label>Death of W. H. Auden, 1973</label>
+                  <label>Death W. H. Auden 1973-09-28--1973-09-29</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -268,7 +268,7 @@
                   <desc/>
                </event>
                <event xml:id="amp_event_id_25">
-                  <label>W. H. Auden reading "Hier und Jetzt"</label>
+                  <label>Reading W. H. Auden "Hier und Jetzt"</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -426,7 +426,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
                <event xml:id="amp_event_id_43">
-                  <label>W. H. Auden's relocation from New York City to Christ Church, Oxford, 1972</label>
+                  <label>Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30</label>
                   <desc/>
                </event>
                <event xml:id="amp_event_id_45">
@@ -634,7 +634,7 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_66">
-                  <label>Christine Busta reading "Meine Hinterhöfe" 1962-05-23</label>
+                  <label>Reading Christine Busta "Meine Hinterhöfe" 1962-05-23</label>
                   <desc/>
                </event>
                <event xml:id="amp_event_id_67">
@@ -1028,6 +1028,33 @@
                         <geo>47.33333, 13.33333</geo>
                      </location>
                   </ab>
+               </event>
+               <event xml:id="amp_event_id_101">
+                  <label>Departure W. H. Auden to New York City from London 1971-11-01</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_56">London</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>51.50853, -0.12574</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_102">
+                  <label>Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>40.72839, -73.98359</geo>
+                     </location>
+                  </ab>
+               </event>
+               <event xml:id="amp_event_id_103">
+                  <label/>
                </event>
             </listEvent>
          </div>
