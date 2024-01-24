@@ -1054,7 +1054,16 @@
                   </ab>
                </event>
                <event xml:id="amp_event_id_103">
-                  <label/>
+                  <label>Gala dinner Schönbrunn Palace 1969-05-05</label>
+                  <desc/>
+                  <ab type="location">
+                     <location type="located_in_place">
+                        <placeName key="amp_place_id_82">Schloss Schönbrunn</placeName>
+                     </location>
+                     <location type="coords">
+                        <geo>48.18494, 16.31229</geo>
+                     </location>
+                  </ab>
                </event>
             </listEvent>
          </div>
