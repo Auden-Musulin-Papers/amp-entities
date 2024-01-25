@@ -1,0 +1,1023 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Index of Institutions mentioned in Auden Musulin Papers</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Daniel Stoxreiter</name>
+            </respStmt>
+            <funder xmlns="http://www.tei-c.org/ns/1.0">
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Organizations mentioned in Auden Musulin Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_organizations">
+            <listOrg xml:id="listorg">
+               <org xml:id="amp_organization_1">
+                  <orgName>Ford Foundation</orgName>
+                  <desc>Was founded in year 1936.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1313036</idno>
+               </org>
+               <org xml:id="amp_organization_2">
+                  <orgName>American Academy of Arts and Letters</orgName>
+                  <desc>Was founded in year 1904.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q463281</idno>
+                  <note>https://artsandletters.org/history/</note>
+               </org>
+               <org xml:id="amp_organization_4">
+                  <orgName>Church of England</orgName>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q82708</idno>
+                  <note>https://www.churchofengland.org/</note>
+               </org>
+               <org xml:id="amp_organization_5">
+                  <orgName>Faber &amp; Faber</orgName>
+                  <desc>Was founded in year 1929.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_44">24 Russell Square</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.52223, -0.12799</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q898097</idno>
+                  <note>https://www.faber.co.uk/</note>
+               </org>
+               <org xml:id="amp_organization_6">
+                  <orgName>Christ Church</orgName>
+                  <desc>Was founded in year 1546.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q745967</idno>
+                  <note>https://www.chch.ox.ac.uk/</note>
+               </org>
+               <org xml:id="amp_organization_7">
+                  <orgName>Houghton Mifflin Company</orgName>
+                  <desc>Was founded in year 1832.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_155">Boston</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>42.35843, -71.05977</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q390074</idno>
+                  <note>currently  known as Houghton Mifflin Harcourt</note>
+               </org>
+               <org xml:id="amp_organization_8">
+                  <orgName>Simon &amp; Schuster</orgName>
+                  <desc>Was founded in year 1924.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1756332</idno>
+                  <note>https://www.simonandschuster.com/</note>
+               </org>
+               <org xml:id="amp_organization_9">
+                  <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  <desc>Was founded in year 1961.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_177">Palais Wilczek</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20882, 16.36624</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q303236</idno>
+                  <note>Austrian Society for Literature</note>
+               </org>
+               <org xml:id="amp_organization_10">
+                  <orgName>PEN Austria</orgName>
+                  <desc>Was founded in year 1923.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q306362</idno>
+               </org>
+               <org xml:id="amp_organization_11">
+                  <orgName>Creditanstalt</orgName>
+                  <desc>Was founded in year 1855.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q694468</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_12">
+                  <orgName>Random House</orgName>
+                  <desc>Was founded in year 1927.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q744182</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_13">
+                  <orgName>Virago Press</orgName>
+                  <desc>Was founded in year 1973.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q370233</idno>
+                  <note>https://www.virago.co.uk/</note>
+               </org>
+               <org xml:id="amp_organization_15">
+                  <orgName>Life</orgName>
+                  <desc>Was founded in year 1883.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q463198</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_16">
+                  <orgName>British Council</orgName>
+                  <desc>Was founded in year 1934.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45433</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_17">
+                  <orgName>Beinecke Rare Book &amp; Manuscript Library</orgName>
+                  <desc>Was founded in year 1963.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_222">New Haven</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>41.30815, -72.92816</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q814779</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_18">
+                  <orgName>Yale University</orgName>
+                  <desc>Was founded in year 1701.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_222">New Haven</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>41.30815, -72.92816</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q49112</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_19">
+                  <orgName>GPO Film Unit</orgName>
+                  <desc>Was founded in year 1933.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1337744</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_20">
+                  <orgName>The Sunday Times</orgName>
+                  <desc>Was founded in year 1821.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q221986</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_21">
+                  <orgName>The New York Times</orgName>
+                  <desc>Was founded in year 1851.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9684</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_22">
+                  <orgName>Crossing Cards</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_210">Trumansburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>42.54229, -76.66606</geo>
+                  </location>
+                  <note>formerly known as Crossing Press, now it is acquired by Ten Speed Press</note>
+               </org>
+               <org xml:id="amp_organization_23">
+                  <orgName>Financial Times</orgName>
+                  <desc>Was founded in year 1888.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183399</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_24">
+                  <orgName>National Review</orgName>
+                  <desc>Was founded in year 1955.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1699649</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_25">
+                  <orgName>Die Furche</orgName>
+                  <desc>Was founded in year 1945.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1212798</idno>
+                  <note>https://www.furche.at/</note>
+               </org>
+               <org xml:id="amp_organization_26">
+                  <orgName>Europa Verlag</orgName>
+                  <desc>Was founded in year 1933.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1375237</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_27">
+                  <orgName>British Embassy Vienna</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q51722418</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_28">
+                  <orgName>BBC</orgName>
+                  <desc>Was founded in year 1922.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9531</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_29">
+                  <orgName>Curtis Brown, Ltd.</orgName>
+                  <desc>Was founded in year 1914.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <note>https://curtisbrown.com/</note>
+               </org>
+               <org xml:id="amp_organization_30">
+                  <orgName>Columbia University</orgName>
+                  <desc>Was founded in year 1754.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q49088</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_31">
+                  <orgName>University of Dublin</orgName>
+                  <desc>Was founded in year 1592.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_108">Dublin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>53.33306, -6.24889</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2496094</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_32">
+                  <orgName>Trinity College Dublin</orgName>
+                  <desc>Was founded in year 1592.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_108">Dublin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>53.33306, -6.24889</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q258464</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_33">
+                  <orgName>Group Theatre (London)</orgName>
+                  <desc>Was founded in year 1932.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5611199</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_34">
+                  <orgName>Senate of Berlin</orgName>
+                  <desc>Was founded in year 1950.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q540130</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_35">
+                  <orgName>Österreichisch-Britische Gesellschaft (Austro-British Society)</orgName>
+                  <desc>Was founded in year 1946.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <note>1946-2005</note>
+               </org>
+               <org xml:id="amp_organization_36">
+                  <orgName>University of Paris</orgName>
+                  <desc>Was founded in year 1150.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_84">Paris</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.85341, 2.3488</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209842</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_38">
+                  <orgName>Gebrüder Wild</orgName>
+                  <desc>Was founded in year 1848.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q107474049</idno>
+                  <note>https://regiowiki.at/wiki/Gebr%C3%BCder_Wild_Delikatessen</note>
+               </org>
+               <org xml:id="amp_organization_39">
+                  <orgName>Die Presse</orgName>
+                  <desc>Was founded in year 1848.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q689934</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_40">
+                  <orgName>Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)</orgName>
+                  <desc>Was founded in year 1866.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1747022</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_41">
+                  <orgName>Die neue Rundschau</orgName>
+                  <desc>Was founded in year 1890.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_33">Frankfurt am Main</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.11552, 8.68417</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q317489</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_42">
+                  <orgName>University Hospital in St. Pölten</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2, 15.63333</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1802295</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_43">
+                  <orgName>Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q606227</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_44">
+                  <orgName>Amt der niederösterreichischen Landesregierung (Office of the Federal Government of Lower Austria)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2, 15.63333</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19834531</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_45">
+                  <orgName>Episcopal Church</orgName>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_46">
+                  <orgName>Roman Catholic Church</orgName>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9592</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_47">
+                  <orgName>English PEN</orgName>
+                  <desc>Was founded in year 1921.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18353598</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_49">
+                  <orgName>The Times</orgName>
+                  <desc>Was founded in year 1785.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50008</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_50">
+                  <orgName>Sturmabteilung (SA)</orgName>
+                  <desc>Was founded in year 1921.</desc>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150793</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_51">
+                  <orgName>PEN International</orgName>
+                  <desc>Was founded in year 1921.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q206811</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_52">
+                  <orgName>Berufsfeuerwehr Wien (Fire brigade of Vienna)</orgName>
+                  <desc>Was founded in year 1686.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q828871</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_53">
+                  <orgName>The Sunday Telegraph</orgName>
+                  <desc>Was founded in year 1961.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q12741725</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_54">
+                  <orgName>London Underground</orgName>
+                  <desc>Was founded in year 1863.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q20075</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_55">
+                  <orgName>University of Oxford</orgName>
+                  <desc>Was founded in year 1096.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q34433</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_56">
+                  <orgName>TU Wien (Vienna University of Technology)</orgName>
+                  <desc>Was founded in year 1815.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q689400</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_57">
+                  <orgName>Eliot College</orgName>
+                  <desc>Was founded in year 1965.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_39">Canterbury</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.27904, 1.07992</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5361221</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_58">
+                  <orgName>University of Michigan</orgName>
+                  <desc>Was founded in year 1817.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_298">Ann Arbor</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>42.27756, -83.74088</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q230492</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_59">
+                  <orgName>Burgtheater</orgName>
+                  <desc>Was founded in year 1748.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q308720</idno>
+                  <note>https://d-nb.info/gnd/1031490280</note>
+               </org>
+               <org xml:id="amp_organization_60">
+                  <orgName>Künstlerhaus Wien</orgName>
+                  <desc>Was founded in year 1868.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q284902</idno>
+                  <note>https://d-nb.info/gnd/2100204-6</note>
+               </org>
+               <org xml:id="amp_organization_61">
+                  <orgName>Naturhistorisches Museum Wien (Natural History Museum Vienna)</orgName>
+                  <desc>Was founded in year 1889.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q688704</idno>
+                  <note>https://d-nb.info/gnd/35915-4</note>
+               </org>
+               <org xml:id="amp_organization_62">
+                  <orgName>Großes Festspielhaus (Large Festival House)</orgName>
+                  <desc>Was founded in year 1960.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_37">Salzburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.79941, 13.04399</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q669768</idno>
+                  <note>https://d-nb.info/gnd/4224678-7</note>
+               </org>
+               <org xml:id="amp_organization_65">
+                  <orgName>The New Yorker</orgName>
+                  <desc>Was founded in year 1925.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q217305</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_66">
+                  <orgName>Die Zeit</orgName>
+                  <desc>Was founded in year 1946.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_126">Hamburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>53.55073, 9.99302</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q157142</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_67">
+                  <orgName>Kronenzeitung</orgName>
+                  <desc>Was founded in year 1900.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q644103</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_68">
+                  <orgName>Morgen</orgName>
+                  <desc>Was founded in year 1977.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_69">
+                  <orgName>Oxford University Press</orgName>
+                  <desc>Was founded in year 1586.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q217595</idno>
+                  <note>https://d-nb.info/gnd/812629-X</note>
+               </org>
+               <org xml:id="amp_organization_70">
+                  <orgName>Postamt Kirchstetten (post office Kirchstetten)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.18333, 15.81667</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_71">
+                  <orgName>Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_8">Ober-Grafendorf</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.14651, 15.55345</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_72">
+                  <orgName>Postamt Oberndorf an der Melk (post office Oberndorf an der Melk)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.33333, 15.75</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_311">Oberndorf an der Melk</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.07064, 15.22478</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_73">
+                  <orgName>Hauptpostamt 1030 (main post office 1030)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_156">Landstraße</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19811, 16.39482</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Rochusplatz</idno>
+                  <note>also known as Postamt Wien 40</note>
+               </org>
+               <org xml:id="amp_organization_74">
+                  <orgName>Hauptpostamt 1040 (main post office 1040)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_308">Wieden</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19198, 16.36714</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_75">
+                  <orgName>Postamt 101 (post office 101)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_309">Vienna West railway station</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19667, 16.33722</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Postamt_101_(Wien_Westbahnhof)</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_76">
+                  <orgName>Hauptpostamt 1150 (main post office 1150)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_310">Rudolfsheim-Fünfhaus</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19625, 16.32749</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_77">
+                  <orgName>Deutsche Bundespost (German Federal Post Office)</orgName>
+                  <desc>Was founded in year 1950.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.5, 10.5</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q181653</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_78">
+                  <orgName>Postamt Berlin 33 (post office Berlin 33)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_18">Dahlem</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.4581, 13.28702</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_312">Grunewald</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.48338, 13.26586</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_313">Schmargendorf</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.47517, 13.29071</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_79">
+                  <orgName>Postamt Berlin 11 (post office Berlin 11)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_80">
+                  <orgName>General Post Office</orgName>
+                  <desc>Was founded in year 1660.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>54.75844, -2.69531</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1325334</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_81">
+                  <orgName>Post office Oxford</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_82">
+                  <orgName>London Western District Office</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_83">
+                  <orgName>St John's Wood district office</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_272">St John's Wood</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.52991, -0.17467</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_84">
+                  <orgName>United States Post Office Department</orgName>
+                  <desc>Was founded in year 1792.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_306">Washington, D.C.</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>38.89511, -77.03637</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3109672</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_85">
+                  <orgName>United States General Post Office</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.78343, -73.96625</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2466300</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_86">
+                  <orgName>Amerikahaus</orgName>
+                  <desc>Was founded in year 1945.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20227, 16.36881</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_306">Washington, D.C.</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>38.89511, -77.03637</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q467942</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_87">
+                  <orgName/>
+                  <note/>
+               </org>
+            </listOrg>
+         </div>
+      </body>
+   </text>
+</TEI>
