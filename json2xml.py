@@ -9,11 +9,11 @@ data = {
     "eve": "json_dumps/events.json"
 }
 # create TEI/XML
-listperson = make_xml(data["persons"], "listperson", "gnd", "persons")
-listplace = make_xml(data["places"], "listplace", "geonames_id", "places")
-listorg = make_xml(data["org"], "listorg", "wikidata", "orgs")
-listbibl = make_xml(data["lit"], "listbibl", "is_linked_with", "bibl")
-listbibl = make_xml(data["eve"], "listevent", "wikidata", "events")
+listperson = make_xml(data["persons"], "amp-index-persons", "gnd", "persons")
+listplace = make_xml(data["places"], "amp-index-places", "geonames_id", "places")
+listorg = make_xml(data["org"], "amp-index-organizations", "wikidata", "orgs")
+listbibl = make_xml(data["lit"], "amp-index-works", "is_linked_with", "bibl")
+listbibl = make_xml(data["eve"], "amp-index-events", "wikidata", "events")
 # create geojson
 placejson = make_geojson(
     data["places"],
