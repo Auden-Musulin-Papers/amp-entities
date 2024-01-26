@@ -63,7 +63,7 @@
                   <desc/>
                </event>
                <event xml:id="amp_event_id_2">
-                  <label>Death Ioannis Boras in a car accident 1968-12-01--1968-12-13</label>
+                  <label>Death Ioannis Boras in a car accident 1968-12-13</label>
                   <desc/>
                   <ab type="location">
                      <location type="located_in_place">
@@ -1064,6 +1064,10 @@
                         <geo>48.18494, 16.31229</geo>
                      </location>
                   </ab>
+               </event>
+               <event xml:id="amp_event_id_104">
+                  <label>Letter W. H. Auden to Elizabeth Mayer 1965-03-01</label>
+                  <desc/>
                </event>
             </listEvent>
          </div>
