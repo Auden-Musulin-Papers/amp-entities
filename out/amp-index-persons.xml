@@ -1873,6 +1873,9 @@
                   </birth>
                   <death>
                      <date when-iso="1976-12-20">1976-12-20</date>
+                     <settlement key="amp_place_id_7">
+                        <placeName>Schloss Fridau</placeName>
+                     </settlement>
                   </death>
                   <listBibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber (prose translation Elsa Musulin and Stella Musulin)</bibl>
@@ -3828,7 +3831,7 @@
                </person>
                <person xml:id="amp_person_225">
                   <persName>
-                     <forename>Margaret</forename>
+                     <forename>Margaret Elinor</forename>
                      <surname>Lloyd-Philipps</surname>
                   </persName>
                </person>
