@@ -139,11 +139,15 @@
                      <bibl n="lit_work_id_158">Nones</bibl>
                      <bibl n="lit_work_id_161">August 1968</bibl>
                      <bibl n="lit_work_id_165">Stark bewölkt</bibl>
+                     <bibl n="lit_work_id_166">Epistle to a Godson (version 1969-06-10)</bibl>
+                     <bibl n="lit_work_id_167">Epistle to a Godson</bibl>
+                     <bibl n="lit_work_id_168">Epithalamium (version 1965-04-28)</bibl>
+                     <bibl n="lit_work_id_169">Epithalamium</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
                   <persName>
-                     <forename>Stella</forename>
+                     <forename>Stella Mary Bellairs</forename>
                      <surname>Musulin</surname>
                   </persName>
                   <birth>
@@ -1865,11 +1869,14 @@
                </person>
                <person xml:id="amp_person_93">
                   <persName>
-                     <forename>Elsa von</forename>
+                     <forename>Elsa Gerda Maria Louise Pauline von</forename>
                      <surname>Musulin</surname>
                   </persName>
                   <birth>
                      <date when-iso="1889-01-05">1889-01-05</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1976-12-20">1976-12-20</date>
@@ -3979,6 +3986,12 @@
                   <persName>
                      <forename/>
                      <surname>"Liebling"</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_238">
+                  <persName>
+                     <forename>Rhodri Vaughan Lloyd</forename>
+                     <surname>Lloyd-Philipps</surname>
                   </persName>
                </person>
             </listPerson>

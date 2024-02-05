@@ -3791,13 +3791,17 @@
                </place>
                <place xml:id="amp_place_id_258">
                   <settlement type="H">
-                     <placeName>Fallegg</placeName>
+                     <placeName>Haus Fallegg</placeName>
                   </settlement>
                   <desc type="entity_type">stream, lake, ...</desc>
                   <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_74">Zell am See</placeName>
+                  </location>
                   <location type="coords">
                      <geo>47.31667, 12.8</geo>
                   </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12719931/</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_259">
@@ -4802,7 +4806,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_328">
-                  <placeName/>
+                  <placeName>"draussen" (amp-transcript__0053.xml)</placeName>
                   <note/>
                </place>
                <place xml:id="amp_place_id_329">
