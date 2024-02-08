@@ -143,6 +143,7 @@
                      <bibl n="lit_work_id_167">Epistle to a Godson</bibl>
                      <bibl n="lit_work_id_168">Epithalamium (version 1965-04-28)</bibl>
                      <bibl n="lit_work_id_169">Epithalamium</bibl>
+                     <bibl n="lit_work_id_175">Foreword</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -384,6 +385,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5879</idno>
                   <listBibl>
                      <bibl n="lit_work_id_70">Italienische Reise (Italian Journey)</bibl>
+                     <bibl n="lit_work_id_170">Das Sonett</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_12">
@@ -602,6 +604,7 @@
                   <listBibl>
                      <bibl n="lit_work_id_3">The Rake's Progress</bibl>
                      <bibl n="lit_work_id_35">Le Sacre du Printemps (The Rite of Spring)</bibl>
+                     <bibl n="lit_work_id_172">Retrospectives and Conclusions</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_26">
@@ -740,6 +743,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558161</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183266</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_174">Review of a Free Enquiry into the Nature and Origin of Evil</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_34">
                   <persName>
@@ -1672,6 +1678,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118566288</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44328</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_173">Aphorismen</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_82">
                   <persName>
@@ -2116,6 +2125,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118505114</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8018</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_171">Confessiones (Confessions)</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_112">
                   <persName>
@@ -3993,6 +4005,29 @@
                      <forename>Rhodri Vaughan Lloyd</forename>
                      <surname>Lloyd-Philipps</surname>
                   </persName>
+               </person>
+               <person xml:id="amp_person_239">
+                  <persName>
+                     <forename>Robert</forename>
+                     <surname>Craft</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1923-10-20">1923-10-20</date>
+                     <settlement key="amp_place_id_329">
+                        <placeName>Kingston, New York</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2015-11-10">2015-11-10</date>
+                     <settlement key="amp_place_id_330">
+                        <placeName>Gulf Stream, Florida</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118677225</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1380024</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_172">Retrospectives and Conclusions</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

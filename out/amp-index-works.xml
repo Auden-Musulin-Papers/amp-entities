@@ -1409,7 +1409,55 @@
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_170">
-               <title/>
+               <title>Das Sonett</title>
+               <author ref="#amp_person_11">
+                  <persName>Goethe, Johann Wolfgang von</persName>
+               </author>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_171">
+               <title>Confessiones (Confessions)</title>
+               <author ref="#amp_person_111">
+                  <persName>Hippo, Augustine of</persName>
+               </author>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q372941</idno>
+               <lang>la</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_172">
+               <title>Retrospectives and Conclusions</title>
+               <author ref="#amp_person_25">
+                  <persName>Stravinsky, Igor</persName>
+               </author>
+               <author ref="#amp_person_239">
+                  <persName>Craft, Robert</persName>
+               </author>
+               <date when="1969">1969</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_173">
+               <title>Aphorismen</title>
+               <author ref="#amp_person_81">
+                  <persName>Kraus, Karl</persName>
+               </author>
+               <date when="1909">1909</date>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_174">
+               <title>Review of a Free Enquiry into the Nature and Origin of Evil</title>
+               <author ref="#amp_person_33">
+                  <persName>Johnson, Samuel</persName>
+               </author>
+               <date when="1757">1757</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_175">
+               <title>Foreword</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1971">1971</date>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
       </listBibl>
       </body>
