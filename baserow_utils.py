@@ -303,7 +303,7 @@ def denormalize_json(fn, path, mapping):
                         i_upt = lockup[str(i_id)]
                         # create normalized data
                         norm = {n: i_upt[n] for n in i_upt
-                                if not isinstance(i_upt[n], list) and n != "id" and n != "order"}
+                                if n != "id" and n != "order"}
                         i["data"] = norm
                         i["data"]["filename"] = mpg[m]
                     except KeyError:

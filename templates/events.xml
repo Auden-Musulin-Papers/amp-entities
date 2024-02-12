@@ -61,10 +61,10 @@
             {% for x in objects %}
                <event xml:id="{{ x.amp_id }}"{% if x.start_date %} notBefore-iso="{{ x.start_date }}"{% endif%}{% if x.end_date %} notAfter-iso="{{ x.end_date }}"{% endif%}{% if x.has_type %} type="{{ x.has_type[0].value }}"{% endif%}{% if x.has_sub_type %} subtype="{{ x.has_sub_type.value }}"{% endif%}>
                   <label>{{ x.name|replace('&', '&amp;') }}</label>
-                  {% if x.participants|length > 0 %}
-                  <ab type="participants">
-                     {% for p in x.participants if p.data %}
-                     <persName key="{{ p.data.amp_id }}">{{ p.data.name }}</persName>
+                  {% if x.person_event|length > 0 %}
+                  <ab type="acting_persons">
+                     {% for p in x.person_event if p.data %}
+                     <persName key="amp_person_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">{{ p.data.source[0].value }}</persName>
                      {% endfor %}
                   </ab>
                   {% endif %}
@@ -86,6 +86,14 @@
                   </ab>
                   {% endfor %}
                   {% endif %}
+                  {% if x.org_event|length > 0 %}
+                  <ab type="acting_organizations">
+                     {% for p in x.org_event if p.data %}
+                     <orgName key="amp_organization_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">{{ p.data.source[0].value }}</orgName>
+                     {% endfor %}
+                  </ab>
+                  {% endif %}
+                  
                   {% if x.wikidata|length > 0 %}
                   <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
