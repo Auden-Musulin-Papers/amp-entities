@@ -73,7 +73,7 @@
                   {% if x.place_of_event|length > 0 %}
                   {% for p in x.place_of_event if p.data %}
                   <listPlace>
-                     <place sameAs="{{ p.data.amp_id }}">
+                     <place sameAs="{{ p.data.amp_id }}" type="location" subtype="is_event_location">
                         <placeName>{{ p.data.name }}</placeName>
                         {% if p.data.geonames_coordinates is string and p.data.geonames_coordinates|length != 0 %}
                         <location type="coords">
