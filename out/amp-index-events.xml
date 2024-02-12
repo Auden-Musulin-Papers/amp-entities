@@ -74,7 +74,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -93,7 +93,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_85">
+                     <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
                         <placeName>Palais Pálffy</placeName>
                         <location type="coords">
                            <geo>48.20644, 16.3678</geo>
@@ -109,7 +109,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_15">
+                     <place sameAs="amp_place_id_15" type="location" subtype="is_event_location">
                         <placeName>United States of America</placeName>
                         <location type="coords">
                            <geo>39.76, -98.5</geo>
@@ -126,7 +126,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_28">
+                     <place sameAs="amp_place_id_28" type="location" subtype="is_event_location">
                         <placeName>New York City</placeName>
                         <location type="coords">
                            <geo>40.71427, -74.00597</geo>
@@ -146,7 +146,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_39">
+                     <place sameAs="amp_place_id_39" type="location" subtype="is_event_location">
                         <placeName>Canterbury</placeName>
                         <location type="coords">
                            <geo>51.27904, 1.07992</geo>
@@ -177,7 +177,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -207,7 +207,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_39">
+                     <place sameAs="amp_place_id_39" type="location" subtype="is_event_location">
                         <placeName>Canterbury</placeName>
                         <location type="coords">
                            <geo>51.27904, 1.07992</geo>
@@ -234,7 +234,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_1">
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
@@ -253,7 +253,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_6">
+                     <place sameAs="amp_place_id_6" type="location" subtype="is_event_location">
                         <placeName>Lower Austria</placeName>
                         <location type="coords">
                            <geo>48.33333, 15.75</geo>
@@ -275,7 +275,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -297,7 +297,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -313,7 +313,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_225">
+                     <place sameAs="amp_place_id_225" type="location" subtype="is_event_location">
                         <placeName>Hotel "Altenburger Hof"</placeName>
                         <location type="coords">
                            <geo>48.20379, 16.37118</geo>
@@ -368,7 +368,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -390,7 +390,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_1">
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
@@ -415,7 +415,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -437,7 +437,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_85">
+                     <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
                         <placeName>Palais Pálffy</placeName>
                         <location type="coords">
                            <geo>48.20644, 16.3678</geo>
@@ -459,7 +459,7 @@
                <event xml:id="amp_event_id_25" type="professional">
                   <label>Reading W. H. Auden "Hier und Jetzt"</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_85">
+                     <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
                         <placeName>Palais Pálffy</placeName>
                         <location type="coords">
                            <geo>48.20644, 16.3678</geo>
@@ -478,7 +478,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_86">
+                     <place sameAs="amp_place_id_86" type="location" subtype="is_event_location">
                         <placeName>Budapest</placeName>
                         <location type="coords">
                            <geo>47.49835, 19.04045</geo>
@@ -494,7 +494,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_17">
+                     <place sameAs="amp_place_id_17" type="location" subtype="is_event_location">
                         <placeName>Berlin</placeName>
                         <location type="coords">
                            <geo>52.52437, 13.41053</geo>
@@ -519,7 +519,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_1">
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
@@ -538,7 +538,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_87">
+                     <place sameAs="amp_place_id_87" type="location" subtype="is_event_location">
                         <placeName>Westminster Abbey</placeName>
                         <location type="coords">
                            <geo>51.49937, -0.12846</geo>
@@ -605,7 +605,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_85">
+                     <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
                         <placeName>Palais Pálffy</placeName>
                         <location type="coords">
                            <geo>48.20644, 16.3678</geo>
@@ -624,7 +624,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_37">
+                     <place sameAs="amp_place_id_37" type="location" subtype="is_event_location">
                         <placeName>Salzburg</placeName>
                         <location type="coords">
                            <geo>47.79941, 13.04399</geo>
@@ -643,7 +643,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -659,7 +659,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -678,7 +678,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_47">
+                     <place sameAs="amp_place_id_47" type="location" subtype="is_event_location">
                         <placeName>Neulengbach</placeName>
                         <location type="coords">
                            <geo>48.19745, 15.90219</geo>
@@ -704,7 +704,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_71">
+                     <place sameAs="amp_place_id_71" type="location" subtype="is_event_location">
                         <placeName>Eslarngasse</placeName>
                         <location type="coords">
                            <geo>48.19499, 16.39375</geo>
@@ -744,7 +744,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -769,7 +769,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_100">
+                     <place sameAs="amp_place_id_100" type="location" subtype="is_event_location">
                         <placeName>Czechoslovakia</placeName>
                         <location type="coords">
                            <geo>50.08292, 14.46672</geo>
@@ -789,7 +789,7 @@
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
                   <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -800,7 +800,7 @@
                <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" type="professional">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_1">
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
@@ -811,7 +811,7 @@
                <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
                   <label>Vietnam war, 1955-1975</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_236">
+                     <place sameAs="amp_place_id_236" type="location" subtype="is_event_location">
                         <placeName>Vietnam</placeName>
                         <location type="coords">
                            <geo>16.16667, 107.83333</geo>
@@ -832,7 +832,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -846,7 +846,7 @@
                <event xml:id="amp_event_id_52" notBefore-iso="1945-01-01" notAfter-iso="1948-01-01" type="historic">
                   <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_100">
+                     <place sameAs="amp_place_id_100" type="location" subtype="is_event_location">
                         <placeName>Czechoslovakia</placeName>
                         <location type="coords">
                            <geo>50.08292, 14.46672</geo>
@@ -866,7 +866,7 @@
                <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -878,7 +878,7 @@
                <event xml:id="amp_event_id_56" type="recurrent">
                   <label>Salzburg Festival</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_37">
+                     <place sameAs="amp_place_id_37" type="location" subtype="is_event_location">
                         <placeName>Salzburg</placeName>
                         <location type="coords">
                            <geo>47.79941, 13.04399</geo>
@@ -895,7 +895,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -906,7 +906,7 @@
                <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" type="professional">
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -917,7 +917,7 @@
                <event xml:id="amp_event_id_59" notBefore-iso="1951-03-28" notAfter-iso="1951-03-31" type="professional">
                   <label>First Asian Conference on Cultural Freedom, 1951</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_274">
+                     <place sameAs="amp_place_id_274" type="location" subtype="is_event_location">
                         <placeName>Mumbai</placeName>
                         <location type="coords">
                            <geo>19.07283, 72.88261</geo>
@@ -928,7 +928,7 @@
                <event xml:id="amp_event_id_60" type="professional">
                   <label>W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor, 1941-1942</label>
                   <listPlace>
-                     <place sameAs="amp_place_id_298">
+                     <place sameAs="amp_place_id_298" type="location" subtype="is_event_location">
                         <placeName>Ann Arbor</placeName>
                         <location type="coords">
                            <geo>42.27756, -83.74088</geo>
@@ -947,7 +947,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -980,7 +980,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -999,7 +999,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_315">
+                     <place sameAs="amp_place_id_315" type="location" subtype="is_event_location">
                         <placeName>"your place" (amp-transcript__0058.xml)</placeName>
                      </place>
                   </listPlace>
@@ -1015,7 +1015,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1063,7 +1063,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_301">
+                     <place sameAs="amp_place_id_301" type="location" subtype="is_event_location">
                         <placeName>Café Drei Viertel</placeName>
                         <location type="coords">
                            <geo>47.42738, 14.02492</geo>
@@ -1082,7 +1082,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1101,7 +1101,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_177">
+                     <place sameAs="amp_place_id_177" type="location" subtype="is_event_location">
                         <placeName>Palais Wilczek</placeName>
                         <location type="coords">
                            <geo>48.20882, 16.36624</geo>
@@ -1125,7 +1125,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_19">
+                     <place sameAs="amp_place_id_19" type="location" subtype="is_event_location">
                         <placeName>Hubertusbader Straße 43</placeName>
                         <location type="coords">
                            <geo>52.47901, 13.27565</geo>
@@ -1155,7 +1155,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1185,7 +1185,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1201,7 +1201,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_27">
+                     <place sameAs="amp_place_id_27" type="location" subtype="is_event_location">
                         <placeName>Amerikahaus Vienna (1957-1971)</placeName>
                         <location type="coords">
                            <geo>48.20227, 16.36881</geo>
@@ -1220,7 +1220,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_29">
+                     <place sameAs="amp_place_id_29" type="location" subtype="is_event_location">
                         <placeName>77 St. Mark's Place</placeName>
                         <location type="coords">
                            <geo>40.72839, -73.98359</geo>
@@ -1242,7 +1242,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1264,7 +1264,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1283,7 +1283,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1302,7 +1302,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_11">
+                     <place sameAs="amp_place_id_11" type="location" subtype="is_event_location">
                         <placeName>Neulinggasse 26</placeName>
                         <location type="coords">
                            <geo>48.19947, 16.38809</geo>
@@ -1321,7 +1321,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_11">
+                     <place sameAs="amp_place_id_11" type="location" subtype="is_event_location">
                         <placeName>Neulinggasse 26</placeName>
                         <location type="coords">
                            <geo>48.19947, 16.38809</geo>
@@ -1337,7 +1337,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_1">
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
@@ -1353,7 +1353,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1369,7 +1369,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -1385,7 +1385,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -1401,7 +1401,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_5">
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
@@ -1417,7 +1417,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_56">
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
                         <placeName>London</placeName>
                         <location type="coords">
                            <geo>51.50853, -0.12574</geo>
@@ -1436,7 +1436,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_45">
+                     <place sameAs="amp_place_id_45" type="location" subtype="is_event_location">
                         <placeName>32 Bryanston Square</placeName>
                         <location type="coords">
                            <geo>51.51954, -0.16167</geo>
@@ -1452,7 +1452,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_56">
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
                         <placeName>London</placeName>
                         <location type="coords">
                            <geo>51.50853, -0.12574</geo>
@@ -1471,7 +1471,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_45">
+                     <place sameAs="amp_place_id_45" type="location" subtype="is_event_location">
                         <placeName>32 Bryanston Square</placeName>
                         <location type="coords">
                            <geo>51.51954, -0.16167</geo>
@@ -1490,7 +1490,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_29">
+                     <place sameAs="amp_place_id_29" type="location" subtype="is_event_location">
                         <placeName>77 St. Mark's Place</placeName>
                         <location type="coords">
                            <geo>40.72839, -73.98359</geo>
@@ -1509,7 +1509,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_29">
+                     <place sameAs="amp_place_id_29" type="location" subtype="is_event_location">
                         <placeName>77 St. Mark's Place</placeName>
                         <location type="coords">
                            <geo>40.72839, -73.98359</geo>
@@ -1528,7 +1528,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_29">
+                     <place sameAs="amp_place_id_29" type="location" subtype="is_event_location">
                         <placeName>77 St. Mark's Place</placeName>
                         <location type="coords">
                            <geo>40.72839, -73.98359</geo>
@@ -1547,7 +1547,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1566,7 +1566,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1585,7 +1585,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_157">
+                     <place sameAs="amp_place_id_157" type="location" subtype="is_event_location">
                         <placeName>Vienna State Opera</placeName>
                         <location type="coords">
                            <geo>48.20323, 16.36912</geo>
@@ -1604,7 +1604,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1623,7 +1623,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1645,7 +1645,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_2">
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
                         <placeName>Hinterholz 6</placeName>
                         <location type="coords">
                            <geo>48.18153, 15.81151</geo>
@@ -1667,7 +1667,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_10">
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
                         <location type="coords">
                            <geo>47.33333, 13.33333</geo>
@@ -1683,7 +1683,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_56">
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
                         <placeName>London</placeName>
                         <location type="coords">
                            <geo>51.50853, -0.12574</geo>
@@ -1702,7 +1702,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_29">
+                     <place sameAs="amp_place_id_29" type="location" subtype="is_event_location">
                         <placeName>77 St. Mark's Place</placeName>
                         <location type="coords">
                            <geo>40.72839, -73.98359</geo>
@@ -1718,7 +1718,7 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_82">
+                     <place sameAs="amp_place_id_82" type="location" subtype="is_event_location">
                         <placeName>Schloss Schönbrunn</placeName>
                         <location type="coords">
                            <geo>48.18494, 16.31229</geo>
