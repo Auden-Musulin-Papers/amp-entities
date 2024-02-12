@@ -62,38 +62,41 @@
                <event xml:id="{{ x.amp_id }}"{% if x.start_date %} notBefore-iso="{{ x.start_date }}"{% endif%}{% if x.end_date %} notAfter-iso="{{ x.end_date }}"{% endif%}{% if x.has_type %} type="{{ x.has_type[0].value }}"{% endif%}{% if x.has_sub_type %} subtype="{{ x.has_sub_type.value }}"{% endif%}>
                   <label>{{ x.name|replace('&', '&amp;') }}</label>
                   {% if x.person_event|length > 0 %}
-                  <ab type="acting_persons">
+                  <listPerson>
                      {% for p in x.person_event if p.data %}
-                     <persName key="amp_person_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">{{ p.data.source[0].value }}</persName>
+                     <person sameAs="amp_person_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">
+                        <persName>{{ p.data.source[0].value }}</persName>
+                     </person>
                      {% endfor %}
-                  </ab>
+                  </listPerson>
                   {% endif %}
                   {% if x.place_of_event|length > 0 %}
                   {% for p in x.place_of_event if p.data %}
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="{{ p.data.amp_id }}">{{ p.data.name }}</placeName>
-                     </location>
-                     {% if p.data.geonames_coordinates is string and p.data.geonames_coordinates|length != 0 %}
-                     <location type="coords">
-                        <geo>{{ p.data.geonames_coordinates }}</geo>
-                     </location>
-                     {% elif p.data.google_maps_coordinates is string and p.data.google_maps_coordinates|length != 0 %}
-                     <location type="coords">
-                        <geo>{{ p.data.google_maps_coordinates }}</geo>
-                     </location>
-                     {% endif %}
-                  </ab>
+                  <listPlace>
+                     <place sameAs="{{ p.data.amp_id }}">
+                        <placeName>{{ p.data.name }}</placeName>
+                        {% if p.data.geonames_coordinates is string and p.data.geonames_coordinates|length != 0 %}
+                        <location type="coords">
+                           <geo>{{ p.data.geonames_coordinates }}</geo>
+                        </location>
+                        {% elif p.data.google_maps_coordinates is string and p.data.google_maps_coordinates|length != 0 %}
+                        <location type="coords">
+                           <geo>{{ p.data.google_maps_coordinates }}</geo>
+                        </location>
+                        {% endif %}
+                     </place>
+                  </listPlace>
                   {% endfor %}
                   {% endif %}
                   {% if x.org_event|length > 0 %}
-                  <ab type="acting_organizations">
+                  <listOrg>
                      {% for p in x.org_event if p.data %}
-                     <orgName key="amp_organization_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">{{ p.data.source[0].value }}</orgName>
+                     <org sameAs="amp_organization_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">
+                        <orgName>{{ p.data.source[0].value }}</orgName>
+                     </org>
                      {% endfor %}
-                  </ab>
+                  </listOrg>
                   {% endif %}
-                  
                   {% if x.wikidata|length > 0 %}
                   <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
