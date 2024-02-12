@@ -59,11 +59,8 @@
          <div type="index_events">
             <listEvent xml:id="listevent">
             {% for x in objects %}
-               <event xml:id="{{ x.amp_id }}" {% if x.date %}when="{{ x.date }}"{% endif%}>
+               <event xml:id="{{ x.amp_id }}"{% if x.start_date %} notBefore-iso="{{ x.start_date }}"{% endif%}{% if x.end_date %} notAfter-iso="{{ x.end_date }}"{% endif%}{% if x.has_type %} type="{{ x.has_type[0].value }}"{% endif%}{% if x.has_sub_type %} subtype="{{ x.has_sub_type.value }}"{% endif%}>
                   <label>{{ x.name|replace('&', '&amp;') }}</label>
-                  {% if x.has_type %}
-                  <desc>{{ x.has_type.value }}</desc>
-                  {% endif %}
                   {% if x.participants|length > 0 %}
                   <ab type="participants">
                      {% for p in x.participants if p.data %}
