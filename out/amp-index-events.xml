@@ -58,13 +58,11 @@
       <body>
          <div type="index_events">
             <listEvent xml:id="listevent">
-               <event xml:id="amp_event_id_1">
+               <event xml:id="amp_event_id_1" notBefore-iso="1967-11-04" notAfter-iso="1967-11-04" type="personal">
                   <label>Death Emma Eiermann 1967-11-04</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_2">
+               <event xml:id="amp_event_id_2" notBefore-iso="1968-12-13" notAfter-iso="1968-12-13" type="personal">
                   <label>Death Ioannis Boras in a car accident 1968-12-13</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -74,9 +72,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_3">
+               <event xml:id="amp_event_id_3" notBefore-iso="1973-09-28" notAfter-iso="1973-09-28" type="professional">
                   <label>Reading W. H. Auden "Gedichte/Poems" 1973-09-28</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
@@ -86,9 +83,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_4">
+               <event xml:id="amp_event_id_4" notBefore-iso="1965-11-09" notAfter-iso="1965-11-10" type="historic">
                   <label>Northeast blackout of 1965 1965-11-09--1965-11-10</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_15">United States of America</placeName>
@@ -99,9 +95,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
-               <event xml:id="amp_event_id_5">
+               <event xml:id="amp_event_id_5" notBefore-iso="1966-01-01" notAfter-iso="1966-01-13" type="historic">
                   <label>1966 New York City transit strike 1966-01-01--1966-01-13</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_28">New York City</placeName>
@@ -112,9 +107,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
-               <event xml:id="amp_event_id_6">
+               <event xml:id="amp_event_id_6" notBefore-iso="1967-10-25" notAfter-iso="1967-10-28" type="professional">
                   <label>T S Eliot Memorial Lectures: "Secondary Worlds - Art and Truth" 1967-10-25--1967-10-28</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_39">Canterbury</placeName>
@@ -125,9 +119,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                </event>
-               <event xml:id="amp_event_id_7">
+               <event xml:id="amp_event_id_7" notBefore-iso="1969-05-05" notAfter-iso="1969-05-10" type="historic">
                   <label>State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -138,14 +131,12 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
-               <event xml:id="amp_event_id_8">
+               <event xml:id="amp_event_id_8" notBefore-iso="1815-01-01" notAfter-iso="1848-12-31" type="historic">
                   <label>Biedermeier period</label>
-                  <desc/>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154432</idno>
                </event>
-               <event xml:id="amp_event_id_9">
+               <event xml:id="amp_event_id_9" notBefore-iso="1967-10-25" notAfter-iso="1967-10-25" type="professional">
                   <label>W. H. Auden's lecture "The Martyr as Dramatic Hero" 1967-10-25</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_39">Canterbury</placeName>
@@ -155,9 +146,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_10">
+               <event xml:id="amp_event_id_10" notBefore-iso="1968-02-12" notAfter-iso="1968-02-16" type="communicative" subtype="meeting">
                   <label>W. H. Auden's interview of Strobls 1968-02-12--1968-02-16</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_1">Vienna</placeName>
@@ -167,9 +157,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_14">
+               <event xml:id="amp_event_id_14" notBefore-iso="1970-06-13" notAfter-iso="1970-06-13" type="personal">
                   <label>"Wedding near Krems" 1970-06-13</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_6">Lower Austria</placeName>
@@ -179,9 +168,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_16">
+               <event xml:id="amp_event_id_16" notBefore-iso="1962-08-01" notAfter-iso="1962-08-31" type="communicative" subtype="meeting">
                   <label>Visit of Christiane Zimmer at Hinterholz 6 1962-08-01--1962-08-31</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -191,9 +179,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_17">
+               <event xml:id="amp_event_id_17" notBefore-iso="1962-10-20" notAfter-iso="1962-10-20" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -203,9 +190,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_18">
+               <event xml:id="amp_event_id_18" notBefore-iso="1973-09-28" notAfter-iso="1973-09-29" type="personal">
                   <label>Death W. H. Auden 1973-09-28--1973-09-29</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
@@ -215,9 +201,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_19">
+               <event xml:id="amp_event_id_19" notBefore-iso="1973-10-04" type="personal">
                   <label>Funeral of W. H. Auden, 1973</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -227,9 +212,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_21">
+               <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
                   <label>Symposium "W. H. Auden 1907-1973", 1984</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_1">Vienna</placeName>
@@ -239,9 +223,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_22">
+               <event xml:id="amp_event_id_22" notBefore-iso="1969-05-28" notAfter-iso="1969-05-28" type="communicative" subtype="meeting">
                   <label>Visit of Friedrich Heer and Stella Musulin at Hinterholz 6 1969-05-28</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -251,9 +234,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_23">
+               <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" type="professional">
                   <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
@@ -263,13 +245,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_24">
+               <event xml:id="amp_event_id_24" notBefore-iso="1957-01-01" notAfter-iso="1958-12-31" type="personal">
                   <label>Separation of Janko and Stella Musulin, 1958</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_25">
+               <event xml:id="amp_event_id_25" type="professional">
                   <label>Reading W. H. Auden "Hier und Jetzt"</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
@@ -279,9 +259,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_26">
+               <event xml:id="amp_event_id_26" notBefore-iso="1964-10-15" notAfter-iso="1964-10-18" type="professional">
                   <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature", 1964</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_86">Budapest</placeName>
@@ -291,9 +270,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_27">
+               <event xml:id="amp_event_id_27" notBefore-iso="1964-10-01" notAfter-iso="1965-04-01" type="professional">
                   <label>W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_17">Berlin</placeName>
@@ -303,9 +281,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_29">
+               <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" type="professional">
                   <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_1">Vienna</placeName>
@@ -315,9 +292,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_30">
+               <event xml:id="amp_event_id_30" notBefore-iso="1966-10-18" notAfter-iso="1966-10-18" type="professional">
                   <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_87">Westminster Abbey</placeName>
@@ -327,9 +303,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_31">
+               <event xml:id="amp_event_id_31" notBefore-iso="1967-04-24" notAfter-iso="1967-04-26" type="professional">
                   <label>Round table "Literatur als Tradition und Revolution", 1967</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_85">Palais Pálffy</placeName>
@@ -339,9 +314,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_32">
+               <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" type="professional">
                   <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_37">Salzburg</placeName>
@@ -351,9 +325,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_34">
+               <event xml:id="amp_event_id_34" type="personal">
                   <label>W. H. Auden's car accident in Kirchstetten</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -363,9 +336,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_36">
+               <event xml:id="amp_event_id_36" notBefore-iso="1962-10-01" notAfter-iso="1962-10-31" type="personal">
                   <label>Arrest and court trial of Hugo K., 1962</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -375,9 +347,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_37">
+               <event xml:id="amp_event_id_37" notBefore-iso="1970-06-14" notAfter-iso="1970-06-14" type="professional">
                   <label>Lyrik 70 poetry convention 1970-06-14</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_47">Neulengbach</placeName>
@@ -388,9 +359,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124289732</idno>
                </event>
-               <event xml:id="amp_event_id_38">
+               <event xml:id="amp_event_id_38" notBefore-iso="1965-12-21" notAfter-iso="1966-02-03" type="personal">
                   <label>Party at Chester Kallman's apartment in Eslarngasse 1965-12-21--1966-02-03</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_71">Eslarngasse</placeName>
@@ -400,9 +370,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_40">
+               <event xml:id="amp_event_id_40" notBefore-iso="1973-09-30" type="personal">
                   <label>Preparation of W. H. Auden's funeral, 1973</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -412,9 +381,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_42">
+               <event xml:id="amp_event_id_42" notBefore-iso="1968-01-05" notAfter-iso="1968-08-21" type="historic">
                   <label>Prague Spring, 1968</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_100">Czechoslovakia</placeName>
@@ -425,13 +393,11 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
-               <event xml:id="amp_event_id_43">
+               <event xml:id="amp_event_id_43" notBefore-iso="1972-04-15" notAfter-iso="1972-09-30" type="personal">
                   <label>Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_45">
+               <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
                   <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -441,9 +407,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_46">
+               <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" type="professional">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_1">Vienna</placeName>
@@ -453,9 +418,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_47">
+               <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
                   <label>Vietnam war, 1955-1975</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_236">Vietnam</placeName>
@@ -466,14 +430,12 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
-               <event xml:id="amp_event_id_48">
+               <event xml:id="amp_event_id_48" notBefore-iso="1968-01-20" notAfter-iso="1968-01-23" type="historic">
                   <label>Pueblo incident, 1968</label>
-                  <desc/>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
-               <event xml:id="amp_event_id_49">
+               <event xml:id="amp_event_id_49" notBefore-iso="1965-10-30" notAfter-iso="1965-10-30" type="historic">
                   <label>Commemorative event Josef Weinheber’s death, 1965</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -483,13 +445,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_51">
+               <event xml:id="amp_event_id_51" type="personal">
                   <label>Death of Josef Eiermann</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_52">
+               <event xml:id="amp_event_id_52" notBefore-iso="1945-01-01" notAfter-iso="1948-01-01" type="historic">
                   <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_100">Czechoslovakia</placeName>
@@ -500,19 +460,16 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                </event>
-               <event xml:id="amp_event_id_53">
+               <event xml:id="amp_event_id_53" notBefore-iso="1914-07-28" notAfter-iso="1918-11-11" type="historic">
                   <label>World War I 1914-07-28--1918-11-11</label>
-                  <desc/>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q361</idno>
                </event>
-               <event xml:id="amp_event_id_54">
+               <event xml:id="amp_event_id_54" notBefore-iso="1939-09-01" notAfter-iso="1945-09-02" type="historic">
                   <label>Second World War, 1939-1945</label>
-                  <desc/>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
-               <event xml:id="amp_event_id_55">
+               <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -523,9 +480,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
                </event>
-               <event xml:id="amp_event_id_56">
+               <event xml:id="amp_event_id_56" type="recurrent">
                   <label>Salzburg Festival</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_37">Salzburg</placeName>
@@ -536,9 +492,8 @@
                   </ab>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
-               <event xml:id="amp_event_id_57">
+               <event xml:id="amp_event_id_57" type="personal">
                   <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -548,9 +503,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_58">
+               <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" type="professional">
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -560,9 +514,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_59">
+               <event xml:id="amp_event_id_59" notBefore-iso="1951-03-28" notAfter-iso="1951-03-31" type="professional">
                   <label>First Asian Conference on Cultural Freedom, 1951</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_274">Mumbai</placeName>
@@ -572,9 +525,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_60">
+               <event xml:id="amp_event_id_60" type="professional">
                   <label>W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor, 1941-1942</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_298">Ann Arbor</placeName>
@@ -584,9 +536,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_61">
+               <event xml:id="amp_event_id_61" notBefore-iso="1959-10-05" notAfter-iso="1959-10-05" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1959-10-05</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -596,13 +547,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_62">
+               <event xml:id="amp_event_id_62" notBefore-iso="1959-10-10" notAfter-iso="1960-07-21" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_63">
+               <event xml:id="amp_event_id_63" notBefore-iso="1960-07-23" notAfter-iso="1960-07-23" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -612,18 +561,16 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_64">
+               <event xml:id="amp_event_id_64" notBefore-iso="1961-10-19" notAfter-iso="1965-08-19" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_315">"your place" (amp-transcript__0058.xml)</placeName>
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_65">
+               <event xml:id="amp_event_id_65" notBefore-iso="1961-08-16" notAfter-iso="1961-10-13" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -633,13 +580,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_66">
+               <event xml:id="amp_event_id_66" notBefore-iso="1962-05-23" notAfter-iso="1962-05-23" type="professional">
                   <label>Reading Christine Busta "Meine Hinterhöfe" 1962-05-23</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_67">
+               <event xml:id="amp_event_id_67" notBefore-iso="1958-01-01" notAfter-iso="1959-12-31" type="communicative" subtype="meeting">
                   <label>Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_301">Café Drei Viertel</placeName>
@@ -649,9 +594,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_68">
+               <event xml:id="amp_event_id_68" notBefore-iso="1962-07-23" notAfter-iso="1962-09-11" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -661,9 +605,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_69">
+               <event xml:id="amp_event_id_69" notBefore-iso="1963-05-12" notAfter-iso="1963-05-17" type="professional">
                   <label>International Rudolf Kassner Symposium 1963-05-12--1963-05-17</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_177">Palais Wilczek</placeName>
@@ -673,9 +616,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_70">
+               <event xml:id="amp_event_id_70" notBefore-iso="1964-09-01" notAfter-iso="1964-12-23" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_19">Hubertusbader Straße 43</placeName>
@@ -685,13 +627,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_71">
+               <event xml:id="amp_event_id_71" notBefore-iso="1963-05-13" notAfter-iso="1963-05-13" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1963-05-13</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_72">
+               <event xml:id="amp_event_id_72" notBefore-iso="1965-03-15" notAfter-iso="1965-04-28" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -701,13 +641,11 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_73">
+               <event xml:id="amp_event_id_73" notBefore-iso="1965-04-28" notAfter-iso="1965-04-28" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1965-04-28</label>
-                  <desc/>
                </event>
-               <event xml:id="amp_event_id_74">
+               <event xml:id="amp_event_id_74" notBefore-iso="1965-04-28" notAfter-iso="1965-09-29" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -717,9 +655,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_75">
+               <event xml:id="amp_event_id_75" notBefore-iso="1965-10-05" notAfter-iso="1965-10-05" type="professional">
                   <label>Reception Amerikahaus Vienna (1957-1971) 1965-10-05</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
@@ -729,9 +666,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_76">
+               <event xml:id="amp_event_id_76" notBefore-iso="1965-09-29" notAfter-iso="1966-02-03" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
@@ -741,9 +677,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_77">
+               <event xml:id="amp_event_id_77" notBefore-iso="1965-09-29" notAfter-iso="1966-02-03" type="communicative" subtype="telegram">
                   <label>Telegram Harrison 1965-09-29--1966-02-03</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -753,9 +688,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_78">
+               <event xml:id="amp_event_id_78" notBefore-iso="1968-09-29" notAfter-iso="1968-09-29" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -765,9 +699,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_79">
+               <event xml:id="amp_event_id_79" notBefore-iso="1968-10-05" notAfter-iso="1968-10-05" type="communicative" subtype="telegram">
                   <label>Telegram Stella Musulin to W. H. Auden 1968-10-05</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -777,9 +710,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_80">
+               <event xml:id="amp_event_id_80" notBefore-iso="1968-10-05" notAfter-iso="1968-10-05" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1968-10-05</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
@@ -789,9 +721,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_81">
+               <event xml:id="amp_event_id_81" notBefore-iso="1968-10-06" notAfter-iso="1968-10-06" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1968-10-06</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
@@ -801,9 +732,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_82">
+               <event xml:id="amp_event_id_82" notBefore-iso="1968-02-12" notAfter-iso="1968-02-12" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Vienna from New York City 1968-02-12</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_1">Vienna</placeName>
@@ -813,9 +743,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_83">
+               <event xml:id="amp_event_id_83" notBefore-iso="1968-10-07" notAfter-iso="1968-10-07" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to England from Austria 1968-10-07</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -825,9 +754,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_84">
+               <event xml:id="amp_event_id_84" notBefore-iso="1963-05-14" notAfter-iso="1963-05-14" type="personal" subtype="travel">
                   <label>Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -837,9 +765,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_85">
+               <event xml:id="amp_event_id_85" notBefore-iso="1965-04-22" notAfter-iso="1965-04-22" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -849,9 +776,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_86">
+               <event xml:id="amp_event_id_86" notBefore-iso="1966-04-20" notAfter-iso="1966-04-20" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_5">Kirchstetten</placeName>
@@ -861,9 +787,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_87">
+               <event xml:id="amp_event_id_87" notBefore-iso="1968-10-14" notAfter-iso="1968-10-14" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in London from Oxford 1968-10-14</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_56">London</placeName>
@@ -873,9 +798,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_88">
+               <event xml:id="amp_event_id_88" notBefore-iso="1968-10-12" notAfter-iso="1968-10-15" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
@@ -885,9 +809,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_89">
+               <event xml:id="amp_event_id_89" notBefore-iso="1968-10-31" notAfter-iso="1968-10-31" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to New York City from London 1968-10-31</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_56">London</placeName>
@@ -897,9 +820,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_90">
+               <event xml:id="amp_event_id_90" notBefore-iso="1968-10-15" notAfter-iso="1968-10-24" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
@@ -909,9 +831,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_91">
+               <event xml:id="amp_event_id_91" notBefore-iso="1968-10-24" notAfter-iso="1968-11-06" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
@@ -921,9 +842,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_92">
+               <event xml:id="amp_event_id_92" notBefore-iso="1968-12-13" notAfter-iso="1968-12-13" type="communicative" subtype="telephone">
                   <label>Telephone call Chester Kallman to W. H. Auden 1968-12-13</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
@@ -933,9 +853,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_93">
+               <event xml:id="amp_event_id_93" notBefore-iso="1968-12-29" notAfter-iso="1969-01-04" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
@@ -945,9 +864,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_94">
+               <event xml:id="amp_event_id_94" notBefore-iso="1969-01-04" notAfter-iso="1969-05-21" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -957,9 +875,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_95">
+               <event xml:id="amp_event_id_95" notBefore-iso="1969-01-04" notAfter-iso="1969-05-21" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -969,9 +886,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_96">
+               <event xml:id="amp_event_id_96" notBefore-iso="1969-05-06" notAfter-iso="1969-05-06" type="historic">
                   <label>Opera performance "Die Fledermaus" Vienna State Opera 1969-05-06</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_157">Vienna State Opera</placeName>
@@ -981,9 +897,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_97">
+               <event xml:id="amp_event_id_97" notBefore-iso="1969-06-14" notAfter-iso="1969-06-14" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1969-06-14</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -993,9 +908,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_98">
+               <event xml:id="amp_event_id_98" notBefore-iso="1970-05-21" notAfter-iso="1970-06-10" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -1005,9 +919,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_99">
+               <event xml:id="amp_event_id_99" notBefore-iso="1970-09-22" notAfter-iso="1970-09-22" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_2">Hinterholz 6</placeName>
@@ -1017,9 +930,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_100">
+               <event xml:id="amp_event_id_100" notBefore-iso="1971-05-15" notAfter-iso="1971-05-15" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_10">Austria</placeName>
@@ -1029,9 +941,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_101">
+               <event xml:id="amp_event_id_101" notBefore-iso="1971-11-01" notAfter-iso="1971-11-01" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to New York City from London 1971-11-01</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_56">London</placeName>
@@ -1041,9 +952,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_102">
+               <event xml:id="amp_event_id_102" notBefore-iso="1971-10-19" notAfter-iso="1972-02-22" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
@@ -1053,9 +963,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_103">
+               <event xml:id="amp_event_id_103" notBefore-iso="1969-05-05" notAfter-iso="1969-05-05" type="historic">
                   <label>Gala dinner Schönbrunn Palace 1969-05-05</label>
-                  <desc/>
                   <ab type="location">
                      <location type="located_in_place">
                         <placeName key="amp_place_id_82">Schloss Schönbrunn</placeName>
@@ -1065,9 +974,8 @@
                      </location>
                   </ab>
                </event>
-               <event xml:id="amp_event_id_104">
+               <event xml:id="amp_event_id_104" notBefore-iso="1969-03-01" notAfter-iso="1969-03-01" type="communicative" subtype="letter">
                   <label>Letter W. H. Auden to Elizabeth Mayer 1965-03-01</label>
-                  <desc/>
                </event>
             </listEvent>
          </div>
