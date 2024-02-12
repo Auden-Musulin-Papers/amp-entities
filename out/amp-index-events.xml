@@ -60,104 +60,130 @@
             <listEvent xml:id="listevent">
                <event xml:id="amp_event_id_1" notBefore-iso="1967-11-04" notAfter-iso="1967-11-04" type="personal">
                   <label>Death Emma Eiermann 1967-11-04</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_16" role="is_passiveparticipant_in">Eiermann, Emma</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_16" role="is_passiveparticipant_in">
+                        <persName>Eiermann, Emma</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_2" notBefore-iso="1968-12-13" notAfter-iso="1968-12-13" type="personal">
                   <label>Death Ioannis Boras in a car accident 1968-12-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_23" role="is_passiveparticipant_in">Boras, Ioannis</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_23" role="is_passiveparticipant_in">
+                        <persName>Boras, Ioannis</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_3" notBefore-iso="1973-09-28" notAfter-iso="1973-09-28" type="professional">
                   <label>Reading W. H. Auden "Gedichte/Poems" 1973-09-28</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_129" role="is_speaker_in">Benning, Achim</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20644, 16.3678</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_129" role="is_speaker_in">
+                        <persName>Benning, Achim</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_85">
+                        <placeName>Palais Pálffy</placeName>
+                        <location type="coords">
+                           <geo>48.20644, 16.3678</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_4" notBefore-iso="1965-11-09" notAfter-iso="1965-11-10" type="historic">
                   <label>Northeast blackout of 1965 1965-11-09--1965-11-10</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_15">United States of America</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>39.76, -98.5</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_15">
+                        <placeName>United States of America</placeName>
+                        <location type="coords">
+                           <geo>39.76, -98.5</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5" notBefore-iso="1966-01-01" notAfter-iso="1966-01-13" type="historic">
                   <label>1966 New York City transit strike 1966-01-01--1966-01-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_28">New York City</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.71427, -74.00597</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_28">
+                        <placeName>New York City</placeName>
+                        <location type="coords">
+                           <geo>40.71427, -74.00597</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
                <event xml:id="amp_event_id_6" notBefore-iso="1967-10-25" notAfter-iso="1967-10-28" type="professional">
                   <label>T S Eliot Memorial Lectures: "Secondary Worlds - Art and Truth" 1967-10-25--1967-10-28</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_39">Canterbury</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.27904, 1.07992</geo>
-                     </location>
-                  </ab>
-                  <ab type="acting_organizations">
-                     <orgName key="amp_organization_57" role="is_host_of">Eliot College</orgName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_39">
+                        <placeName>Canterbury</placeName>
+                        <location type="coords">
+                           <geo>51.27904, 1.07992</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_57" role="is_host_of">
+                        <orgName>Eliot College</orgName>
+                     </org>
+                  </listOrg>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                </event>
                <event xml:id="amp_event_id_7" notBefore-iso="1969-05-05" notAfter-iso="1969-05-10" type="historic">
                   <label>State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_140" role="is_activeparticipant_in">Anne, Princess Royal</persName>
-                     <persName key="amp_person_138" role="is_activeparticipant_in">Elizabeth II.,  Elizabeth of the United Kingdom</persName>
-                     <persName key="amp_person_147" role="is_attendee_of">Windisch-Graetz, Eva</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_140" role="is_activeparticipant_in">
+                        <persName>Anne, Princess Royal</persName>
+                     </person>
+                     <person sameAs="amp_person_138" role="is_activeparticipant_in">
+                        <persName>Elizabeth II.,  Elizabeth of the United Kingdom</persName>
+                     </person>
+                     <person sameAs="amp_person_147" role="is_attendee_of">
+                        <persName>Windisch-Graetz, Eva</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
                <event xml:id="amp_event_id_8" notBefore-iso="1815-01-01" notAfter-iso="1848-12-31" type="historic">
@@ -166,442 +192,632 @@
                </event>
                <event xml:id="amp_event_id_9" notBefore-iso="1967-10-25" notAfter-iso="1967-10-25" type="professional">
                   <label>W. H. Auden's lecture "The Martyr as Dramatic Hero" 1967-10-25</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_15" role="is_passiveparticipant_in">Ramsey, Michael</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                     <persName key="amp_person_15" role="is_attendee_of">Ramsey, Michael</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_39">Canterbury</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.27904, 1.07992</geo>
-                     </location>
-                  </ab>
-                  <ab type="acting_organizations">
-                     <orgName key="amp_organization_57" role="is_host_of">Eliot College</orgName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_15" role="is_passiveparticipant_in">
+                        <persName>Ramsey, Michael</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_15" role="is_attendee_of">
+                        <persName>Ramsey, Michael</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_39">
+                        <placeName>Canterbury</placeName>
+                        <location type="coords">
+                           <geo>51.27904, 1.07992</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_57" role="is_host_of">
+                        <orgName>Eliot College</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_10" notBefore-iso="1968-02-12" notAfter-iso="1968-02-16" type="communicative" subtype="meeting">
                   <label>W. H. Auden's interview of Strobls 1968-02-12--1968-02-16</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_176" role="is_activeparticipant_in">Strobl, N/A_3</persName>
-                     <persName key="amp_person_32" role="is_activeparticipant_in">Strobl, Josefa</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_176" role="is_activeparticipant_in">
+                        <persName>Strobl, N/A_3</persName>
+                     </person>
+                     <person sameAs="amp_person_32" role="is_activeparticipant_in">
+                        <persName>Strobl, Josefa</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_14" notBefore-iso="1970-06-13" notAfter-iso="1970-06-13" type="personal">
                   <label>"Wedding near Krems" 1970-06-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_attendee_of">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_attendee_of">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_6">Lower Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.33333, 15.75</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_attendee_of">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_attendee_of">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_6">
+                        <placeName>Lower Austria</placeName>
+                        <location type="coords">
+                           <geo>48.33333, 15.75</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_16" notBefore-iso="1962-08-01" notAfter-iso="1962-08-31" type="communicative" subtype="meeting">
                   <label>Visit of Christiane Zimmer at Hinterholz 6 1962-08-01--1962-08-31</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_3" role="is_activeparticipant_in">Zimmer, Christiane</persName>
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_3" role="is_activeparticipant_in">
+                        <persName>Zimmer, Christiane</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_17" notBefore-iso="1962-10-20" notAfter-iso="1962-10-20" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_109" role="is_activeparticipant_in">Lustkandl, Franz</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_109" role="is_activeparticipant_in">
+                        <persName>Lustkandl, Franz</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_18" notBefore-iso="1973-09-28" notAfter-iso="1973-09-29" type="personal">
                   <label>Death W. H. Auden 1973-09-28--1973-09-29</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_225">Hotel "Altenburger Hof"</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20379, 16.37118</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_225">
+                        <placeName>Hotel "Altenburger Hof"</placeName>
+                        <location type="coords">
+                           <geo>48.20379, 16.37118</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_19" notBefore-iso="1973-10-04" type="personal">
                   <label>Funeral of W. H. Auden, 1973</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_156" role="is_activeparticipant_in">Duncan, Bruce</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_4" role="is_passiveparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_88" role="is_passiveparticipant_in">Auden, John Bicknell</persName>
-                     <persName key="amp_person_175" role="is_attendee_of">N/A_8,  "he whose name we never mention"</persName>
-                     <persName key="amp_person_96" role="is_passiveparticipant_in">Clark, Thekla</persName>
-                     <persName key="amp_person_169" role="is_passiveparticipant_in">Clark, Lisa</persName>
-                     <persName key="amp_person_97" role="is_passiveparticipant_in">Seitz, Maria</persName>
-                     <persName key="amp_person_87" role="is_passiveparticipant_in">Opel, Adolf</persName>
-                     <persName key="amp_person_22" role="is_attendee_of">Enzinger, Josef</persName>
-                     <persName key="amp_person_89" role="is_passiveparticipant_in">Luke, Frederic Davey [David]</persName>
-                     <persName key="amp_person_90" role="is_passiveparticipant_in">Orwell, Sonia</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_156" role="is_activeparticipant_in">
+                        <persName>Duncan, Bruce</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_88" role="is_passiveparticipant_in">
+                        <persName>Auden, John Bicknell</persName>
+                     </person>
+                     <person sameAs="amp_person_175" role="is_attendee_of">
+                        <persName>N/A_8,  "he whose name we never mention"</persName>
+                     </person>
+                     <person sameAs="amp_person_96" role="is_passiveparticipant_in">
+                        <persName>Clark, Thekla</persName>
+                     </person>
+                     <person sameAs="amp_person_169" role="is_passiveparticipant_in">
+                        <persName>Clark, Lisa</persName>
+                     </person>
+                     <person sameAs="amp_person_97" role="is_passiveparticipant_in">
+                        <persName>Seitz, Maria</persName>
+                     </person>
+                     <person sameAs="amp_person_87" role="is_passiveparticipant_in">
+                        <persName>Opel, Adolf</persName>
+                     </person>
+                     <person sameAs="amp_person_22" role="is_attendee_of">
+                        <persName>Enzinger, Josef</persName>
+                     </person>
+                     <person sameAs="amp_person_89" role="is_passiveparticipant_in">
+                        <persName>Luke, Frederic Davey [David]</persName>
+                     </person>
+                     <person sameAs="amp_person_90" role="is_passiveparticipant_in">
+                        <persName>Orwell, Sonia</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
                   <label>Symposium "W. H. Auden 1907-1973", 1984</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_99" role="is_activeparticipant_in">O'Sullivan, Michael</persName>
-                     <persName key="amp_person_8" role="is_activeparticipant_in">Spender, Stephen</persName>
-                     <persName key="amp_person_100" role="is_activeparticipant_in">Carpenter, Humphrey</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_99" role="is_activeparticipant_in">
+                        <persName>O'Sullivan, Michael</persName>
+                     </person>
+                     <person sameAs="amp_person_8" role="is_activeparticipant_in">
+                        <persName>Spender, Stephen</persName>
+                     </person>
+                     <person sameAs="amp_person_100" role="is_activeparticipant_in">
+                        <persName>Carpenter, Humphrey</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_22" notBefore-iso="1969-05-28" notAfter-iso="1969-05-28" type="communicative" subtype="meeting">
                   <label>Visit of Friedrich Heer and Stella Musulin at Hinterholz 6 1969-05-28</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_54" role="is_activeparticipant_in">Heer, Friedrich</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_54" role="is_activeparticipant_in">
+                        <persName>Heer, Friedrich</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" type="professional">
                   <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_137" role="is_activeparticipant_in">Kraus, Wolfgang</persName>
-                     <persName key="amp_person_2" role="is_speaker_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20644, 16.3678</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_137" role="is_activeparticipant_in">
+                        <persName>Kraus, Wolfgang</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_speaker_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_85">
+                        <placeName>Palais Pálffy</placeName>
+                        <location type="coords">
+                           <geo>48.20644, 16.3678</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_24" notBefore-iso="1957-01-01" notAfter-iso="1958-12-31" type="personal">
                   <label>Separation of Janko and Stella Musulin, 1958</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_167" role="is_activeparticipant_in">Musulin, Janko von</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_167" role="is_activeparticipant_in">
+                        <persName>Musulin, Janko von</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_25" type="professional">
                   <label>Reading W. H. Auden "Hier und Jetzt"</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20644, 16.3678</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_85">
+                        <placeName>Palais Pálffy</placeName>
+                        <location type="coords">
+                           <geo>48.20644, 16.3678</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_26" notBefore-iso="1964-10-15" notAfter-iso="1964-10-18" type="professional">
                   <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature", 1964</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_86">Budapest</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.49835, 19.04045</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_86">
+                        <placeName>Budapest</placeName>
+                        <location type="coords">
+                           <geo>47.49835, 19.04045</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_27" notBefore-iso="1964-10-01" notAfter-iso="1965-04-01" type="professional">
                   <label>W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_17">Berlin</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>52.52437, 13.41053</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_17">
+                        <placeName>Berlin</placeName>
+                        <location type="coords">
+                           <geo>52.52437, 13.41053</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" type="professional">
                   <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_listener_of">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_listener_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_30" notBefore-iso="1966-10-18" notAfter-iso="1966-10-18" type="professional">
                   <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_87">Westminster Abbey</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.49937, -0.12846</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_87">
+                        <placeName>Westminster Abbey</placeName>
+                        <location type="coords">
+                           <geo>51.49937, -0.12846</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_31" notBefore-iso="1967-04-24" notAfter-iso="1967-04-26" type="professional">
                   <label>Round table "Literatur als Tradition und Revolution", 1967</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_73" role="is_activeparticipant_in">Bondy, François</persName>
-                     <persName key="amp_person_72" role="is_activeparticipant_in">McCarthy, Mary</persName>
-                     <persName key="amp_person_74" role="is_activeparticipant_in">Etkind, Efim</persName>
-                     <persName key="amp_person_182" role="is_activeparticipant_in">N/A_11, "the square-headed commissar type from Moscow"</persName>
-                     <persName key="amp_person_75" role="is_activeparticipant_in">Reich-Ranicki, Marcel</persName>
-                     <persName key="amp_person_91" role="is_passiveparticipant_in">Toynbee, Philip</persName>
-                     <persName key="amp_person_4" role="is_passiveparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                     <persName key="amp_person_73" role="is_speaker_in">Bondy, François</persName>
-                     <persName key="amp_person_72" role="is_speaker_in">McCarthy, Mary</persName>
-                     <persName key="amp_person_74" role="is_speaker_in">Etkind, Efim</persName>
-                     <persName key="amp_person_182" role="is_speaker_in">N/A_11, "the square-headed commissar type from Moscow"</persName>
-                     <persName key="amp_person_75" role="is_speaker_in">Reich-Ranicki, Marcel</persName>
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_91" role="is_attendee_of">Toynbee, Philip</persName>
-                     <persName key="amp_person_4" role="is_attendee_of">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_85">Palais Pálffy</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20644, 16.3678</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_73" role="is_activeparticipant_in">
+                        <persName>Bondy, François</persName>
+                     </person>
+                     <person sameAs="amp_person_72" role="is_activeparticipant_in">
+                        <persName>McCarthy, Mary</persName>
+                     </person>
+                     <person sameAs="amp_person_74" role="is_activeparticipant_in">
+                        <persName>Etkind, Efim</persName>
+                     </person>
+                     <person sameAs="amp_person_182" role="is_activeparticipant_in">
+                        <persName>N/A_11, "the square-headed commissar type from Moscow"</persName>
+                     </person>
+                     <person sameAs="amp_person_75" role="is_activeparticipant_in">
+                        <persName>Reich-Ranicki, Marcel</persName>
+                     </person>
+                     <person sameAs="amp_person_91" role="is_passiveparticipant_in">
+                        <persName>Toynbee, Philip</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_73" role="is_speaker_in">
+                        <persName>Bondy, François</persName>
+                     </person>
+                     <person sameAs="amp_person_72" role="is_speaker_in">
+                        <persName>McCarthy, Mary</persName>
+                     </person>
+                     <person sameAs="amp_person_74" role="is_speaker_in">
+                        <persName>Etkind, Efim</persName>
+                     </person>
+                     <person sameAs="amp_person_182" role="is_speaker_in">
+                        <persName>N/A_11, "the square-headed commissar type from Moscow"</persName>
+                     </person>
+                     <person sameAs="amp_person_75" role="is_speaker_in">
+                        <persName>Reich-Ranicki, Marcel</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_91" role="is_attendee_of">
+                        <persName>Toynbee, Philip</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_attendee_of">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_85">
+                        <placeName>Palais Pálffy</placeName>
+                        <location type="coords">
+                           <geo>48.20644, 16.3678</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" type="professional">
                   <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_37">Salzburg</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.79941, 13.04399</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_37">
+                        <placeName>Salzburg</placeName>
+                        <location type="coords">
+                           <geo>47.79941, 13.04399</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_34" type="personal">
                   <label>W. H. Auden's car accident in Kirchstetten</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_36" notBefore-iso="1962-10-01" notAfter-iso="1962-10-31" type="personal">
                   <label>Arrest and court trial of Hugo K., 1962</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_107" role="is_activeparticipant_in">K., Hugo</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>K., Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_37" notBefore-iso="1970-06-14" notAfter-iso="1970-06-14" type="professional">
                   <label>Lyrik 70 poetry convention 1970-06-14</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_112" role="is_attendee_of">Maurer, Andreas</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_47">Neulengbach</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.19745, 15.90219</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_112" role="is_attendee_of">
+                        <persName>Maurer, Andreas</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_47">
+                        <placeName>Neulengbach</placeName>
+                        <location type="coords">
+                           <geo>48.19745, 15.90219</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124289732</idno>
                </event>
                <event xml:id="amp_event_id_38" notBefore-iso="1965-12-21" notAfter-iso="1966-02-03" type="personal">
                   <label>Party at Chester Kallman's apartment in Eslarngasse 1965-12-21--1966-02-03</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_175" role="is_attendee_of">N/A_8,  "he whose name we never mention"</persName>
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_71">Eslarngasse</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.19499, 16.39375</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_175" role="is_attendee_of">
+                        <persName>N/A_8,  "he whose name we never mention"</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_71">
+                        <placeName>Eslarngasse</placeName>
+                        <location type="coords">
+                           <geo>48.19499, 16.39375</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_40" notBefore-iso="1973-09-30" type="personal">
                   <label>Preparation of W. H. Auden's funeral, 1973</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_22" role="is_activeparticipant_in">Enzinger, Josef</persName>
-                     <persName key="amp_person_32" role="is_activeparticipant_in">Strobl, Josefa</persName>
-                     <persName key="amp_person_87" role="is_activeparticipant_in">Opel, Adolf</persName>
-                     <persName key="amp_person_96" role="is_activeparticipant_in">Clark, Thekla</persName>
-                     <persName key="amp_person_97" role="is_activeparticipant_in">Seitz, Maria</persName>
-                     <persName key="amp_person_169" role="is_activeparticipant_in">Clark, Lisa</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_22" role="is_activeparticipant_in">
+                        <persName>Enzinger, Josef</persName>
+                     </person>
+                     <person sameAs="amp_person_32" role="is_activeparticipant_in">
+                        <persName>Strobl, Josefa</persName>
+                     </person>
+                     <person sameAs="amp_person_87" role="is_activeparticipant_in">
+                        <persName>Opel, Adolf</persName>
+                     </person>
+                     <person sameAs="amp_person_96" role="is_activeparticipant_in">
+                        <persName>Clark, Thekla</persName>
+                     </person>
+                     <person sameAs="amp_person_97" role="is_activeparticipant_in">
+                        <persName>Seitz, Maria</persName>
+                     </person>
+                     <person sameAs="amp_person_169" role="is_activeparticipant_in">
+                        <persName>Clark, Lisa</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_42" notBefore-iso="1968-01-05" notAfter-iso="1968-08-21" type="historic">
                   <label>Prague Spring, 1968</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_171" role="is_activeparticipant_in">Langer, N/A_5</persName>
-                     <persName key="amp_person_155" role="is_activeparticipant_in">Langer, N/A_4</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_100">Czechoslovakia</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>50.08292, 14.46672</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_171" role="is_activeparticipant_in">
+                        <persName>Langer, N/A_5</persName>
+                     </person>
+                     <person sameAs="amp_person_155" role="is_activeparticipant_in">
+                        <persName>Langer, N/A_4</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_100">
+                        <placeName>Czechoslovakia</placeName>
+                        <location type="coords">
+                           <geo>50.08292, 14.46672</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
                <event xml:id="amp_event_id_43" notBefore-iso="1972-04-15" notAfter-iso="1972-09-30" type="personal">
                   <label>Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
                   <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" type="professional">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
                   <label>Vietnam war, 1955-1975</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_236">Vietnam</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>16.16667, 107.83333</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_236">
+                        <placeName>Vietnam</placeName>
+                        <location type="coords">
+                           <geo>16.16667, 107.83333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
                <event xml:id="amp_event_id_48" notBefore-iso="1968-01-20" notAfter-iso="1968-01-23" type="historic">
@@ -610,31 +826,33 @@
                </event>
                <event xml:id="amp_event_id_49" notBefore-iso="1965-10-30" notAfter-iso="1965-10-30" type="historic">
                   <label>Commemorative event Josef Weinheber’s death, 1965</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_200" role="is_activeparticipant_in">Seitz, Josef</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_200" role="is_activeparticipant_in">
+                        <persName>Seitz, Josef</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_51" type="personal">
                   <label>Death of Josef Eiermann</label>
                </event>
                <event xml:id="amp_event_id_52" notBefore-iso="1945-01-01" notAfter-iso="1948-01-01" type="historic">
                   <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_100">Czechoslovakia</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>50.08292, 14.46672</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_100">
+                        <placeName>Czechoslovakia</placeName>
+                        <location type="coords">
+                           <geo>50.08292, 14.46672</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                </event>
                <event xml:id="amp_event_id_53" notBefore-iso="1914-07-28" notAfter-iso="1918-11-11" type="historic">
@@ -647,695 +865,877 @@
                </event>
                <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
                   <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
                </event>
                <event xml:id="amp_event_id_56" type="recurrent">
                   <label>Salzburg Festival</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_37">Salzburg</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.79941, 13.04399</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_37">
+                        <placeName>Salzburg</placeName>
+                        <location type="coords">
+                           <geo>47.79941, 13.04399</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57" type="personal">
                   <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_3" role="is_activeparticipant_in">Zimmer, Christiane</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_3" role="is_activeparticipant_in">
+                        <persName>Zimmer, Christiane</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" type="professional">
                   <label>Austrian TV broadcast of "Inzwischen", 1967</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_59" notBefore-iso="1951-03-28" notAfter-iso="1951-03-31" type="professional">
                   <label>First Asian Conference on Cultural Freedom, 1951</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_274">Mumbai</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>19.07283, 72.88261</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_274">
+                        <placeName>Mumbai</placeName>
+                        <location type="coords">
+                           <geo>19.07283, 72.88261</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_60" type="professional">
                   <label>W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor, 1941-1942</label>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_298">Ann Arbor</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>42.27756, -83.74088</geo>
-                     </location>
-                  </ab>
+                  <listPlace>
+                     <place sameAs="amp_place_id_298">
+                        <placeName>Ann Arbor</placeName>
+                        <location type="coords">
+                           <geo>42.27756, -83.74088</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_61" notBefore-iso="1959-10-05" notAfter-iso="1959-10-05" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1959-10-05</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_62" notBefore-iso="1959-10-10" notAfter-iso="1960-07-21" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_63" notBefore-iso="1960-07-23" notAfter-iso="1960-07-23" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_64" notBefore-iso="1961-10-19" notAfter-iso="1965-08-19" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_315">"your place" (amp-transcript__0058.xml)</placeName>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_315">
+                        <placeName>"your place" (amp-transcript__0058.xml)</placeName>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_65" notBefore-iso="1961-08-16" notAfter-iso="1961-10-13" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_66" notBefore-iso="1962-05-23" notAfter-iso="1962-05-23" type="professional">
                   <label>Reading Christine Busta "Meine Hinterhöfe" 1962-05-23</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_204" role="is_speaker_in">Busta-Dimt, Christine</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_passiveparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_204" role="is_activeparticipant_in">Busta-Dimt, Christine</persName>
-                     <persName key="amp_person_1" role="is_attendee_of">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_attendee_of">Kallman, Chester</persName>
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_204" role="is_speaker_in">
+                        <persName>Busta-Dimt, Christine</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_204" role="is_activeparticipant_in">
+                        <persName>Busta-Dimt, Christine</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_attendee_of">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_attendee_of">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_67" notBefore-iso="1958-01-01" notAfter-iso="1959-12-31" type="communicative" subtype="meeting">
                   <label>Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_204" role="is_activeparticipant_in">Busta-Dimt, Christine</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_301">Café Drei Viertel</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.42738, 14.02492</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_204" role="is_activeparticipant_in">
+                        <persName>Busta-Dimt, Christine</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_301">
+                        <placeName>Café Drei Viertel</placeName>
+                        <location type="coords">
+                           <geo>47.42738, 14.02492</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_68" notBefore-iso="1962-07-23" notAfter-iso="1962-09-11" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_69" notBefore-iso="1963-05-12" notAfter-iso="1963-05-17" type="professional">
                   <label>International Rudolf Kassner Symposium 1963-05-12--1963-05-17</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_1" role="is_speaker_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_177">Palais Wilczek</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20882, 16.36624</geo>
-                     </location>
-                  </ab>
-                  <ab type="acting_organizations">
-                     <orgName key="amp_organization_9" role="is_organizer_of">Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_177">
+                        <placeName>Palais Wilczek</placeName>
+                        <location type="coords">
+                           <geo>48.20882, 16.36624</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_9" role="is_organizer_of">
+                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_70" notBefore-iso="1964-09-01" notAfter-iso="1964-12-23" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_19">Hubertusbader Straße 43</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>52.47901, 13.27565</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_19">
+                        <placeName>Hubertusbader Straße 43</placeName>
+                        <location type="coords">
+                           <geo>52.47901, 13.27565</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_71" notBefore-iso="1963-05-13" notAfter-iso="1963-05-13" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1963-05-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_72" notBefore-iso="1965-03-15" notAfter-iso="1965-04-28" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_73" notBefore-iso="1965-04-28" notAfter-iso="1965-04-28" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1965-04-28</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
                </event>
                <event xml:id="amp_event_id_74" notBefore-iso="1965-04-28" notAfter-iso="1965-09-29" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_75" notBefore-iso="1965-10-05" notAfter-iso="1965-10-05" type="professional">
                   <label>Reception Amerikahaus Vienna (1957-1971) 1965-10-05</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_attendee_of">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20227, 16.36881</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_attendee_of">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_27">
+                        <placeName>Amerikahaus Vienna (1957-1971)</placeName>
+                        <location type="coords">
+                           <geo>48.20227, 16.36881</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_76" notBefore-iso="1965-09-29" notAfter-iso="1966-02-03" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.72839, -73.98359</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_29">
+                        <placeName>77 St. Mark's Place</placeName>
+                        <location type="coords">
+                           <geo>40.72839, -73.98359</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_77" notBefore-iso="1965-09-29" notAfter-iso="1966-02-03" type="communicative" subtype="telegram">
                   <label>Telegram Harrison 1965-09-29--1966-02-03</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_108" role="is_activeparticipant_in">N/A_2, Harrison</persName>
-                     <persName key="amp_person_4" role="is_passiveparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_108" role="is_activeparticipant_in">
+                        <persName>N/A_2, Harrison</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_78" notBefore-iso="1968-09-29" notAfter-iso="1968-09-29" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_79" notBefore-iso="1968-10-05" notAfter-iso="1968-10-05" type="communicative" subtype="telegram">
                   <label>Telegram Stella Musulin to W. H. Auden 1968-10-05</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_80" notBefore-iso="1968-10-05" notAfter-iso="1968-10-05" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1968-10-05</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.19947, 16.38809</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_11">
+                        <placeName>Neulinggasse 26</placeName>
+                        <location type="coords">
+                           <geo>48.19947, 16.38809</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_81" notBefore-iso="1968-10-06" notAfter-iso="1968-10-06" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1968-10-06</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_11">Neulinggasse 26</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.19947, 16.38809</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_11">
+                        <placeName>Neulinggasse 26</placeName>
+                        <location type="coords">
+                           <geo>48.19947, 16.38809</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_82" notBefore-iso="1968-02-12" notAfter-iso="1968-02-12" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Vienna from New York City 1968-02-12</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_1">Vienna</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20849, 16.37208</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_83" notBefore-iso="1968-10-07" notAfter-iso="1968-10-07" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to England from Austria 1968-10-07</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_84" notBefore-iso="1963-05-14" notAfter-iso="1963-05-14" type="personal" subtype="travel">
                   <label>Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_85" notBefore-iso="1965-04-22" notAfter-iso="1965-04-22" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_86" notBefore-iso="1966-04-20" notAfter-iso="1966-04-20" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_5">Kirchstetten</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18333, 15.81667</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_87" notBefore-iso="1968-10-14" notAfter-iso="1968-10-14" type="personal" subtype="travel">
                   <label>Arrival W. H. Auden in London from Oxford 1968-10-14</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_56">London</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.50853, -0.12574</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_88" notBefore-iso="1968-10-12" notAfter-iso="1968-10-15" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.51954, -0.16167</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_45">
+                        <placeName>32 Bryanston Square</placeName>
+                        <location type="coords">
+                           <geo>51.51954, -0.16167</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_89" notBefore-iso="1968-10-31" notAfter-iso="1968-10-31" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to New York City from London 1968-10-31</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_56">London</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.50853, -0.12574</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_90" notBefore-iso="1968-10-15" notAfter-iso="1968-10-24" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_45">32 Bryanston Square</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.51954, -0.16167</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_45">
+                        <placeName>32 Bryanston Square</placeName>
+                        <location type="coords">
+                           <geo>51.51954, -0.16167</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_91" notBefore-iso="1968-10-24" notAfter-iso="1968-11-06" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.72839, -73.98359</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_29">
+                        <placeName>77 St. Mark's Place</placeName>
+                        <location type="coords">
+                           <geo>40.72839, -73.98359</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_92" notBefore-iso="1968-12-13" notAfter-iso="1968-12-13" type="communicative" subtype="telephone">
                   <label>Telephone call Chester Kallman to W. H. Auden 1968-12-13</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.72839, -73.98359</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_29">
+                        <placeName>77 St. Mark's Place</placeName>
+                        <location type="coords">
+                           <geo>40.72839, -73.98359</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_93" notBefore-iso="1968-12-29" notAfter-iso="1969-01-04" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.72839, -73.98359</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_29">
+                        <placeName>77 St. Mark's Place</placeName>
+                        <location type="coords">
+                           <geo>40.72839, -73.98359</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_94" notBefore-iso="1969-01-04" notAfter-iso="1969-05-21" type="communicative" subtype="postcard">
                   <label>Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_95" notBefore-iso="1969-01-04" notAfter-iso="1969-05-21" type="communicative" subtype="telephone">
                   <label>Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_passiveparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_96" notBefore-iso="1969-05-06" notAfter-iso="1969-05-06" type="historic">
                   <label>Opera performance "Die Fledermaus" Vienna State Opera 1969-05-06</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_attendee_of">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_138" role="is_attendee_of">Elizabeth II.,  Elizabeth of the United Kingdom</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_157">Vienna State Opera</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.20323, 16.36912</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_attendee_of">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_138" role="is_attendee_of">
+                        <persName>Elizabeth II.,  Elizabeth of the United Kingdom</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_157">
+                        <placeName>Vienna State Opera</placeName>
+                        <location type="coords">
+                           <geo>48.20323, 16.36912</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_97" notBefore-iso="1969-06-14" notAfter-iso="1969-06-14" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1969-06-14</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_98" notBefore-iso="1970-05-21" notAfter-iso="1970-06-10" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_99" notBefore-iso="1970-09-22" notAfter-iso="1970-09-22" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_225" role="is_activeparticipant_in">Lloyd-Philipps, Margaret Elinor</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_2">Hinterholz 6</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18153, 15.81151</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_225" role="is_activeparticipant_in">
+                        <persName>Lloyd-Philipps, Margaret Elinor</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_100" notBefore-iso="1971-05-15" notAfter-iso="1971-05-15" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                     <persName key="amp_person_4" role="is_activeparticipant_in">Kallman, Chester</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_10">Austria</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>47.33333, 13.33333</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_101" notBefore-iso="1971-11-01" notAfter-iso="1971-11-01" type="personal" subtype="travel">
                   <label>Departure W. H. Auden to New York City from London 1971-11-01</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_56">London</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>51.50853, -0.12574</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_102" notBefore-iso="1971-10-19" notAfter-iso="1972-02-22" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_passiveparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_2" role="is_activeparticipant_in">Musulin, Stella Mary Bellairs</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_29">77 St. Mark's Place</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>40.72839, -73.98359</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_29">
+                        <placeName>77 St. Mark's Place</placeName>
+                        <location type="coords">
+                           <geo>40.72839, -73.98359</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_103" notBefore-iso="1969-05-05" notAfter-iso="1969-05-05" type="historic">
                   <label>Gala dinner Schönbrunn Palace 1969-05-05</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_138" role="is_attendee_of">Elizabeth II.,  Elizabeth of the United Kingdom</persName>
-                  </ab>
-                  <ab type="location">
-                     <location type="located_in_place">
-                        <placeName key="amp_place_id_82">Schloss Schönbrunn</placeName>
-                     </location>
-                     <location type="coords">
-                        <geo>48.18494, 16.31229</geo>
-                     </location>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_138" role="is_attendee_of">
+                        <persName>Elizabeth II.,  Elizabeth of the United Kingdom</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_82">
+                        <placeName>Schloss Schönbrunn</placeName>
+                        <location type="coords">
+                           <geo>48.18494, 16.31229</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
                <event xml:id="amp_event_id_104" notBefore-iso="1969-03-01" notAfter-iso="1969-03-01" type="communicative" subtype="letter">
                   <label>Letter W. H. Auden to Elizabeth Mayer 1965-03-01</label>
-                  <ab type="acting_persons">
-                     <persName key="amp_person_1" role="is_activeparticipant_in">Auden, W. H.</persName>
-                     <persName key="amp_person_157" role="is_passiveparticipant_in">Mayer, Elizabeth</persName>
-                  </ab>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_157" role="is_passiveparticipant_in">
+                        <persName>Mayer, Elizabeth</persName>
+                     </person>
+                  </listPerson>
                </event>
             </listEvent>
          </div>
