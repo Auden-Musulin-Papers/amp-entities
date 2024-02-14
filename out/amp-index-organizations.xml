@@ -800,12 +800,6 @@
                <org xml:id="amp_organization_72">
                   <orgName>Postamt Oberndorf an der Melk (post office Oberndorf an der Melk)</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_6">Lower Austria</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.33333, 15.75</geo>
-                  </location>
-                  <location type="located_in_place">
                      <placeName key="amp_place_id_311">Oberndorf an der Melk</placeName>
                   </location>
                   <location type="coords">
@@ -875,24 +869,6 @@
                   <location type="coords">
                      <geo>52.52437, 13.41053</geo>
                   </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_18">Dahlem</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>52.4581, 13.28702</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_312">Grunewald</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>52.48338, 13.26586</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_313">Schmargendorf</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>52.47517, 13.29071</geo>
-                  </location>
                   <note/>
                </org>
                <org xml:id="amp_organization_79">
@@ -913,12 +889,6 @@
                   </location>
                   <location type="coords">
                      <geo>51.50853, -0.12574</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>54.75844, -2.69531</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1325334</idno>
                   <note/>
@@ -946,12 +916,6 @@
                <org xml:id="amp_organization_83">
                   <orgName>St John's Wood district office</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_56">London</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>51.50853, -0.12574</geo>
-                  </location>
-                  <location type="located_in_place">
                      <placeName key="amp_place_id_272">St John's Wood</placeName>
                   </location>
                   <location type="coords">
@@ -963,12 +927,6 @@
                   <orgName>United States Post Office Department</orgName>
                   <desc>Was founded in year 1792.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_15">United States of America</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>39.76, -98.5</geo>
-                  </location>
-                  <location type="located_in_place">
                      <placeName key="amp_place_id_306">Washington, D.C.</placeName>
                   </location>
                   <location type="coords">
@@ -979,12 +937,6 @@
                </org>
                <org xml:id="amp_organization_85">
                   <orgName>United States General Post Office</orgName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_28">New York City</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>40.71427, -74.00597</geo>
-                  </location>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_168">Manhattan</placeName>
                   </location>
@@ -1002,12 +954,6 @@
                   </location>
                   <location type="coords">
                      <geo>48.20227, 16.36881</geo>
-                  </location>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_306">Washington, D.C.</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>38.89511, -77.03637</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q467942</idno>
                   <note/>
