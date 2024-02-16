@@ -2402,6 +2402,12 @@
                         <placeName>Magdeburg</placeName>
                      </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="2024-01-30">2024-01-30</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119289075</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q104573</idno>
                </person>
