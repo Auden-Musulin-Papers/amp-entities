@@ -60,7 +60,7 @@
             <listOrg xml:id="listorg">
             {% for x in objects %}
                <org xml:id="{{ x.amp_id }}">
-                  <orgName>{{ x.name|replace('&', '&amp;') }}</orgName>
+                  <orgName>{{ x.name }}</orgName>
                   {% if x.founded_in_year is string %}
                   <desc>Was founded in year {{ x.founded_in_year }}.</desc>
                   {% endif %}

@@ -60,7 +60,7 @@
             <listEvent xml:id="listevent">
             {% for x in objects %}
                <event xml:id="{{ x.amp_id }}"{% if x.start_date %} notBefore-iso="{{ x.start_date }}"{% endif%}{% if x.end_date %} notAfter-iso="{{ x.end_date }}"{% endif%}{% if x.has_type %} type="{{ x.has_type[0].value }}"{% endif%}{% if x.has_sub_type %} subtype="{{ x.has_sub_type.value }}"{% endif%}>
-                  <label>{{ x.name|replace('&', '&amp;') }}</label>
+                  <label>{{ x.name }}</label>
                   {% if x.person_event|length > 0 %}
                   <listPerson>
                      {% for p in x.person_event if p.data %}
