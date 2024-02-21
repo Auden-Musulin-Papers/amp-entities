@@ -72,7 +72,7 @@
                   <death>
                      <date when-iso="1973-09-29">1973-09-29</date>
                      <settlement key="amp_place_id_225">
-                        <placeName>Hotel "Altenburger Hof"</placeName>
+                        <placeName>Hotel Altenburgerhof</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118650963</idno>
@@ -331,6 +331,7 @@
                   <listBibl>
                      <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
                      <bibl n="lit_work_id_157">Seriously Unserious</bibl>
+                     <bibl n="lit_work_id_177">The Truly Great</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_9">
@@ -486,6 +487,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594117</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_176">Götterdämmerung: Siegfried's Death &amp; Funeral March</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_19">
                   <persName>
@@ -4037,6 +4041,12 @@
                   <listBibl>
                      <bibl n="lit_work_id_172">Retrospectives and Conclusions</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="amp_person_240">
+                  <persName>
+                     <forename>Christa</forename>
+                     <surname>K.</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

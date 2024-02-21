@@ -1375,7 +1375,8 @@
                      <geo>48.203, 16.368</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12504035/</idno>
-                  <note>It does not exist anymore; the photos from our archive indicate the location</note>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124625367</idno>
+                  <note>Telephone book "Herold" indicates that the address is "Operngasse 8"</note>
                </place>
                <place xml:id="amp_place_id_93">
                   <settlement type="A">
@@ -3340,7 +3341,7 @@
                </place>
                <place xml:id="amp_place_id_225">
                   <settlement type="S">
-                     <placeName>Hotel "Altenburger Hof"</placeName>
+                     <placeName>Hotel Altenburgerhof</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -4476,17 +4477,16 @@
                </place>
                <place xml:id="amp_place_id_301">
                   <settlement type="A">
-                     <placeName>Café Drei Viertel</placeName>
+                     <placeName>Kaffee 3/4</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
-                  <location type="coords">
-                     <geo>47.42738, 14.02492</geo>
-                  </location>
-                  <note/>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12746601/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124625333</idno>
+                  <note>Telephone book "Herold" 1960, p. 555, Neubaug. 81</note>
                </place>
                <place xml:id="amp_place_id_302">
                   <settlement type="P">
@@ -4823,6 +4823,15 @@
                   <placeName>Gulf Stream, Florida</placeName>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4157680/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1866968</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_331">
+                  <placeName>Poet's Corner</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_87">Westminster Abbey</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12746554/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1275898</idno>
                   <note/>
                </place>
             </listPlace>
