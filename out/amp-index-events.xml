@@ -321,8 +321,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_19" notBefore-iso="1973-10-04" type="personal">
-                  <label>Funeral of W. H. Auden, 1973</label>
+               <event xml:id="amp_event_id_19" notBefore-iso="1973-10-04" notAfter-iso="1973-10-04" type="personal">
+                  <label>Funeral of W. H. Auden, 1973-10-04</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_attendee_of">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -333,37 +333,46 @@
                      <person sameAs="amp_person_156" role="is_activeparticipant_in">
                         <persName>Duncan, Bruce</persName>
                      </person>
-                     <person sameAs="amp_person_2" role="is_passiveparticipant_in">
-                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     <person sameAs="amp_person_93" role="is_attendee_of">
+                        <persName>Musulin, Elsa Gerda Maria Louise Pauline von</persName>
                      </person>
-                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_4" role="is_attendee_of">
                         <persName>Kallman, Chester</persName>
                      </person>
-                     <person sameAs="amp_person_88" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_88" role="is_attendee_of">
                         <persName>Auden, John Bicknell</persName>
+                     </person>
+                     <person sameAs="amp_person_230" role="is_activeparticipant_in">
+                        <persName>Schickelgruber, Anton</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_attendee_of">
+                        <persName>K., Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_240" role="is_attendee_of">
+                        <persName>K., Christa</persName>
                      </person>
                      <person sameAs="amp_person_175" role="is_attendee_of">
                         <persName>N/A_8,  "he whose name we never mention"</persName>
                      </person>
-                     <person sameAs="amp_person_96" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_96" role="is_attendee_of">
                         <persName>Clark, Thekla</persName>
                      </person>
-                     <person sameAs="amp_person_169" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_169" role="is_attendee_of">
                         <persName>Clark, Lisa</persName>
                      </person>
-                     <person sameAs="amp_person_97" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_97" role="is_attendee_of">
                         <persName>Seitz, Maria</persName>
                      </person>
-                     <person sameAs="amp_person_87" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_87" role="is_attendee_of">
                         <persName>Opel, Adolf</persName>
                      </person>
                      <person sameAs="amp_person_22" role="is_attendee_of">
                         <persName>Enzinger, Josef</persName>
                      </person>
-                     <person sameAs="amp_person_89" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_89" role="is_attendee_of">
                         <persName>Luke, Frederic Davey [David]</persName>
                      </person>
-                     <person sameAs="amp_person_90" role="is_passiveparticipant_in">
+                     <person sameAs="amp_person_90" role="is_attendee_of">
                         <persName>Orwell, Sonia</persName>
                      </person>
                   </listPerson>
@@ -377,7 +386,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
-                  <label>Symposium "W. H. Auden 1907-1973", 1984</label>
+                  <label>Symposium "W. H. Auden 1907-1973", 1984-10-11--1984-10-13</label>
                   <listPerson>
                      <person sameAs="amp_person_99" role="is_activeparticipant_in">
                         <persName>O'Sullivan, Michael</persName>
@@ -423,8 +432,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" type="professional">
-                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977</label>
+               <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" notAfter-iso="1977-05-05" type="professional">
+                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977-05-05</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_activeparticipant_in">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -613,8 +622,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" type="professional">
-                  <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968</label>
+               <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" notAfter-iso="1968-07-25" type="professional">
+                  <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele", 1968-07-25</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -787,7 +796,7 @@
                   </listPerson>
                </event>
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
-                  <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972</label>
+                  <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972-06-21--1972-09-19</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -797,8 +806,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" type="professional">
-                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966</label>
+               <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" notAfter-iso="1966-10-25" type="professional">
+                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966-10-25</label>
                   <listPlace>
                      <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
