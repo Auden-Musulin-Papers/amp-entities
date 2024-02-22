@@ -58,7 +58,7 @@
       <body>
          <listBibl>
          {% for x in objects %}
-            <bibl xml:id="{{ x.lit_work_id }}">
+            <bibl xml:id="{{ x.lit_work_id }}" {% if x.type|length > 0 %}type="{{ x.type[0].value }}"{% endif %}>
                <title>{{ x.name }}</title>
                {% if x.is_written_by|length > 0 %}
                {% for p in x.is_written_by if p.data %}
