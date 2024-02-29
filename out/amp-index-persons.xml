@@ -459,6 +459,12 @@
                      <forename>Emma</forename>
                      <surname>Eiermann</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1895-07-19">1895-07-19</date>
+                     <settlement key="amp_place_id_333">
+                        <placeName>Reichenau</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1967-11-04">1967-11-04</date>
                   </death>
@@ -468,6 +474,15 @@
                      <forename>Josef</forename>
                      <surname>Eiermann</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1885-08-05">1885-08-05</date>
+                     <settlement key="amp_place_id_333">
+                        <placeName>Reichenau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1964-02-21">1964-02-21</date>
+                  </death>
                </person>
                <person xml:id="amp_person_18">
                   <persName>
@@ -728,6 +743,12 @@
                      <forename>Josefa</forename>
                      <surname>Strobl</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1916-12-12">1916-12-12</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1984-12-22">1984-12-22</date>
+                  </death>
                </person>
                <person xml:id="amp_person_33">
                   <persName>
@@ -3115,9 +3136,15 @@
                </person>
                <person xml:id="amp_person_176">
                   <persName>
-                     <forename>N/A_3</forename>
+                     <forename>Franz</forename>
                      <surname>Strobl</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1919-12-15">1919-12-15</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1974-06-24">1974-06-24</date>
+                  </death>
                </person>
                <person xml:id="amp_person_177">
                   <persName>
