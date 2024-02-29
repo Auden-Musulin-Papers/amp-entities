@@ -3141,9 +3141,15 @@
                   </persName>
                   <birth>
                      <date when-iso="1919-12-15">1919-12-15</date>
+                     <settlement key="amp_place_id_335">
+                        <placeName>Höbersdorf</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1974-06-24">1974-06-24</date>
+                     <settlement key="amp_place_id_9">
+                        <placeName>St. Pölten</placeName>
+                     </settlement>
                   </death>
                </person>
                <person xml:id="amp_person_177">
