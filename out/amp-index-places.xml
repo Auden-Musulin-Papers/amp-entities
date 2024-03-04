@@ -2578,7 +2578,6 @@
                      <geo>53.33991, -6.25622</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12504004/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3558242</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_174">
@@ -2637,7 +2636,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_211">Herrengasse 5</placeName>
+                     <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.20882, 16.36624</geo>
@@ -2664,23 +2663,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4369637-5</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_179">
-                  <settlement type="P">
-                     <placeName>Kildare</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>IE, Ireland</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_249">Ireland</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>53.15611, -6.91444</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2963436/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q917865</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4468788-6</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_180">
                   <settlement type="P">
                      <placeName>Ardmore</placeName>
@@ -2693,8 +2675,8 @@
                   <location type="coords">
                      <geo>54.19782, -10.01265</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9805174/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q482369</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2966911/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q639614</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_181">
@@ -2916,7 +2898,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>52.15492, 1.60215</geo>
@@ -2939,7 +2921,7 @@
                      <geo>46.8289, 12.76903</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2772505/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21881853</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q336250</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035690-5</idno>
                   <note/>
                </place>
@@ -3154,23 +3136,6 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/5141508/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3452563</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_211">
-                  <settlement type="S">
-                     <placeName>Herrengasse 5</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20878, 16.36615</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12503987/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q697103</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4802115-5</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_213">
@@ -4265,12 +4230,12 @@
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.66685, -0.61405</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7298769/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2657356/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q470188</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/62901-7</idno>
                   <note/>
@@ -4852,6 +4817,25 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2776148/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1643181</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4801153-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_336">
+                  <placeName>Ollersbach</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2769439/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q47468305</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4800205-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_337">
+                  <placeName>Frieth</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_239">England</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9538955/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5504468</idno>
                   <note/>
                </place>
             </listPlace>

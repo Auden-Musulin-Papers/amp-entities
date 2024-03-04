@@ -386,7 +386,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
-                  <label>Symposium "W. H. Auden 1907-1973", 1984-10-11--1984-10-13</label>
+                  <label>Symposium "W. H. Auden 1907-1973" 1984-10-11--1984-10-13</label>
                   <listPerson>
                      <person sameAs="amp_person_99" role="is_activeparticipant_in">
                         <persName>O'Sullivan, Michael</persName>
@@ -406,6 +406,11 @@
                         </location>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_60" role="is_host_of">
+                        <orgName>Künstlerhaus Wien</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_22" notBefore-iso="1969-05-28" notAfter-iso="1969-05-28" type="communicative" subtype="meeting">
                   <label>Visit of Friedrich Heer and Stella Musulin at Hinterholz 6 1969-05-28</label>
@@ -433,11 +438,8 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" notAfter-iso="1977-05-05" type="professional">
-                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977-05-05</label>
+                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher" 1977-05-05</label>
                   <listPerson>
-                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
-                        <persName>Musulin, Stella Mary Bellairs</persName>
-                     </person>
                      <person sameAs="amp_person_137" role="is_activeparticipant_in">
                         <persName>Kraus, Wolfgang</persName>
                      </person>
@@ -453,6 +455,14 @@
                         </location>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_9" role="is_organizer_of">
+                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                     </org>
+                     <org sameAs="amp_organization_9" role="is_host_of">
+                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_24" notBefore-iso="1957-01-01" notAfter-iso="1958-12-31" type="personal">
                   <label>Separation of Janko and Stella Musulin, 1958</label>

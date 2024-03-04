@@ -2303,9 +2303,6 @@
                   </persName>
                   <birth>
                      <date when-iso="1904-07-20">1904-07-20</date>
-                     <settlement key="amp_place_id_179">
-                        <placeName>Kildare</placeName>
-                     </settlement>
                      <settlement key="amp_place_id_278">
                         <placeName>Newbridge</placeName>
                      </settlement>
@@ -2564,7 +2561,7 @@
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118515527</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150767</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q150767</idno>
                   <listBibl>
                      <bibl n="lit_work_id_121">Night Mail</bibl>
                      <bibl n="lit_work_id_122">Coal Face</bibl>
@@ -3578,14 +3575,14 @@
                   </persName>
                   <birth>
                      <date when-iso="1906-10-18">1906-10-18</date>
-                     <settlement key="amp_place_id_287">
-                        <placeName>Amersham</placeName>
+                     <settlement key="amp_place_id_204">
+                        <placeName>Edinburgh</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date when-iso="1987-04-02">1987-04-02</date>
-                     <settlement key="amp_place_id_204">
-                        <placeName>Edinburgh</placeName>
+                     <settlement key="amp_place_id_287">
+                        <placeName>Amersham</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/134067584</idno>
@@ -3596,7 +3593,7 @@
                </person>
                <person xml:id="amp_person_210">
                   <persName>
-                     <forename>Basil</forename>
+                     <forename>Basil Charles</forename>
                      <surname>Wright</surname>
                   </persName>
                   <birth>
@@ -3607,8 +3604,8 @@
                   </birth>
                   <death>
                      <date when-iso="1987-10-14">1987-10-14</date>
-                     <settlement key="amp_place_id_56">
-                        <placeName>London</placeName>
+                     <settlement key="amp_place_id_337">
+                        <placeName>Frieth</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/134067606</idno>
