@@ -487,7 +487,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_26" notBefore-iso="1964-10-15" notAfter-iso="1964-10-18" type="professional">
-                  <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature", 1964</label>
+                  <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature" 1964-10-15--1964-10-18</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -521,8 +521,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" type="professional">
-                  <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
+               <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" notAfter-iso="1965-05-24" type="professional">
+                  <label>W. H. Auden's talk "T. S. Eliot" 1965-05-24</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -547,11 +547,8 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_30" notBefore-iso="1966-10-18" notAfter-iso="1966-10-18" type="professional">
-                  <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
+                  <label>W. H. Auden's sermon at Westminster Abbey 1966-10-18</label>
                   <listPerson>
-                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
-                        <persName>Auden, W. H.</persName>
-                     </person>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
                      </person>
@@ -566,7 +563,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_31" notBefore-iso="1967-04-24" notAfter-iso="1967-04-26" type="professional">
-                  <label>Round table "Literatur als Tradition und Revolution", 1967</label>
+                  <label>Round table "Literatur als Tradition und Revolution" 1967-04-24--1967-04-26</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_passiveparticipant_in">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -772,7 +769,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_42" notBefore-iso="1968-01-05" notAfter-iso="1968-08-21" type="historic">
-                  <label>Prague Spring, 1968</label>
+                  <label>Prague Spring 1968-01-05--1968-08-21</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_passiveparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -806,7 +803,7 @@
                   </listPerson>
                </event>
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
-                  <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972-06-21--1972-09-19</label>
+                  <label>W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -817,7 +814,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" notAfter-iso="1966-10-25" type="professional">
-                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966-10-25</label>
+                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25</label>
                   <listPlace>
                      <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
@@ -840,11 +837,11 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
                <event xml:id="amp_event_id_48" notBefore-iso="1968-01-20" notAfter-iso="1968-01-23" type="historic">
-                  <label>Pueblo incident, 1968</label>
+                  <label>Pueblo incident 1968-01-20--1968-01-23</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
                <event xml:id="amp_event_id_49" notBefore-iso="1965-10-30" notAfter-iso="1965-10-30" type="historic">
-                  <label>Commemorative event Josef Weinheber’s death, 1965-10-30</label>
+                  <label>Commemorative event Josef Weinheber’s death 1965-10-30</label>
                   <listPerson>
                      <person sameAs="amp_person_200" role="is_activeparticipant_in">
                         <persName>Seitz, Josef</persName>
@@ -883,7 +880,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
                <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
-                  <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
+                  <label>Anschluss (annexation of Austria into Nazi Germany) 1938</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -907,7 +904,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57" type="personal">
-                  <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>
+                  <label>Visit of Christiane Zimmer at Hinterholz 6 1959</label>
                   <listPerson>
                      <person sameAs="amp_person_3" role="is_activeparticipant_in">
                         <persName>Zimmer, Christiane</persName>
@@ -922,8 +919,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" type="professional">
-                  <label>Austrian TV broadcast of "Inzwischen", 1967</label>
+               <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" notAfter-iso="1967-01-05" type="professional">
+                  <label>Austrian TV broadcast of "Inzwischen" 1967-01-05</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -934,7 +931,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_59" notBefore-iso="1951-03-28" notAfter-iso="1951-03-31" type="professional">
-                  <label>First Asian Conference on Cultural Freedom, 1951</label>
+                  <label>First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31</label>
                   <listPlace>
                      <place sameAs="amp_place_id_274" type="location" subtype="is_event_location">
                         <placeName>Mumbai</placeName>

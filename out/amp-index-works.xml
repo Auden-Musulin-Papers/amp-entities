@@ -105,7 +105,7 @@
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_5" type="opera">
-               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on "The Bacchae" of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -212,7 +212,7 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1951">1951</date>
+               <date when="1949">1949</date>
                <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/7669413-6</idno>
                <lang>en</lang>
             </bibl>
@@ -224,19 +224,19 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1961">1961</date>
+               <date when="1960">1960</date>
                <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1068414596</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_18" type="libretto">
-               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on "The Bacchae" of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1966">1966</date>
+               <date when="1963">1963</date>
                <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1103166417</idno>
                <lang>en</lang>
             </bibl>
@@ -262,7 +262,7 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1973">1973</date>
+               <date when="1969">1969</date>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_21" type="libretto">
@@ -1242,7 +1242,7 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1956">1956</date>
+               <date when="1955">1955</date>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_149" type="translation">
@@ -1253,7 +1253,7 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1961">1961</date>
+               <date when="1957">1957</date>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_150" type="translation">
@@ -1264,7 +1264,7 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1959">1959</date>
+               <date when="1958">1958</date>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_151" type="translation">
@@ -1279,14 +1279,14 @@
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_152" type="translation">
-               <title>Arcifanfano (It's Always too Late to Learn)</title>
+               <title>Arcifanfano, King of Fools; or, It's Always Too Late to Learn</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1965">1965</date>
+               <date when="1962">1962</date>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_153" type="series">
@@ -1487,6 +1487,36 @@
                <date when="1965">1965</date>
                <lang>en</lang>
                <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_179" type="libretto">
+               <title>Paul Bunyan</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1941">1941</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_180" type="libretto">
+               <title>Delia</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1952">1952</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_181" type="libretto">
+               <title>The Entertainment of the Senses</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1973">1973</date>
+               <lang>en</lang>
             </bibl>
       </listBibl>
       </body>
