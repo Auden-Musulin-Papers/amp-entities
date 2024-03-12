@@ -375,6 +375,9 @@
                      <person sameAs="amp_person_90" role="is_attendee_of">
                         <persName>Orwell, Sonia</persName>
                      </person>
+                     <person sameAs="amp_person_98" role="is_attendee_of">
+                        <persName>Mendelson, Edward</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
@@ -388,14 +391,17 @@
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
                   <label>Symposium "W. H. Auden 1907-1973" 1984-10-11--1984-10-13</label>
                   <listPerson>
-                     <person sameAs="amp_person_99" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_99" role="is_speaker_in">
                         <persName>O'Sullivan, Michael</persName>
                      </person>
-                     <person sameAs="amp_person_8" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_8" role="is_speaker_in">
                         <persName>Spender, Stephen</persName>
                      </person>
-                     <person sameAs="amp_person_100" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_100" role="is_speaker_in">
                         <persName>Carpenter, Humphrey</persName>
+                     </person>
+                     <person sameAs="amp_person_127" role="is_speaker_in">
+                        <persName>Raimund, Hans</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -409,6 +415,9 @@
                   <listOrg>
                      <org sameAs="amp_organization_60" role="is_host_of">
                         <orgName>Künstlerhaus Wien</orgName>
+                     </org>
+                     <org sameAs="amp_organization_16" role="is_organizer_of">
+                        <orgName>British Council</orgName>
                      </org>
                   </listOrg>
                </event>

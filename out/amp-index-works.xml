@@ -1518,6 +1518,66 @@
                <date when="1973">1973</date>
                <lang>en</lang>
             </bibl>
+            <bibl xml:id="lit_work_id_182" type="book of poems">
+               <title>On This Island</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1937">1937</date>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7091167</idno>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_183" type="poem">
+               <title>What's in your mind, my dove, my coney</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1930">1930</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_184" type="poem">
+               <title>Three Songs for St. Cecilia's Day</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1941">1941</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_185">
+               <title/>
+            </bibl>
+            <bibl xml:id="lit_work_id_186" type="poem">
+               <title>O Tell Me the Truth About Love</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1938">1938</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_187" type="poem">
+               <title>Funeral Blues</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1937">1937</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_188" type="poem">
+               <title>Johnny</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1937">1937</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_189" type="poem">
+               <title>Calypso</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1941">1941</date>
+               <lang>en</lang>
+            </bibl>
       </listBibl>
       </body>
    </text>

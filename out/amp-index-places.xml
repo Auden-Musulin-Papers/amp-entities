@@ -2098,7 +2098,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>53.72587, -1.36256</geo>
@@ -2115,7 +2115,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.85407, 0.07188</geo>
@@ -2686,12 +2686,12 @@
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>55.58131, -1.83744</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7300675/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2655981/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1617115</idno>
                   <note/>
                </place>
@@ -2715,7 +2715,7 @@
                   <desc type="entity_type">city, village,...</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.65855, -1.18112</geo>
@@ -3616,9 +3616,6 @@
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>IE, Ireland</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
-                  </location>
                   <location type="coords">
                      <geo>53, -8</geo>
                   </location>
