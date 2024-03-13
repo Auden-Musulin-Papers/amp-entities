@@ -2526,7 +2526,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>GB, United Kingdom</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_216">Crediton</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>50.79141, -3.65953</geo>
@@ -3186,23 +3186,6 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12503861/</idno>
                   <note>home of Stella Musulin's mother</note>
-               </place>
-               <place xml:id="amp_place_id_216">
-                  <settlement type="P">
-                     <placeName>Crediton</placeName>
-                  </settlement>
-                  <desc type="entity_type">city, village,...</desc>
-                  <country>GB, United Kingdom</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>50.78333, -3.65</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2652034/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1139440</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/7580150-4</idno>
-                  <note/>
                </place>
                <place xml:id="amp_place_id_217">
                   <settlement type="S">
@@ -4659,7 +4642,6 @@
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2767699/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q63441039</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4809872-3</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_317">
@@ -4798,6 +4780,9 @@
                </place>
                <place xml:id="amp_place_id_332">
                   <placeName>Pfarrkirche Kirchstetten (Kirchstetten parish church)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38085012</idno>
                   <note/>
                </place>
