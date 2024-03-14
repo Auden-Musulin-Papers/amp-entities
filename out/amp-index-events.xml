@@ -1805,6 +1805,27 @@
                   </listOrg>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124830790</idno>
                </event>
+               <event xml:id="amp_event_id_106" notBefore-iso="1976-01-01" notAfter-iso="1976-12-31" type="professional">
+                  <label>Talk Stella Musulin "Auden in Kirchstetten" 1976</label>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_speaker_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_47" role="is_organizer_of">
+                        <orgName>English PEN</orgName>
+                     </org>
+                  </listOrg>
+               </event>
             </listEvent>
          </div>
       </body>

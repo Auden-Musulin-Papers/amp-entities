@@ -109,12 +109,13 @@
                      <bibl n="lit_work_id_80">The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</bibl>
                      <bibl n="lit_work_id_85">Freedom and Necessity in the Arts</bibl>
                      <bibl n="lit_work_id_88">August 1968 (version 1968-10-04)</bibl>
-                     <bibl n="lit_work_id_90">Freedom and Necessity in the Arts (version 1970-05-21)</bibl>
+                     <bibl n="lit_work_id_90">Freedom and Necessity in the Arts (English version 1970-05-21)</bibl>
                      <bibl n="lit_work_id_92">Joseph Weinheber (prose translation W. H. Auden and Elizabeth Mayer)</bibl>
                      <bibl n="lit_work_id_96">The Co-Inherence: The Image of the City, and Other Essays, by Charles Williams</bibl>
-                     <bibl n="lit_work_id_99">Statement (addressed to the Austrian tax authorities)</bibl>
+                     <bibl n="lit_work_id_99">Statement addressed to the Austrian tax authorities (English version 1972-07-26)</bibl>
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For Friends Only</bibl>
+                     <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
                      <bibl n="lit_work_id_105">Statement (addressed to the Austrian tax authorities)</bibl>
                      <bibl n="lit_work_id_107">Elegy</bibl>
                      <bibl n="lit_work_id_112">A Very Inquisitive Old Party</bibl>
@@ -182,13 +183,13 @@
                      <bibl n="lit_work_id_47">The Years in Austria</bibl>
                      <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_87">Fleißaufgaben in Nächstenliebe</bibl>
-                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (1970-05-21--1970-06-10)</bibl>
+                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</bibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber (prose translation Elsa Musulin and Stella Musulin)</bibl>
                      <bibl n="lit_work_id_94">Joseph Weinheber (notes prose translation Elsa Musulin and Stella Musulin)</bibl>
                      <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</bibl>
                      <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
-                     <bibl n="lit_work_id_108">Auden in Kirchstetten</bibl>
-                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria</bibl>
+                     <bibl n="lit_work_id_108">Auden in Kirchstetten (1976)</bibl>
+                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</bibl>
                      <bibl n="lit_work_id_115">Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten</bibl>
                      <bibl n="lit_work_id_117">Unpublished volume on W. H. Auden</bibl>
                      <bibl n="lit_work_id_124">Austria and the Austrians</bibl>
@@ -1650,7 +1651,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q93872</idno>
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
-                     <bibl n="lit_work_id_103">Statement (addressed to the Austrian tax authorities)</bibl>
+                     <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_79">
@@ -2282,7 +2283,7 @@
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130202290</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria</bibl>
+                     <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_120">
@@ -3046,7 +3047,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/115753761</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55845153</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (1970-05-21--1970-06-10)</bibl>
+                     <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</bibl>
                      <bibl n="lit_work_id_139">Freedom and Necessity in the Arts</bibl>
                   </listBibl>
                </person>
@@ -4089,6 +4090,12 @@
                   <persName>
                      <forename>Christa</forename>
                      <surname>K.</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_241">
+                  <persName>
+                     <forename>Paul</forename>
+                     <surname>Bachmann</surname>
                   </persName>
                </person>
             </listPerson>
