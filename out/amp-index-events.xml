@@ -480,9 +480,6 @@
                      <org sameAs="amp_organization_9" role="is_organizer_of">
                         <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
                      </org>
-                     <org sameAs="amp_organization_9" role="is_host_of">
-                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                     </org>
                   </listOrg>
                </event>
                <event xml:id="amp_event_id_24" notBefore-iso="1957-01-01" notAfter-iso="1958-12-31" type="personal">
@@ -745,46 +742,6 @@
                         <placeName>Eslarngasse</placeName>
                         <location type="coords">
                            <geo>48.19499, 16.39375</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </event>
-               <event xml:id="amp_event_id_40" notBefore-iso="1973-09-30" notAfter-iso="1973-09-30" type="personal">
-                  <label>Preparation of W. H. Auden's funeral, 1973-09-30</label>
-                  <listPerson>
-                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
-                        <persName>Musulin, Stella Mary Bellairs</persName>
-                     </person>
-                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
-                        <persName>Kallman, Chester</persName>
-                     </person>
-                     <person sameAs="amp_person_22" role="is_activeparticipant_in">
-                        <persName>Enzinger, Josef</persName>
-                     </person>
-                     <person sameAs="amp_person_32" role="is_activeparticipant_in">
-                        <persName>Strobl, Josefa</persName>
-                     </person>
-                     <person sameAs="amp_person_87" role="is_activeparticipant_in">
-                        <persName>Opel, Adolf</persName>
-                     </person>
-                     <person sameAs="amp_person_96" role="is_activeparticipant_in">
-                        <persName>Clark, Thekla</persName>
-                     </person>
-                     <person sameAs="amp_person_97" role="is_activeparticipant_in">
-                        <persName>Seitz, Maria</persName>
-                     </person>
-                     <person sameAs="amp_person_169" role="is_activeparticipant_in">
-                        <persName>Clark, Lisa</persName>
-                     </person>
-                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
-                        <persName>Kallman, Chester</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
-                        <placeName>Hinterholz 6</placeName>
-                        <location type="coords">
-                           <geo>48.18153, 15.81151</geo>
                         </location>
                      </place>
                   </listPlace>

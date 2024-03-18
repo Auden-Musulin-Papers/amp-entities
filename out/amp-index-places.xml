@@ -2541,13 +2541,12 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_28">New York City</placeName>
+                     <placeName key="amp_place_id_168">Manhattan</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.81013, -73.96418</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12503863/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5126299</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_172">
@@ -3579,7 +3578,7 @@
                </place>
                <place xml:id="amp_place_id_248">
                   <settlement type="S">
-                     <placeName>39 Claremont Ave, apt 31</placeName>
+                     <placeName>39 Claremont Avenue, apt 31</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
@@ -3590,7 +3589,6 @@
                      <geo>40.81013, -73.96418</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12503863/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5126299</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_249">
