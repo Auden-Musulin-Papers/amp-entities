@@ -158,7 +158,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q306362</idno>
                </org>
                <org xml:id="amp_organization_11">
-                  <orgName>Creditanstalt</orgName>
+                  <orgName>Creditanstalt-Bankverein</orgName>
                   <desc>Was founded in year 1855.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
@@ -245,10 +245,10 @@
                   <orgName>GPO Film Unit</orgName>
                   <desc>Was founded in year 1933.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_56">London</placeName>
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
                   <location type="coords">
-                     <geo>51.50853, -0.12574</geo>
+                     <geo>54.75844, -2.69531</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1337744</idno>
                   <note/>
@@ -336,12 +336,12 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_27">
-                  <orgName>British Embassy Vienna</orgName>
+                  <orgName>Embassy of the United Kingdom in Austria</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
+                     <placeName key="amp_place_id_156">Landstraße</placeName>
                   </location>
                   <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
+                     <geo>48.19811, 16.39482</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q51722418</idno>
                   <note/>

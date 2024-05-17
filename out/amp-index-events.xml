@@ -67,7 +67,7 @@
                   </listPerson>
                </event>
                <event xml:id="amp_event_id_2" notBefore-iso="1968-12-13" notAfter-iso="1968-12-13" type="personal">
-                  <label>Death Ioannis Boras in a car accident 1968-12-13</label>
+                  <label>Death Ioannis Boras 1968-12-13</label>
                   <listPerson>
                      <person sameAs="amp_person_23" role="is_passiveparticipant_in">
                         <persName>Boras, Ioannis</persName>
@@ -227,7 +227,7 @@
                         <persName>Auden, W. H.</persName>
                      </person>
                      <person sameAs="amp_person_176" role="is_activeparticipant_in">
-                        <persName>Strobl, N/A_3</persName>
+                        <persName>Strobl, Franz</persName>
                      </person>
                      <person sameAs="amp_person_32" role="is_activeparticipant_in">
                         <persName>Strobl, Josefa</persName>
@@ -322,19 +322,13 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_19" notBefore-iso="1973-10-04" notAfter-iso="1973-10-04" type="personal">
-                  <label>Funeral of W. H. Auden, 1973-10-04</label>
+                  <label>Funeral of W. H. Auden 1973-10-04</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_attendee_of">
                         <persName>Musulin, Stella Mary Bellairs</persName>
                      </person>
-                     <person sameAs="amp_person_1" role="is_passiveparticipant_in">
-                        <persName>Auden, W. H.</persName>
-                     </person>
                      <person sameAs="amp_person_156" role="is_activeparticipant_in">
                         <persName>Duncan, Bruce</persName>
-                     </person>
-                     <person sameAs="amp_person_93" role="is_attendee_of">
-                        <persName>Musulin, Elsa Gerda Maria Louise Pauline von</persName>
                      </person>
                      <person sameAs="amp_person_4" role="is_attendee_of">
                         <persName>Kallman, Chester</persName>
@@ -363,9 +357,6 @@
                      <person sameAs="amp_person_97" role="is_attendee_of">
                         <persName>Seitz, Maria</persName>
                      </person>
-                     <person sameAs="amp_person_87" role="is_attendee_of">
-                        <persName>Opel, Adolf</persName>
-                     </person>
                      <person sameAs="amp_person_22" role="is_attendee_of">
                         <persName>Enzinger, Josef</persName>
                      </person>
@@ -374,6 +365,33 @@
                      </person>
                      <person sameAs="amp_person_90" role="is_attendee_of">
                         <persName>Orwell, Sonia</persName>
+                     </person>
+                     <person sameAs="amp_person_98" role="is_attendee_of">
+                        <persName>Mendelson, Edward</persName>
+                     </person>
+                     <person sameAs="amp_person_229" role="is_attendee_of">
+                        <persName>Yates, Michael</persName>
+                     </person>
+                     <person sameAs="amp_person_228" role="is_attendee_of">
+                        <persName>Yates, Marny (Margaret)</persName>
+                     </person>
+                     <person sameAs="amp_person_135" role="is_attendee_of">
+                        <persName>Bronold, Hella</persName>
+                     </person>
+                     <person sameAs="amp_person_137" role="is_attendee_of">
+                        <persName>Kraus, Wolfgang</persName>
+                     </person>
+                     <person sameAs="amp_person_54" role="is_attendee_of">
+                        <persName>Heer, Friedrich</persName>
+                     </person>
+                     <person sameAs="amp_person_227" role="is_attendee_of">
+                        <persName>Osborne, Charles</persName>
+                     </person>
+                     <person sameAs="amp_person_120" role="is_attendee_of">
+                        <persName>Monteith, Charles</persName>
+                     </person>
+                     <person sameAs="amp_person_121" role="is_attendee_of">
+                        <persName>Esders, Christa</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -386,16 +404,19 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
-                  <label>Symposium "W. H. Auden 1907-1973", 1984-10-11--1984-10-13</label>
+                  <label>Symposium "W. H. Auden 1907-1973" 1984-10-11--1984-10-13</label>
                   <listPerson>
-                     <person sameAs="amp_person_99" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_99" role="is_speaker_in">
                         <persName>O'Sullivan, Michael</persName>
                      </person>
-                     <person sameAs="amp_person_8" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_8" role="is_speaker_in">
                         <persName>Spender, Stephen</persName>
                      </person>
-                     <person sameAs="amp_person_100" role="is_activeparticipant_in">
+                     <person sameAs="amp_person_100" role="is_speaker_in">
                         <persName>Carpenter, Humphrey</persName>
+                     </person>
+                     <person sameAs="amp_person_127" role="is_speaker_in">
+                        <persName>Raimund, Hans</persName>
                      </person>
                   </listPerson>
                   <listPlace>
@@ -406,6 +427,14 @@
                         </location>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_60" role="is_host_of">
+                        <orgName>Künstlerhaus Wien</orgName>
+                     </org>
+                     <org sameAs="amp_organization_16" role="is_organizer_of">
+                        <orgName>British Council</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_22" notBefore-iso="1969-05-28" notAfter-iso="1969-05-28" type="communicative" subtype="meeting">
                   <label>Visit of Friedrich Heer and Stella Musulin at Hinterholz 6 1969-05-28</label>
@@ -433,11 +462,8 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" notAfter-iso="1977-05-05" type="professional">
-                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher", 1977-05-05</label>
+                  <label>Stella Musulin's talk "W. H. Auden und die Österreicher" 1977-05-05</label>
                   <listPerson>
-                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
-                        <persName>Musulin, Stella Mary Bellairs</persName>
-                     </person>
                      <person sameAs="amp_person_137" role="is_activeparticipant_in">
                         <persName>Kraus, Wolfgang</persName>
                      </person>
@@ -453,6 +479,11 @@
                         </location>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_9" role="is_organizer_of">
+                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_24" notBefore-iso="1957-01-01" notAfter-iso="1958-12-31" type="personal">
                   <label>Separation of Janko and Stella Musulin, 1958</label>
@@ -477,7 +508,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_26" notBefore-iso="1964-10-15" notAfter-iso="1964-10-18" type="professional">
-                  <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature", 1964</label>
+                  <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature" 1964-10-15--1964-10-18</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -511,8 +542,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" type="professional">
-                  <label>W. H. Auden's talk "T. S. Eliot", 1965</label>
+               <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" notAfter-iso="1965-05-24" type="professional">
+                  <label>W. H. Auden's talk "T. S. Eliot" 1965-05-24</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -537,11 +568,8 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_30" notBefore-iso="1966-10-18" notAfter-iso="1966-10-18" type="professional">
-                  <label>W. H. Auden's sermon at Westminster Abbey, 1966</label>
+                  <label>W. H. Auden's sermon at Westminster Abbey 1966-10-18</label>
                   <listPerson>
-                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
-                        <persName>Auden, W. H.</persName>
-                     </person>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
                      </person>
@@ -556,7 +584,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_31" notBefore-iso="1967-04-24" notAfter-iso="1967-04-26" type="professional">
-                  <label>Round table "Literatur als Tradition und Revolution", 1967</label>
+                  <label>Round table "Literatur als Tradition und Revolution" 1967-04-24--1967-04-26</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_passiveparticipant_in">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -721,48 +749,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_40" notBefore-iso="1973-09-30" notAfter-iso="1973-09-30" type="personal">
-                  <label>Preparation of W. H. Auden's funeral, 1973-09-30</label>
-                  <listPerson>
-                     <person sameAs="amp_person_2" role="is_activeparticipant_in">
-                        <persName>Musulin, Stella Mary Bellairs</persName>
-                     </person>
-                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
-                        <persName>Kallman, Chester</persName>
-                     </person>
-                     <person sameAs="amp_person_22" role="is_activeparticipant_in">
-                        <persName>Enzinger, Josef</persName>
-                     </person>
-                     <person sameAs="amp_person_32" role="is_activeparticipant_in">
-                        <persName>Strobl, Josefa</persName>
-                     </person>
-                     <person sameAs="amp_person_87" role="is_activeparticipant_in">
-                        <persName>Opel, Adolf</persName>
-                     </person>
-                     <person sameAs="amp_person_96" role="is_activeparticipant_in">
-                        <persName>Clark, Thekla</persName>
-                     </person>
-                     <person sameAs="amp_person_97" role="is_activeparticipant_in">
-                        <persName>Seitz, Maria</persName>
-                     </person>
-                     <person sameAs="amp_person_169" role="is_activeparticipant_in">
-                        <persName>Clark, Lisa</persName>
-                     </person>
-                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
-                        <persName>Kallman, Chester</persName>
-                     </person>
-                  </listPerson>
-                  <listPlace>
-                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
-                        <placeName>Hinterholz 6</placeName>
-                        <location type="coords">
-                           <geo>48.18153, 15.81151</geo>
-                        </location>
-                     </place>
-                  </listPlace>
-               </event>
                <event xml:id="amp_event_id_42" notBefore-iso="1968-01-05" notAfter-iso="1968-08-21" type="historic">
-                  <label>Prague Spring, 1968</label>
+                  <label>Prague Spring 1968-01-05--1968-08-21</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_passiveparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -796,7 +784,7 @@
                   </listPerson>
                </event>
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
-                  <label>W. H. Auden's legal dispute with Austrian tax authorities, 1972-06-21--1972-09-19</label>
+                  <label>W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -807,7 +795,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" notAfter-iso="1966-10-25" type="professional">
-                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden, 1966-10-25</label>
+                  <label>Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25</label>
                   <listPlace>
                      <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
                         <placeName>Vienna</placeName>
@@ -830,11 +818,11 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
                <event xml:id="amp_event_id_48" notBefore-iso="1968-01-20" notAfter-iso="1968-01-23" type="historic">
-                  <label>Pueblo incident, 1968</label>
+                  <label>Pueblo incident 1968-01-20--1968-01-23</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q712703</idno>
                </event>
                <event xml:id="amp_event_id_49" notBefore-iso="1965-10-30" notAfter-iso="1965-10-30" type="historic">
-                  <label>Commemorative event Josef Weinheber’s death, 1965-10-30</label>
+                  <label>Commemorative event Josef Weinheber’s death 1965-10-30</label>
                   <listPerson>
                      <person sameAs="amp_person_200" role="is_activeparticipant_in">
                         <persName>Seitz, Josef</persName>
@@ -873,7 +861,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q362</idno>
                </event>
                <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
-                  <label>Anschluss (annexation of Austria into Nazi Germany), 1938</label>
+                  <label>Anschluss (annexation of Austria into Nazi Germany) 1938</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -897,7 +885,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57" type="personal">
-                  <label>Visit of Christiane Zimmer at Hinterholz 6, 1959</label>
+                  <label>Visit of Christiane Zimmer at Hinterholz 6 1959</label>
                   <listPerson>
                      <person sameAs="amp_person_3" role="is_activeparticipant_in">
                         <persName>Zimmer, Christiane</persName>
@@ -912,8 +900,8 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" type="professional">
-                  <label>Austrian TV broadcast of "Inzwischen", 1967</label>
+               <event xml:id="amp_event_id_58" notBefore-iso="1967-01-05" notAfter-iso="1967-01-05" type="professional">
+                  <label>Austrian TV broadcast of "Inzwischen" 1967-01-05</label>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -924,7 +912,7 @@
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_59" notBefore-iso="1951-03-28" notAfter-iso="1951-03-31" type="professional">
-                  <label>First Asian Conference on Cultural Freedom, 1951</label>
+                  <label>First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31</label>
                   <listPlace>
                      <place sameAs="amp_place_id_274" type="location" subtype="is_event_location">
                         <placeName>Mumbai</placeName>
@@ -1742,6 +1730,61 @@
                         <persName>Mayer, Elizabeth</persName>
                      </person>
                   </listPerson>
+               </event>
+               <event xml:id="amp_event_id_105" notBefore-iso="1984-10-11" notAfter-iso="1984-11-03" type="professional">
+                  <label>Exhibition "W. H. Auden 1907-1973" 1984-10-11--1984-11-03</label>
+                  <listPerson>
+                     <person sameAs="amp_person_99" role="is_activeparticipant_in">
+                        <persName>O'Sullivan, Michael</persName>
+                     </person>
+                     <person sameAs="amp_person_127" role="is_activeparticipant_in">
+                        <persName>Raimund, Hans</persName>
+                     </person>
+                     <person sameAs="amp_person_8" role="is_activeparticipant_in">
+                        <persName>Spender, Stephen</persName>
+                     </person>
+                     <person sameAs="amp_person_100" role="is_activeparticipant_in">
+                        <persName>Carpenter, Humphrey</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_16" role="is_organizer_of">
+                        <orgName>British Council</orgName>
+                     </org>
+                     <org sameAs="amp_organization_60" role="is_host_of">
+                        <orgName>Künstlerhaus Wien</orgName>
+                     </org>
+                  </listOrg>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124830790</idno>
+               </event>
+               <event xml:id="amp_event_id_106" notBefore-iso="1976-06-23" notAfter-iso="1976-06-23" type="professional">
+                  <label>Talk Stella Musulin "Auden in Kirchstetten" 1976-06-23</label>
+                  <listPerson>
+                     <person sameAs="amp_person_2" role="is_speaker_in">
+                        <persName>Musulin, Stella Mary Bellairs</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_47" role="is_organizer_of">
+                        <orgName>English PEN</orgName>
+                     </org>
+                  </listOrg>
                </event>
             </listEvent>
          </div>
