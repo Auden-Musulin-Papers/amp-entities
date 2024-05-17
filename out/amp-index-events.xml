@@ -11,7 +11,7 @@
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Stoxreiter</name>
+               <name>Daniel Elsner</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
@@ -619,8 +619,6 @@
                            <geo>48.20644, 16.3678</geo>
                         </location>
                      </place>
-                  </listPlace>
-                  <listPlace>
                      <place sameAs="amp_place_id_89" type="location" subtype="is_event_location">
                         <placeName>Hofburg</placeName>
                         <location type="coords">
