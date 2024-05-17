@@ -76,8 +76,14 @@
                {% if x.chapter_number %}
                <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
                {% endif %}
-               {% if x.is_linked_with|length > 0 %}
-               <idno type="URI" subtype="WIKIDATA">{{ x.is_linked_with }}</idno>
+               {% if x.other|length > 0 %}
+               <idno type="URL" subtype="OTHER">{{ x.other }}</idno>
+               {% endif %}
+               {% if x.wikidata|length > 0 %}
+               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
+               {% endif %}
+               {% if x.gnd|length > 0 %}
+               <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
                {% endif %}
                {% for l in x.language if x.language %}
                <lang>{{ l.value }}</lang>

@@ -142,6 +142,17 @@ def make_xml(input, fn, clmn, temp):
             obj[clmn] = norm_id
         except KeyError as err:
             print(err)
+        if clmn == "is_linked_with":
+            try:
+                uri = obj["is_linked_with"].split("/")[2]
+            except IndexError:
+                uri = "none"
+            if uri == "www.wikidata.org":
+                obj["wikidata"] = obj["is_linked_with"]
+            elif uri == "d-nb.info":
+                obj["gnd"] = obj["is_linked_with"]
+            elif uri != "baserow.acdh-dev.oeaw.ac.at":
+                obj["other"] = obj["is_linked_with"]
         arr.append(obj)
     filename = fn
     template_file = f"templates/{temp}.xml"
