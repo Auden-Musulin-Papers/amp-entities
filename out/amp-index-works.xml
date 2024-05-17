@@ -57,7 +57,7 @@
    <text>
       <body>
          <listBibl>
-            <bibl xml:id="lit_work_id_1">
+            <bibl xml:id="lit_work_id_1" type="novel">
                <title>Mapp and Lucia</title>
                <author ref="#amp_person_39">
                   <persName>Benson, Edward Frederic</persName>
@@ -65,7 +65,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6754148</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_2">
+            <bibl xml:id="lit_work_id_2" type="book of poems">
                <title>Homage to Clio</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -73,8 +73,9 @@
                <date when="1960">1960</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16386068</idno>
                <lang>en</lang>
+               <lang>grc</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_3">
+            <bibl xml:id="lit_work_id_3" type="opera">
                <title>The Rake's Progress</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -104,8 +105,8 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3050642</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_5">
-               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
+            <bibl xml:id="lit_work_id_5" type="opera">
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on "The Bacchae" of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -211,8 +212,8 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1951">1951</date>
-               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/7669413-6</idno>
+               <date when="1949">1949</date>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/7669413-6</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_17" type="libretto">
@@ -223,20 +224,20 @@
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1961">1961</date>
-               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1068414596</idno>
+               <date when="1960">1960</date>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1068414596</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_18">
-               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on The Bacchae of Euripides</title>
+            <bibl xml:id="lit_work_id_18" type="libretto">
+               <title>The Bassarids: Opera Seria with Intermezzo in One Act Based on "The Bacchae" of Euripides</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <author ref="#amp_person_4">
                   <persName>Kallman, Chester</persName>
                </author>
-               <date when="1966">1966</date>
-               <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/1103166417</idno>
+               <date when="1963">1963</date>
+               <idno type="URI" subtype="GND">https://d-nb.info/gnd/1103166417</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_19" type="opera">
@@ -295,7 +296,7 @@
                <author ref="#amp_person_115">
                   <persName>Brecht, Bertolt</persName>
                </author>
-               <date when="1930">1930</date>
+               <date when="1929">1929</date>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/1232284610</idno>
                <lang>de</lang>
             </bibl>
@@ -350,7 +351,7 @@
                </author>
                <date when="1963">1963</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7944306</idno>
-               <lang>se</lang>
+               <lang>sv</lang>
             </bibl>
             <bibl xml:id="lit_work_id_31" type="collection of essays">
                <title>The Dyer's Hand</title>
@@ -383,7 +384,7 @@
                <lang>yi</lang>
             </bibl>
             <bibl xml:id="lit_work_id_34" type="anthology">
-               <title>Nineteenth Century Minor Poets</title>
+               <title>Nineteenth-Century British Minor Poets</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -483,7 +484,7 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_47" type="biographical text">
-               <title>The Years in Austria</title>
+               <title>The Years in Austria 1976-09-04--1980-12-01</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -522,6 +523,9 @@
                <title>Forewords and Afterwords</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
                </author>
                <date when="1973">1973</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5469518</idno>
@@ -653,7 +657,7 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_68" type="drama">
-               <title>Murder in Cathedral</title>
+               <title>Murder in the Cathedral</title>
                <author ref="#amp_person_27">
                   <persName>Eliot, T. S.</persName>
                </author>
@@ -782,8 +786,8 @@
                <date when="1965">1965</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_90">
-               <title>Freedom and Necessity in the Arts (version 1970-05-21)</title>
+            <bibl xml:id="lit_work_id_90" type="speech">
+               <title>Freedom and Necessity in the Arts (English version 1970-05-21)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -792,8 +796,8 @@
                <lang>de</lang>
                <lang>fr</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_91">
-               <title>Freedom and Necessity in the Arts (1970-05-21--1970-06-10)</title>
+            <bibl xml:id="lit_work_id_91" type="speech">
+               <title>Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -862,8 +866,8 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1215450</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_99">
-               <title>Statement (addressed to the Austrian tax authorities)</title>
+            <bibl xml:id="lit_work_id_99" type="legal document">
+               <title>Statement addressed to the Austrian tax authorities (English version 1972-07-26)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -871,7 +875,7 @@
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_100" type="history">
-               <title>Akenfield : Portrait of an English Village</title>
+               <title>Akenfield: Portrait of an English Village</title>
                <author ref="#amp_person_180">
                   <persName>Blythe, Ronald</persName>
                </author>
@@ -893,9 +897,13 @@
                </author>
                <date when="1964">1964</date>
                <lang>en</lang>
+               <lang>it</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_103">
-               <title>Statement (addressed to the Austrian tax authorities)</title>
+            <bibl xml:id="lit_work_id_103" type="legal document">
+               <title>Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_78">
                   <persName>Spiel, Hilde</persName>
                </author>
@@ -903,7 +911,7 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_104" type="legal document">
-               <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</title>
+               <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -932,8 +940,8 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_108">
-               <title>Auden in Kirchstetten</title>
+            <bibl xml:id="lit_work_id_108" type="speech">
+               <title>Auden in Kirchstetten (1976-06-23)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -973,8 +981,8 @@
                <title>New Testament</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
-            <bibl xml:id="lit_work_id_114">
-               <title>Unpublished volume on W. H. Auden in Austria</title>
+            <bibl xml:id="lit_work_id_114" type="biographical text">
+               <title>Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -1001,8 +1009,8 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_117">
-               <title>Unpublished volume on W. H. Auden</title>
+            <bibl xml:id="lit_work_id_117" type="biographical text">
+               <title>Unpublished volume of memoirs of W. H. Auden</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
@@ -1023,11 +1031,13 @@
                   <persName>Robinson, Robert</persName>
                </author>
                <date when="1982">1982</date>
+               <idno type="URL" subtype="OTHER">https://genome.ch.bbc.co.uk/f1a0c35242bdd164d03ab521070ffcb8</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_119" type="radio programme">
                <title>The Double Man, a Portrait of W. H. Auden</title>
                <date when="1981">1981</date>
+               <idno type="URL" subtype="OTHER">https://genome.ch.bbc.co.uk/aa7851de58d54f8bb33f34ba29e95c22</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_121" type="documentary">
@@ -1091,6 +1101,7 @@
                   <persName>Musulin, Stella Mary Bellairs</persName>
                </author>
                <date when="1977">1977</date>
+               <idno type="URL" subtype="OTHER">https://www.mediathek.at/atom/046F4F16-1B8-0020E-00000A7C-046E80D1</idno>
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_127" type="interview">
@@ -1102,7 +1113,9 @@
                   <persName>Schmalz-Jacobsen, Cornelia</persName>
                </author>
                <date when="1965">1965</date>
+               <idno type="URL" subtype="OTHER">https://www.zeit.de/1965/17/ein-halbes-jahr-zu-gast-in-berlin</idno>
                <lang>de</lang>
+               <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_128" type="drama">
                <title>Mord im Dom</title>
@@ -1150,7 +1163,7 @@
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_133" type="interview">
-               <title>On Drugs and Drivel</title>
+               <title>Of Drugs and Drivel</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -1204,20 +1217,11 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_139" type="translation">
-               <title>Freedom and Necessity in the Arts</title>
+               <title>Freedom and Necessity in the Arts (notes translation Janko Musulin 1970-05-21--1970-06-10)</title>
                <author ref="#amp_person_167">
                   <persName>Musulin, Janko von</persName>
                </author>
                <date when="1970">1970</date>
-               <lang>de</lang>
-            </bibl>
-            <bibl xml:id="lit_work_id_142" type="libretto">
-               <title>Die Zauberflöte (The Magic Flute)</title>
-               <author ref="#amp_person_205">
-                  <persName>Schikaneder , Emanuel</persName>
-               </author>
-               <date when="1791">1791</date>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4275395-8</idno>
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_143" type="libretto">
@@ -1273,8 +1277,8 @@
                <date when="1960">1960</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_152">
-               <title>Arcifanfano (It's Always too Late to Learn)</title>
+            <bibl xml:id="lit_work_id_152" type="translation">
+               <title>Arcifanfano, King of Fools; or, It's Always Too Late to Learn</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
@@ -1326,7 +1330,7 @@
             <bibl xml:id="lit_work_id_159" type="interview">
                <title>Harrison Birtwistle: Writing Music is Like Knitting</title>
                <date when="2014">2014</date>
-               <idno type="URI" subtype="WIKIDATA">https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html</idno>
+               <idno type="URL" subtype="OTHER">https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html</idno>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_161" type="poem">
@@ -1539,8 +1543,13 @@
                <date when="1940">1940</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_185">
-               <title/>
+            <bibl xml:id="lit_work_id_185" type="collection of essays">
+               <title>"two volumes by and about Auden" (amp-transcript__0033.xml)</title>
+               <author ref="#amp_person_2">
+                  <persName>Musulin, Stella Mary Bellairs</persName>
+               </author>
+               <lang>en</lang>
+               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_186" type="poem">
                <title>O Tell Me the Truth About Love</title>
@@ -1572,6 +1581,122 @@
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1939">1939</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_190" type="TV program">
+               <title>Inzwischen: Ein Musik-Fernseh-Spiel</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_60">
+                  <persName>Kont, Paul</persName>
+               </author>
+               <author ref="#amp_person_62">
+                  <persName>Lehmden, Anton</persName>
+               </author>
+               <author ref="#amp_person_63">
+                  <persName>Davy, Gloria</persName>
+               </author>
+               <author ref="#amp_person_64">
+                  <persName>Rössl-Majdan, Hilde</persName>
+               </author>
+               <author ref="#amp_person_164">
+                  <persName>Qualtinger, Helmut</persName>
+               </author>
+               <date when="1967">1967</date>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_191" type="prose">
+               <title>Foreword to The Sorrows of Young Werther [and] Novella, by Johann Wolfgang Goethe</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1970">1970</date>
+               <lang>en</lang>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_192" type="prose">
+               <title>Mr G</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1967">1967</date>
+               <lang>en</lang>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_193" type="prose">
+               <title>Italian Journey: Introduction to a Translation by Auden and Elizabeth Mayer of Goethe's Italian Journey</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1962">1962</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_194" type="book of poems">
+               <title>Academic Graffiti</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1971">1971</date>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4671135</idno>
+               <lang>en</lang>
+               <lang>de</lang>
+               <lang>fr</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_195" type="book of poems">
+               <title>Thank You, Fog and Other Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1974">1974</date>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7710459</idno>
+               <lang>en</lang>
+               <lang>it</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_196" type="book of poems">
+               <title>Selected Poetry of W. H. Auden: Second Edition</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1971">1971</date>
+               <lang>en</lang>
+               <lang>it</lang>
+               <lang>de</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_197" type="book of poems">
+               <title>Selected Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1968">1968</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_198" type="religious text">
+               <title>Anchor Bible Series</title>
+               <date when="1956">1956</date>
+               <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q489181</idno>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_199" type="religious text">
+               <title>"new translation of the Bible"</title>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_200" type="poem">
+               <title>New Year Letter</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <date when="1940">1940</date>
+               <lang>en</lang>
+               <lang>fr</lang>
+               <lang>la</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_201" type="collection of essays">
+               <title>Auden: A Collection of Critical Essays</title>
+               <author ref="#amp_person_85">
+                  <persName>Spears, Monroe K.</persName>
+               </author>
+               <date when="1964">1964</date>
                <lang>en</lang>
             </bibl>
       </listBibl>

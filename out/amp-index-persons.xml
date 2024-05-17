@@ -92,7 +92,7 @@
                      <bibl n="lit_work_id_31">The Dyer's Hand</bibl>
                      <bibl n="lit_work_id_32">The Faber Book of Aphorisms</bibl>
                      <bibl n="lit_work_id_33">A Certain World: A Commonplace Book</bibl>
-                     <bibl n="lit_work_id_34">Nineteenth Century Minor Poets</bibl>
+                     <bibl n="lit_work_id_34">Nineteenth-Century British Minor Poets</bibl>
                      <bibl n="lit_work_id_37">The Cave of Making</bibl>
                      <bibl n="lit_work_id_38">Prologue at Sixty</bibl>
                      <bibl n="lit_work_id_43">Stark bewölkt (version 1971-10-19)</bibl>
@@ -126,7 +126,7 @@
                      <bibl n="lit_work_id_124">Austria and the Austrians</bibl>
                      <bibl n="lit_work_id_127">Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden</bibl>
                      <bibl n="lit_work_id_132">Loneliness</bibl>
-                     <bibl n="lit_work_id_133">On Drugs and Drivel</bibl>
+                     <bibl n="lit_work_id_133">Of Drugs and Drivel</bibl>
                      <bibl n="lit_work_id_134">About the House</bibl>
                      <bibl n="lit_work_id_135">Collected Shorter Poems 1927–1957</bibl>
                      <bibl n="lit_work_id_136">Collected Longer Poems</bibl>
@@ -156,6 +156,15 @@
                      <bibl n="lit_work_id_187">Funeral Blues</bibl>
                      <bibl n="lit_work_id_188">Johnny</bibl>
                      <bibl n="lit_work_id_189">Calypso</bibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                     <bibl n="lit_work_id_191">Foreword to The Sorrows of Young Werther [and] Novella, by Johann Wolfgang Goethe</bibl>
+                     <bibl n="lit_work_id_192">Mr G</bibl>
+                     <bibl n="lit_work_id_193">Italian Journey: Introduction to a Translation by Auden and Elizabeth Mayer of Goethe's Italian Journey</bibl>
+                     <bibl n="lit_work_id_194">Academic Graffiti</bibl>
+                     <bibl n="lit_work_id_195">Thank You, Fog and Other Poems</bibl>
+                     <bibl n="lit_work_id_196">Selected Poetry of W. H. Auden: Second Edition</bibl>
+                     <bibl n="lit_work_id_197">Selected Poems</bibl>
+                     <bibl n="lit_work_id_200">New Year Letter</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -180,13 +189,13 @@
                   <listBibl>
                      <bibl n="lit_work_id_45">Austria: People and Landscape</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
-                     <bibl n="lit_work_id_47">The Years in Austria</bibl>
+                     <bibl n="lit_work_id_47">The Years in Austria 1976-09-04--1980-12-01</bibl>
                      <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_87">Fleißaufgaben in Nächstenliebe</bibl>
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</bibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber (prose translation Elsa Musulin and Stella Musulin)</bibl>
                      <bibl n="lit_work_id_94">Joseph Weinheber (notes prose translation Elsa Musulin and Stella Musulin)</bibl>
-                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria)</bibl>
+                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</bibl>
                      <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
                      <bibl n="lit_work_id_108">Auden in Kirchstetten (1976-06-23)</bibl>
                      <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</bibl>
@@ -197,6 +206,7 @@
                      <bibl n="lit_work_id_162">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_163">Austria: People and Landscape (pre-print version 1970)</bibl>
                      <bibl n="lit_work_id_164">Austria: People and Landscape</bibl>
+                     <bibl n="lit_work_id_185">"two volumes by and about Auden" (amp-transcript__0033.xml)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_3">
@@ -680,7 +690,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118529854</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q37767</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_68">Murder in Cathedral</bibl>
+                     <bibl n="lit_work_id_68">Murder in the Cathedral</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_28">
@@ -897,7 +907,7 @@
                   <birth>
                      <date when-iso="1867-07-24">1867-07-24</date>
                      <settlement key="amp_place_id_106">
-                        <placeName>Berkshire</placeName>
+                        <placeName>Crowthorne</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -920,7 +930,7 @@
                   <birth>
                      <date when-iso="1900-03-02">1900-03-02</date>
                      <settlement key="amp_place_id_109">
-                        <placeName>Dessau</placeName>
+                        <placeName>Dessau-Roßlau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1043,6 +1053,7 @@
                   <birth>
                      <date when-iso="1942-01-14">1942-01-14</date>
                   </birth>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75311859</idno>
                </person>
                <person xml:id="amp_person_47">
                   <persName>
@@ -1061,8 +1072,8 @@
                   </persName>
                   <birth>
                      <date when-iso="1892-08-29">1892-08-29</date>
-                     <settlement key="amp_place_id_112">
-                        <placeName>Bruton Street</placeName>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1296,6 +1307,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/120720124</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15451051</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_61">
                   <persName>
@@ -1305,7 +1319,7 @@
                   <birth>
                      <date when-iso="1911-09-18">1911-09-18</date>
                      <settlement key="amp_place_id_120">
-                        <placeName>Sarata</placeName>
+                        <placeName>Sărata</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1336,6 +1350,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118727192</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q583021</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_63">
                   <persName>
@@ -1356,6 +1373,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/134651162</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1532072</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_64">
                   <persName>
@@ -1365,7 +1385,7 @@
                   <birth>
                      <date when-iso="1921-01-30">1921-01-30</date>
                      <settlement key="amp_place_id_123">
-                        <placeName>Atzenbrugg-Moosbierbaum</placeName>
+                        <placeName>Moosbierbaum</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1376,6 +1396,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/13041185X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89249</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_65">
                   <persName>
@@ -1578,7 +1601,7 @@
                   <birth>
                      <date when-iso="1918-02-26">1918-02-26</date>
                      <settlement key="amp_place_id_135">
-                        <placeName>Saint Petersburg (Leningrad)</placeName>
+                        <placeName>Saint Petersburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1757,9 +1780,6 @@
                   </birth>
                   <death>
                      <date when-iso="1980-02-22">1980-02-22</date>
-                     <settlement key="amp_place_id_145">
-                        <placeName>Villeneuve</placeName>
-                     </settlement>
                      <settlement key="amp_place_id_276">
                         <placeName>Montreux</placeName>
                      </settlement>
@@ -1795,6 +1815,12 @@
                      <forename>Monroe K.</forename>
                      <surname>Spears</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1916-04-28">1916-04-28</date>
+                     <settlement key="amp_place_id_148">
+                        <placeName>Darlington</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1998-05-23">1998-05-23</date>
                      <settlement key="amp_place_id_149">
@@ -1803,6 +1829,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/131850520</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55590162</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_201">Auden: A Collection of Critical Essays</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_86">
                   <persName>
@@ -1812,7 +1841,7 @@
                   <birth>
                      <date when-iso="1904-01-22">1904-01-22</date>
                      <settlement key="amp_place_id_135">
-                        <placeName>Saint Petersburg (Leningrad)</placeName>
+                        <placeName>Saint Petersburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1872,6 +1901,18 @@
                      <forename>Frederic Davey [David]</forename>
                      <surname>Luke</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1921-07-13">1921-07-13</date>
+                     <settlement key="amp_place_id_324">
+                        <placeName>Clevedon</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2005-12-05">2005-12-05</date>
+                     <settlement key="amp_place_id_46">
+                        <placeName>Oxford</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/129219827</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18526943</idno>
                </person>
@@ -2023,6 +2064,7 @@
                   <listBibl>
                      <bibl n="lit_work_id_28">W. H. Auden: Collected Poems</bibl>
                      <bibl n="lit_work_id_49">Early Auden</bibl>
+                     <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_80">The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</bibl>
                      <bibl n="lit_work_id_117">Unpublished volume of memoirs of W. H. Auden</bibl>
                   </listBibl>
@@ -2032,6 +2074,12 @@
                      <forename>Michael</forename>
                      <surname>O'Sullivan</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1957-07-21">1957-07-21</date>
+                     <settlement key="amp_place_id_340">
+                        <placeName>County Cork</placeName>
+                     </settlement>
+                  </birth>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1173017283</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q123685632</idno>
                </person>
@@ -2088,9 +2136,15 @@
                   </persName>
                   <birth>
                      <date when-iso="1925-12-15">1925-12-15</date>
+                     <settlement key="amp_place_id_345">
+                        <placeName>Boden</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="2000-11-20">2000-11-20</date>
+                     <settlement key="amp_place_id_344">
+                        <placeName>Stockholm</placeName>
+                     </settlement>
                   </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q104370574</idno>
                   <listBibl>
@@ -2104,9 +2158,15 @@
                   </persName>
                   <birth>
                      <date when-iso="1891-03-17">1891-03-17</date>
+                     <settlement key="amp_place_id_346">
+                        <placeName>Galway</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date when-iso="1962-10-26">1962-10-26</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1065958706</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5372032</idno>
@@ -2282,6 +2342,7 @@
                      <surname>Müller</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130202290</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q125072144</idno>
                   <listBibl>
                      <bibl n="lit_work_id_114">Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</bibl>
                   </listBibl>
@@ -2299,6 +2360,9 @@
                   </birth>
                   <death>
                      <date when-iso="1995-05-09">1995-05-09</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1124937285</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18526885</idno>
@@ -2308,6 +2372,18 @@
                      <forename>Christa</forename>
                      <surname>Esders</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1916-07-28">1916-07-28</date>
+                     <settlement key="amp_place_id_338">
+                        <placeName>Brunn am Gebirge</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1984-12-17">1984-12-17</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="amp_person_122">
                   <persName>
@@ -2998,6 +3074,9 @@
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118828983</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q45233</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_190">Inzwischen: Ein Musik-Fernseh-Spiel</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_165">
                   <persName>
@@ -3048,7 +3127,7 @@
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55845153</idno>
                   <listBibl>
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</bibl>
-                     <bibl n="lit_work_id_139">Freedom and Necessity in the Arts</bibl>
+                     <bibl n="lit_work_id_139">Freedom and Necessity in the Arts (notes translation Janko Musulin 1970-05-21--1970-06-10)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_168">
@@ -3056,6 +3135,19 @@
                      <forename>Frances Genevieve Sally</forename>
                      <surname>Toynbee</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1923-04-23">1923-04-23</date>
+                     <settlement key="amp_place_id_341">
+                        <placeName>Cleveland</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2003-03-08">2003-03-08</date>
+                     <settlement key="amp_place_id_343">
+                        <placeName>Stoke Mandeville</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q96082351</idno>
                </person>
                <person xml:id="amp_person_169">
                   <persName>
@@ -3107,6 +3199,8 @@
                   <death>
                      <date when-iso="1996-12-21">1996-12-21</date>
                   </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138710198</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94782427</idno>
                </person>
                <person xml:id="amp_person_173">
                   <persName>
@@ -3214,7 +3308,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1044390549</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7364685</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_100">Akenfield : Portrait of an English Village</bibl>
+                     <bibl n="lit_work_id_100">Akenfield: Portrait of an English Village</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_181">
@@ -3239,8 +3333,8 @@
                </person>
                <person xml:id="amp_person_182">
                   <persName>
-                     <forename>"the square-headed commissar type from Moscow"</forename>
-                     <surname>N/A_11</surname>
+                     <forename/>
+                     <surname>"the square-headed commissar type from Moscow"</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_183">
@@ -3389,8 +3483,8 @@
                   </birth>
                   <death>
                      <date when-iso="2009-03-04">2009-03-04</date>
-                     <settlement key="amp_place_id_324">
-                        <placeName>Somerset</placeName>
+                     <settlement key="amp_place_id_354">
+                        <placeName>Ilminster</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/173536794</idno>
@@ -3441,6 +3535,12 @@
                      <forename>August Wilhelm von</forename>
                      <surname>Schlegel</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1767-09-08">1767-09-08</date>
+                     <settlement key="amp_place_id_262">
+                        <placeName>Hanover</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1845-05-12">1845-05-12</date>
                      <settlement key="amp_place_id_58">
@@ -3509,7 +3609,6 @@
                   <listBibl>
                      <bibl n="lit_work_id_7">Die Zauberflöte (The Magic Flute)</bibl>
                      <bibl n="lit_work_id_21">Die Zauberflöte (The Magic Flute)</bibl>
-                     <bibl n="lit_work_id_142">Die Zauberflöte (The Magic Flute)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_206">
@@ -4096,6 +4195,84 @@
                   <persName>
                      <forename>Paul</forename>
                      <surname>Bachmann</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_242">
+                  <persName>
+                     <forename>Ilse</forename>
+                     <surname>Kettemann</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1956-03-17">1956-03-17</date>
+                     <settlement key="amp_place_id_339">
+                        <placeName>Klagenfurt am Wörthersee</placeName>
+                     </settlement>
+                  </birth>
+               </person>
+               <person xml:id="amp_person_243">
+                  <persName>
+                     <forename>Wolfgang</forename>
+                     <surname>Gasser</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1927-05-31">1927-05-31</date>
+                     <settlement key="amp_place_id_347">
+                        <placeName>Wolfsberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2007-05-20">2007-05-20</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132989883</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2589671</idno>
+               </person>
+               <person xml:id="amp_person_244">
+                  <persName>
+                     <forename>Andrew</forename>
+                     <surname>Jackson</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1767-03-15">1767-03-15</date>
+                     <settlement key="amp_place_id_349">
+                        <placeName>Waxhaws</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1845-06-08">1845-06-08</date>
+                     <settlement key="amp_place_id_350">
+                        <placeName>The Hermitage, Nashville, Tennessee</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118775731</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11817</idno>
+               </person>
+               <person xml:id="amp_person_245">
+                  <persName>
+                     <forename>Dmitry</forename>
+                     <surname>Zatonsky</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1922-07-02">1922-07-02</date>
+                     <settlement key="amp_place_id_352">
+                        <placeName>Odesa</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2009-07-07">2009-07-07</date>
+                     <settlement key="amp_place_id_353">
+                        <placeName>Kyiv</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1081786779</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4188429</idno>
+               </person>
+               <person xml:id="amp_person_246">
+                  <persName>
+                     <forename/>
+                     <surname/>
                   </persName>
                </person>
             </listPerson>

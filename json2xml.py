@@ -2,11 +2,11 @@ from baserow_utils import make_xml, make_geojson
 
 
 data = {
-    "persons": "json_dumps/persons.json",
-    "places": "json_dumps/places.json",
-    "lit": "json_dumps/literary_works.json",
-    "org": "json_dumps/organizations.json",
-    "eve": "json_dumps/events.json"
+    "persons": "json_dumps/persons__denorm.json",
+    "places": "json_dumps/places__denorm.json",
+    "lit": "json_dumps/literary_works__denorm.json",
+    "org": "json_dumps/organizations__denorm.json",
+    "eve": "json_dumps/events__denorm.json"
 }
 # create TEI/XML
 listperson = make_xml(data["persons"], "amp-index-persons", "gnd", "persons")

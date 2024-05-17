@@ -71,7 +71,7 @@
                </org>
                <org xml:id="amp_organization_2">
                   <orgName>American Academy of Arts and Letters</orgName>
-                  <desc>Was founded in year 1904.</desc>
+                  <desc>Was founded in year 1898.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -83,6 +83,7 @@
                </org>
                <org xml:id="amp_organization_4">
                   <orgName>Church of England</orgName>
+                  <desc>Was founded in year 1534.</desc>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q82708</idno>
                   <note>https://www.churchofengland.org/</note>
                </org>
@@ -278,14 +279,16 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_22">
-                  <orgName>Crossing Cards</orgName>
+                  <orgName>BBC Television</orgName>
+                  <desc>Was founded in year 1927.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_210">Trumansburg</placeName>
+                     <placeName key="amp_place_id_56">London</placeName>
                   </location>
                   <location type="coords">
-                     <geo>42.54229, -76.66606</geo>
+                     <geo>51.50853, -0.12574</geo>
                   </location>
-                  <note>formerly known as Crossing Press, now it is acquired by Ten Speed Press</note>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q261492</idno>
+                  <note/>
                </org>
                <org xml:id="amp_organization_23">
                   <orgName>Financial Times</orgName>
@@ -347,7 +350,7 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_28">
-                  <orgName>BBC</orgName>
+                  <orgName>BBC Radio</orgName>
                   <desc>Was founded in year 1922.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
@@ -355,7 +358,7 @@
                   <location type="coords">
                      <geo>51.50853, -0.12574</geo>
                   </location>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9531</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1191294</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_29">
@@ -438,7 +441,7 @@
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
-                  <note>1946-2005, Freyung 1, 1010 Vienna</note>
+                  <note>1946-2005, https://www.wikidata.org/wiki/Q17048457</note>
                </org>
                <org xml:id="amp_organization_36">
                   <orgName>University of Paris</orgName>
@@ -454,7 +457,7 @@
                </org>
                <org xml:id="amp_organization_38">
                   <orgName>Gebrüder Wild</orgName>
-                  <desc>Was founded in year 1848.</desc>
+                  <desc>Was founded in year 1816.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -462,7 +465,7 @@
                      <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q107474049</idno>
-                  <note>https://regiowiki.at/wiki/Gebr%C3%BCder_Wild_Delikatessen</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_39">
                   <orgName>Die Presse</orgName>
@@ -502,6 +505,7 @@
                </org>
                <org xml:id="amp_organization_42">
                   <orgName>University Hospital in St. Pölten</orgName>
+                  <desc>Was founded in year 1894.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
                   </location>
@@ -535,6 +539,7 @@
                </org>
                <org xml:id="amp_organization_45">
                   <orgName>Episcopal Church</orgName>
+                  <desc>Was founded in year 1785.</desc>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
                   <note/>
                </org>
@@ -565,12 +570,6 @@
                      <geo>51.50853, -0.12574</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q50008</idno>
-                  <note/>
-               </org>
-               <org xml:id="amp_organization_50">
-                  <orgName>Sturmabteilung (SA)</orgName>
-                  <desc>Was founded in year 1921.</desc>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q150793</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_51">
@@ -671,7 +670,7 @@
                </org>
                <org xml:id="amp_organization_59">
                   <orgName>Burgtheater</orgName>
-                  <desc>Was founded in year 1748.</desc>
+                  <desc>Was founded in year 1741.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -679,7 +678,7 @@
                      <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q308720</idno>
-                  <note>https://d-nb.info/gnd/1031490280</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_60">
                   <orgName>Künstlerhaus Wien</orgName>
@@ -691,7 +690,7 @@
                      <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q284902</idno>
-                  <note>https://d-nb.info/gnd/2100204-6</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_61">
                   <orgName>Naturhistorisches Museum Wien (Natural History Museum Vienna)</orgName>
@@ -703,7 +702,7 @@
                      <geo>48.20849, 16.37208</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q688704</idno>
-                  <note>https://d-nb.info/gnd/35915-4</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_62">
                   <orgName>Großes Festspielhaus (Large Festival House)</orgName>
@@ -715,7 +714,7 @@
                      <geo>47.79941, 13.04399</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q669768</idno>
-                  <note>https://d-nb.info/gnd/4224678-7</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_65">
                   <orgName>The New Yorker</orgName>
@@ -743,7 +742,7 @@
                </org>
                <org xml:id="amp_organization_67">
                   <orgName>Kronenzeitung</orgName>
-                  <desc>Was founded in year 1900.</desc>
+                  <desc>Was founded in year 1899.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -754,15 +753,14 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_68">
-                  <orgName>Morgen</orgName>
+                  <orgName>morgen</orgName>
                   <desc>Was founded in year 1977.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
+                     <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
                   <location type="coords">
-                     <geo>48.20849, 16.37208</geo>
+                     <geo>47.33333, 13.33333</geo>
                   </location>
-                  <idno type="URI" subtype="WIKIDATA">https://d-nb.info/gnd/4807822-0</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_69">
@@ -775,7 +773,7 @@
                      <geo>51.75222, -1.25596</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q217595</idno>
-                  <note>https://d-nb.info/gnd/812629-X</note>
+                  <note/>
                </org>
                <org xml:id="amp_organization_70">
                   <orgName>Postamt Kirchstetten (post office Kirchstetten)</orgName>
@@ -815,7 +813,6 @@
                   <location type="coords">
                      <geo>48.19811, 16.39482</geo>
                   </location>
-                  <idno type="URI" subtype="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Rochusplatz</idno>
                   <note>also known as Postamt Wien 40</note>
                </org>
                <org xml:id="amp_organization_74">
@@ -836,7 +833,6 @@
                   <location type="coords">
                      <geo>48.19667, 16.33722</geo>
                   </location>
-                  <idno type="URI" subtype="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Postamt_101_(Wien_Westbahnhof)</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_76">
@@ -959,11 +955,39 @@
                   <note/>
                </org>
                <org xml:id="amp_organization_87">
-                  <orgName/>
+                  <orgName>Flughafen Wien-Schwechat (Vienna International Airport)</orgName>
+                  <desc>Was founded in year 1954.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.33333, 15.75</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32999</idno>
                   <note/>
                </org>
                <org xml:id="amp_organization_88">
-                  <orgName/>
+                  <orgName>Österreichischer Rundfunk (Austrian Broadcasting Corporation)</orgName>
+                  <desc>Was founded in year 1953.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q262386</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_89">
+                  <orgName>Ford Foundation Artist-in-Residence Program</orgName>
+                  <desc>Was founded in year 1963.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16973199</idno>
                   <note/>
                </org>
             </listOrg>

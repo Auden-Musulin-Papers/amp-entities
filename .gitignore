@@ -132,3 +132,7 @@ env.secret
 
 # IDE
 .vscode
+
+# exclude denormalized files
+*__denorm.json
+test_*.json

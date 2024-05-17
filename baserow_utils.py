@@ -276,8 +276,8 @@ def load_lockup(path, mapping):
         ldn = mapping[x].split(".")[0]
         with open(f"{path}/{mapping[x]}", "rb") as fb:
             files[ldn] = json.load(fb)
-    with open(f"{path}/test_{mapping[x]}", "w") as fb:
-        json.dump(files, fb)
+    # with open(f"{path}/test_{mapping[x]}", "w") as fb:
+    #     json.dump(files, fb)
     return files
 
 
@@ -319,7 +319,7 @@ def denormalize_json(fn, path, mapping):
                         i["data"]["filename"] = mpg[m]
                     except KeyError:
                         continue
-    with open(save_and_open, "w") as w:
+    with open(save_and_open.replace(".json", "__denorm.json"), "w") as w:
         json.dump(dta, w)
     print(f"finished update of {save_and_open} and save as {save_and_open}.")
     return dta
