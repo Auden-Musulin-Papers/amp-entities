@@ -795,7 +795,7 @@
                   </listOrg>
                </event>
                <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
-                  <label>Vietnam war, 1955-1975</label>
+                  <label>Vietnam War 1955-11-01--1975-04-30</label>
                   <listPlace>
                      <place sameAs="amp_place_id_236" type="location" subtype="is_event_location">
                         <placeName>Vietnam</placeName>
@@ -1871,6 +1871,22 @@
                         <persName>Kokoschka, Oskar</persName>
                      </person>
                   </listPerson>
+               </event>
+               <event xml:id="amp_event_id_112" notBefore-iso="1968-02-16" notAfter-iso="1968-02-16" type="personal" subtype="travel">
+                  <label>Departure W. H. Auden to New York City from Vienna 1968-02-16</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
             </listEvent>
          </div>

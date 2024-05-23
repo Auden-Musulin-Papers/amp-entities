@@ -2614,7 +2614,12 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": null,
-    "has_publisher": [],
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlag"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -4214,7 +4219,7 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q1217731",
-    "has_year": null,
+    "has_year": "1851",
     "type": [
       {
         "id": 9991,
@@ -4271,9 +4276,19 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "",
-    "has_publisher": [],
-    "has_date": null,
-    "is_review_of": [],
+    "has_publisher": [
+      {
+        "id": 65,
+        "value": "The New Yorker"
+      }
+    ],
+    "has_date": "1968-02-24",
+    "is_review_of": [
+      {
+        "id": 111,
+        "value": "London Labour and the London Poor"
+      }
+    ],
     "has_external_url": ""
   },
   "113": {

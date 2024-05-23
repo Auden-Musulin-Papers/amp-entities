@@ -27,7 +27,7 @@
     "wikidata": "https://www.wikidata.org/wiki/Q463281",
     "amp_id": "amp_organization_2",
     "founded_in_year": "1898",
-    "comments": "https://artsandletters.org/history/",
+    "comments": "https://www.artsandletters.org/mission-and-history",
     "location": [
       {
         "id": 28,
@@ -710,7 +710,7 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1375237",
     "amp_id": "amp_organization_26",
     "founded_in_year": "1933",
-    "comments": "",
+    "comments": "Vienna branch founded in 1946",
     "location": [
       {
         "id": 1,
@@ -718,9 +718,19 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems"
+      }
+    ],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 23,
+        "value": "person_org__23"
+      }
+    ],
     "gnd": "",
     "URL": ""
   },
@@ -1529,10 +1539,20 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 112,
+        "value": "A Very Inquisitive Old Party"
+      }
+    ],
     "org_event": [],
-    "person_org": [],
-    "gnd": "",
+    "person_org": [
+      {
+        "id": 22,
+        "value": "person_org__22"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/16118556-3",
     "URL": ""
   },
   "66": {

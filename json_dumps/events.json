@@ -1490,7 +1490,7 @@
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "name": "Vietnam war, 1955-1975",
+    "name": "Vietnam War 1955-11-01--1975-04-30",
     "amp_id": "amp_event_id_47",
     "place_of_event": [
       {
@@ -4322,6 +4322,52 @@
       "id": 12194,
       "value": "happened",
       "color": "light-red"
+    },
+    "org_event": [],
+    "part_of": []
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "name": "Departure W. H. Auden to New York City from Vienna 1968-02-16",
+    "amp_id": "amp_event_id_112",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6722,
+        "value": "personal",
+        "color": "light-green"
+      }
+    ],
+    "start_date": "1968-02-16",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 264,
+        "value": "person_event__264"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1968-02-16",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "dark-gray"
+    },
+    "has_sub_type": {
+      "id": 13023,
+      "value": "travel",
+      "color": "light-orange"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "red"
     },
     "org_event": [],
     "part_of": []

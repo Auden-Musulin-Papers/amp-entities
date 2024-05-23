@@ -469,7 +469,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                     <placeName key="amp_place_id_259">St. Mark's Place</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.72839, -73.98359</geo>
@@ -3644,7 +3644,7 @@
                <place xml:id="amp_place_id_259">
                   <placeName>St. Mark's Place</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                     <placeName key="amp_place_id_247">East Village</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.7281, -73.98648</geo>
