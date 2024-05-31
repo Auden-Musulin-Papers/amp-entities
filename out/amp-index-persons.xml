@@ -165,6 +165,8 @@
                      <bibl n="lit_work_id_196">Selected Poetry of W. H. Auden: Second Edition</bibl>
                      <bibl n="lit_work_id_197">Selected Poems</bibl>
                      <bibl n="lit_work_id_200">New Year Letter</bibl>
+                     <bibl n="lit_work_id_202">W. H. Auden: Selected Poems</bibl>
+                     <bibl n="lit_work_id_203">Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -2067,6 +2069,8 @@
                      <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_80">The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</bibl>
                      <bibl n="lit_work_id_117">Unpublished volume of memoirs of W. H. Auden</bibl>
+                     <bibl n="lit_work_id_202">W. H. Auden: Selected Poems</bibl>
+                     <bibl n="lit_work_id_203">Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_99">
@@ -3617,7 +3621,7 @@
                      <surname>Da Ponte</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1749-01-01">1749-01-01</date>
+                     <date when-iso="1749-03-10">1749-03-10</date>
                      <settlement key="amp_place_id_284">
                         <placeName>Ceneda</placeName>
                      </settlement>
@@ -3632,7 +3636,6 @@
                   <listBibl>
                      <bibl n="lit_work_id_8">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
                      <bibl n="lit_work_id_22">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
-                     <bibl n="lit_work_id_143">Il dissoluto punito ossia Il Don Giovanni</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_207">
@@ -4270,6 +4273,12 @@
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4188429</idno>
                </person>
                <person xml:id="amp_person_246">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_247">
                   <persName>
                      <forename/>
                      <surname/>

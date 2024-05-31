@@ -1007,7 +1007,7 @@
     "relation_types": [],
     "is_part_of": [
       {
-        "id": 25,
+        "id": 11,
         "value": "Arcifanfano Re De Matti (Arcifanfano, King of Fools)"
       }
     ],
@@ -5421,43 +5421,6 @@
     "is_review_of": [],
     "has_external_url": ""
   },
-  "143": {
-    "id": 143,
-    "order": "140.00000000000000000000",
-    "name": "Il dissoluto punito ossia Il Don Giovanni",
-    "lit_work_id": "lit_work_id_143",
-    "is_written_by": [
-      {
-        "id": 206,
-        "value": "Da Ponte, Lorenzo"
-      }
-    ],
-    "is_linked_with": "https://d-nb.info/gnd/4278692-7",
-    "has_year": "1787",
-    "type": [
-      {
-        "id": 6666,
-        "value": "libretto",
-        "color": "light-blue"
-      }
-    ],
-    "version_of": [],
-    "language": [
-      {
-        "id": 6680,
-        "value": "it",
-        "color": "green"
-      }
-    ],
-    "relation_types": [],
-    "is_part_of": [],
-    "FRBR_level": null,
-    "Comments": "",
-    "has_publisher": [],
-    "has_date": null,
-    "is_review_of": [],
-    "has_external_url": ""
-  },
   "148": {
     "id": 148,
     "order": "141.00000000000000000000",
@@ -5533,12 +5496,7 @@
         "color": "light-blue"
       }
     ],
-    "version_of": [
-      {
-        "id": 143,
-        "value": "Il dissoluto punito ossia Il Don Giovanni"
-      }
-    ],
+    "version_of": [],
     "language": [
       {
         "id": 6678,
@@ -7730,6 +7688,93 @@
         "id": 9989,
         "value": "collection of essays",
         "color": "blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "202": {
+    "id": 202,
+    "order": "195.00000000000000000000",
+    "name": "W. H. Auden: Selected Poems",
+    "lit_work_id": "lit_work_id_202",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1979",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book of poems",
+        "color": "dark-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 5,
+        "value": "Faber & Faber"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "203": {
+    "id": 203,
+    "order": "196.00000000000000000000",
+    "name": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938",
+    "lit_work_id": "lit_work_id_203",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1988",
+    "type": [
+      {
+        "id": 10002,
+        "value": "collection of plays",
+        "color": "red"
       }
     ],
     "version_of": [],

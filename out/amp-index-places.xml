@@ -4027,18 +4027,14 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_283">
-                  <settlement type="A">
-                     <placeName>Straubing</placeName>
-                  </settlement>
-                  <desc type="entity_type">country, state, region,...</desc>
-                  <country>DE, Germany</country>
+                  <placeName>Straubing</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.88353, 12.57966</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6556452/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2826099/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7027</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4057970-0</idno>
                   <note/>

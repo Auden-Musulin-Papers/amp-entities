@@ -371,6 +371,14 @@
       {
         "id": 200,
         "value": "New Year Letter"
+      },
+      {
+        "id": 202,
+        "value": "W. H. Auden: Selected Poems"
+      },
+      {
+        "id": 203,
+        "value": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -5705,6 +5713,14 @@
       {
         "id": 117,
         "value": "Unpublished volume of memoirs of W. H. Auden"
+      },
+      {
+        "id": 202,
+        "value": "W. H. Auden: Selected Poems"
+      },
+      {
+        "id": 203,
+        "value": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5344431",
@@ -9711,7 +9727,7 @@
         "value": "Ceneda"
       }
     ],
-    "birth_day": "1749-01-01",
+    "birth_day": "1749-03-10",
     "death_year": "1838",
     "death_place": [
       {
@@ -9730,10 +9746,6 @@
       {
         "id": 22,
         "value": "Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)"
-      },
-      {
-        "id": 143,
-        "value": "Il dissoluto punito ossia Il Don Giovanni"
       }
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q268166",
@@ -11224,6 +11236,32 @@
     "order": "244.00000000000000000000",
     "name": "",
     "amp_id": "amp_person_246",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "247": {
+    "id": 247,
+    "order": "245.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_247",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

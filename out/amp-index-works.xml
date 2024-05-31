@@ -1225,15 +1225,6 @@
                <date when="1970">1970</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_143" type="libretto">
-               <title>Il dissoluto punito ossia Il Don Giovanni</title>
-               <author ref="#amp_person_206">
-                  <persName>Da Ponte, Lorenzo</persName>
-               </author>
-               <date when="1787">1787</date>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4278692-7</idno>
-               <lang>it</lang>
-            </bibl>
             <bibl xml:id="lit_work_id_148" type="libretto">
                <title>The Magic Flute</title>
                <author ref="#amp_person_1">
@@ -1698,6 +1689,28 @@
                   <persName>Spears, Monroe K.</persName>
                </author>
                <date when="1964">1964</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_202" type="book of poems">
+               <title>W. H. Auden: Selected Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1979">1979</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_203" type="collection of plays">
+               <title>Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1988">1988</date>
                <lang>en</lang>
             </bibl>
       </listBibl>
