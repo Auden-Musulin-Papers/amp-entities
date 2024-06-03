@@ -1916,7 +1916,7 @@
     "is_written_by": [
       {
         "id": 150,
-        "value": "Farnan, Dorothy Jean"
+        "value": "Farnan, Dorothy J."
       }
     ],
     "is_linked_with": "",
@@ -7791,6 +7791,52 @@
     "Comments": "",
     "has_publisher": [],
     "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "204": {
+    "id": 204,
+    "order": "197.00000000000000000000",
+    "name": "Books: Holiday bookings; List of recommendations from 1985",
+    "lit_work_id": "lit_work_id_204",
+    "is_written_by": [
+      {
+        "id": 246,
+        "value": "Tomalin, Claire"
+      },
+      {
+        "id": 247,
+        "value": "French, Sean"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1985",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 20,
+        "value": "The Sunday Times"
+      }
+    ],
+    "has_date": "1985-07-21",
     "is_review_of": [],
     "has_external_url": ""
   }

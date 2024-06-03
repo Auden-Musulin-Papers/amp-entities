@@ -2866,17 +2866,9 @@
                      <surname>N/A_5</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_149">
-                  <persName>
-                     <forename>Dorian</forename>
-                     <surname>Gray</surname>
-                  </persName>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132210649</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30611756</idno>
-               </person>
                <person xml:id="amp_person_150">
                   <persName>
-                     <forename>Dorothy Jean</forename>
+                     <forename>Dorothy J.</forename>
                      <surname>Farnan</surname>
                   </persName>
                   <birth>
@@ -4274,15 +4266,29 @@
                </person>
                <person xml:id="amp_person_246">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Claire</forename>
+                     <surname>Tomalin</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1933-06-20">1933-06-20</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138394636</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q52207</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_204">Books: Holiday bookings; List of recommendations from 1985</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_247">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Sean</forename>
+                     <surname>French</surname>
                   </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_204">Books: Holiday bookings; List of recommendations from 1985</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

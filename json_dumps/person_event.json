@@ -1201,29 +1201,6 @@
       }
     ]
   },
-  "91": {
-    "id": 91,
-    "order": "91.00000000000000000000",
-    "amp_id": "person_event__91",
-    "source": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
-      }
-    ],
-    "target": [
-      {
-        "id": 38,
-        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
-      }
-    ],
-    "relation_type_object": [
-      {
-        "id": 28,
-        "value": "is_activeparticipant_in"
-      }
-    ]
-  },
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",

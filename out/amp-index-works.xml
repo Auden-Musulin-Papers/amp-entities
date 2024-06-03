@@ -494,7 +494,7 @@
             <bibl xml:id="lit_work_id_48" type="biographical text">
                <title>Auden in Love</title>
                <author ref="#amp_person_150">
-                  <persName>Farnan, Dorothy Jean</persName>
+                  <persName>Farnan, Dorothy J.</persName>
                </author>
                <date when="1984">1984</date>
                <lang>en</lang>
@@ -1711,6 +1711,17 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1988">1988</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_204" type="article">
+               <title>Books: Holiday bookings; List of recommendations from 1985</title>
+               <author ref="#amp_person_246">
+                  <persName>Tomalin, Claire</persName>
+               </author>
+               <author ref="#amp_person_247">
+                  <persName>French, Sean</persName>
+               </author>
+               <date when="1985">1985</date>
                <lang>en</lang>
             </bibl>
       </listBibl>

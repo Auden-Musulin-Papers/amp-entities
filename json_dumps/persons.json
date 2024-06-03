@@ -1080,10 +1080,6 @@
         "value": "person_event__76"
       },
       {
-        "id": 91,
-        "value": "person_event__91"
-      },
-      {
         "id": 102,
         "value": "person_event__102"
       },
@@ -7664,40 +7660,10 @@
     "person_person": [],
     "PMB": ""
   },
-  "149": {
-    "id": 149,
-    "order": "148.00000000000000000000",
-    "name": "Gray, Dorian",
-    "amp_id": "amp_person_149",
-    "gnd": "https://d-nb.info/gnd/132210649",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
-    "death_place": [],
-    "death_day": null,
-    "comment": "",
-    "fictional_or_real": {
-      "id": 6661,
-      "value": "fictional",
-      "color": "light-orange"
-    },
-    "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q30611756",
-    "Title": [],
-    "person_event": [],
-    "maiden_name": null,
-    "alternative_website": null,
-    "updated": false,
-    "person_place": [],
-    "person_org": [],
-    "person_person": [],
-    "PMB": ""
-  },
   "150": {
     "id": 150,
     "order": "149.00000000000000000000",
-    "name": "Farnan, Dorothy Jean",
+    "name": "Farnan, Dorothy J.",
     "amp_id": "amp_person_150",
     "gnd": "",
     "birth_year": "1919",
@@ -11234,19 +11200,29 @@
   "246": {
     "id": 246,
     "order": "244.00000000000000000000",
-    "name": "",
+    "name": "Tomalin, Claire",
     "amp_id": "amp_person_246",
-    "gnd": "",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
+    "gnd": "https://d-nb.info/gnd/138394636",
+    "birth_year": "1933",
+    "birth_place": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ],
+    "birth_day": "1933-06-20",
     "death_year": null,
     "death_place": [],
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [],
-    "wikidata": "",
+    "literary_work": [
+      {
+        "id": 204,
+        "value": "Books: Holiday bookings; List of recommendations from 1985"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q52207",
     "Title": [],
     "person_event": [],
     "maiden_name": "",
@@ -11260,7 +11236,7 @@
   "247": {
     "id": 247,
     "order": "245.00000000000000000000",
-    "name": "",
+    "name": "French, Sean",
     "amp_id": "amp_person_247",
     "gnd": "",
     "birth_year": null,
@@ -11271,7 +11247,12 @@
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 204,
+        "value": "Books: Holiday bookings; List of recommendations from 1985"
+      }
+    ],
     "wikidata": "",
     "Title": [],
     "person_event": [],
