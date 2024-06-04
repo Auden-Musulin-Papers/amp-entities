@@ -430,7 +430,12 @@
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 24,
+        "value": "person_org__24"
+      }
+    ],
     "gnd": "",
     "URL": ""
   },
