@@ -272,7 +272,7 @@
       },
       {
         "id": 205,
-        "value": "Schikaneder , Emanuel"
+        "value": "Schikaneder, Emanuel"
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q5064",
@@ -816,7 +816,7 @@
     "is_written_by": [
       {
         "id": 205,
-        "value": "Schikaneder , Emanuel"
+        "value": "Schikaneder, Emanuel"
       }
     ],
     "is_linked_with": "https://d-nb.info/gnd/4275395-8",
@@ -3867,8 +3867,16 @@
     "lit_work_id": "lit_work_id_104",
     "is_written_by": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 2,
         "value": "Musulin, Stella Mary Bellairs"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde"
       }
     ],
     "is_linked_with": "",
@@ -3957,8 +3965,16 @@
     "lit_work_id": "lit_work_id_106",
     "is_written_by": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 2,
         "value": "Musulin, Stella Mary Bellairs"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde"
       }
     ],
     "is_linked_with": "",

@@ -116,7 +116,9 @@
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For Friends Only</bibl>
                      <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
+                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</bibl>
                      <bibl n="lit_work_id_105">Statement (addressed to the Austrian tax authorities)</bibl>
+                     <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
                      <bibl n="lit_work_id_107">Elegy</bibl>
                      <bibl n="lit_work_id_112">A Very Inquisitive Old Party</bibl>
                      <bibl n="lit_work_id_116">Secondary Worlds</bibl>
@@ -1676,6 +1678,8 @@
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                      <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
+                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</bibl>
+                     <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_79">
@@ -3585,7 +3589,7 @@
                <person xml:id="amp_person_205">
                   <persName>
                      <forename>Emanuel</forename>
-                     <surname>Schikaneder </surname>
+                     <surname>Schikaneder</surname>
                   </persName>
                   <birth>
                      <date when-iso="1751-09-01">1751-09-01</date>

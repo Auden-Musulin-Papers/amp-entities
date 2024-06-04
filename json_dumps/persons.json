@@ -177,8 +177,16 @@
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)"
       },
       {
+        "id": 104,
+        "value": "Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01"
+      },
+      {
         "id": 105,
         "value": "Statement (addressed to the Austrian tax authorities)"
+      },
+      {
+        "id": 106,
+        "value": "Statement (addressed to the Austrian tax authorities) (version In Retrospect)"
       },
       {
         "id": 107,
@@ -4775,6 +4783,14 @@
       {
         "id": 103,
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)"
+      },
+      {
+        "id": 104,
+        "value": "Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01"
+      },
+      {
+        "id": 106,
+        "value": "Statement (addressed to the Austrian tax authorities) (version In Retrospect)"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
@@ -9638,7 +9654,7 @@
   "205": {
     "id": 205,
     "order": "204.00000000000000000000",
-    "name": "Schikaneder , Emanuel",
+    "name": "Schikaneder, Emanuel",
     "amp_id": "amp_person_205",
     "gnd": "https://d-nb.info/gnd/11860757X",
     "birth_year": "1751",

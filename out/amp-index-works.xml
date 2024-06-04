@@ -134,7 +134,7 @@
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <author ref="#amp_person_205">
-                  <persName>Schikaneder , Emanuel</persName>
+                  <persName>Schikaneder, Emanuel</persName>
                </author>
                <date when="1791">1791</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
@@ -268,7 +268,7 @@
             <bibl xml:id="lit_work_id_21" type="libretto">
                <title>Die Zauberflöte (The Magic Flute)</title>
                <author ref="#amp_person_205">
-                  <persName>Schikaneder , Emanuel</persName>
+                  <persName>Schikaneder, Emanuel</persName>
                </author>
                <date when="1791">1791</date>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4275395-8</idno>
@@ -905,8 +905,14 @@
             </bibl>
             <bibl xml:id="lit_work_id_104" type="legal document">
                <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
+               </author>
+               <author ref="#amp_person_78">
+                  <persName>Spiel, Hilde</persName>
                </author>
                <lang>en</lang>
             </bibl>
@@ -919,8 +925,14 @@
             </bibl>
             <bibl xml:id="lit_work_id_106" type="legal document">
                <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
+               </author>
+               <author ref="#amp_person_78">
+                  <persName>Spiel, Hilde</persName>
                </author>
                <lang>en</lang>
             </bibl>
