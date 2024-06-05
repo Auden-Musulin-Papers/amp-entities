@@ -4853,6 +4853,14 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4129280-7</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_355">
+                  <placeName>Franz Biber Fleischhauer u. Gastwirt</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12902788/</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
