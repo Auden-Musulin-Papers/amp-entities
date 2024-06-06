@@ -2996,12 +2996,7 @@
     "order": "82.00000000000000000000",
     "name": "King James Version",
     "lit_work_id": "lit_work_id_82",
-    "is_written_by": [
-      {
-        "id": 170,
-        "value": "VI and I, James"
-      }
-    ],
+    "is_written_by": [],
     "is_linked_with": "https://www.wikidata.org/wiki/Q623398",
     "has_year": "1611",
     "type": [
@@ -4126,15 +4121,25 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q1571095",
-    "has_year": "1534",
+    "has_year": "1545",
     "type": [
       {
         "id": 9984,
         "value": "religious text",
         "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
       }
     ],
-    "version_of": [],
+    "version_of": [
+      {
+        "id": 59,
+        "value": "Bible"
+      }
+    ],
     "language": [
       {
         "id": 6679,
@@ -4144,7 +4149,11 @@
     ],
     "relation_types": [],
     "is_part_of": [],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
     "Comments": "",
     "has_publisher": [],
     "has_date": null,
@@ -6552,7 +6561,7 @@
   "176": {
     "id": 176,
     "order": "169.00000000000000000000",
-    "name": "Götterdämmerung: Siegfried's Death & Funeral March",
+    "name": "Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)",
     "lit_work_id": "lit_work_id_176",
     "is_written_by": [
       {
@@ -6561,7 +6570,7 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q272029",
-    "has_year": "1874",
+    "has_year": "1876",
     "type": [
       {
         "id": 6665,
@@ -6570,13 +6579,7 @@
       }
     ],
     "version_of": [],
-    "language": [
-      {
-        "id": 6679,
-        "value": "de",
-        "color": "blue"
-      }
-    ],
+    "language": [],
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": null,
@@ -6618,12 +6621,7 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "https://www.poetryfoundation.org/poems/54715/the-truly-great    https://genius.com/Stephen-spender-the-truly-great-annotated",
-    "has_publisher": [
-      {
-        "id": 12,
-        "value": "Random House"
-      }
-    ],
+    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""

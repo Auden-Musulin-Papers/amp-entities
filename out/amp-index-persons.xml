@@ -530,7 +530,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594117</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_176">Götterdämmerung: Siegfried's Death &amp; Funeral March</bibl>
+                     <bibl n="lit_work_id_176">Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_19">
@@ -2121,13 +2121,13 @@
                   <birth>
                      <date when-iso="1483-11-10">1483-11-10</date>
                      <settlement key="amp_place_id_162">
-                        <placeName>Eisleben Lutherstadt</placeName>
+                        <placeName>Lutherstadt Eisleben</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date when-iso="1546-02-18">1546-02-18</date>
                      <settlement key="amp_place_id_162">
-                        <placeName>Eisleben Lutherstadt</placeName>
+                        <placeName>Lutherstadt Eisleben</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118575449</idno>
@@ -3175,14 +3175,11 @@
                   <death>
                      <date when-iso="1625-03-27">1625-03-27</date>
                      <settlement key="amp_place_id_280">
-                        <placeName>Theobalds Park</placeName>
+                        <placeName>Theobalds House</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118639889</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79972</idno>
-                  <listBibl>
-                     <bibl n="lit_work_id_82">King James Version</bibl>
-                  </listBibl>
                </person>
                <person xml:id="amp_person_171">
                   <persName>
@@ -4292,6 +4289,12 @@
                   <listBibl>
                      <bibl n="lit_work_id_204">Books: Holiday bookings; List of recommendations from 1985</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="amp_person_248">
+                  <persName>
+                     <forename/>
+                     <surname>"nobleman"</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

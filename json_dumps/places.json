@@ -2912,6 +2912,10 @@
       {
         "id": 28,
         "value": "Buonarroti, Michelangelo"
+      },
+      {
+        "id": 190,
+        "value": "the Apostle, Paul"
       }
     ],
     "google_maps_coordinates": "",
@@ -7058,7 +7062,7 @@
   "162": {
     "id": 162,
     "order": "162.00000000000000000000",
-    "name": "Eisleben Lutherstadt",
+    "name": "Lutherstadt Eisleben",
     "amp_id": "amp_place_id_162",
     "geonames_id": "https://sws.geonames.org/7284571/",
     "birth_place": [
@@ -11231,9 +11235,9 @@
   "280": {
     "id": 280,
     "order": "280.00000000000000000000",
-    "name": "Theobalds Park",
+    "name": "Theobalds House",
     "amp_id": "amp_place_id_280",
-    "geonames_id": "https://sws.geonames.org/9951799/",
+    "geonames_id": "",
     "birth_place": [],
     "death_place": [
       {
@@ -11246,8 +11250,8 @@
     "organizations": [],
     "is_part_of": [
       {
-        "id": 93,
-        "value": "United Kingdom"
+        "id": 239,
+        "value": "England"
       }
     ],
     "relation_types": [
@@ -11256,19 +11260,19 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q512922",
     "gnd": "",
     "geonames_coordinates": "51.6885, -0.0564",
-    "place_type": "spot, building, farm",
-    "country": "United Kingdom",
-    "country_code": "GB",
-    "place_type_class": "S",
-    "updated": true,
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
     "events": [],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
-    "updated_geonames": true
+    "updated_geonames": false
   },
   "281": {
     "id": 281,
@@ -13206,7 +13210,7 @@
   "331": {
     "id": 331,
     "order": "330.00000000000000000000",
-    "name": "Poet's Corner",
+    "name": "Poets' Corner",
     "amp_id": "amp_place_id_331",
     "geonames_id": "https://sws.geonames.org/12746554/",
     "birth_place": [],

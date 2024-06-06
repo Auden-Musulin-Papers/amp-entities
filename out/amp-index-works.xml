@@ -738,9 +738,6 @@
             </bibl>
             <bibl xml:id="lit_work_id_82" type="religious text">
                <title>King James Version</title>
-               <author ref="#amp_person_170">
-                  <persName>VI and I, James</persName>
-               </author>
                <date when="1611">1611</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
                <lang>en</lang>
@@ -958,7 +955,7 @@
                <author ref="#amp_person_102">
                   <persName>Luther, Martin</persName>
                </author>
-               <date when="1534">1534</date>
+               <date when="1545">1545</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
                <lang>de</lang>
             </bibl>
@@ -1460,13 +1457,12 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_176" type="opera">
-               <title>Götterdämmerung: Siegfried's Death &amp; Funeral March</title>
+               <title>Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)</title>
                <author ref="#amp_person_18">
                   <persName>Wagner, Richard</persName>
                </author>
-               <date when="1874">1874</date>
+               <date when="1876">1876</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q272029</idno>
-               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_177" type="poem">
                <title>The Truly Great</title>

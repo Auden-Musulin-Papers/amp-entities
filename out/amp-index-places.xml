@@ -2326,7 +2326,7 @@
                </place>
                <place xml:id="amp_place_id_162">
                   <settlement type="P">
-                     <placeName>Eisleben Lutherstadt</placeName>
+                     <placeName>Lutherstadt Eisleben</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -3978,18 +3978,14 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_280">
-                  <settlement type="S">
-                     <placeName>Theobalds Park</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>GB, United Kingdom</country>
+                  <placeName>Theobalds House</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.6885, -0.0564</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9951799/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q512922</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_281">
@@ -4645,7 +4641,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_331">
-                  <placeName>Poet's Corner</placeName>
+                  <placeName>Poets' Corner</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_87">Westminster Abbey</placeName>
                   </location>

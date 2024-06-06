@@ -2275,7 +2275,7 @@
     "literary_work": [
       {
         "id": 176,
-        "value": "Götterdämmerung: Siegfried's Death & Funeral March"
+        "value": "Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1511",
@@ -5885,7 +5885,7 @@
     "birth_place": [
       {
         "id": 162,
-        "value": "Eisleben Lutherstadt"
+        "value": "Lutherstadt Eisleben"
       }
     ],
     "birth_day": "1483-11-10",
@@ -5893,7 +5893,7 @@
     "death_place": [
       {
         "id": 162,
-        "value": "Eisleben Lutherstadt"
+        "value": "Lutherstadt Eisleben"
       }
     ],
     "death_day": "1546-02-18",
@@ -8460,18 +8460,13 @@
     "death_place": [
       {
         "id": 280,
-        "value": "Theobalds Park"
+        "value": "Theobalds House"
       }
     ],
     "death_day": "1625-03-27",
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [
-      {
-        "id": 82,
-        "value": "King James Version"
-      }
-    ],
+    "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q79972",
     "Title": [
       {
@@ -9071,7 +9066,12 @@
     ],
     "birth_day": null,
     "death_year": null,
-    "death_place": [],
+    "death_place": [
+      {
+        "id": 51,
+        "value": "Rome"
+      }
+    ],
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
@@ -11269,6 +11269,32 @@
         "value": "Books: Holiday bookings; List of recommendations from 1985"
       }
     ],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "248": {
+    "id": 248,
+    "order": "246.00000000000000000000",
+    "name": "\"nobleman\"",
+    "amp_id": "amp_person_248",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
     "wikidata": "",
     "Title": [],
     "person_event": [],
