@@ -412,7 +412,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Life",
+    "name": "LIFE",
     "wikidata": "https://www.wikidata.org/wiki/Q463198",
     "amp_id": "amp_organization_15",
     "founded_in_year": "1883",
@@ -424,12 +424,21 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 205,
+        "value": "\"article\""
+      },
+      {
+        "id": 206,
+        "value": "Autumn for the 'Age of Anxiety'"
+      }
+    ],
     "org_event": [],
     "person_org": [
       {
-        "id": 24,
-        "value": "person_org__24"
+        "id": 25,
+        "value": "person_org__25"
       }
     ],
     "gnd": "",

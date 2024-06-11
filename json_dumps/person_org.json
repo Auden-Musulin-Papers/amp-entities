@@ -578,16 +578,26 @@
     "id": 24,
     "order": "24.00000000000000000000",
     "person_org": "person_org__24",
+    "source": [],
+    "target": [],
+    "relation_type_object": [],
+    "start_date": null,
+    "end_date": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "person_org": "person_org__25",
     "source": [
       {
-        "id": 1,
-        "value": "Auden, W. H."
+        "id": 249,
+        "value": "Schott, Webster"
       }
     ],
     "target": [
       {
         "id": 15,
-        "value": "Life"
+        "value": "LIFE"
       }
     ],
     "relation_type_object": [

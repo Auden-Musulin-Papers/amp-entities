@@ -768,10 +768,6 @@
       {
         "id": 22,
         "value": "person_org__22"
-      },
-      {
-        "id": 24,
-        "value": "person_org__24"
       }
     ],
     "person_person": [
@@ -11303,6 +11299,37 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "249": {
+    "id": 249,
+    "order": "247.00000000000000000000",
+    "name": "Schott, Webster",
+    "amp_id": "amp_person_249",
+    "gnd": "https://d-nb.info/gnd/1241339090",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": "1927-09-08",
+    "death_year": null,
+    "death_place": [],
+    "death_day": "2020-12-26",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 25,
+        "value": "person_org__25"
+      }
+    ],
     "person_person": [],
     "PMB": ""
   }
