@@ -7894,20 +7894,42 @@
   "207": {
     "id": 207,
     "order": "200.00000000000000000000",
-    "name": "",
+    "name": "Ein Autor hat Bedenken",
     "lit_work_id": "lit_work_id_207",
-    "is_written_by": [],
+    "is_written_by": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
     "is_linked_with": "",
-    "has_year": null,
-    "type": [],
+    "has_year": "1965",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
     "version_of": [],
-    "language": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "",
-    "has_publisher": [],
-    "has_date": null,
+    "has_publisher": [
+      {
+        "id": 39,
+        "value": "Die Presse"
+      }
+    ],
+    "has_date": "1965-03-20",
     "is_review_of": [],
     "has_external_url": ""
   }

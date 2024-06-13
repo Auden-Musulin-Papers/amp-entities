@@ -1734,8 +1734,13 @@
                <date when="1970">1970</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_207">
-               <title/>
+            <bibl xml:id="lit_work_id_207" type="article">
+               <title>Ein Autor hat Bedenken</title>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1965">1965</date>
+               <lang>de</lang>
             </bibl>
       </listBibl>
       </body>
