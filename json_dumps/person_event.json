@@ -4942,5 +4942,51 @@
         "value": "is_activeparticipant_in"
       }
     ]
+  },
+  "265": {
+    "id": 265,
+    "order": "265.00000000000000000000",
+    "amp_id": "person_event__265",
+    "source": [
+      {
+        "id": 250,
+        "value": "Schenk, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 113,
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "266.00000000000000000000",
+    "amp_id": "person_event__266",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "target": [
+      {
+        "id": 113,
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 30,
+        "value": "is_passiveparticipant_in"
+      }
+    ]
   }
 }

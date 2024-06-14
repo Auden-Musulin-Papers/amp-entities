@@ -3575,17 +3575,11 @@
     "amp_id": "amp_event_id_96",
     "place_of_event": [
       {
-        "id": 157,
-        "value": "Vienna State Opera"
+        "id": 1,
+        "value": "Vienna"
       }
     ],
-    "has_type": [
-      {
-        "id": 6745,
-        "value": "historic",
-        "color": "light-gray"
-      }
-    ],
+    "has_type": [],
     "start_date": "1969-05-06",
     "wikidata": "",
     "person_event": [
@@ -3603,7 +3597,12 @@
     "evidence": null,
     "has_sub_type": null,
     "status": null,
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 20,
+        "value": "org_event__20"
+      }
+    ],
     "part_of": [
       {
         "id": 7,
@@ -4366,6 +4365,43 @@
       "color": "red"
     },
     "org_event": [],
+    "part_of": []
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "name": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
+    "amp_id": "amp_event_id_113",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "has_type": [],
+    "start_date": "1965-03-14",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 265,
+        "value": "person_event__265"
+      },
+      {
+        "id": 266,
+        "value": "person_event__266"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-06-04",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [
+      {
+        "id": 21,
+        "value": "org_event__21"
+      }
+    ],
     "part_of": []
   }
 }

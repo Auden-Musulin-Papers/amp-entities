@@ -1561,7 +1561,7 @@
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_96" notBefore-iso="1969-05-06" notAfter-iso="1969-05-06" type="historic">
+               <event xml:id="amp_event_id_96" notBefore-iso="1969-05-06" notAfter-iso="1969-05-06">
                   <label>Opera performance "Die Fledermaus" Vienna State Opera 1969-05-06</label>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_attendee_of">
@@ -1572,13 +1572,18 @@
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_157" type="location" subtype="is_event_location">
-                        <placeName>Vienna State Opera</placeName>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
                         <location type="coords">
-                           <geo>48.20323, 16.36912</geo>
+                           <geo>48.20849, 16.37208</geo>
                         </location>
                      </place>
                   </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_90" role="is_organizer_of">
+                        <orgName>Vienna State Opera</orgName>
+                     </org>
+                  </listOrg>
                </event>
                <event xml:id="amp_event_id_97" notBefore-iso="1969-06-14" notAfter-iso="1969-06-14" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1969-06-14</label>
@@ -1884,6 +1889,30 @@
                         </location>
                      </place>
                   </listPlace>
+               </event>
+               <event xml:id="amp_event_id_113" notBefore-iso="1965-03-14" notAfter-iso="1965-06-04">
+                  <label>Opera performance "The Rake's Progress" Vienna State Opera 1965-03-14--1965-06-04</label>
+                  <listPerson>
+                     <person sameAs="amp_person_250" role="is_activeparticipant_in">
+                        <persName>Schenk, Otto</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_passiveparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+                  <listOrg>
+                     <org sameAs="amp_organization_90" role="is_organizer_of">
+                        <orgName>Vienna State Opera</orgName>
+                     </org>
+                  </listOrg>
                </event>
             </listEvent>
          </div>

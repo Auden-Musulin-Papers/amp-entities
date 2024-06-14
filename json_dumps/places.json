@@ -117,6 +117,10 @@
       {
         "id": 222,
         "value": "Pack, Claus"
+      },
+      {
+        "id": 250,
+        "value": "Schenk, Otto"
       }
     ],
     "death_place": [
@@ -311,6 +315,10 @@
       {
         "id": 88,
         "value": "Österreichischer Rundfunk (Austrian Broadcasting Corporation)"
+      },
+      {
+        "id": 90,
+        "value": "Vienna State Opera"
       }
     ],
     "is_part_of": [
@@ -355,12 +363,20 @@
         "value": "Arrival W. H. Auden in Vienna from New York City 1968-02-12"
       },
       {
+        "id": 96,
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+      },
+      {
         "id": 105,
         "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
       },
       {
         "id": 112,
         "value": "Departure W. H. Auden to New York City from Vienna 1968-02-16"
+      },
+      {
+        "id": 113,
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
       }
     ],
     "alternative_link": null,
@@ -6864,48 +6880,6 @@
     "place_type_class": "A",
     "updated": true,
     "events": [],
-    "alternative_link": null,
-    "same_as": [],
-    "person_place": [],
-    "updated_geonames": true
-  },
-  "157": {
-    "id": 157,
-    "order": "157.00000000000000000000",
-    "name": "Vienna State Opera",
-    "amp_id": "amp_place_id_157",
-    "geonames_id": "https://sws.geonames.org/6618989/",
-    "birth_place": [],
-    "death_place": [],
-    "google_maps_coordinates": "",
-    "comments": "",
-    "organizations": [],
-    "is_part_of": [
-      {
-        "id": 1,
-        "value": "Vienna"
-      }
-    ],
-    "relation_types": [
-      {
-        "id": 16,
-        "value": "is_part_of"
-      }
-    ],
-    "wikidata": "http://www.wikidata.org/entity/Q209937",
-    "gnd": "https://d-nb.info/gnd/502324-5",
-    "geonames_coordinates": "48.20323, 16.36912",
-    "place_type": "spot, building, farm",
-    "country": "Austria",
-    "country_code": "AT",
-    "place_type_class": "S",
-    "updated": true,
-    "events": [
-      {
-        "id": 96,
-        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
-      }
-    ],
     "alternative_link": null,
     "same_as": [],
     "person_place": [],

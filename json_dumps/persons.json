@@ -1545,6 +1545,10 @@
       {
         "id": 228,
         "value": "person_event__228"
+      },
+      {
+        "id": 266,
+        "value": "person_event__266"
       }
     ],
     "maiden_name": null,
@@ -11332,6 +11336,47 @@
       {
         "id": 25,
         "value": "person_org__25"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "250": {
+    "id": 250,
+    "order": "248.00000000000000000000",
+    "name": "Schenk, Otto",
+    "amp_id": "amp_person_250",
+    "gnd": "https://d-nb.info/gnd/119276690",
+    "birth_year": "1930",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1930-06-12",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q88247",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 265,
+        "value": "person_event__265"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 24,
+        "value": "person_org__24"
       }
     ],
     "person_person": [],

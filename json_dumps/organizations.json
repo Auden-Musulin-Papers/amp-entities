@@ -2190,5 +2190,40 @@
     ],
     "gnd": "",
     "URL": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "88.00000000000000000000",
+    "name": "Vienna State Opera",
+    "wikidata": "http://www.wikidata.org/entity/Q209937",
+    "amp_id": "amp_organization_90",
+    "founded_in_year": "1955",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 20,
+        "value": "org_event__20"
+      },
+      {
+        "id": 21,
+        "value": "org_event__21"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 24,
+        "value": "person_org__24"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/502324-5",
+    "URL": ""
   }
 }

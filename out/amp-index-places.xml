@@ -2240,23 +2240,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4196533-4</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_157">
-                  <settlement type="S">
-                     <placeName>Vienna State Opera</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20323, 16.36912</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6618989/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209937</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/502324-5</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_158">
                   <settlement type="P">
                      <placeName>Prater</placeName>
