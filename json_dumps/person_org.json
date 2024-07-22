@@ -523,5 +523,105 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "person_org": "person_org__22",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 65,
+        "value": "The New Yorker"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "person_org": "person_org__23",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang"
+      }
+    ],
+    "target": [
+      {
+        "id": 26,
+        "value": "Europa Verlag"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "person_org": "person_org__24",
+    "source": [
+      {
+        "id": 250,
+        "value": "Schenk, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 90,
+        "value": "Vienna State Opera"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "person_org": "person_org__25",
+    "source": [
+      {
+        "id": 249,
+        "value": "Schott, Webster"
+      }
+    ],
+    "target": [
+      {
+        "id": 15,
+        "value": "LIFE"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

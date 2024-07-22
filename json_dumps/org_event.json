@@ -430,5 +430,51 @@
         "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25"
       }
     ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "org_event": "org_event__20",
+    "source": [
+      {
+        "id": 90,
+        "value": "Vienna State Opera"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 96,
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "org_event": "org_event__21",
+    "source": [
+      {
+        "id": 90,
+        "value": "Vienna State Opera"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 113,
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+      }
+    ]
   }
 }

@@ -11,7 +11,7 @@
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Stoxreiter</name>
+               <name>Daniel Elsner</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
@@ -469,7 +469,7 @@
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>US, United States</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                     <placeName key="amp_place_id_259">St. Mark's Place</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.72839, -73.98359</geo>
@@ -2240,23 +2240,6 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4196533-4</idno>
                   <note/>
                </place>
-               <place xml:id="amp_place_id_157">
-                  <settlement type="S">
-                     <placeName>Vienna State Opera</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>AT, Austria</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_1">Vienna</placeName>
-                  </location>
-                  <location type="coords">
-                     <geo>48.20323, 16.36912</geo>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6618989/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209937</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/502324-5</idno>
-                  <note/>
-               </place>
                <place xml:id="amp_place_id_158">
                   <settlement type="P">
                      <placeName>Prater</placeName>
@@ -2326,7 +2309,7 @@
                </place>
                <place xml:id="amp_place_id_162">
                   <settlement type="P">
-                     <placeName>Eisleben Lutherstadt</placeName>
+                     <placeName>Lutherstadt Eisleben</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
@@ -3644,7 +3627,7 @@
                <place xml:id="amp_place_id_259">
                   <placeName>St. Mark's Place</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_168">Manhattan</placeName>
+                     <placeName key="amp_place_id_247">East Village</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.7281, -73.98648</geo>
@@ -3978,18 +3961,14 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_280">
-                  <settlement type="S">
-                     <placeName>Theobalds Park</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>GB, United Kingdom</country>
+                  <placeName>Theobalds House</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                     <placeName key="amp_place_id_239">England</placeName>
                   </location>
                   <location type="coords">
                      <geo>51.6885, -0.0564</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/9951799/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q512922</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_281">
@@ -4027,18 +4006,14 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_283">
-                  <settlement type="A">
-                     <placeName>Straubing</placeName>
-                  </settlement>
-                  <desc type="entity_type">country, state, region,...</desc>
-                  <country>DE, Germany</country>
+                  <placeName>Straubing</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.88353, 12.57966</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6556452/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2826099/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7027</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4057970-0</idno>
                   <note/>
@@ -4649,7 +4624,7 @@
                   <note/>
                </place>
                <place xml:id="amp_place_id_331">
-                  <placeName>Poet's Corner</placeName>
+                  <placeName>Poets' Corner</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_87">Westminster Abbey</placeName>
                   </location>
@@ -4855,6 +4830,14 @@
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2646265/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1247779</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4129280-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_355">
+                  <placeName>Franz Biber Fleischhauer u. Gastwirt</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12902788/</idno>
                   <note/>
                </place>
             </listPlace>

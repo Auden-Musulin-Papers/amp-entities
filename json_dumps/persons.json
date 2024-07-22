@@ -177,8 +177,16 @@
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)"
       },
       {
+        "id": 104,
+        "value": "Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01"
+      },
+      {
         "id": 105,
         "value": "Statement (addressed to the Austrian tax authorities)"
+      },
+      {
+        "id": 106,
+        "value": "Statement (addressed to the Austrian tax authorities) (version In Retrospect)"
       },
       {
         "id": 107,
@@ -371,6 +379,14 @@
       {
         "id": 200,
         "value": "New Year Letter"
+      },
+      {
+        "id": 202,
+        "value": "W. H. Auden: Selected Poems"
+      },
+      {
+        "id": 203,
+        "value": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -701,6 +717,10 @@
       {
         "id": 263,
         "value": "person_event__263"
+      },
+      {
+        "id": 264,
+        "value": "person_event__264"
       }
     ],
     "maiden_name": "",
@@ -744,6 +764,10 @@
       {
         "id": 21,
         "value": "person_org__21"
+      },
+      {
+        "id": 22,
+        "value": "person_org__22"
       }
     ],
     "person_person": [
@@ -931,7 +955,8 @@
         "id": 215,
         "value": "relationship_person_id__215"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "2": {
     "id": 2,
@@ -969,10 +994,6 @@
       {
         "id": 47,
         "value": "The Years in Austria 1976-09-04--1980-12-01"
-      },
-      {
-        "id": 50,
-        "value": "Auden in Kirchstetten"
       },
       {
         "id": 87,
@@ -1061,10 +1082,6 @@
       {
         "id": 76,
         "value": "person_event__76"
-      },
-      {
-        "id": 91,
-        "value": "person_event__91"
       },
       {
         "id": 102,
@@ -1307,7 +1324,8 @@
         "id": 174,
         "value": "relationship_person_id__174"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "3": {
     "id": 3,
@@ -1347,7 +1365,7 @@
       }
     ],
     "maiden_name": "von Hofmannsthal",
-    "alternative_website": "https://pmb.acdh.oeaw.ac.at/entity/3220/",
+    "alternative_website": "",
     "updated": true,
     "person_place": [],
     "person_org": [],
@@ -1368,7 +1386,8 @@
         "id": 32,
         "value": "relationship_person_id__32"
       }
-    ]
+    ],
+    "PMB": "https://pmb.acdh.oeaw.ac.at/entity/3220/"
   },
   "4": {
     "id": 4,
@@ -1454,6 +1473,10 @@
       {
         "id": 181,
         "value": "The Entertainment of the Senses"
+      },
+      {
+        "id": 207,
+        "value": "Ein Autor hat Bedenken"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5093626",
@@ -1522,6 +1545,10 @@
       {
         "id": 228,
         "value": "person_event__228"
+      },
+      {
+        "id": 266,
+        "value": "person_event__266"
       }
     ],
     "maiden_name": null,
@@ -1595,7 +1622,8 @@
         "id": 212,
         "value": "relationship_person_id__212"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "5": {
     "id": 5,
@@ -1645,7 +1673,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "6": {
     "id": 6,
@@ -1685,7 +1714,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "7": {
     "id": 7,
@@ -1720,7 +1750,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "8": {
     "id": 8,
@@ -1801,7 +1832,8 @@
         "id": 127,
         "value": "relationship_person_id__127"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "9": {
     "id": 9,
@@ -1836,7 +1868,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "10": {
     "id": 10,
@@ -1876,7 +1909,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "11": {
     "id": 11,
@@ -1926,7 +1960,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "12": {
     "id": 12,
@@ -1961,7 +1996,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "13": {
     "id": 13,
@@ -2005,7 +2041,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "14": {
     "id": 14,
@@ -2050,7 +2087,8 @@
         "id": 160,
         "value": "relationship_person_id__160"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "15": {
     "id": 15,
@@ -2100,7 +2138,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "16": {
     "id": 16,
@@ -2157,7 +2196,8 @@
         "id": 157,
         "value": "relationship_person_id__157"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "17": {
     "id": 17,
@@ -2209,7 +2249,8 @@
         "id": 159,
         "value": "relationship_person_id__159"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "18": {
     "id": 18,
@@ -2238,7 +2279,7 @@
     "literary_work": [
       {
         "id": 176,
-        "value": "Götterdämmerung: Siegfried's Death & Funeral March"
+        "value": "Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q1511",
@@ -2249,7 +2290,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "19": {
     "id": 19,
@@ -2298,7 +2340,8 @@
         "id": 163,
         "value": "relationship_person_id__163"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "20": {
     "id": 20,
@@ -2333,7 +2376,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "21": {
     "id": 21,
@@ -2368,7 +2412,8 @@
         "id": 89,
         "value": "relationship_person_id__89"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "22": {
     "id": 22,
@@ -2407,7 +2452,8 @@
         "id": 165,
         "value": "relationship_person_id__165"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "23": {
     "id": 23,
@@ -2452,7 +2498,8 @@
         "id": 21,
         "value": "relationship_person_id__21"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "24": {
     "id": 24,
@@ -2487,7 +2534,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "25": {
     "id": 25,
@@ -2548,7 +2596,8 @@
         "id": 175,
         "value": "relationship_person_id__175"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "26": {
     "id": 26,
@@ -2583,7 +2632,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "27": {
     "id": 27,
@@ -2623,7 +2673,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "28": {
     "id": 28,
@@ -2658,7 +2709,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "29": {
     "id": 29,
@@ -2693,7 +2745,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "30": {
     "id": 30,
@@ -2728,7 +2781,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "31": {
     "id": 31,
@@ -2763,7 +2817,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "32": {
     "id": 32,
@@ -2815,7 +2870,8 @@
         "id": 90,
         "value": "relationship_person_id__90"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "33": {
     "id": 33,
@@ -2861,7 +2917,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "34": {
     "id": 34,
@@ -2901,7 +2958,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "35": {
     "id": 35,
@@ -2936,7 +2994,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "36": {
     "id": 36,
@@ -2971,7 +3030,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "37": {
     "id": 37,
@@ -3006,7 +3066,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "38": {
     "id": 38,
@@ -3041,7 +3102,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "39": {
     "id": 39,
@@ -3081,7 +3143,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "40": {
     "id": 40,
@@ -3125,7 +3188,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "41": {
     "id": 41,
@@ -3171,7 +3235,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "42": {
     "id": 42,
@@ -3221,7 +3286,8 @@
         "id": 36,
         "value": "relationship_person_id__36"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "43": {
     "id": 43,
@@ -3252,7 +3318,7 @@
     "Title": [],
     "person_event": [],
     "maiden_name": "Schlesinger",
-    "alternative_website": "https://pmb.acdh.oeaw.ac.at/entity/2292/",
+    "alternative_website": "",
     "updated": true,
     "person_place": [
       {
@@ -3270,7 +3336,8 @@
         "id": 35,
         "value": "relationship_person_id__35"
       }
-    ]
+    ],
+    "PMB": "https://pmb.acdh.oeaw.ac.at/entity/2292/"
   },
   "44": {
     "id": 44,
@@ -3301,7 +3368,7 @@
     "Title": [],
     "person_event": [],
     "maiden_name": null,
-    "alternative_website": "https://pmb.acdh.oeaw.ac.at/entity/3241/",
+    "alternative_website": "",
     "updated": true,
     "person_place": [
       {
@@ -3335,7 +3402,8 @@
         "id": 44,
         "value": "relationship_person_id__44"
       }
-    ]
+    ],
+    "PMB": "https://pmb.acdh.oeaw.ac.at/entity/3241/"
   },
   "45": {
     "id": 45,
@@ -3389,7 +3457,8 @@
         "id": 48,
         "value": "relationship_person_id__48"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "46": {
     "id": 46,
@@ -3427,7 +3496,8 @@
         "id": 47,
         "value": "relationship_person_id__47"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "47": {
     "id": 47,
@@ -3465,7 +3535,8 @@
         "id": 46,
         "value": "relationship_person_id__46"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "48": {
     "id": 48,
@@ -3511,7 +3582,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "49": {
     "id": 49,
@@ -3542,11 +3614,12 @@
     "Title": [],
     "person_event": [],
     "maiden_name": null,
-    "alternative_website": "https://pmb.acdh.oeaw.ac.at/entity/27100/",
+    "alternative_website": "",
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": "https://pmb.acdh.oeaw.ac.at/entity/27100/"
   },
   "51": {
     "id": 51,
@@ -3587,7 +3660,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "52": {
     "id": 52,
@@ -3622,7 +3696,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "53": {
     "id": 53,
@@ -3657,7 +3732,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "54": {
     "id": 54,
@@ -3730,7 +3806,8 @@
         "id": 169,
         "value": "relationship_person_id__169"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "55": {
     "id": 55,
@@ -3765,7 +3842,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "56": {
     "id": 56,
@@ -3800,7 +3878,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "57": {
     "id": 57,
@@ -3841,7 +3920,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "58": {
     "id": 58,
@@ -3887,7 +3967,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "59": {
     "id": 59,
@@ -3936,7 +4017,8 @@
         "id": 149,
         "value": "relationship_person_id__149"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "60": {
     "id": 60,
@@ -3976,7 +4058,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "61": {
     "id": 61,
@@ -4016,7 +4099,8 @@
         "value": "person_org__18"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "62": {
     "id": 62,
@@ -4056,7 +4140,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "63": {
     "id": 63,
@@ -4096,7 +4181,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "64": {
     "id": 64,
@@ -4136,7 +4222,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "65": {
     "id": 65,
@@ -4171,7 +4258,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "66": {
     "id": 66,
@@ -4211,7 +4299,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "67": {
     "id": 67,
@@ -4255,7 +4344,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "68": {
     "id": 68,
@@ -4295,7 +4385,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "69": {
     "id": 69,
@@ -4341,7 +4432,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "70": {
     "id": 70,
@@ -4381,7 +4473,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "71": {
     "id": 71,
@@ -4427,7 +4520,8 @@
         "id": 196,
         "value": "relationship_person_id__196"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "72": {
     "id": 72,
@@ -4472,7 +4566,8 @@
         "id": 199,
         "value": "relationship_person_id__199"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "73": {
     "id": 73,
@@ -4517,7 +4612,8 @@
         "id": 197,
         "value": "relationship_person_id__197"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "74": {
     "id": 74,
@@ -4568,7 +4664,8 @@
         "id": 201,
         "value": "relationship_person_id__201"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "75": {
     "id": 75,
@@ -4619,7 +4716,8 @@
         "id": 204,
         "value": "relationship_person_id__204"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "76": {
     "id": 76,
@@ -4654,7 +4752,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "78": {
     "id": 78,
@@ -4688,6 +4787,14 @@
       {
         "id": 103,
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)"
+      },
+      {
+        "id": 104,
+        "value": "Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01"
+      },
+      {
+        "id": 106,
+        "value": "Statement (addressed to the Austrian tax authorities) (version In Retrospect)"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
@@ -4704,7 +4811,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "79": {
     "id": 79,
@@ -4763,7 +4871,8 @@
         "id": 125,
         "value": "relationship_person_id__125"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "80": {
     "id": 80,
@@ -4814,7 +4923,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "81": {
     "id": 81,
@@ -4854,7 +4964,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "82": {
     "id": 82,
@@ -4894,7 +5005,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "83": {
     "id": 83,
@@ -4934,7 +5046,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "84": {
     "id": 84,
@@ -4974,7 +5087,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "85": {
     "id": 85,
@@ -5014,7 +5128,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "86": {
     "id": 86,
@@ -5054,7 +5169,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "87": {
     "id": 87,
@@ -5100,7 +5216,8 @@
         "id": 202,
         "value": "relationship_person_id__202"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "88": {
     "id": 88,
@@ -5159,7 +5276,8 @@
         "id": 105,
         "value": "relationship_person_id__105"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "89": {
     "id": 89,
@@ -5204,7 +5322,8 @@
         "id": 214,
         "value": "relationship_person_id__214"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "90": {
     "id": 90,
@@ -5244,7 +5363,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "91": {
     "id": 91,
@@ -5293,7 +5413,8 @@
         "id": 92,
         "value": "relationship_person_id__92"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "93": {
     "id": 93,
@@ -5357,7 +5478,8 @@
         "id": 173,
         "value": "relationship_person_id__173"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "94": {
     "id": 94,
@@ -5416,7 +5538,8 @@
         "id": 76,
         "value": "relationship_person_id__76"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "95": {
     "id": 95,
@@ -5456,7 +5579,8 @@
         "id": 8,
         "value": "relationship_person_id__8"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "96": {
     "id": 96,
@@ -5509,7 +5633,8 @@
         "id": 84,
         "value": "relationship_person_id__84"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "97": {
     "id": 97,
@@ -5562,7 +5687,8 @@
         "id": 193,
         "value": "relationship_person_id__193"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "98": {
     "id": 98,
@@ -5603,6 +5729,14 @@
       {
         "id": 117,
         "value": "Unpublished volume of memoirs of W. H. Auden"
+      },
+      {
+        "id": 202,
+        "value": "W. H. Auden: Selected Poems"
+      },
+      {
+        "id": 203,
+        "value": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5344431",
@@ -5647,7 +5781,8 @@
         "id": 187,
         "value": "relationship_person_id__187"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "99": {
     "id": 99,
@@ -5691,7 +5826,8 @@
       }
     ],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "100": {
     "id": 100,
@@ -5740,7 +5876,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "102": {
     "id": 102,
@@ -5752,7 +5889,7 @@
     "birth_place": [
       {
         "id": 162,
-        "value": "Eisleben Lutherstadt"
+        "value": "Lutherstadt Eisleben"
       }
     ],
     "birth_day": "1483-11-10",
@@ -5760,7 +5897,7 @@
     "death_place": [
       {
         "id": 162,
-        "value": "Eisleben Lutherstadt"
+        "value": "Lutherstadt Eisleben"
       }
     ],
     "death_day": "1546-02-18",
@@ -5780,7 +5917,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "105": {
     "id": 105,
@@ -5820,7 +5958,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "106": {
     "id": 106,
@@ -5860,7 +5999,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "107": {
     "id": 107,
@@ -5907,7 +6047,8 @@
         "id": 213,
         "value": "relationship_person_id__213"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "108": {
     "id": 108,
@@ -5937,7 +6078,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "109": {
     "id": 109,
@@ -5996,7 +6138,8 @@
         "id": 133,
         "value": "relationship_person_id__133"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "111": {
     "id": 111,
@@ -6036,7 +6179,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "112": {
     "id": 112,
@@ -6076,7 +6220,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "114": {
     "id": 114,
@@ -6116,7 +6261,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "115": {
     "id": 115,
@@ -6168,7 +6314,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "116": {
     "id": 116,
@@ -6212,7 +6359,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "118": {
     "id": 118,
@@ -6253,7 +6401,8 @@
         "value": "person_org__9"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "119": {
     "id": 119,
@@ -6288,7 +6437,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "120": {
     "id": 120,
@@ -6333,7 +6483,8 @@
         "value": "person_org__12"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "121": {
     "id": 121,
@@ -6382,7 +6533,8 @@
         "id": 185,
         "value": "relationship_person_id__185"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "122": {
     "id": 122,
@@ -6422,7 +6574,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "123": {
     "id": 123,
@@ -6463,7 +6616,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "124": {
     "id": 124,
@@ -6498,7 +6652,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "125": {
     "id": 125,
@@ -6523,7 +6678,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "126": {
     "id": 126,
@@ -6553,7 +6709,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "127": {
     "id": 127,
@@ -6598,7 +6755,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "128": {
     "id": 128,
@@ -6633,7 +6791,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "129": {
     "id": 129,
@@ -6664,10 +6823,6 @@
     "Title": [],
     "person_event": [
       {
-        "id": 3,
-        "value": "person_event__3"
-      },
-      {
         "id": 20,
         "value": "person_event__20"
       }
@@ -6677,7 +6832,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "130": {
     "id": 130,
@@ -6712,7 +6868,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "131": {
     "id": 131,
@@ -6752,7 +6909,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "132": {
     "id": 132,
@@ -6787,7 +6945,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "133": {
     "id": 133,
@@ -6828,7 +6987,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "134": {
     "id": 134,
@@ -6874,7 +7034,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "135": {
     "id": 135,
@@ -6904,7 +7065,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "136": {
     "id": 136,
@@ -6953,7 +7115,8 @@
         "id": 178,
         "value": "relationship_person_id__178"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "137": {
     "id": 137,
@@ -7015,9 +7178,14 @@
       {
         "id": 8,
         "value": "person_org__8"
+      },
+      {
+        "id": 23,
+        "value": "person_org__23"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "138": {
     "id": 138,
@@ -7080,7 +7248,8 @@
         "id": 60,
         "value": "relationship_person_id__60"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "139": {
     "id": 139,
@@ -7121,7 +7290,8 @@
         "id": 61,
         "value": "relationship_person_id__61"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "140": {
     "id": 140,
@@ -7167,7 +7337,8 @@
         "id": 62,
         "value": "relationship_person_id__62"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "141": {
     "id": 141,
@@ -7222,7 +7393,8 @@
         "id": 64,
         "value": "relationship_person_id__64"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "142": {
     "id": 142,
@@ -7268,7 +7440,8 @@
         "id": 58,
         "value": "relationship_person_id__58"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "143": {
     "id": 143,
@@ -7308,7 +7481,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "144": {
     "id": 144,
@@ -7348,7 +7522,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "145": {
     "id": 145,
@@ -7388,7 +7563,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "146": {
     "id": 146,
@@ -7434,7 +7610,8 @@
         "id": 65,
         "value": "relationship_person_id__65"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "147": {
     "id": 147,
@@ -7474,7 +7651,8 @@
       }
     ],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "148": {
     "id": 148,
@@ -7499,41 +7677,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
-  },
-  "149": {
-    "id": 149,
-    "order": "148.00000000000000000000",
-    "name": "Gray, Dorian",
-    "amp_id": "amp_person_149",
-    "gnd": "https://d-nb.info/gnd/132210649",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
-    "death_place": [],
-    "death_day": null,
-    "comment": "",
-    "fictional_or_real": {
-      "id": 6661,
-      "value": "fictional",
-      "color": "light-orange"
-    },
-    "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q30611756",
-    "Title": [],
-    "person_event": [],
-    "maiden_name": null,
-    "alternative_website": null,
-    "updated": false,
-    "person_place": [],
-    "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "150": {
     "id": 150,
     "order": "149.00000000000000000000",
-    "name": "Farnan, Dorothy Jean",
+    "name": "Farnan, Dorothy J.",
     "amp_id": "amp_person_150",
     "gnd": "",
     "birth_year": "1919",
@@ -7573,7 +7723,8 @@
         "id": 71,
         "value": "relationship_person_id__71"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "151": {
     "id": 151,
@@ -7613,7 +7764,8 @@
         "id": 172,
         "value": "relationship_person_id__172"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "152": {
     "id": 152,
@@ -7653,7 +7805,8 @@
       }
     ],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "153": {
     "id": 153,
@@ -7694,7 +7847,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "155": {
     "id": 155,
@@ -7729,7 +7883,8 @@
         "id": 86,
         "value": "relationship_person_id__86"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "156": {
     "id": 156,
@@ -7780,7 +7935,8 @@
         "value": "person_org__10"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "157": {
     "id": 157,
@@ -7815,7 +7971,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "158": {
     "id": 158,
@@ -7860,7 +8017,8 @@
         "value": "person_org__14"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "159": {
     "id": 159,
@@ -7885,7 +8043,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "160": {
     "id": 160,
@@ -7919,7 +8078,8 @@
         "id": 70,
         "value": "relationship_person_id__70"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "161": {
     "id": 161,
@@ -7949,7 +8109,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "163": {
     "id": 163,
@@ -7989,7 +8150,8 @@
         "value": "person_org__17"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "164": {
     "id": 164,
@@ -8029,7 +8191,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "165": {
     "id": 165,
@@ -8064,7 +8227,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "166": {
     "id": 166,
@@ -8110,7 +8274,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "167": {
     "id": 167,
@@ -8192,7 +8357,8 @@
         "id": 171,
         "value": "relationship_person_id__171"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "168": {
     "id": 168,
@@ -8232,7 +8398,8 @@
         "id": 81,
         "value": "relationship_person_id__81"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "169": {
     "id": 169,
@@ -8276,7 +8443,8 @@
         "id": 82,
         "value": "relationship_person_id__82"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "170": {
     "id": 170,
@@ -8296,18 +8464,13 @@
     "death_place": [
       {
         "id": 280,
-        "value": "Theobalds Park"
+        "value": "Theobalds House"
       }
     ],
     "death_day": "1625-03-27",
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [
-      {
-        "id": 82,
-        "value": "King James Version"
-      }
-    ],
+    "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q79972",
     "Title": [
       {
@@ -8322,7 +8485,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "171": {
     "id": 171,
@@ -8357,7 +8521,8 @@
         "id": 87,
         "value": "relationship_person_id__87"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "172": {
     "id": 172,
@@ -8397,7 +8562,8 @@
         "id": 211,
         "value": "relationship_person_id__211"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "173": {
     "id": 173,
@@ -8452,7 +8618,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "174": {
     "id": 174,
@@ -8477,7 +8644,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "175": {
     "id": 175,
@@ -8511,7 +8679,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "176": {
     "id": 176,
@@ -8565,7 +8734,8 @@
         "id": 162,
         "value": "relationship_person_id__162"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "177": {
     "id": 177,
@@ -8590,7 +8760,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "178": {
     "id": 178,
@@ -8636,7 +8807,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "179": {
     "id": 179,
@@ -8661,7 +8833,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "180": {
     "id": 180,
@@ -8701,7 +8874,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "181": {
     "id": 181,
@@ -8742,7 +8916,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "182": {
     "id": 182,
@@ -8772,7 +8947,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "183": {
     "id": 183,
@@ -8827,7 +9003,8 @@
         "id": 103,
         "value": "relationship_person_id__103"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "184": {
     "id": 184,
@@ -8875,7 +9052,8 @@
         "id": 106,
         "value": "relationship_person_id__106"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "190": {
     "id": 190,
@@ -8892,7 +9070,12 @@
     ],
     "birth_day": null,
     "death_year": null,
-    "death_place": [],
+    "death_place": [
+      {
+        "id": 51,
+        "value": "Rome"
+      }
+    ],
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
@@ -8905,7 +9088,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "191": {
     "id": 191,
@@ -8960,7 +9144,8 @@
         "id": 111,
         "value": "relationship_person_id__111"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "192": {
     "id": 192,
@@ -9000,7 +9185,8 @@
         "id": 210,
         "value": "relationship_person_id__210"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "193": {
     "id": 193,
@@ -9039,7 +9225,8 @@
         "id": 209,
         "value": "relationship_person_id__209"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "195": {
     "id": 195,
@@ -9079,7 +9266,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "196": {
     "id": 196,
@@ -9120,7 +9308,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "197": {
     "id": 197,
@@ -9151,7 +9340,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "198": {
     "id": 198,
@@ -9181,7 +9371,8 @@
       }
     ],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "199": {
     "id": 199,
@@ -9221,7 +9412,8 @@
         "value": "person_org__6"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "200": {
     "id": 200,
@@ -9274,7 +9466,8 @@
         "id": 192,
         "value": "relationship_person_id__192"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "201": {
     "id": 201,
@@ -9314,7 +9507,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "202": {
     "id": 202,
@@ -9354,7 +9548,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "203": {
     "id": 203,
@@ -9394,7 +9589,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "204": {
     "id": 204,
@@ -9456,12 +9652,13 @@
         "id": 134,
         "value": "relationship_person_id__134"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "205": {
     "id": 205,
     "order": "204.00000000000000000000",
-    "name": "Schikaneder , Emanuel",
+    "name": "Schikaneder, Emanuel",
     "amp_id": "amp_person_205",
     "gnd": "https://d-nb.info/gnd/11860757X",
     "birth_year": "1751",
@@ -9500,7 +9697,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "206": {
     "id": 206,
@@ -9515,7 +9713,7 @@
         "value": "Ceneda"
       }
     ],
-    "birth_day": "1749-01-01",
+    "birth_day": "1749-03-10",
     "death_year": "1838",
     "death_place": [
       {
@@ -9534,10 +9732,6 @@
       {
         "id": 22,
         "value": "Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)"
-      },
-      {
-        "id": 143,
-        "value": "Il dissoluto punito ossia Il Don Giovanni"
       }
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q268166",
@@ -9548,7 +9742,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "207": {
     "id": 207,
@@ -9588,7 +9783,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "208": {
     "id": 208,
@@ -9628,7 +9824,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "209": {
     "id": 209,
@@ -9673,7 +9870,8 @@
         "id": 183,
         "value": "relationship_person_id__183"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "210": {
     "id": 210,
@@ -9718,7 +9916,8 @@
         "id": 184,
         "value": "relationship_person_id__184"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "211": {
     "id": 211,
@@ -9763,7 +9962,8 @@
         "id": 180,
         "value": "relationship_person_id__180"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "212": {
     "id": 212,
@@ -9809,7 +10009,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "213": {
     "id": 213,
@@ -9860,7 +10061,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "214": {
     "id": 214,
@@ -9906,7 +10108,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "215": {
     "id": 215,
@@ -9946,7 +10149,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "216": {
     "id": 216,
@@ -9992,7 +10196,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "217": {
     "id": 217,
@@ -10032,7 +10237,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "218": {
     "id": 218,
@@ -10072,7 +10278,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "219": {
     "id": 219,
@@ -10112,7 +10319,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "220": {
     "id": 220,
@@ -10152,7 +10360,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "221": {
     "id": 221,
@@ -10192,7 +10401,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "222": {
     "id": 222,
@@ -10232,7 +10442,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "223": {
     "id": 223,
@@ -10262,7 +10473,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "225": {
     "id": 225,
@@ -10302,7 +10514,8 @@
         "id": 108,
         "value": "relationship_person_id__108"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "226": {
     "id": 226,
@@ -10337,7 +10550,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "227": {
     "id": 227,
@@ -10372,7 +10586,8 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "228": {
     "id": 228,
@@ -10407,7 +10622,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "229": {
     "id": 229,
@@ -10442,7 +10658,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "230": {
     "id": 230,
@@ -10482,7 +10699,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "231": {
     "id": 231,
@@ -10512,7 +10730,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "232": {
     "id": 232,
@@ -10537,7 +10756,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "233": {
     "id": 233,
@@ -10562,7 +10782,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "234": {
     "id": 234,
@@ -10603,7 +10824,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "235": {
     "id": 235,
@@ -10649,7 +10871,8 @@
         "id": 167,
         "value": "relationship_person_id__167"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "237": {
     "id": 237,
@@ -10674,7 +10897,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "238": {
     "id": 238,
@@ -10710,7 +10934,8 @@
         "id": 176,
         "value": "relationship_person_id__176"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "239": {
     "id": 239,
@@ -10750,7 +10975,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "240": {
     "id": 240,
@@ -10789,7 +11015,8 @@
         "id": 67,
         "value": "relationship_person_id__67"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "241": {
     "id": 241,
@@ -10820,7 +11047,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "242": {
     "id": 242,
@@ -10861,7 +11089,8 @@
         "id": 186,
         "value": "relationship_person_id__186"
       }
-    ]
+    ],
+    "PMB": ""
   },
   "243": {
     "id": 243,
@@ -10901,7 +11130,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "244": {
     "id": 244,
@@ -10942,7 +11172,8 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "245": {
     "id": 245,
@@ -10983,13 +11214,81 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
   },
   "246": {
     "id": 246,
     "order": "244.00000000000000000000",
-    "name": "",
+    "name": "Tomalin, Claire",
     "amp_id": "amp_person_246",
+    "gnd": "https://d-nb.info/gnd/138394636",
+    "birth_year": "1933",
+    "birth_place": [
+      {
+        "id": 56,
+        "value": "London"
+      }
+    ],
+    "birth_day": "1933-06-20",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 204,
+        "value": "Books: Holiday bookings; List of recommendations from 1985"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q52207",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "247": {
+    "id": 247,
+    "order": "245.00000000000000000000",
+    "name": "French, Sean",
+    "amp_id": "amp_person_247",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 204,
+        "value": "Books: Holiday bookings; List of recommendations from 1985"
+      }
+    ],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "248": {
+    "id": 248,
+    "order": "246.00000000000000000000",
+    "name": "\"nobleman\"",
+    "amp_id": "amp_person_248",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],
@@ -11008,6 +11307,79 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "PMB": ""
+  },
+  "249": {
+    "id": 249,
+    "order": "247.00000000000000000000",
+    "name": "Schott, Webster",
+    "amp_id": "amp_person_249",
+    "gnd": "https://d-nb.info/gnd/1241339090",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": "1927-09-08",
+    "death_year": null,
+    "death_place": [],
+    "death_day": "2020-12-26",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 25,
+        "value": "person_org__25"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "250": {
+    "id": 250,
+    "order": "248.00000000000000000000",
+    "name": "Schenk, Otto",
+    "amp_id": "amp_person_250",
+    "gnd": "https://d-nb.info/gnd/119276690",
+    "birth_year": "1930",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "birth_day": "1930-06-12",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q88247",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 265,
+        "value": "person_event__265"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 24,
+        "value": "person_org__24"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
   }
 }

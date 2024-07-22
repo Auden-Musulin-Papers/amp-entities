@@ -11,7 +11,7 @@
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Stoxreiter</name>
+               <name>Daniel Elsner</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
@@ -134,7 +134,7 @@
                   <persName>Mozart, Wolfgang Amadeus</persName>
                </author>
                <author ref="#amp_person_205">
-                  <persName>Schikaneder , Emanuel</persName>
+                  <persName>Schikaneder, Emanuel</persName>
                </author>
                <date when="1791">1791</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5064</idno>
@@ -268,7 +268,7 @@
             <bibl xml:id="lit_work_id_21" type="libretto">
                <title>Die Zauberflöte (The Magic Flute)</title>
                <author ref="#amp_person_205">
-                  <persName>Schikaneder , Emanuel</persName>
+                  <persName>Schikaneder, Emanuel</persName>
                </author>
                <date when="1791">1791</date>
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/4275395-8</idno>
@@ -494,7 +494,7 @@
             <bibl xml:id="lit_work_id_48" type="biographical text">
                <title>Auden in Love</title>
                <author ref="#amp_person_150">
-                  <persName>Farnan, Dorothy Jean</persName>
+                  <persName>Farnan, Dorothy J.</persName>
                </author>
                <date when="1984">1984</date>
                <lang>en</lang>
@@ -505,13 +505,6 @@
                   <persName>Mendelson, Edward</persName>
                </author>
                <date when="1981">1981</date>
-               <lang>en</lang>
-            </bibl>
-            <bibl xml:id="lit_work_id_50" type="biographical text">
-               <title>Auden in Kirchstetten</title>
-               <author ref="#amp_person_2">
-                  <persName>Musulin, Stella Mary Bellairs</persName>
-               </author>
                <lang>en</lang>
             </bibl>
             <bibl xml:id="lit_work_id_51" type="reference work">
@@ -745,9 +738,6 @@
             </bibl>
             <bibl xml:id="lit_work_id_82" type="religious text">
                <title>King James Version</title>
-               <author ref="#amp_person_170">
-                  <persName>VI and I, James</persName>
-               </author>
                <date when="1611">1611</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
                <lang>en</lang>
@@ -912,8 +902,14 @@
             </bibl>
             <bibl xml:id="lit_work_id_104" type="legal document">
                <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
+               </author>
+               <author ref="#amp_person_78">
+                  <persName>Spiel, Hilde</persName>
                </author>
                <lang>en</lang>
             </bibl>
@@ -926,8 +922,14 @@
             </bibl>
             <bibl xml:id="lit_work_id_106" type="legal document">
                <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
+               </author>
+               <author ref="#amp_person_78">
+                  <persName>Spiel, Hilde</persName>
                </author>
                <lang>en</lang>
             </bibl>
@@ -953,7 +955,7 @@
                <author ref="#amp_person_102">
                   <persName>Luther, Martin</persName>
                </author>
-               <date when="1534">1534</date>
+               <date when="1545">1545</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
                <lang>de</lang>
             </bibl>
@@ -966,6 +968,7 @@
                <author ref="#amp_person_195">
                   <persName>Mayhew, Henry</persName>
                </author>
+               <date when="1851">1851</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1217731</idno>
                <lang>en</lang>
             </bibl>
@@ -1224,15 +1227,6 @@
                <date when="1970">1970</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_143" type="libretto">
-               <title>Il dissoluto punito ossia Il Don Giovanni</title>
-               <author ref="#amp_person_206">
-                  <persName>Da Ponte, Lorenzo</persName>
-               </author>
-               <date when="1787">1787</date>
-               <idno type="URI" subtype="GND">https://d-nb.info/gnd/4278692-7</idno>
-               <lang>it</lang>
-            </bibl>
             <bibl xml:id="lit_work_id_148" type="libretto">
                <title>The Magic Flute</title>
                <author ref="#amp_person_1">
@@ -1463,13 +1457,12 @@
                <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_176" type="opera">
-               <title>Götterdämmerung: Siegfried's Death &amp; Funeral March</title>
+               <title>Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)</title>
                <author ref="#amp_person_18">
                   <persName>Wagner, Richard</persName>
                </author>
-               <date when="1874">1874</date>
+               <date when="1876">1876</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q272029</idno>
-               <lang>de</lang>
             </bibl>
             <bibl xml:id="lit_work_id_177" type="poem">
                <title>The Truly Great</title>
@@ -1698,6 +1691,56 @@
                </author>
                <date when="1964">1964</date>
                <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_202" type="book of poems">
+               <title>W. H. Auden: Selected Poems</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1979">1979</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_203" type="collection of plays">
+               <title>Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</title>
+               <author ref="#amp_person_1">
+                  <persName>Auden, W. H.</persName>
+               </author>
+               <author ref="#amp_person_98">
+                  <persName>Mendelson, Edward</persName>
+               </author>
+               <date when="1988">1988</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_204" type="article">
+               <title>Books: Holiday bookings; List of recommendations from 1985</title>
+               <author ref="#amp_person_246">
+                  <persName>Tomalin, Claire</persName>
+               </author>
+               <author ref="#amp_person_247">
+                  <persName>French, Sean</persName>
+               </author>
+               <date when="1985">1985</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_205" type="article">
+               <title>"article"</title>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_206" type="article">
+               <title>Autumn for the 'Age of Anxiety'</title>
+               <date when="1970">1970</date>
+               <lang>en</lang>
+            </bibl>
+            <bibl xml:id="lit_work_id_207" type="article">
+               <title>Ein Autor hat Bedenken</title>
+               <author ref="#amp_person_4">
+                  <persName>Kallman, Chester</persName>
+               </author>
+               <date when="1965">1965</date>
+               <lang>de</lang>
             </bibl>
       </listBibl>
       </body>

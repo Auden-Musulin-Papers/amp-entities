@@ -11,7 +11,7 @@
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Stoxreiter</name>
+               <name>Daniel Elsner</name>
             </respStmt>
             <funder xmlns="http://www.tei-c.org/ns/1.0">
                <name>FWF Der Wissenschaftsfond.</name>
@@ -116,7 +116,9 @@
                      <bibl n="lit_work_id_101">On Installing an American Kitchen in Lower Austria</bibl>
                      <bibl n="lit_work_id_102">For Friends Only</bibl>
                      <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
+                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</bibl>
                      <bibl n="lit_work_id_105">Statement (addressed to the Austrian tax authorities)</bibl>
+                     <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
                      <bibl n="lit_work_id_107">Elegy</bibl>
                      <bibl n="lit_work_id_112">A Very Inquisitive Old Party</bibl>
                      <bibl n="lit_work_id_116">Secondary Worlds</bibl>
@@ -165,6 +167,8 @@
                      <bibl n="lit_work_id_196">Selected Poetry of W. H. Auden: Second Edition</bibl>
                      <bibl n="lit_work_id_197">Selected Poems</bibl>
                      <bibl n="lit_work_id_200">New Year Letter</bibl>
+                     <bibl n="lit_work_id_202">W. H. Auden: Selected Poems</bibl>
+                     <bibl n="lit_work_id_203">Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -190,7 +194,6 @@
                      <bibl n="lit_work_id_45">Austria: People and Landscape</bibl>
                      <bibl n="lit_work_id_46">In Retrospect</bibl>
                      <bibl n="lit_work_id_47">The Years in Austria 1976-09-04--1980-12-01</bibl>
-                     <bibl n="lit_work_id_50">Auden in Kirchstetten</bibl>
                      <bibl n="lit_work_id_87">Fleißaufgaben in Nächstenliebe</bibl>
                      <bibl n="lit_work_id_91">Freedom and Necessity in the Arts (translation Stella Musulin Janko Musulin 1970-05-21--1970-06-10)</bibl>
                      <bibl n="lit_work_id_93">Joseph Weinheber (prose translation Elsa Musulin and Stella Musulin)</bibl>
@@ -264,6 +267,7 @@
                      <bibl n="lit_work_id_152">Arcifanfano, King of Fools; or, It's Always Too Late to Learn</bibl>
                      <bibl n="lit_work_id_180">Delia</bibl>
                      <bibl n="lit_work_id_181">The Entertainment of the Senses</bibl>
+                     <bibl n="lit_work_id_207">Ein Autor hat Bedenken</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -527,7 +531,7 @@
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594117</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1511</idno>
                   <listBibl>
-                     <bibl n="lit_work_id_176">Götterdämmerung: Siegfried's Death &amp; Funeral March</bibl>
+                     <bibl n="lit_work_id_176">Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_19">
@@ -1675,6 +1679,8 @@
                   <listBibl>
                      <bibl n="lit_work_id_67">Gedichte/Poems</bibl>
                      <bibl n="lit_work_id_103">Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</bibl>
+                     <bibl n="lit_work_id_104">Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</bibl>
+                     <bibl n="lit_work_id_106">Statement (addressed to the Austrian tax authorities) (version In Retrospect)</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_79">
@@ -2067,6 +2073,8 @@
                      <bibl n="lit_work_id_53">Forewords and Afterwords</bibl>
                      <bibl n="lit_work_id_80">The English Auden: Poems, Essays and Dramatic Writings, 1927-1939</bibl>
                      <bibl n="lit_work_id_117">Unpublished volume of memoirs of W. H. Auden</bibl>
+                     <bibl n="lit_work_id_202">W. H. Auden: Selected Poems</bibl>
+                     <bibl n="lit_work_id_203">Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_99">
@@ -2114,13 +2122,13 @@
                   <birth>
                      <date when-iso="1483-11-10">1483-11-10</date>
                      <settlement key="amp_place_id_162">
-                        <placeName>Eisleben Lutherstadt</placeName>
+                        <placeName>Lutherstadt Eisleben</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date when-iso="1546-02-18">1546-02-18</date>
                      <settlement key="amp_place_id_162">
-                        <placeName>Eisleben Lutherstadt</placeName>
+                        <placeName>Lutherstadt Eisleben</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118575449</idno>
@@ -2862,17 +2870,9 @@
                      <surname>N/A_5</surname>
                   </persName>
                </person>
-               <person xml:id="amp_person_149">
-                  <persName>
-                     <forename>Dorian</forename>
-                     <surname>Gray</surname>
-                  </persName>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/132210649</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q30611756</idno>
-               </person>
                <person xml:id="amp_person_150">
                   <persName>
-                     <forename>Dorothy Jean</forename>
+                     <forename>Dorothy J.</forename>
                      <surname>Farnan</surname>
                   </persName>
                   <birth>
@@ -3176,14 +3176,11 @@
                   <death>
                      <date when-iso="1625-03-27">1625-03-27</date>
                      <settlement key="amp_place_id_280">
-                        <placeName>Theobalds Park</placeName>
+                        <placeName>Theobalds House</placeName>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118639889</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q79972</idno>
-                  <listBibl>
-                     <bibl n="lit_work_id_82">King James Version</bibl>
-                  </listBibl>
                </person>
                <person xml:id="amp_person_171">
                   <persName>
@@ -3590,7 +3587,7 @@
                <person xml:id="amp_person_205">
                   <persName>
                      <forename>Emanuel</forename>
-                     <surname>Schikaneder </surname>
+                     <surname>Schikaneder</surname>
                   </persName>
                   <birth>
                      <date when-iso="1751-09-01">1751-09-01</date>
@@ -3617,7 +3614,7 @@
                      <surname>Da Ponte</surname>
                   </persName>
                   <birth>
-                     <date when-iso="1749-01-01">1749-01-01</date>
+                     <date when-iso="1749-03-10">1749-03-10</date>
                      <settlement key="amp_place_id_284">
                         <placeName>Ceneda</placeName>
                      </settlement>
@@ -3632,7 +3629,6 @@
                   <listBibl>
                      <bibl n="lit_work_id_8">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
                      <bibl n="lit_work_id_22">Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)</bibl>
-                     <bibl n="lit_work_id_143">Il dissoluto punito ossia Il Don Giovanni</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_207">
@@ -4271,9 +4267,62 @@
                </person>
                <person xml:id="amp_person_246">
                   <persName>
-                     <forename/>
-                     <surname/>
+                     <forename>Claire</forename>
+                     <surname>Tomalin</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1933-06-20">1933-06-20</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/138394636</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q52207</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_204">Books: Holiday bookings; List of recommendations from 1985</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_247">
+                  <persName>
+                     <forename>Sean</forename>
+                     <surname>French</surname>
+                  </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_204">Books: Holiday bookings; List of recommendations from 1985</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="amp_person_248">
+                  <persName>
+                     <forename/>
+                     <surname>"nobleman"</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_249">
+                  <persName>
+                     <forename>Webster</forename>
+                     <surname>Schott</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1927-09-08">1927-09-08</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2020-12-26">2020-12-26</date>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1241339090</idno>
+               </person>
+               <person xml:id="amp_person_250">
+                  <persName>
+                     <forename>Otto</forename>
+                     <surname>Schenk</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1930-06-12">1930-06-12</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/119276690</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q88247</idno>
                </person>
             </listPerson>
          </div>

@@ -27,7 +27,7 @@
     "wikidata": "https://www.wikidata.org/wiki/Q463281",
     "amp_id": "amp_organization_2",
     "founded_in_year": "1898",
-    "comments": "https://artsandletters.org/history/",
+    "comments": "https://www.artsandletters.org/mission-and-history",
     "location": [
       {
         "id": 28,
@@ -141,6 +141,10 @@
       {
         "id": 197,
         "value": "Selected Poems"
+      },
+      {
+        "id": 202,
+        "value": "W. H. Auden: Selected Poems"
       }
     ],
     "org_event": [],
@@ -371,10 +375,6 @@
         "value": "Epistle to a Godson and Other Poems"
       },
       {
-        "id": 177,
-        "value": "The Truly Great"
-      },
-      {
         "id": 182,
         "value": "On This Island"
       },
@@ -412,7 +412,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Life",
+    "name": "LIFE",
     "wikidata": "https://www.wikidata.org/wiki/Q463198",
     "amp_id": "amp_organization_15",
     "founded_in_year": "1883",
@@ -424,9 +424,23 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 205,
+        "value": "\"article\""
+      },
+      {
+        "id": 206,
+        "value": "Autumn for the 'Age of Anxiety'"
+      }
+    ],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 25,
+        "value": "person_org__25"
+      }
+    ],
     "gnd": "",
     "URL": ""
   },
@@ -556,7 +570,12 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 204,
+        "value": "Books: Holiday bookings; List of recommendations from 1985"
+      }
+    ],
     "org_event": [],
     "person_org": [],
     "gnd": "",
@@ -710,7 +729,7 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1375237",
     "amp_id": "amp_organization_26",
     "founded_in_year": "1933",
-    "comments": "",
+    "comments": "Vienna branch founded in 1946",
     "location": [
       {
         "id": 1,
@@ -718,9 +737,19 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems"
+      }
+    ],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 23,
+        "value": "person_org__23"
+      }
+    ],
     "gnd": "",
     "URL": ""
   },
@@ -1003,6 +1032,10 @@
       {
         "id": 87,
         "value": "Fleißaufgaben in Nächstenliebe"
+      },
+      {
+        "id": 207,
+        "value": "Ein Autor hat Bedenken"
       }
     ],
     "org_event": [],
@@ -1529,10 +1562,20 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 112,
+        "value": "A Very Inquisitive Old Party"
+      }
+    ],
     "org_event": [],
-    "person_org": [],
-    "gnd": "",
+    "person_org": [
+      {
+        "id": 22,
+        "value": "person_org__22"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/16118556-3",
     "URL": ""
   },
   "66": {
@@ -2146,6 +2189,41 @@
       }
     ],
     "gnd": "",
+    "URL": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "88.00000000000000000000",
+    "name": "Vienna State Opera",
+    "wikidata": "http://www.wikidata.org/entity/Q209937",
+    "amp_id": "amp_organization_90",
+    "founded_in_year": "1955",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 20,
+        "value": "org_event__20"
+      },
+      {
+        "id": 21,
+        "value": "org_event__21"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 24,
+        "value": "person_org__24"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/502324-5",
     "URL": ""
   }
 }

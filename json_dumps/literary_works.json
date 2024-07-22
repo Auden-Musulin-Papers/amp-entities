@@ -272,7 +272,7 @@
       },
       {
         "id": 205,
-        "value": "Schikaneder , Emanuel"
+        "value": "Schikaneder, Emanuel"
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q5064",
@@ -816,7 +816,7 @@
     "is_written_by": [
       {
         "id": 205,
-        "value": "Schikaneder , Emanuel"
+        "value": "Schikaneder, Emanuel"
       }
     ],
     "is_linked_with": "https://d-nb.info/gnd/4275395-8",
@@ -1007,7 +1007,7 @@
     "relation_types": [],
     "is_part_of": [
       {
-        "id": 25,
+        "id": 11,
         "value": "Arcifanfano Re De Matti (Arcifanfano, King of Fools)"
       }
     ],
@@ -1916,7 +1916,7 @@
     "is_written_by": [
       {
         "id": 150,
-        "value": "Farnan, Dorothy Jean"
+        "value": "Farnan, Dorothy J."
       }
     ],
     "is_linked_with": "",
@@ -1988,43 +1988,6 @@
         "value": "Faber & Faber"
       }
     ],
-    "has_date": null,
-    "is_review_of": [],
-    "has_external_url": ""
-  },
-  "50": {
-    "id": 50,
-    "order": "50.00000000000000000000",
-    "name": "Auden in Kirchstetten",
-    "lit_work_id": "lit_work_id_50",
-    "is_written_by": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
-      }
-    ],
-    "is_linked_with": "",
-    "has_year": null,
-    "type": [
-      {
-        "id": 9992,
-        "value": "biographical text",
-        "color": "light-green"
-      }
-    ],
-    "version_of": [],
-    "language": [
-      {
-        "id": 6678,
-        "value": "en",
-        "color": "light-red"
-      }
-    ],
-    "relation_types": [],
-    "is_part_of": [],
-    "FRBR_level": null,
-    "Comments": null,
-    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -2614,7 +2577,12 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": null,
-    "has_publisher": [],
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlag"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -3028,12 +2996,7 @@
     "order": "82.00000000000000000000",
     "name": "King James Version",
     "lit_work_id": "lit_work_id_82",
-    "is_written_by": [
-      {
-        "id": 170,
-        "value": "VI and I, James"
-      }
-    ],
+    "is_written_by": [],
     "is_linked_with": "https://www.wikidata.org/wiki/Q623398",
     "has_year": "1611",
     "type": [
@@ -3899,8 +3862,16 @@
     "lit_work_id": "lit_work_id_104",
     "is_written_by": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 2,
         "value": "Musulin, Stella Mary Bellairs"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde"
       }
     ],
     "is_linked_with": "",
@@ -3989,8 +3960,16 @@
     "lit_work_id": "lit_work_id_106",
     "is_written_by": [
       {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
         "id": 2,
         "value": "Musulin, Stella Mary Bellairs"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde"
       }
     ],
     "is_linked_with": "",
@@ -4142,15 +4121,25 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q1571095",
-    "has_year": "1534",
+    "has_year": "1545",
     "type": [
       {
         "id": 9984,
         "value": "religious text",
         "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
       }
     ],
-    "version_of": [],
+    "version_of": [
+      {
+        "id": 59,
+        "value": "Bible"
+      }
+    ],
     "language": [
       {
         "id": 6679,
@@ -4160,7 +4149,11 @@
     ],
     "relation_types": [],
     "is_part_of": [],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
     "Comments": "",
     "has_publisher": [],
     "has_date": null,
@@ -4214,7 +4207,7 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q1217731",
-    "has_year": null,
+    "has_year": "1851",
     "type": [
       {
         "id": 9991,
@@ -4271,9 +4264,19 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "",
-    "has_publisher": [],
-    "has_date": null,
-    "is_review_of": [],
+    "has_publisher": [
+      {
+        "id": 65,
+        "value": "The New Yorker"
+      }
+    ],
+    "has_date": "1968-02-24",
+    "is_review_of": [
+      {
+        "id": 111,
+        "value": "London Labour and the London Poor"
+      }
+    ],
     "has_external_url": ""
   },
   "113": {
@@ -5406,43 +5409,6 @@
     "is_review_of": [],
     "has_external_url": ""
   },
-  "143": {
-    "id": 143,
-    "order": "140.00000000000000000000",
-    "name": "Il dissoluto punito ossia Il Don Giovanni",
-    "lit_work_id": "lit_work_id_143",
-    "is_written_by": [
-      {
-        "id": 206,
-        "value": "Da Ponte, Lorenzo"
-      }
-    ],
-    "is_linked_with": "https://d-nb.info/gnd/4278692-7",
-    "has_year": "1787",
-    "type": [
-      {
-        "id": 6666,
-        "value": "libretto",
-        "color": "light-blue"
-      }
-    ],
-    "version_of": [],
-    "language": [
-      {
-        "id": 6680,
-        "value": "it",
-        "color": "green"
-      }
-    ],
-    "relation_types": [],
-    "is_part_of": [],
-    "FRBR_level": null,
-    "Comments": "",
-    "has_publisher": [],
-    "has_date": null,
-    "is_review_of": [],
-    "has_external_url": ""
-  },
   "148": {
     "id": 148,
     "order": "141.00000000000000000000",
@@ -5518,12 +5484,7 @@
         "color": "light-blue"
       }
     ],
-    "version_of": [
-      {
-        "id": 143,
-        "value": "Il dissoluto punito ossia Il Don Giovanni"
-      }
-    ],
+    "version_of": [],
     "language": [
       {
         "id": 6678,
@@ -6600,7 +6561,7 @@
   "176": {
     "id": 176,
     "order": "169.00000000000000000000",
-    "name": "Götterdämmerung: Siegfried's Death & Funeral March",
+    "name": "Götterdämmerung (Twilight of the Gods): Siegfrieds Trauermarsch (Siegfried's Funeral March)",
     "lit_work_id": "lit_work_id_176",
     "is_written_by": [
       {
@@ -6609,7 +6570,7 @@
       }
     ],
     "is_linked_with": "https://www.wikidata.org/wiki/Q272029",
-    "has_year": "1874",
+    "has_year": "1876",
     "type": [
       {
         "id": 6665,
@@ -6618,13 +6579,7 @@
       }
     ],
     "version_of": [],
-    "language": [
-      {
-        "id": 6679,
-        "value": "de",
-        "color": "blue"
-      }
-    ],
+    "language": [],
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": null,
@@ -6666,12 +6621,7 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "https://www.poetryfoundation.org/poems/54715/the-truly-great    https://genius.com/Stephen-spender-the-truly-great-annotated",
-    "has_publisher": [
-      {
-        "id": 12,
-        "value": "Random House"
-      }
-    ],
+    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -7731,6 +7681,255 @@
     "Comments": "",
     "has_publisher": [],
     "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "202": {
+    "id": 202,
+    "order": "195.00000000000000000000",
+    "name": "W. H. Auden: Selected Poems",
+    "lit_work_id": "lit_work_id_202",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1979",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book of poems",
+        "color": "dark-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 5,
+        "value": "Faber & Faber"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "203": {
+    "id": 203,
+    "order": "196.00000000000000000000",
+    "name": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938",
+    "lit_work_id": "lit_work_id_203",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      },
+      {
+        "id": 98,
+        "value": "Mendelson, Edward"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1988",
+    "type": [
+      {
+        "id": 10002,
+        "value": "collection of plays",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "204": {
+    "id": 204,
+    "order": "197.00000000000000000000",
+    "name": "Books: Holiday bookings; List of recommendations from 1985",
+    "lit_work_id": "lit_work_id_204",
+    "is_written_by": [
+      {
+        "id": 246,
+        "value": "Tomalin, Claire"
+      },
+      {
+        "id": 247,
+        "value": "French, Sean"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1985",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 20,
+        "value": "The Sunday Times"
+      }
+    ],
+    "has_date": "1985-07-21",
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "205": {
+    "id": 205,
+    "order": "198.00000000000000000000",
+    "name": "\"article\"",
+    "lit_work_id": "lit_work_id_205",
+    "is_written_by": [],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 15,
+        "value": "LIFE"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "206": {
+    "id": 206,
+    "order": "199.00000000000000000000",
+    "name": "Autumn for the 'Age of Anxiety'",
+    "lit_work_id": "lit_work_id_206",
+    "is_written_by": [],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 15,
+        "value": "LIFE"
+      }
+    ],
+    "has_date": "1970-01-30",
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "207": {
+    "id": 207,
+    "order": "200.00000000000000000000",
+    "name": "Ein Autor hat Bedenken",
+    "lit_work_id": "lit_work_id_207",
+    "is_written_by": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1965",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 39,
+        "value": "Die Presse"
+      }
+    ],
+    "has_date": "1965-03-20",
     "is_review_of": [],
     "has_external_url": ""
   }
