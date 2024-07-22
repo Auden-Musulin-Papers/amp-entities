@@ -1,0 +1,5475 @@
+[
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "amp_id": "relationship_person_id__1",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 18, "value": "is_partner_of" }]
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "amp_id": "relationship_person_id__2",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 107, "value": "K., Hugo" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 10, "value": "is_lover_of" }]
+  },
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "amp_id": "relationship_person_id__3",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 18, "value": "is_partner_of" }]
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "amp_id": "relationship_person_id__4",
+    "source": [{ "id": 107, "value": "K., Hugo" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 10, "value": "is_lover_of" }]
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "amp_id": "relationship_person_id__5",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 96, "value": "Clark, Thekla" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "amp_id": "relationship_person_id__6",
+    "source": [{ "id": 96, "value": "Clark, Thekla" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "amp_id": "relationship_person_id__7",
+    "source": [{ "id": 96, "value": "Clark, Thekla" }],
+    "target": [{ "id": 95, "value": "Clark, John" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "amp_id": "relationship_person_id__8",
+    "source": [{ "id": 95, "value": "Clark, John" }],
+    "target": [{ "id": 96, "value": "Clark, Thekla" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "amp_id": "relationship_person_id__9",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "target": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "amp_id": "relationship_person_id__10",
+    "source": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "target": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "amp_id": "relationship_person_id__11",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 94, "value": "Musulin, Marko" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "amp_id": "relationship_person_id__12",
+    "source": [{ "id": 94, "value": "Musulin, Marko" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "amp_id": "relationship_person_id__13",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "amp_id": "relationship_person_id__14",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 191, "value": "Spender, Natasha" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 19, "value": "is_guest_of" }]
+  },
+  {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "amp_id": "relationship_person_id__15",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "amp_id": "relationship_person_id__18",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 19, "value": "Heyworth, Peter" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "amp_id": "relationship_person_id__21",
+    "source": [{ "id": 23, "value": "Boras, Ioannis" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 10, "value": "is_lover_of" }]
+  },
+  {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "amp_id": "relationship_person_id__22",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 23, "value": "Boras, Ioannis" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 10, "value": "is_lover_of" }]
+  },
+  {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "amp_id": "relationship_person_id__25",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "amp_id": "relationship_person_id__26",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "amp_id": "relationship_person_id__27",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [{ "id": 42, "value": "Hofmannsthal, Hugo von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "amp_id": "relationship_person_id__28",
+    "source": [{ "id": 42, "value": "Hofmannsthal, Hugo von" }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "amp_id": "relationship_person_id__29",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [{ "id": 43, "value": "Hofmannsthal, Gertrude von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "amp_id": "relationship_person_id__30",
+    "source": [{ "id": 43, "value": "Hofmannsthal, Gertrude von" }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "amp_id": "relationship_person_id__31",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "amp_id": "relationship_person_id__32",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 7, "value": "is_sister_of" }]
+  },
+  {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "amp_id": "relationship_person_id__33",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [{ "id": 42, "value": "Hofmannsthal, Hugo von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "amp_id": "relationship_person_id__34",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [{ "id": 43, "value": "Hofmannsthal, Gertrude von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "amp_id": "relationship_person_id__35",
+    "source": [{ "id": 43, "value": "Hofmannsthal, Gertrude von" }],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "amp_id": "relationship_person_id__36",
+    "source": [{ "id": 42, "value": "Hofmannsthal, Hugo von" }],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "amp_id": "relationship_person_id__37",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "amp_id": "relationship_person_id__38",
+    "source": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "amp_id": "relationship_person_id__39",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "amp_id": "relationship_person_id__40",
+    "source": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "target": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "amp_id": "relationship_person_id__41",
+    "source": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "amp_id": "relationship_person_id__42",
+    "source": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "target": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "amp_id": "relationship_person_id__43",
+    "source": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "target": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "amp_id": "relationship_person_id__44",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "target": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "amp_id": "relationship_person_id__45",
+    "source": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "target": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "amp_id": "relationship_person_id__46",
+    "source": [
+      { "id": 47, "value": "Hofmannsthal, Octavian Charles Hugo von" }
+    ],
+    "target": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "amp_id": "relationship_person_id__47",
+    "source": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "target": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "amp_id": "relationship_person_id__48",
+    "source": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "target": [
+      { "id": 46, "value": "Hofmannsthal, Sarah Arabella Marjorie von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "amp_id": "relationship_person_id__51",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "amp_id": "relationship_person_id__52",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 8, "value": "Spender, Stephen" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "amp_id": "relationship_person_id__53",
+    "source": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "amp_id": "relationship_person_id__54",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 6, "value": "is_sibling_of" }]
+  },
+  {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "amp_id": "relationship_person_id__55",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      { "id": 93, "value": "Musulin, Elsa Gerda Maria Louise Pauline von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 5, "value": "is_childinlaw_of" }]
+  },
+  {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "amp_id": "relationship_person_id__56",
+    "source": [{ "id": 19, "value": "Heyworth, Peter" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "amp_id": "relationship_person_id__57",
+    "source": [{ "id": 141, "value": "Lanier, Sonja Maria" }],
+    "target": [{ "id": 142, "value": "Lanier, Amelie" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "amp_id": "relationship_person_id__58",
+    "source": [{ "id": 142, "value": "Lanier, Amelie" }],
+    "target": [{ "id": 141, "value": "Lanier, Sonja Maria" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "amp_id": "relationship_person_id__59",
+    "source": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "target": [{ "id": 140, "value": "Anne, Princess Royal" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "amp_id": "relationship_person_id__60",
+    "source": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "target": [{ "id": 139, "value": "Elizabeth, The Queen Mother" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "amp_id": "relationship_person_id__61",
+    "source": [{ "id": 139, "value": "Elizabeth, The Queen Mother" }],
+    "target": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "amp_id": "relationship_person_id__62",
+    "source": [{ "id": 140, "value": "Anne, Princess Royal" }],
+    "target": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "amp_id": "relationship_person_id__63",
+    "source": [
+      { "id": 93, "value": "Musulin, Elsa Gerda Maria Louise Pauline von" }
+    ],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 4, "value": "is_mother-in-law_of" }]
+  },
+  {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "amp_id": "relationship_person_id__64",
+    "source": [{ "id": 141, "value": "Lanier, Sonja Maria" }],
+    "target": [{ "id": 146, "value": "Etthofen, Brigitta von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "amp_id": "relationship_person_id__65",
+    "source": [{ "id": 146, "value": "Etthofen, Brigitta von" }],
+    "target": [{ "id": 141, "value": "Lanier, Sonja Maria" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "amp_id": "relationship_person_id__66",
+    "source": [{ "id": 107, "value": "K., Hugo" }],
+    "target": [{ "id": 240, "value": "K., Christa" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "amp_id": "relationship_person_id__67",
+    "source": [{ "id": 240, "value": "K., Christa" }],
+    "target": [{ "id": 107, "value": "K., Hugo" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "amp_id": "relationship_person_id__68",
+    "source": [{ "id": 160, "value": "Kallman, Edward" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "amp_id": "relationship_person_id__69",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 160, "value": "Kallman, Edward" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "amp_id": "relationship_person_id__70",
+    "source": [{ "id": 160, "value": "Kallman, Edward" }],
+    "target": [{ "id": 150, "value": "Farnan, Dorothy Jean" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "amp_id": "relationship_person_id__71",
+    "source": [{ "id": 150, "value": "Farnan, Dorothy Jean" }],
+    "target": [{ "id": 160, "value": "Kallman, Edward" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "amp_id": "relationship_person_id__74",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [
+      { "id": 93, "value": "Musulin, Elsa Gerda Maria Louise Pauline von" }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "amp_id": "relationship_person_id__75",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "amp_id": "relationship_person_id__76",
+    "source": [{ "id": 94, "value": "Musulin, Marko" }],
+    "target": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "amp_id": "relationship_person_id__77",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [{ "id": 94, "value": "Musulin, Marko" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "amp_id": "relationship_person_id__79",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "amp_id": "relationship_person_id__80",
+    "source": [{ "id": 91, "value": "Toynbee, Philip" }],
+    "target": [{ "id": 168, "value": "Toynbee, Frances Genevieve Sally" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "amp_id": "relationship_person_id__81",
+    "source": [{ "id": 168, "value": "Toynbee, Frances Genevieve Sally" }],
+    "target": [{ "id": 91, "value": "Toynbee, Philip" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "amp_id": "relationship_person_id__82",
+    "source": [{ "id": 169, "value": "Clark, Lisa" }],
+    "target": [{ "id": 96, "value": "Clark, Thekla" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "amp_id": "relationship_person_id__84",
+    "source": [{ "id": 96, "value": "Clark, Thekla" }],
+    "target": [{ "id": 169, "value": "Clark, Lisa" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "amp_id": "relationship_person_id__86",
+    "source": [{ "id": 155, "value": "Langer, N/A_4" }],
+    "target": [{ "id": 171, "value": "Langer, N/A_5" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "amp_id": "relationship_person_id__87",
+    "source": [{ "id": 171, "value": "Langer, N/A_5" }],
+    "target": [{ "id": 155, "value": "Langer, N/A_4" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "amp_id": "relationship_person_id__88",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 21, "value": "Hoffmann, Otto" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 24, "value": "is_client_of" }]
+  },
+  {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "amp_id": "relationship_person_id__89",
+    "source": [{ "id": 21, "value": "Hoffmann, Otto" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }]
+  },
+  {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "amp_id": "relationship_person_id__90",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "target": [{ "id": 176, "value": "Strobl, Franz" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "amp_id": "relationship_person_id__91",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 91, "value": "Toynbee, Philip" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "amp_id": "relationship_person_id__97",
+    "source": [{ "id": 176, "value": "Strobl, Franz" }],
+    "target": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "amp_id": "relationship_person_id__98",
+    "source": [{ "id": 183, "value": "Auden, George Augustus" }],
+    "target": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "amp_id": "relationship_person_id__99",
+    "source": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "target": [{ "id": 183, "value": "Auden, George Augustus" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "amp_id": "relationship_person_id__100",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 183, "value": "Auden, George Augustus" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "amp_id": "relationship_person_id__101",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "amp_id": "relationship_person_id__102",
+    "source": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "amp_id": "relationship_person_id__103",
+    "source": [{ "id": 183, "value": "Auden, George Augustus" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "amp_id": "relationship_person_id__104",
+    "source": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "target": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "amp_id": "relationship_person_id__105",
+    "source": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "target": [{ "id": 183, "value": "Auden, George Augustus" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "amp_id": "relationship_person_id__106",
+    "source": [{ "id": 184, "value": "Auden, Constance Rosalie" }],
+    "target": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "amp_id": "relationship_person_id__107",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 225, "value": "Lloyd-Philipps, Margaret Elinor" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "amp_id": "relationship_person_id__108",
+    "source": [{ "id": 225, "value": "Lloyd-Philipps, Margaret Elinor" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "amp_id": "relationship_person_id__109",
+    "source": [{ "id": 191, "value": "Spender, Natasha" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }]
+  },
+  {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "amp_id": "relationship_person_id__110",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "target": [{ "id": 191, "value": "Spender, Natasha" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "amp_id": "relationship_person_id__111",
+    "source": [{ "id": 191, "value": "Spender, Natasha" }],
+    "target": [{ "id": 8, "value": "Spender, Stephen" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "amp_id": "relationship_person_id__112",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "amp_id": "relationship_person_id__113",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "amp_id": "relationship_person_id__114",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "amp_id": "relationship_person_id__115",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 14, "value": "Redlich, Walter" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 24, "value": "is_client_of" }]
+  },
+  {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "amp_id": "relationship_person_id__116",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 21, "value": "Hoffmann, Otto" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 24, "value": "is_client_of" }]
+  },
+  {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "amp_id": "relationship_person_id__117",
+    "source": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 25, "value": "is_professionalacquaintance_of" }
+    ]
+  },
+  {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "amp_id": "relationship_person_id__118",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 25, "value": "is_professionalacquaintance_of" }
+    ]
+  },
+  {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "amp_id": "relationship_person_id__119",
+    "source": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "amp_id": "relationship_person_id__120",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "amp_id": "relationship_person_id__121",
+    "source": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "amp_id": "relationship_person_id__122",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "amp_id": "relationship_person_id__123",
+    "source": [{ "id": 79, "value": "Henze, Hans Werner" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "amp_id": "relationship_person_id__124",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 79, "value": "Henze, Hans Werner" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "amp_id": "relationship_person_id__125",
+    "source": [{ "id": 79, "value": "Henze, Hans Werner" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "amp_id": "relationship_person_id__126",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 79, "value": "Henze, Hans Werner" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "amp_id": "relationship_person_id__127",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }]
+  },
+  {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "amp_id": "relationship_person_id__129",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 8, "value": "Spender, Stephen" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 19, "value": "is_guest_of" }]
+  },
+  {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "amp_id": "relationship_person_id__130",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "amp_id": "relationship_person_id__131",
+    "source": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 26, "value": "is_acquaintance_of" }]
+  },
+  {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "amp_id": "relationship_person_id__132",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 26, "value": "is_acquaintance_of" }]
+  },
+  {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "amp_id": "relationship_person_id__133",
+    "source": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 26, "value": "is_acquaintance_of" }]
+  },
+  {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "amp_id": "relationship_person_id__134",
+    "source": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 25, "value": "is_professionalacquaintance_of" }
+    ]
+  },
+  {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "amp_id": "relationship_person_id__135",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 26, "value": "is_acquaintance_of" }]
+  },
+  {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "amp_id": "relationship_person_id__136",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "amp_id": "relationship_person_id__137",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 151, "value": "Silbermann, Edith" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "amp_id": "relationship_person_id__138",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 107, "value": "K., Hugo" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "amp_id": "relationship_person_id__139",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 19, "value": "Heyworth, Peter" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 19, "value": "is_guest_of" }]
+  },
+  {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "amp_id": "relationship_person_id__140",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "amp_id": "relationship_person_id__141",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }]
+  },
+  {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "amp_id": "relationship_person_id__142",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 8, "value": "Spender, Stephen" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 19, "value": "is_guest_of" }]
+  },
+  {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "amp_id": "relationship_person_id__143",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "amp_id": "relationship_person_id__144",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "amp_id": "relationship_person_id__145",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "amp_id": "relationship_person_id__146",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "amp_id": "relationship_person_id__147",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "amp_id": "relationship_person_id__148",
+    "source": [{ "id": 59, "value": "Fritsch, Gerhard" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "amp_id": "relationship_person_id__149",
+    "source": [{ "id": 59, "value": "Fritsch, Gerhard" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 26, "value": "is_acquaintance_of" }]
+  },
+  {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "amp_id": "relationship_person_id__150",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 25, "value": "is_professionalacquaintance_of" }
+    ]
+  },
+  {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "amp_id": "relationship_person_id__151",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }]
+  },
+  {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "amp_id": "relationship_person_id__152",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 121, "value": "Esders, Christa" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "amp_id": "relationship_person_id__153",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "amp_id": "relationship_person_id__154",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "amp_id": "relationship_person_id__155",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "amp_id": "relationship_person_id__156",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "amp_id": "relationship_person_id__157",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "amp_id": "relationship_person_id__158",
+    "source": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "amp_id": "relationship_person_id__159",
+    "source": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "amp_id": "relationship_person_id__160",
+    "source": [{ "id": 14, "value": "Redlich, Walter" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }]
+  },
+  {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "amp_id": "relationship_person_id__161",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 176, "value": "Strobl, Franz" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 23, "value": "is_employer_of" }]
+  },
+  {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "amp_id": "relationship_person_id__162",
+    "source": [{ "id": 176, "value": "Strobl, Franz" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }]
+  },
+  {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "amp_id": "relationship_person_id__163",
+    "source": [{ "id": 19, "value": "Heyworth, Peter" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "amp_id": "relationship_person_id__164",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 22, "value": "Enzinger, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "amp_id": "relationship_person_id__165",
+    "source": [{ "id": 22, "value": "Enzinger, Josef" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 166,
+    "order": "166.00000000000000000000",
+    "amp_id": "relationship_person_id__166",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 235, "value": "Mikesch, Erich" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 24, "value": "is_client_of" }]
+  },
+  {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "amp_id": "relationship_person_id__167",
+    "source": [{ "id": 235, "value": "Mikesch, Erich" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }]
+  },
+  {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "amp_id": "relationship_person_id__168",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 169,
+    "order": "169.00000000000000000000",
+    "amp_id": "relationship_person_id__169",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "amp_id": "relationship_person_id__170",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "amp_id": "relationship_person_id__171",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "amp_id": "relationship_person_id__172",
+    "source": [{ "id": 151, "value": "Silbermann, Edith" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "amp_id": "relationship_person_id__173",
+    "source": [
+      { "id": 93, "value": "Musulin, Elsa Gerda Maria Louise Pauline von" }
+    ],
+    "target": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "amp_id": "relationship_person_id__174",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 238, "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "amp_id": "relationship_person_id__175",
+    "source": [{ "id": 25, "value": "Stravinsky, Igor" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "amp_id": "relationship_person_id__176",
+    "source": [{ "id": 238, "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd" }],
+    "target": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 177,
+    "order": "177.00000000000000000000",
+    "amp_id": "relationship_person_id__177",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 136, "value": "Britten, Benjamin" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 178,
+    "order": "178.00000000000000000000",
+    "amp_id": "relationship_person_id__178",
+    "source": [{ "id": 136, "value": "Britten, Benjamin" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 179,
+    "order": "179.00000000000000000000",
+    "amp_id": "relationship_person_id__179",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 211, "value": "Cavalcanti, Alberto" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 180,
+    "order": "180.00000000000000000000",
+    "amp_id": "relationship_person_id__180",
+    "source": [{ "id": 211, "value": "Cavalcanti, Alberto" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 181,
+    "order": "181.00000000000000000000",
+    "amp_id": "relationship_person_id__181",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 209, "value": "Watt, Harry" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 182,
+    "order": "182.00000000000000000000",
+    "amp_id": "relationship_person_id__182",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 210, "value": "Wright, Basil Charles" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 183,
+    "order": "183.00000000000000000000",
+    "amp_id": "relationship_person_id__183",
+    "source": [{ "id": 209, "value": "Watt, Harry" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 184,
+    "order": "184.00000000000000000000",
+    "amp_id": "relationship_person_id__184",
+    "source": [{ "id": 210, "value": "Wright, Basil Charles" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 14, "value": "is_collaborator_of" }]
+  },
+  {
+    "id": 185,
+    "order": "185.00000000000000000000",
+    "amp_id": "relationship_person_id__185",
+    "source": [{ "id": 121, "value": "Esders, Christa" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 186,
+    "order": "186.00000000000000000000",
+    "amp_id": "relationship_person_id__186",
+    "source": [{ "id": 242, "value": "Kettemann, Ilse" }],
+    "target": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 187,
+    "order": "187.00000000000000000000",
+    "amp_id": "relationship_person_id__187",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "target": [{ "id": 242, "value": "Kettemann, Ilse" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "amp_id": "relationship_person_id__188",
+    "source": [{ "id": 97, "value": "Seitz, Maria" }],
+    "target": [{ "id": 200, "value": "Seitz, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 189,
+    "order": "189.00000000000000000000",
+    "amp_id": "relationship_person_id__189",
+    "source": [],
+    "target": [],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": []
+  },
+  {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "amp_id": "relationship_person_id__190",
+    "source": [{ "id": 200, "value": "Seitz, Josef" }],
+    "target": [{ "id": 97, "value": "Seitz, Maria" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "amp_id": "relationship_person_id__191",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 200, "value": "Seitz, Josef" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "amp_id": "relationship_person_id__192",
+    "source": [{ "id": 200, "value": "Seitz, Josef" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "amp_id": "relationship_person_id__193",
+    "source": [{ "id": 97, "value": "Seitz, Maria" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "amp_id": "relationship_person_id__194",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 97, "value": "Seitz, Maria" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      { "id": 21, "value": "is_professionallyrelated_to" }
+    ]
+  },
+  {
+    "id": 195,
+    "order": "195.00000000000000000000",
+    "amp_id": "relationship_person_id__195",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 71, "value": "MacNeice, Louis" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 196,
+    "order": "196.00000000000000000000",
+    "amp_id": "relationship_person_id__196",
+    "source": [{ "id": 71, "value": "MacNeice, Louis" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 92,
+    "order": "197.00000000000000000000",
+    "amp_id": "relationship_person_id__92",
+    "source": [{ "id": 91, "value": "Toynbee, Philip" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 197,
+    "order": "198.00000000000000000000",
+    "amp_id": "relationship_person_id__197",
+    "source": [{ "id": 73, "value": "Bondy, Fran\u00e7ois" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 198,
+    "order": "199.00000000000000000000",
+    "amp_id": "relationship_person_id__198",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 73, "value": "Bondy, Fran\u00e7ois" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 199,
+    "order": "200.00000000000000000000",
+    "amp_id": "relationship_person_id__199",
+    "source": [{ "id": 72, "value": "McCarthy, Mary" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 200,
+    "order": "201.00000000000000000000",
+    "amp_id": "relationship_person_id__200",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 72, "value": "McCarthy, Mary" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 201,
+    "order": "202.00000000000000000000",
+    "amp_id": "relationship_person_id__201",
+    "source": [{ "id": 74, "value": "Etkind, Efim" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 202,
+    "order": "203.00000000000000000000",
+    "amp_id": "relationship_person_id__202",
+    "source": [{ "id": 87, "value": "Opel, Adolf" }],
+    "target": [{ "id": 4, "value": "Kallman, Chester" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 203,
+    "order": "204.00000000000000000000",
+    "amp_id": "relationship_person_id__203",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 74, "value": "Etkind, Efim" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 204,
+    "order": "205.00000000000000000000",
+    "amp_id": "relationship_person_id__204",
+    "source": [{ "id": 75, "value": "Reich-Ranicki, Marcel" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 205,
+    "order": "206.00000000000000000000",
+    "amp_id": "relationship_person_id__205",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 75, "value": "Reich-Ranicki, Marcel" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 22, "value": "is_coparticipant_of" }]
+  },
+  {
+    "id": 206,
+    "order": "207.00000000000000000000",
+    "amp_id": "relationship_person_id__206",
+    "source": [{ "id": 172, "value": "Tacoli, Gherardo" }],
+    "target": [{ "id": 192, "value": "Tacoli, Marga" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 207,
+    "order": "208.00000000000000000000",
+    "amp_id": "relationship_person_id__207",
+    "source": [{ "id": 192, "value": "Tacoli, Marga" }],
+    "target": [{ "id": 172, "value": "Tacoli, Gherardo" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 11, "value": "is_spouse_of" }]
+  },
+  {
+    "id": 208,
+    "order": "209.00000000000000000000",
+    "amp_id": "relationship_person_id__208",
+    "source": [{ "id": 193, "value": "Tacoli, Alexander" }],
+    "target": [{ "id": 192, "value": "Tacoli, Marga" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 209,
+    "order": "210.00000000000000000000",
+    "amp_id": "relationship_person_id__209",
+    "source": [{ "id": 193, "value": "Tacoli, Alexander" }],
+    "target": [{ "id": 172, "value": "Tacoli, Gherardo" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 3, "value": "is_child_of" }]
+  },
+  {
+    "id": 210,
+    "order": "211.00000000000000000000",
+    "amp_id": "relationship_person_id__210",
+    "source": [{ "id": 192, "value": "Tacoli, Marga" }],
+    "target": [{ "id": 193, "value": "Tacoli, Alexander" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 211,
+    "order": "212.00000000000000000000",
+    "amp_id": "relationship_person_id__211",
+    "source": [{ "id": 172, "value": "Tacoli, Gherardo" }],
+    "target": [{ "id": 193, "value": "Tacoli, Alexander" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 1, "value": "is_parent_of" }]
+  },
+  {
+    "id": 212,
+    "order": "213.00000000000000000000",
+    "amp_id": "relationship_person_id__212",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 87, "value": "Opel, Adolf" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 213,
+    "order": "214.00000000000000000000",
+    "amp_id": "relationship_person_id__213",
+    "source": [{ "id": 107, "value": "K., Hugo" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 214,
+    "order": "215.00000000000000000000",
+    "amp_id": "relationship_person_id__214",
+    "source": [{ "id": 89, "value": "Luke, Frederic Davey [David]" }],
+    "target": [{ "id": 1, "value": "Auden, W. H." }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 215,
+    "order": "216.00000000000000000000",
+    "amp_id": "relationship_person_id__215",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 89, "value": "Luke, Frederic Davey [David]" }],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [{ "id": 13, "value": "is_friend_of" }]
+  },
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__1",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__2",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 7, "value": "Schloss Fridau" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__3",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 11, "value": "Neulinggasse 26" }],
+    "start_date": "1958-01-01",
+    "end_date": null
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__4",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 29, "value": "77 St. Mark's Place" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__5",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__6",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 29, "value": "77 St. Mark's Place" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__7",
+    "source": [
+      { "id": 93, "value": "Musulin, Elsa Gerda Maria Louise Pauline von" }
+    ],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 7, "value": "Schloss Fridau" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__8",
+    "source": [{ "id": 94, "value": "Musulin, Marko" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 7, "value": "Schloss Fridau" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__9",
+    "source": [{ "id": 94, "value": "Musulin, Marko" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 11, "value": "Neulinggasse 26" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__10",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 19, "value": "Hubertusbader Stra\u00dfe 43" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__11",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 171, "value": "39 Claremont Avenue, apt 32" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__12",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 248, "value": "39 Claremont Avenue, apt 31" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__13",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__14",
+    "source": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__15",
+    "source": [{ "id": 19, "value": "Heyworth, Peter" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 45, "value": "32 Bryanston Square" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__16",
+    "source": [{ "id": 21, "value": "Hoffmann, Otto" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 48, "value": "Karl-Schweighofer-Gasse 4" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__17",
+    "source": [{ "id": 191, "value": "Spender, Natasha" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 69, "value": "15 Loudoun Road" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__18",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 69, "value": "15 Loudoun Road" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__19",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__20",
+    "source": [{ "id": 176, "value": "Strobl, Franz" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__21",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 224, "value": "Johann-Strau\u00df-Gasse 28" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__22",
+    "source": [{ "id": 99, "value": "O'Sullivan, Michael" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 173, "value": "22 Kildare Street" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__23",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__24",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__25",
+    "source": [{ "id": 14, "value": "Redlich, Walter" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 38, "value": "Wipplingerstrasse 24" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__26",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__27",
+    "source": [{ "id": 17, "value": "Eiermann, Josef" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__28",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 2, "value": "Hinterholz 6" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__29",
+    "source": [{ "id": 137, "value": "Kraus, Wolfgang" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 177, "value": "Palais Wilczek" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__30",
+    "source": [{ "id": 152, "value": "Breicha, Otto" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 217, "value": "Alser Stra\u00dfe 48" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__31",
+    "source": [{ "id": 156, "value": "Duncan, Bruce" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 170, "value": "The Vicarage, Crediton" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__32",
+    "source": [{ "id": 198, "value": "Blaha, Rudolf" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "target": [{ "id": 253, "value": "Leystra\u00dfe 23" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__33",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "relation_type_object": [{ "id": 19, "value": "is_guest_of" }],
+    "target": [{ "id": 42, "value": "Hotel K\u00f6nig von Ungarn" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__34",
+    "source": [{ "id": 14, "value": "Redlich, Walter" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 49, "value": "Paradisgasse 55" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__35",
+    "source": [{ "id": 225, "value": "Lloyd-Philipps, Margaret Elinor" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 215, "value": "2 St Julian's Street" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__36",
+    "source": [{ "id": 142, "value": "Lanier, Amelie" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 74, "value": "Zell am See" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__37",
+    "source": [{ "id": 147, "value": "Windisch-Graetz, Eva" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 303, "value": "Fillgradergasse 12" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__38",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 172, "value": "Schl\u00f6sselgasse 8" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__39",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 71, "value": "Eslarngasse 18" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__40",
+    "source": [{ "id": 43, "value": "Hofmannsthal, Gertrude von" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 75, "value": "Prielau (Schloss Prielau)" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__41",
+    "source": [{ "id": 44, "value": "Hofmannsthal, Raimund von" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 75, "value": "Prielau (Schloss Prielau)" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__42",
+    "source": [{ "id": 45, "value": "Hofmannsthal, Elizabeth von" }],
+    "relation_type_object": [{ "id": 27, "value": "is_resident_of" }],
+    "target": [{ "id": 75, "value": "Prielau (Schloss Prielau)" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "person_org": "person_org__1",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "target": [{ "id": 30, "value": "Columbia University" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "person_org": "person_org__2",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 6, "value": "Christ Church" }],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "person_org": "person_org__3",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [{ "id": 25, "value": "Die Furche" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "person_org": "person_org__4",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 25, "value": "Die Furche" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "person_org": "person_org__5",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [{ "id": 25, "value": "Die Furche" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "person_org": "person_org__6",
+    "source": [{ "id": 199, "value": "Jones, J. D. F." }],
+    "target": [{ "id": 23, "value": "Financial Times" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "person_org": "person_org__7",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 23, "value": "Financial Times" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "person_org": "person_org__8",
+    "source": [{ "id": 137, "value": "Kraus, Wolfgang" }],
+    "target": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 34, "value": "has_workplace_in" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "person_org": "person_org__9",
+    "source": [{ "id": 118, "value": "Phillips, Geoffrey John" }],
+    "target": [
+      { "id": 27, "value": "Embassy of the United Kingdom in Austria" }
+    ],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "person_org": "person_org__10",
+    "source": [{ "id": 156, "value": "Duncan, Bruce" }],
+    "target": [
+      { "id": 27, "value": "Embassy of the United Kingdom in Austria" }
+    ],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "person_org": "person_org__11",
+    "source": [{ "id": 94, "value": "Musulin, Marko" }],
+    "target": [{ "id": 11, "value": "Creditanstalt-Bankverein" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "person_org": "person_org__12",
+    "source": [{ "id": 120, "value": "Monteith, Charles" }],
+    "target": [{ "id": 5, "value": "Faber & Faber" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "person_org": "person_org__13",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 68, "value": "morgen" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "person_org": "person_org__14",
+    "source": [{ "id": 158, "value": "Robinson, Robert" }],
+    "target": [{ "id": 22, "value": "BBC Television" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "person_org": "person_org__15",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "target": [{ "id": 18, "value": "Yale University" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "person_org": "person_org__16",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [{ "id": 59, "value": "Burgtheater" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "person_org": "person_org__17",
+    "source": [{ "id": 163, "value": "Schmalz-Jacobsen, Cornelia" }],
+    "target": [{ "id": 66, "value": "Die Zeit" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "person_org": "person_org__18",
+    "source": [{ "id": 61, "value": "Fiechtner, Helmut Albert" }],
+    "target": [{ "id": 25, "value": "Die Furche" }],
+    "relation_type_object": [{ "id": 36, "value": "is_contractor_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "person_org": "person_org__19",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 89, "value": "Ford Foundation Artist-in-Residence Program" }
+    ],
+    "relation_type_object": [{ "id": 38, "value": "receives_award_from" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "person_org": "person_org__20",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 58, "value": "University of Michigan" }],
+    "relation_type_object": [{ "id": 35, "value": "is_employee_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "person_org": "person_org__21",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 2, "value": "American Academy of Arts and Letters" }],
+    "relation_type_object": [{ "id": 40, "value": "is_member_of" }],
+    "start_date": null,
+    "end_date": null
+  },
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "amp_id": "person_event__1",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "amp_id": "person_event__2",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 9,
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "amp_id": "person_event__3",
+    "source": [{ "id": 129, "value": "Benning, Achim" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "amp_id": "person_event__4",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "amp_id": "person_event__5",
+    "source": [{ "id": 23, "value": "Boras, Ioannis" }],
+    "target": [{ "id": 2, "value": "Death Ioannis Boras 1968-12-13" }],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "amp_id": "person_event__6",
+    "source": [{ "id": 16, "value": "Eiermann, Emma" }],
+    "target": [{ "id": 1, "value": "Death Emma Eiermann 1967-11-04" }],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "amp_id": "person_event__7",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 4, "value": "Northeast blackout of 1965 1965-11-09--1965-11-10" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "amp_id": "person_event__8",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 5,
+        "value": "1966 New York City transit strike 1966-01-01--1966-01-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "amp_id": "person_event__9",
+    "source": [{ "id": 15, "value": "Ramsey, Michael" }],
+    "target": [
+      {
+        "id": 9,
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "amp_id": "person_event__10",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 10,
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "amp_id": "person_event__11",
+    "source": [{ "id": 176, "value": "Strobl, Franz" }],
+    "target": [
+      {
+        "id": 10,
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "amp_id": "person_event__12",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "target": [
+      {
+        "id": 10,
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "amp_id": "person_event__17",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 6,
+        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "amp_id": "person_event__18",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 9,
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "amp_id": "person_event__20",
+    "source": [{ "id": 129, "value": "Benning, Achim" }],
+    "target": [
+      { "id": 3, "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28" }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "amp_id": "person_event__21",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 3, "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28" }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "amp_id": "person_event__22",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 7,
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "amp_id": "person_event__23",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "amp_id": "person_event__24",
+    "source": [{ "id": 140, "value": "Anne, Princess Royal" }],
+    "target": [
+      {
+        "id": 7,
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "amp_id": "person_event__25",
+    "source": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "target": [
+      {
+        "id": 7,
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "amp_id": "person_event__26",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 57,
+        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "amp_id": "person_event__28",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 60,
+        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "amp_id": "person_event__29",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 14, "value": "\"Wedding near Krems\" 1970-06-13" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "amp_id": "person_event__30",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 14, "value": "\"Wedding near Krems\" 1970-06-13" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "amp_id": "person_event__33",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [
+      {
+        "id": 16,
+        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "amp_id": "person_event__34",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 16,
+        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "amp_id": "person_event__36",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 17,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "amp_id": "person_event__37",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 17,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "amp_id": "person_event__38",
+    "source": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "target": [
+      {
+        "id": 17,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "amp_id": "person_event__39",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 18, "value": "Death W. H. Auden 1973-09-28--1973-09-29" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "amp_id": "person_event__41",
+    "source": [{ "id": 156, "value": "Duncan, Bruce" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "amp_id": "person_event__43",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "amp_id": "person_event__44",
+    "source": [{ "id": 88, "value": "Auden, John Bicknell" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "amp_id": "person_event__47",
+    "source": [{ "id": 99, "value": "O'Sullivan, Michael" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "amp_id": "person_event__49",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "amp_id": "person_event__50",
+    "source": [{ "id": 100, "value": "Carpenter, Humphrey" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "amp_id": "person_event__52",
+    "source": [{ "id": 137, "value": "Kraus, Wolfgang" }],
+    "target": [
+      {
+        "id": 23,
+        "value": "Stella Musulin's talk \"W. H. Auden und die \u00d6sterreicher\" 1977-05-05"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "amp_id": "person_event__53",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "amp_id": "person_event__54",
+    "source": [{ "id": 167, "value": "Musulin, Janko von" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "amp_id": "person_event__55",
+    "source": [{ "id": 230, "value": "Schickelgruber, Anton" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "amp_id": "person_event__56",
+    "source": [{ "id": 107, "value": "K., Hugo" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "amp_id": "person_event__57",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "amp_id": "person_event__58",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 27,
+        "value": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "amp_id": "person_event__60",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "amp_id": "person_event__61",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      { "id": 29, "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "amp_id": "person_event__62",
+    "source": [{ "id": 243, "value": "Gasser, Wolfgang" }],
+    "target": [{ "id": 25, "value": "Reading W. H. Auden 1962-10-04" }],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "amp_id": "person_event__70",
+    "source": [{ "id": 91, "value": "Toynbee, Philip" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "amp_id": "person_event__72",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "amp_id": "person_event__75",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 34, "value": "Car accident W. H. Auden 1968-04" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "amp_id": "person_event__76",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "amp_id": "person_event__80",
+    "source": [{ "id": 107, "value": "K., Hugo" }],
+    "target": [
+      {
+        "id": 36,
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "amp_id": "person_event__85",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 43,
+        "value": "Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "amp_id": "person_event__86",
+    "source": [{ "id": 240, "value": "K., Christa" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "amp_id": "person_event__88",
+    "source": [{ "id": 112, "value": "Maurer, Andreas" }],
+    "target": [{ "id": 37, "value": "Lyrik 70 poetry convention 1970-06-14" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "amp_id": "person_event__90",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 38,
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "amp_id": "person_event__91",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 38,
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "amp_id": "person_event__93",
+    "source": [
+      { "id": 175, "value": "N/A_8,  \"he whose name we never mention\"" }
+    ],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "amp_id": "person_event__94",
+    "source": [{ "id": 96, "value": "Clark, Thekla" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "amp_id": "person_event__95",
+    "source": [{ "id": 169, "value": "Clark, Lisa" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "amp_id": "person_event__96",
+    "source": [{ "id": 97, "value": "Seitz, Maria" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "amp_id": "person_event__98",
+    "source": [{ "id": 22, "value": "Enzinger, Josef" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "amp_id": "person_event__99",
+    "source": [{ "id": 89, "value": "Luke, Frederic Davey [David]" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "amp_id": "person_event__100",
+    "source": [{ "id": 90, "value": "Orwell, Sonia" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "amp_id": "person_event__102",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "amp_id": "person_event__103",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "amp_id": "person_event__104",
+    "source": [{ "id": 22, "value": "Enzinger, Josef" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "amp_id": "person_event__105",
+    "source": [{ "id": 32, "value": "Strobl, Josefa" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "amp_id": "person_event__107",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 59,
+        "value": "First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "amp_id": "person_event__109",
+    "source": [{ "id": 169, "value": "Clark, Lisa" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "amp_id": "person_event__111",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "amp_id": "person_event__112",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 42, "value": "Prague Spring 1968-01-05--1968-08-21" }],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "amp_id": "person_event__113",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [{ "id": 42, "value": "Prague Spring 1968-01-05--1968-08-21" }],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "amp_id": "person_event__114",
+    "source": [{ "id": 171, "value": "Langer, N/A_5" }],
+    "target": [{ "id": 42, "value": "Prague Spring 1968-01-05--1968-08-21" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "amp_id": "person_event__115",
+    "source": [{ "id": 155, "value": "Langer, N/A_4" }],
+    "target": [{ "id": 42, "value": "Prague Spring 1968-01-05--1968-08-21" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "amp_id": "person_event__116",
+    "source": [{ "id": 121, "value": "Esders, Christa" }],
+    "target": [
+      { "id": 107, "value": "Letter W. H. Auden to Christa Esders 1957-07-15" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "amp_id": "person_event__117",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 107, "value": "Letter W. H. Auden to Christa Esders 1957-07-15" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "amp_id": "person_event__118",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 25, "value": "Reading W. H. Auden 1962-10-04" }],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "amp_id": "person_event__120",
+    "source": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "amp_id": "person_event__121",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "amp_id": "person_event__122",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "amp_id": "person_event__123",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "amp_id": "person_event__124",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 67,
+        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "amp_id": "person_event__125",
+    "source": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "target": [
+      {
+        "id": 67,
+        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "amp_id": "person_event__126",
+    "source": [{ "id": 3, "value": "Zimmer, Christiane" }],
+    "target": [
+      {
+        "id": 57,
+        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "amp_id": "person_event__127",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      { "id": 61, "value": "Letter Stella Musulin to W. H. Auden 1959-10-05" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "amp_id": "person_event__128",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 61, "value": "Letter Stella Musulin to W. H. Auden 1959-10-05" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "amp_id": "person_event__129",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 62,
+        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "amp_id": "person_event__130",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 62,
+        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "amp_id": "person_event__131",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 63,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "amp_id": "person_event__132",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 63,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "amp_id": "person_event__133",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 63,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "amp_id": "person_event__134",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 64,
+        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "amp_id": "person_event__135",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 64,
+        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "amp_id": "person_event__136",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 65,
+        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "amp_id": "person_event__137",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 65,
+        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "amp_id": "person_event__138",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 68,
+        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "amp_id": "person_event__139",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 68,
+        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "amp_id": "person_event__140",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 69,
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "amp_id": "person_event__141",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 70,
+        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "amp_id": "person_event__142",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 70,
+        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "amp_id": "person_event__143",
+    "source": [{ "id": 200, "value": "Seitz, Josef" }],
+    "target": [
+      {
+        "id": 49,
+        "value": "Commemorative event Josef Weinheber\u2019s death 1965-10-30"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "amp_id": "person_event__144",
+    "source": [
+      { "id": 175, "value": "N/A_8,  \"he whose name we never mention\"" }
+    ],
+    "target": [
+      {
+        "id": 38,
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "amp_id": "person_event__145",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 69,
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "amp_id": "person_event__146",
+    "source": [{ "id": 204, "value": "Busta-Dimt, Christine" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "amp_id": "person_event__147",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 38,
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "amp_id": "person_event__148",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "amp_id": "person_event__149",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "amp_id": "person_event__150",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 66,
+        "value": "Reading Christine Busta \"Meine Hinterh\u00f6fe\" 1962-05-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "amp_id": "person_event__151",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 37, "value": "Lyrik 70 poetry convention 1970-06-14" }],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "amp_id": "person_event__152",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 32,
+        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Er\u00f6ffnung der Salzburger Festspiele\" 1968-07-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "amp_id": "person_event__153",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 23,
+        "value": "Stella Musulin's talk \"W. H. Auden und die \u00d6sterreicher\" 1977-05-05"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "amp_id": "person_event__154",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 26,
+        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "amp_id": "person_event__155",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 29, "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24" }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "amp_id": "person_event__156",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "amp_id": "person_event__157",
+    "source": [{ "id": 73, "value": "Bondy, Fran\u00e7ois" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "amp_id": "person_event__158",
+    "source": [{ "id": 72, "value": "McCarthy, Mary" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "amp_id": "person_event__159",
+    "source": [{ "id": 74, "value": "Etkind, Efim" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "amp_id": "person_event__160",
+    "source": [
+      { "id": 182, "value": "\"the square-headed commissar type from Moscow\"" }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "amp_id": "person_event__161",
+    "source": [{ "id": 75, "value": "Reich-Ranicki, Marcel" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "amp_id": "person_event__162",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 30,
+        "value": "W. H. Auden's sermon delivered in Westminster Abbey 1966-10-18"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "amp_id": "person_event__163",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "amp_id": "person_event__165",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "amp_id": "person_event__167",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 71,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "amp_id": "person_event__168",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 71,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 169,
+    "order": "169.00000000000000000000",
+    "amp_id": "person_event__169",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 72,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "amp_id": "person_event__170",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 72,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "amp_id": "person_event__171",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 73,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "amp_id": "person_event__172",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 73,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "amp_id": "person_event__173",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 74,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "amp_id": "person_event__174",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 74,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "amp_id": "person_event__175",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 75,
+        "value": "Reception Amerikahaus Vienna (1957-1971) 1965-10-05"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "amp_id": "person_event__176",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 76,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 177,
+    "order": "177.00000000000000000000",
+    "amp_id": "person_event__177",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 76,
+        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 178,
+    "order": "178.00000000000000000000",
+    "amp_id": "person_event__178",
+    "source": [{ "id": 108, "value": "N/A_2, Harrison" }],
+    "target": [
+      { "id": 77, "value": "Telegram Harrison 1965-09-29--1966-02-03" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 179,
+    "order": "179.00000000000000000000",
+    "amp_id": "person_event__179",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      { "id": 77, "value": "Telegram Harrison 1965-09-29--1966-02-03" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 180,
+    "order": "180.00000000000000000000",
+    "amp_id": "person_event__180",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 77, "value": "Telegram Harrison 1965-09-29--1966-02-03" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 181,
+    "order": "181.00000000000000000000",
+    "amp_id": "person_event__181",
+    "source": [{ "id": 15, "value": "Ramsey, Michael" }],
+    "target": [
+      {
+        "id": 9,
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 182,
+    "order": "182.00000000000000000000",
+    "amp_id": "person_event__182",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 78,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 183,
+    "order": "183.00000000000000000000",
+    "amp_id": "person_event__183",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 78,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 184,
+    "order": "184.00000000000000000000",
+    "amp_id": "person_event__184",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 78,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 185,
+    "order": "185.00000000000000000000",
+    "amp_id": "person_event__185",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      { "id": 79, "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 186,
+    "order": "186.00000000000000000000",
+    "amp_id": "person_event__186",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 79, "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 187,
+    "order": "187.00000000000000000000",
+    "amp_id": "person_event__187",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 80,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "amp_id": "person_event__188",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 86,
+        "value": "Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 189,
+    "order": "189.00000000000000000000",
+    "amp_id": "person_event__189",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 80,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "amp_id": "person_event__190",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 81,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "amp_id": "person_event__191",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 81,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "amp_id": "person_event__192",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 82,
+        "value": "Arrival W. H. Auden in Vienna from New York City 1968-02-12"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "amp_id": "person_event__193",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 83,
+        "value": "Departure W. H. Auden to England from Austria 1968-10-07"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "amp_id": "person_event__194",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 84,
+        "value": "Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 195,
+    "order": "195.00000000000000000000",
+    "amp_id": "person_event__195",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 85,
+        "value": "Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 196,
+    "order": "196.00000000000000000000",
+    "amp_id": "person_event__196",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 87,
+        "value": "Arrival W. H. Auden in London from Oxford 1968-10-14"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 197,
+    "order": "197.00000000000000000000",
+    "amp_id": "person_event__197",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 88,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 198,
+    "order": "198.00000000000000000000",
+    "amp_id": "person_event__198",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 88,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 199,
+    "order": "199.00000000000000000000",
+    "amp_id": "person_event__199",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 89,
+        "value": "Departure W. H. Auden to New York City from London 1968-10-31"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 200,
+    "order": "200.00000000000000000000",
+    "amp_id": "person_event__200",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 90,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 201,
+    "order": "201.00000000000000000000",
+    "amp_id": "person_event__201",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 90,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 202,
+    "order": "202.00000000000000000000",
+    "amp_id": "person_event__202",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 91,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 203,
+    "order": "203.00000000000000000000",
+    "amp_id": "person_event__203",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 91,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 204,
+    "order": "204.00000000000000000000",
+    "amp_id": "person_event__204",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 92,
+        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 205,
+    "order": "205.00000000000000000000",
+    "amp_id": "person_event__205",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 92,
+        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 206,
+    "order": "206.00000000000000000000",
+    "amp_id": "person_event__206",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 93,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 207,
+    "order": "207.00000000000000000000",
+    "amp_id": "person_event__207",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 93,
+        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 208,
+    "order": "208.00000000000000000000",
+    "amp_id": "person_event__208",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 94,
+        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 209,
+    "order": "209.00000000000000000000",
+    "amp_id": "person_event__209",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 94,
+        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 210,
+    "order": "210.00000000000000000000",
+    "amp_id": "person_event__210",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 95,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 211,
+    "order": "211.00000000000000000000",
+    "amp_id": "person_event__211",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 95,
+        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 212,
+    "order": "212.00000000000000000000",
+    "amp_id": "person_event__212",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 22,
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 213,
+    "order": "213.00000000000000000000",
+    "amp_id": "person_event__213",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 22,
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 214,
+    "order": "214.00000000000000000000",
+    "amp_id": "person_event__214",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 22,
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 215,
+    "order": "215.00000000000000000000",
+    "amp_id": "person_event__215",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [
+      {
+        "id": 22,
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 216,
+    "order": "216.00000000000000000000",
+    "amp_id": "person_event__216",
+    "source": [{ "id": 147, "value": "Windisch-Graetz, Eva" }],
+    "target": [
+      {
+        "id": 7,
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 217,
+    "order": "217.00000000000000000000",
+    "amp_id": "person_event__217",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 96,
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 218,
+    "order": "218.00000000000000000000",
+    "amp_id": "person_event__218",
+    "source": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "target": [
+      {
+        "id": 96,
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+      }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 219,
+    "order": "219.00000000000000000000",
+    "amp_id": "person_event__219",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 97, "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 220,
+    "order": "220.00000000000000000000",
+    "amp_id": "person_event__220",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      { "id": 97, "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 221,
+    "order": "221.00000000000000000000",
+    "amp_id": "person_event__221",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 98,
+        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 222,
+    "order": "222.00000000000000000000",
+    "amp_id": "person_event__222",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 98,
+        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 223,
+    "order": "223.00000000000000000000",
+    "amp_id": "person_event__223",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 99,
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 224,
+    "order": "224.00000000000000000000",
+    "amp_id": "person_event__224",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 99,
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 225,
+    "order": "225.00000000000000000000",
+    "amp_id": "person_event__225",
+    "source": [{ "id": 225, "value": "Lloyd-Philipps, Margaret Elinor" }],
+    "target": [
+      {
+        "id": 99,
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 226,
+    "order": "226.00000000000000000000",
+    "amp_id": "person_event__226",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 100,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 227,
+    "order": "227.00000000000000000000",
+    "amp_id": "person_event__227",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 100,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 228,
+    "order": "228.00000000000000000000",
+    "amp_id": "person_event__228",
+    "source": [{ "id": 4, "value": "Kallman, Chester" }],
+    "target": [
+      {
+        "id": 100,
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 229,
+    "order": "229.00000000000000000000",
+    "amp_id": "person_event__229",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 101,
+        "value": "Departure W. H. Auden to New York City from London 1971-11-01"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 230,
+    "order": "230.00000000000000000000",
+    "amp_id": "person_event__230",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 102,
+        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 231,
+    "order": "231.00000000000000000000",
+    "amp_id": "person_event__231",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 102,
+        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 232,
+    "order": "232.00000000000000000000",
+    "amp_id": "person_event__232",
+    "source": [
+      { "id": 138, "value": "Elizabeth II.,  Elizabeth of the United Kingdom" }
+    ],
+    "target": [
+      { "id": 103, "value": "Gala dinner Sch\u00f6nbrunn Palace 1969-05-05" }
+    ],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 233,
+    "order": "233.00000000000000000000",
+    "amp_id": "person_event__233",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 104, "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01" }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 234,
+    "order": "234.00000000000000000000",
+    "amp_id": "person_event__234",
+    "source": [{ "id": 157, "value": "Mayer, Elizabeth" }],
+    "target": [
+      { "id": 104, "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01" }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 235,
+    "order": "235.00000000000000000000",
+    "amp_id": "person_event__235",
+    "source": [{ "id": 98, "value": "Mendelson, Edward" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 236,
+    "order": "236.00000000000000000000",
+    "amp_id": "person_event__236",
+    "source": [{ "id": 127, "value": "Raimund, Hans" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 237,
+    "order": "237.00000000000000000000",
+    "amp_id": "person_event__237",
+    "source": [{ "id": 99, "value": "O'Sullivan, Michael" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 238,
+    "order": "238.00000000000000000000",
+    "amp_id": "person_event__238",
+    "source": [{ "id": 127, "value": "Raimund, Hans" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 239,
+    "order": "239.00000000000000000000",
+    "amp_id": "person_event__239",
+    "source": [{ "id": 8, "value": "Spender, Stephen" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 240,
+    "order": "240.00000000000000000000",
+    "amp_id": "person_event__240",
+    "source": [{ "id": 100, "value": "Carpenter, Humphrey" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 241,
+    "order": "241.00000000000000000000",
+    "amp_id": "person_event__241",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 108,
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 242,
+    "order": "242.00000000000000000000",
+    "amp_id": "person_event__242",
+    "source": [{ "id": 109, "value": "Lustkandl, Franz" }],
+    "target": [
+      {
+        "id": 108,
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 243,
+    "order": "243.00000000000000000000",
+    "amp_id": "person_event__243",
+    "source": [{ "id": 229, "value": "Yates, Michael" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 244,
+    "order": "244.00000000000000000000",
+    "amp_id": "person_event__244",
+    "source": [{ "id": 228, "value": "Yates, Marny (Margaret)" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 245,
+    "order": "245.00000000000000000000",
+    "amp_id": "person_event__245",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 108,
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 246,
+    "order": "246.00000000000000000000",
+    "amp_id": "person_event__246",
+    "source": [{ "id": 135, "value": "Bronold, Hella" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 247,
+    "order": "247.00000000000000000000",
+    "amp_id": "person_event__247",
+    "source": [{ "id": 137, "value": "Kraus, Wolfgang" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 248,
+    "order": "248.00000000000000000000",
+    "amp_id": "person_event__248",
+    "source": [{ "id": 54, "value": "Heer, Friedrich" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 249,
+    "order": "249.00000000000000000000",
+    "amp_id": "person_event__249",
+    "source": [{ "id": 200, "value": "Seitz, Josef" }],
+    "target": [
+      {
+        "id": 108,
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 250,
+    "order": "250.00000000000000000000",
+    "amp_id": "person_event__250",
+    "source": [{ "id": 227, "value": "Osborne, Charles" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 251,
+    "order": "251.00000000000000000000",
+    "amp_id": "person_event__251",
+    "source": [{ "id": 120, "value": "Monteith, Charles" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 252,
+    "order": "252.00000000000000000000",
+    "amp_id": "person_event__252",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 106,
+        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 253,
+    "order": "253.00000000000000000000",
+    "amp_id": "person_event__253",
+    "source": [{ "id": 97, "value": "Seitz, Maria" }],
+    "target": [
+      {
+        "id": 108,
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 254,
+    "order": "254.00000000000000000000",
+    "amp_id": "person_event__254",
+    "source": [{ "id": 121, "value": "Esders, Christa" }],
+    "target": [{ "id": 19, "value": "Funeral of W. H. Auden 1973-10-04" }],
+    "relation_type_object": [{ "id": 31, "value": "is_attendee_of" }]
+  },
+  {
+    "id": 255,
+    "order": "255.00000000000000000000",
+    "amp_id": "person_event__255",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      { "id": 109, "value": "Reading W. H. Auden \"Hier und Jetzt\"" }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 256,
+    "order": "256.00000000000000000000",
+    "amp_id": "person_event__256",
+    "source": [{ "id": 240, "value": "K., Christa" }],
+    "target": [
+      {
+        "id": 36,
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 257,
+    "order": "257.00000000000000000000",
+    "amp_id": "person_event__257",
+    "source": [{ "id": 137, "value": "Kraus, Wolfgang" }],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [{ "id": 29, "value": "is_speaker_in" }]
+  },
+  {
+    "id": 258,
+    "order": "258.00000000000000000000",
+    "amp_id": "person_event__258",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 36,
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 259,
+    "order": "259.00000000000000000000",
+    "amp_id": "person_event__259",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 110,
+        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 260,
+    "order": "260.00000000000000000000",
+    "amp_id": "person_event__260",
+    "source": [{ "id": 2, "value": "Musulin, Stella Mary Bellairs" }],
+    "target": [
+      {
+        "id": 110,
+        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19"
+      }
+    ],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 261,
+    "order": "261.00000000000000000000",
+    "amp_id": "person_event__261",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [{ "id": 111, "value": "Letter Oskar Kokoschka to W. H. Auden" }],
+    "relation_type_object": [{ "id": 30, "value": "is_passiveparticipant_in" }]
+  },
+  {
+    "id": 262,
+    "order": "262.00000000000000000000",
+    "amp_id": "person_event__262",
+    "source": [{ "id": 83, "value": "Kokoschka, Oskar" }],
+    "target": [{ "id": 111, "value": "Letter Oskar Kokoschka to W. H. Auden" }],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 263,
+    "order": "263.00000000000000000000",
+    "amp_id": "person_event__263",
+    "source": [{ "id": 1, "value": "Auden, W. H." }],
+    "target": [
+      {
+        "id": 46,
+        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25"
+      }
+    ],
+    "relation_type_object": [{ "id": 28, "value": "is_activeparticipant_in" }]
+  },
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "org_event": "org_event__1",
+    "source": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 69,
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "org_event": "org_event__2",
+    "source": [{ "id": 57, "value": "Eliot College" }],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 6,
+        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "org_event": "org_event__3",
+    "source": [{ "id": 57, "value": "Eliot College" }],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 9,
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "org_event": "org_event__4",
+    "source": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 23,
+        "value": "Stella Musulin's talk \"W. H. Auden und die \u00d6sterreicher\" 1977-05-05"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "org_event": "org_event__5",
+    "source": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": []
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "org_event": "org_event__6",
+    "source": [{ "id": 60, "value": "K\u00fcnstlerhaus Wien" }],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "org_event": "org_event__7",
+    "source": [{ "id": 16, "value": "British Council" }],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 21,
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "org_event": "org_event__8",
+    "source": [{ "id": 16, "value": "British Council" }],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "org_event": "org_event__9",
+    "source": [{ "id": 60, "value": "K\u00fcnstlerhaus Wien" }],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 105,
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "org_event": "org_event__10",
+    "source": [{ "id": 47, "value": "English PEN" }],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 106,
+        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "org_event": "org_event__11",
+    "source": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [{ "id": 25, "value": "Reading W. H. Auden 1962-10-04" }]
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "org_event": "org_event__12",
+    "source": [
+      {
+        "id": 9,
+        "value": "\u00d6sterreichische Gesellschaft f\u00fcr Literatur (Austrian Society for Literature)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [{ "id": 109, "value": "Reading W. H. Auden \"Hier und Jetzt\"" }]
+  },
+  {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "org_event": "org_event__13",
+    "source": [{ "id": 51, "value": "PEN International" }],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 26,
+        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "org_event": "org_event__14",
+    "source": [
+      {
+        "id": 35,
+        "value": "\u00d6sterreichisch-Britische Gesellschaft (Austro-British Society)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      { "id": 29, "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24" }
+    ]
+  },
+  {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "org_event": "org_event__15",
+    "source": [{ "id": 16, "value": "British Council" }],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      { "id": 29, "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24" }
+    ]
+  },
+  {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "org_event": "org_event__16",
+    "source": [
+      {
+        "id": 61,
+        "value": "Naturhistorisches Museum Wien (Natural History Museum Vienna)"
+      }
+    ],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      { "id": 29, "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24" }
+    ]
+  },
+  {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "org_event": "org_event__17",
+    "source": [
+      { "id": 62, "value": "Gro\u00dfes Festspielhaus (Large Festival House)" }
+    ],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 32,
+        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Er\u00f6ffnung der Salzburger Festspiele\" 1968-07-25"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "org_event": "org_event__18",
+    "source": [{ "id": 58, "value": "University of Michigan" }],
+    "relation_type_object": [{ "id": 20, "value": "is_host_of" }],
+    "target": [
+      {
+        "id": 60,
+        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "org_event": "org_event__19",
+    "source": [
+      {
+        "id": 43,
+        "value": "Bundesministerium f\u00fcr Unterricht und Kunst (Federal Ministry of Education and the Arts)"
+      }
+    ],
+    "relation_type_object": [{ "id": 33, "value": "is_organizer_of" }],
+    "target": [
+      {
+        "id": 46,
+        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25"
+      }
+    ]
+  }
+]

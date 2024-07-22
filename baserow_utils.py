@@ -323,3 +323,15 @@ def denormalize_json(fn, path, mapping):
         json.dump(dta, w)
     print(f"finished update of {save_and_open} and save as {save_and_open}.")
     return dta
+
+
+def merge_relationships_json(*args):
+    new_dict = []
+    for x in args:
+        with open(x, "rb") as fb:
+            file = json.load(fb)
+            for f in file:
+                new_dict.append(file[f])
+    with open("json_dumps/merged_relationships.json", "w") as f:
+        json.dump(new_dict, f)
+    return file
