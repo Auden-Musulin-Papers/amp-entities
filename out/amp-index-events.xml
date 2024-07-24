@@ -611,6 +611,9 @@
                      <person sameAs="amp_person_137" role="is_speaker_in">
                         <persName>Kraus, Wolfgang</persName>
                      </person>
+                     <person sameAs="amp_person_152" role="is_activeparticipant_in">
+                        <persName>Breicha, Otto</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
@@ -694,6 +697,9 @@
                      </person>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_152" role="is_organizer_of">
+                        <persName>Breicha, Otto</persName>
                      </person>
                   </listPerson>
                   <listPlace>

@@ -4988,5 +4988,59 @@
         "value": "is_passiveparticipant_in"
       }
     ]
+  },
+  "267": {
+    "id": 267,
+    "order": "267.00000000000000000000",
+    "amp_id": "person_event__267",
+    "source": [
+      {
+        "id": 152,
+        "value": "Breicha, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 37,
+        "value": "Lyrik 70 poetry convention 1970-06-14"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "268.00000000000000000000",
+    "amp_id": "person_event__268",
+    "source": [
+      {
+        "id": 152,
+        "value": "Breicha, Otto"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "269.00000000000000000000",
+    "amp_id": "person_event__269",
+    "source": [],
+    "target": [],
+    "relation_type_object": []
   }
 }
