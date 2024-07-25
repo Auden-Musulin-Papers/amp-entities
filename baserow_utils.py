@@ -2,7 +2,7 @@ import requests
 import geocoder
 import json
 
-from acdh_id_reconciler import gnd_to_wikidata, geonames_to_gnd, geonames_to_wikidata
+from acdh_id_reconciler import gnd_to_wikidata_custom, geonames_to_gnd, geonames_to_wikidata
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from acdh_obj2xml_pyutils import ObjectToXml
 
@@ -13,50 +13,52 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
     table = [x for x in br_client.yield_rows(br_table_id=br_table_id)]
     br_rows_url = f"{BASEROW_URL}database/rows/table/{br_table_id}/"
     v_wd = 0
+    v_pmb = 0
     v_geo = 0
     for x in table:
         update = {}
         if uri == "gnd":
-            if (x["updated"] is False):
+            try:
+                norm_id = get_normalized_uri(x[field_name_input["gnd"]])
+                print(norm_id)
+            except Exception as err:
+                print(err)
+            try:
+                wdc = gnd_to_wikidata_custom(norm_id, "P12483")
+                wd = wdc["wikidata"]
+                update[field_name_update["wikidata"]] = wd
+                pmb = wdc["custom"]
+                update[field_name_update["pmb"]] = pmb
+                v_pmb += 1
+                v_wd += 1
+                print(f"gnd id matched with wikidata: {wd}")
+            except Exception as err:
+                print(err)
+                print(f"no match for {norm_id} found.")
+        if uri == "geonames":
+            try:
+                norm_id = get_normalized_uri(x[field_name_input["geonames"]])
+                print(norm_id)
+                update[field_name_update["geonames"]] = norm_id
+            except Exception as err:
+                print(err)
+            try:
+                geo = geonames_to_gnd(norm_id)
+                gnd = geo["gnd"]
+                update[field_name_update["gnd"]] = f"https://d-nb.info/gnd/{gnd}"
+                wd = geo["wikidata"]
+                update[field_name_update["wikidata"]] = wd
+                v_geo += 1
+                print(f"geonames id matched with gnd: {gnd} and wikidata: {wd}")
+            except Exception:
                 try:
-                    norm_id = get_normalized_uri(x[field_name_input["gnd"]])
-                    print(norm_id)
-                except Exception as err:
-                    print(err)
-                try:
-                    wd = gnd_to_wikidata(norm_id)
+                    wd = geonames_to_wikidata(norm_id)
                     wd = wd["wikidata"]
                     update[field_name_update["wikidata"]] = wd
-                    v_wd += 1
-                    print(f"gnd id matched with wikidata: {wd}")
-                except Exception as err:
-                    print(err)
-                    print(f"no match for {norm_id} found.")
-        if uri == "geonames":
-            if (x["updated"] is False):
-                try:
-                    norm_id = get_normalized_uri(x[field_name_input["geonames"]])
-                    print(norm_id)
-                    update[field_name_update["geonames"]] = norm_id
-                except Exception as err:
-                    print(err)
-                try:
-                    geo = geonames_to_gnd(norm_id)
-                    gnd = geo["gnd"]
-                    update[field_name_update["gnd"]] = f"https://d-nb.info/gnd/{gnd}"
-                    wd = geo["wikidata"]
-                    update[field_name_update["wikidata"]] = wd
-                    v_geo += 1
-                    print(f"geonames id matched with gnd: {gnd} and wikidata: {wd}")
+                    print(f"geonames id matched with wikidata id: {wd}")
                 except Exception:
-                    try:
-                        wd = geonames_to_wikidata(norm_id)
-                        wd = wd["wikidata"]
-                        update[field_name_update["wikidata"]] = wd
-                        print(f"geonames id matched with wikidata id: {wd}")
-                    except Exception:
-                        print(f"no wikidata match for {norm_id} found.")
-                    print(f"no gnd match for {norm_id} found.")
+                    print(f"no wikidata match for {norm_id} found.")
+                print(f"no gnd match for {norm_id} found.")
         if update:
             update["updated"] = True
             row_id = x["id"]
@@ -73,7 +75,8 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                 )
             except Exception as err:
                 print(err)
-    print(f"{str(v_wd)} wikidata uri and {str(v_geo)} geonames uri of {len(table)} table rows matched")
+    print(f"""{str(v_wd)} wikidata uri, {str(v_pmb)} pmb uri and {str(v_geo)}
+          geonames uri of {len(table)} table rows matched""")
 
 
 def geonames_to_location(br_table_id, user, field_name_input, field_name_update):
