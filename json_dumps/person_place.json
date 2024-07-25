@@ -1048,5 +1048,55 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__43",
+    "source": [
+      {
+        "id": 2,
+        "value": "Musulin, Stella Mary Bellairs"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 74,
+        "value": "Zell am See"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__44",
+    "source": [
+      {
+        "id": 167,
+        "value": "Musulin, Janko von"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 74,
+        "value": "Zell am See"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

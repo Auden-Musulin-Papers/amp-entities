@@ -954,6 +954,18 @@
       {
         "id": 215,
         "value": "relationship_person_id__215"
+      },
+      {
+        "id": 218,
+        "value": "relationship_person_id__218"
+      },
+      {
+        "id": 221,
+        "value": "relationship_person_id__221"
+      },
+      {
+        "id": 229,
+        "value": "relationship_person_id__229"
       }
     ],
     "PMB": ""
@@ -1259,6 +1271,10 @@
       {
         "id": 38,
         "value": "relationship_place_id__38"
+      },
+      {
+        "id": 43,
+        "value": "relationship_place_id__43"
       }
     ],
     "person_org": [
@@ -1323,6 +1339,18 @@
       {
         "id": 174,
         "value": "relationship_person_id__174"
+      },
+      {
+        "id": 216,
+        "value": "relationship_person_id__216"
+      },
+      {
+        "id": 217,
+        "value": "relationship_person_id__217"
+      },
+      {
+        "id": 227,
+        "value": "relationship_person_id__227"
       }
     ],
     "PMB": ""
@@ -4565,6 +4593,10 @@
       {
         "id": 199,
         "value": "relationship_person_id__199"
+      },
+      {
+        "id": 231,
+        "value": "relationship_person_id__231"
       }
     ],
     "PMB": ""
@@ -5477,6 +5509,10 @@
       {
         "id": 173,
         "value": "relationship_person_id__173"
+      },
+      {
+        "id": 226,
+        "value": "relationship_person_id__226"
       }
     ],
     "PMB": ""
@@ -7609,6 +7645,10 @@
       {
         "id": 65,
         "value": "relationship_person_id__65"
+      },
+      {
+        "id": 219,
+        "value": "relationship_person_id__219"
       }
     ],
     "PMB": ""
@@ -7794,7 +7834,16 @@
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q2038348",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 267,
+        "value": "person_event__267"
+      },
+      {
+        "id": 268,
+        "value": "person_event__268"
+      }
+    ],
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
@@ -7805,7 +7854,16 @@
       }
     ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 230,
+        "value": "relationship_person_id__230"
+      },
+      {
+        "id": 232,
+        "value": "relationship_person_id__232"
+      }
+    ],
     "PMB": ""
   },
   "153": {
@@ -8150,7 +8208,12 @@
         "value": "person_org__17"
       }
     ],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 222,
+        "value": "relationship_person_id__222"
+      }
+    ],
     "PMB": ""
   },
   "164": {
@@ -8333,7 +8396,12 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 44,
+        "value": "relationship_place_id__44"
+      }
+    ],
     "person_org": [
       {
         "id": 5,
@@ -8356,6 +8424,10 @@
       {
         "id": 171,
         "value": "relationship_person_id__171"
+      },
+      {
+        "id": 224,
+        "value": "relationship_person_id__224"
       }
     ],
     "PMB": ""
@@ -9184,6 +9256,14 @@
       {
         "id": 210,
         "value": "relationship_person_id__210"
+      },
+      {
+        "id": 223,
+        "value": "relationship_person_id__223"
+      },
+      {
+        "id": 225,
+        "value": "relationship_person_id__225"
       }
     ],
     "PMB": ""
@@ -9371,7 +9451,12 @@
       }
     ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 228,
+        "value": "relationship_person_id__228"
+      }
+    ],
     "PMB": ""
   },
   "199": {
@@ -11338,7 +11423,12 @@
         "value": "person_org__25"
       }
     ],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 220,
+        "value": "relationship_person_id__220"
+      }
+    ],
     "PMB": ""
   },
   "250": {

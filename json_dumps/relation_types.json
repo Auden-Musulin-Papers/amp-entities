@@ -115,6 +115,10 @@
       {
         "id": 211,
         "value": "relationship_person_id__211"
+      },
+      {
+        "id": 226,
+        "value": "relationship_person_id__226"
       }
     ]
   },
@@ -255,6 +259,10 @@
       {
         "id": 209,
         "value": "relationship_person_id__209"
+      },
+      {
+        "id": 225,
+        "value": "relationship_person_id__225"
       }
     ]
   },
@@ -360,6 +368,14 @@
       {
         "id": 54,
         "value": "relationship_person_id__54"
+      },
+      {
+        "id": 223,
+        "value": "relationship_person_id__223"
+      },
+      {
+        "id": 224,
+        "value": "relationship_person_id__224"
       }
     ]
   },
@@ -2246,6 +2262,14 @@
       {
         "id": 194,
         "value": "relationship_person_id__194"
+      },
+      {
+        "id": 217,
+        "value": "relationship_person_id__217"
+      },
+      {
+        "id": 219,
+        "value": "relationship_person_id__219"
       }
     ]
   },
@@ -2613,6 +2637,14 @@
       {
         "id": 42,
         "value": "relationship_place_id__42"
+      },
+      {
+        "id": 43,
+        "value": "relationship_place_id__43"
+      },
+      {
+        "id": 44,
+        "value": "relationship_place_id__44"
       }
     ],
     "person_event": [],
@@ -3084,6 +3116,10 @@
       {
         "id": 265,
         "value": "person_event__265"
+      },
+      {
+        "id": 268,
+        "value": "person_event__268"
       }
     ],
     "org_event": [],
@@ -3611,7 +3647,12 @@
     "literary_works": [],
     "places": [],
     "person_place": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 267,
+        "value": "person_event__267"
+      }
+    ],
     "org_event": [
       {
         "id": 1,
@@ -3981,5 +4022,137 @@
       }
     ],
     "person_person": []
+  },
+  "41": {
+    "id": 41,
+    "order": "40.00000000000000000000",
+    "name": "is_interviewed_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to"
+      }
+    ],
+    "inverse": "interviews",
+    "amp_id": "relation_type__41",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 218,
+        "value": "relationship_person_id__218"
+      },
+      {
+        "id": 221,
+        "value": "relationship_person_id__221"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "41.00000000000000000000",
+    "name": "interviews",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to"
+      }
+    ],
+    "inverse": "is_interviewed_by",
+    "amp_id": "relation_type__42",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 220,
+        "value": "relationship_person_id__220"
+      },
+      {
+        "id": 222,
+        "value": "relationship_person_id__222"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "name": "portrays",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to"
+      }
+    ],
+    "inverse": "is_portrayed_by",
+    "amp_id": "relation_type__43",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 228,
+        "value": "relationship_person_id__228"
+      },
+      {
+        "id": 230,
+        "value": "relationship_person_id__230"
+      },
+      {
+        "id": 232,
+        "value": "relationship_person_id__232"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "name": "is_portrayed_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to"
+      }
+    ],
+    "inverse": "portrays",
+    "amp_id": "relation_type__44",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 227,
+        "value": "relationship_person_id__227"
+      },
+      {
+        "id": 229,
+        "value": "relationship_person_id__229"
+      },
+      {
+        "id": 231,
+        "value": "relationship_person_id__231"
+      }
+    ]
   }
 }
