@@ -94,6 +94,9 @@
                   {% if x.wikidata|length > 0 %}
                   <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
+                  {% if x.PMB|length > 0 %}
+                  <idno type="URI" subtype="PMB">{{ x.PMB }}</idno>
+                  {% endif %}
                   {% if x.comments is string %}
                   <note>{{ x.comments }}</note>
                   {% endif %}
