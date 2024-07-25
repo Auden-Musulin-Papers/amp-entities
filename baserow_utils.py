@@ -29,10 +29,11 @@ def enrich_data(br_table_id, uri, field_name_input, field_name_update):
                 update[field_name_update["wikidata"]] = wd
                 if len(wdc["custom"]) > 0:
                     pmb = wdc["custom"]
-                    update[field_name_update["pmb"]] = pmb
+                    update[field_name_update["pmb"]] = f"https://pmb.acdh.oeaw.ac.at/entity/{pmb}"
                     v_pmb += 1
+                    print(f"gnd id matched with pmb: {pmb}")
                 v_wd += 1
-                print(f"gnd id matched with wikidata: {wd} and pmb: {pmb}")
+                print(f"gnd id matched with wikidata: {wd}")
             except Exception as err:
                 print(err)
                 print(f"no match for {norm_id} found.")
