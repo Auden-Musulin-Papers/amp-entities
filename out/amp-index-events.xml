@@ -131,6 +131,9 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_6" notBefore-iso="1967-10-25" notAfter-iso="1967-10-28" type="professional">
                   <label>T S Eliot Memorial Lectures: "Secondary Worlds - Art and Truth" 1967-10-25--1967-10-28</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
+                  <org sameAs="amp_organization_57" role="is_host_of">
+                     <orgName>Eliot College</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
@@ -144,11 +147,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_57" role="is_host_of">
-                        <orgName>Eliot College</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_7" notBefore-iso="1969-05-05" notAfter-iso="1969-05-10" type="historic">
                   <label>State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10</label>
@@ -182,6 +180,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_9" notBefore-iso="1967-10-25" notAfter-iso="1967-10-25" type="professional">
                   <label>W. H. Auden's lecture "The Martyr as Dramatic Hero" 1967-10-25</label>
+                  <org sameAs="amp_organization_57" role="is_host_of">
+                     <orgName>Eliot College</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -204,11 +205,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_57" role="is_host_of">
-                        <orgName>Eliot College</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_10" notBefore-iso="1968-02-12" notAfter-iso="1968-02-16" type="communicative" subtype="meeting">
                   <label>W. H. Auden's interview of Strobls 1968-02-12--1968-02-16</label>
@@ -392,6 +388,12 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_21" notBefore-iso="1984-10-11" notAfter-iso="1984-10-13" type="professional">
                   <label>Symposium "W. H. Auden 1907-1973" 1984-10-11--1984-10-13</label>
+                  <org sameAs="amp_organization_60" role="is_host_of">
+                     <orgName>Künstlerhaus Wien</orgName>
+                  </org>
+                  <org sameAs="amp_organization_16" role="is_organizer_of">
+                     <orgName>British Council</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_99" role="is_speaker_in">
                         <persName>O'Sullivan, Michael</persName>
@@ -414,14 +416,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_60" role="is_host_of">
-                        <orgName>Künstlerhaus Wien</orgName>
-                     </org>
-                     <org sameAs="amp_organization_16" role="is_organizer_of">
-                        <orgName>British Council</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_22" notBefore-iso="1969-05-28" notAfter-iso="1969-05-28" type="personal" subtype="meeting">
                   <label>Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28</label>
@@ -450,6 +444,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_23" notBefore-iso="1977-05-05" notAfter-iso="1977-05-05" type="professional">
                   <label>Stella Musulin's talk "W. H. Auden und die Österreicher" 1977-05-05</label>
+                  <org sameAs="amp_organization_9" role="is_organizer_of">
+                     <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_137" role="is_activeparticipant_in">
                         <persName>Kraus, Wolfgang</persName>
@@ -466,14 +463,12 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_9" role="is_organizer_of">
-                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_25" notBefore-iso="1962-10-04" notAfter-iso="1962-10-04" type="professional">
                   <label>Reading W. H. Auden 1962-10-04</label>
+                  <org sameAs="amp_organization_9" role="is_organizer_of">
+                     <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_243" role="is_speaker_in">
                         <persName>Gasser, Wolfgang</persName>
@@ -482,14 +477,12 @@ for any purpose, even commercially.</p>
                         <persName>Auden, W. H.</persName>
                      </person>
                   </listPerson>
-                  <listOrg>
-                     <org sameAs="amp_organization_9" role="is_organizer_of">
-                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_26" notBefore-iso="1964-10-15" notAfter-iso="1964-10-18" type="professional">
                   <label>PEN International Executive Committee and Round Table Discussion "Tradition and Innovation in Contemporary Literature" 1964-10-15--1964-10-18</label>
+                  <org sameAs="amp_organization_51" role="is_organizer_of">
+                     <orgName>PEN International</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
@@ -503,11 +496,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_51" role="is_organizer_of">
-                        <orgName>PEN International</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_27" notBefore-iso="1964-10-01" notAfter-iso="1965-04-01" type="professional">
                   <label>W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965</label>
@@ -527,6 +515,15 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_29" notBefore-iso="1965-05-24" notAfter-iso="1965-05-24" type="professional">
                   <label>W. H. Auden's talk "T. S. Eliot" 1965-05-24</label>
+                  <org sameAs="amp_organization_35" role="is_organizer_of">
+                     <orgName>Österreichisch-Britische Gesellschaft (Austro-British Society)</orgName>
+                  </org>
+                  <org sameAs="amp_organization_16" role="is_organizer_of">
+                     <orgName>British Council</orgName>
+                  </org>
+                  <org sameAs="amp_organization_61" role="is_host_of">
+                     <orgName>Naturhistorisches Museum Wien (Natural History Museum Vienna)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_passiveparticipant_in">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -543,17 +540,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_35" role="is_organizer_of">
-                        <orgName>Österreichisch-Britische Gesellschaft (Austro-British Society)</orgName>
-                     </org>
-                     <org sameAs="amp_organization_16" role="is_organizer_of">
-                        <orgName>British Council</orgName>
-                     </org>
-                     <org sameAs="amp_organization_61" role="is_host_of">
-                        <orgName>Naturhistorisches Museum Wien (Natural History Museum Vienna)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_30" notBefore-iso="1966-10-18" notAfter-iso="1966-10-18" type="professional">
                   <label>W. H. Auden's sermon delivered in Westminster Abbey 1966-10-18</label>
@@ -625,6 +611,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" notAfter-iso="1968-07-25" type="professional">
                   <label>W. H. Auden's speech "Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele" 1968-07-25</label>
+                  <org sameAs="amp_organization_62" role="is_host_of">
+                     <orgName>Großes Festspielhaus (Large Festival House)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
@@ -638,11 +627,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_62" role="is_host_of">
-                        <orgName>Großes Festspielhaus (Large Festival House)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_34" notBefore-iso="1968-04-01" notAfter-iso="1968-04-30" type="personal">
                   <label>Car accident W. H. Auden 1968-04</label>
@@ -771,6 +755,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_46" notBefore-iso="1966-10-25" notAfter-iso="1966-10-25" type="professional">
                   <label>Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25</label>
+                  <org sameAs="amp_organization_43" role="is_organizer_of">
+                     <orgName>Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -784,11 +771,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_43" role="is_organizer_of">
-                        <orgName>Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
                   <label>Vietnam War 1955-11-01--1975-04-30</label>
@@ -906,6 +888,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_60" notBefore-iso="1941-09-01" notAfter-iso="1942-06-30" type="professional">
                   <label>W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942</label>
+                  <org sameAs="amp_organization_58" role="is_host_of">
+                     <orgName>University of Michigan</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -919,11 +904,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_58" role="is_host_of">
-                        <orgName>University of Michigan</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_61" notBefore-iso="1959-10-05" notAfter-iso="1959-10-05" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1959-10-05</label>
@@ -1078,6 +1058,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_69" notBefore-iso="1963-05-12" notAfter-iso="1963-05-17" type="professional">
                   <label>International Rudolf Kassner Symposium 1963-05-12--1963-05-17</label>
+                  <org sameAs="amp_organization_9" role="is_organizer_of">
+                     <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -1094,11 +1077,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_9" role="is_organizer_of">
-                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_70" notBefore-iso="1964-09-01" notAfter-iso="1964-12-23" type="communicative" subtype="letter">
                   <label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label>
@@ -1562,6 +1540,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_96" notBefore-iso="1969-05-06" notAfter-iso="1969-05-06">
                   <label>Opera performance "Die Fledermaus" Vienna State Opera 1969-05-06</label>
+                  <org sameAs="amp_organization_90" role="is_organizer_of">
+                     <orgName>Vienna State Opera</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_attendee_of">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1578,11 +1559,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_90" role="is_organizer_of">
-                        <orgName>Vienna State Opera</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_97" notBefore-iso="1969-06-14" notAfter-iso="1969-06-14" type="communicative" subtype="meeting">
                   <label>Meeting W. H. Auden and Stella Musulin 1969-06-14</label>
@@ -1731,6 +1707,12 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_105" notBefore-iso="1984-10-11" notAfter-iso="1984-11-03" type="professional">
                   <label>Exhibition "W. H. Auden 1907-1973" 1984-10-11--1984-11-03</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124830790</idno>
+                  <org sameAs="amp_organization_16" role="is_organizer_of">
+                     <orgName>British Council</orgName>
+                  </org>
+                  <org sameAs="amp_organization_60" role="is_host_of">
+                     <orgName>Künstlerhaus Wien</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_99" role="is_activeparticipant_in">
                         <persName>O'Sullivan, Michael</persName>
@@ -1753,17 +1735,12 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_16" role="is_organizer_of">
-                        <orgName>British Council</orgName>
-                     </org>
-                     <org sameAs="amp_organization_60" role="is_host_of">
-                        <orgName>Künstlerhaus Wien</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_106" notBefore-iso="1976-06-23" notAfter-iso="1976-06-23" type="professional">
                   <label>Talk Stella Musulin "Auden in Kirchstetten" 1976-06-23</label>
+                  <org sameAs="amp_organization_47" role="is_organizer_of">
+                     <orgName>English PEN</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_speaker_in">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1777,11 +1754,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_47" role="is_organizer_of">
-                        <orgName>English PEN</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_107" notBefore-iso="1957-07-15" notAfter-iso="1957-07-15" type="communicative" subtype="letter">
                   <label>Letter W. H. Auden to Christa Esders 1957-07-15</label>
@@ -1824,6 +1796,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_109" type="professional">
                   <label>Reading W. H. Auden "Hier und Jetzt"</label>
+                  <org sameAs="amp_organization_9" role="is_organizer_of">
+                     <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
@@ -1837,11 +1812,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_9" role="is_organizer_of">
-                        <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                     </org>
-                  </listOrg>
                </event>
                <event xml:id="amp_event_id_110" notBefore-iso="1970-05-19" notAfter-iso="1970-05-19" type="professional" subtype="telegram">
                   <label>Telegram W. H. Auden to Stella Musulin 1970-05-19</label>
@@ -1891,6 +1861,9 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_113" notBefore-iso="1965-03-14" notAfter-iso="1965-06-04">
                   <label>Opera performance "The Rake's Progress" Vienna State Opera 1965-03-14--1965-06-04</label>
+                  <org sameAs="amp_organization_90" role="is_organizer_of">
+                     <orgName>Vienna State Opera</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_250" role="is_activeparticipant_in">
                         <persName>Schenk, Otto</persName>
@@ -1907,11 +1880,6 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
-                  <listOrg>
-                     <org sameAs="amp_organization_90" role="is_organizer_of">
-                        <orgName>Vienna State Opera</orgName>
-                     </org>
-                  </listOrg>
                </event>
             </listEvent>
          </div>
