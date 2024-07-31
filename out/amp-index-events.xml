@@ -2,51 +2,44 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index of Events mentioned in Auden Musulin Papers</title>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Index of Events</title>
             <respStmt>
-               <resp>providing the content</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
+               <resp>editing entities</resp>
+               <name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name>
+               <name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
+               <name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name>
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Elsner</name>
+               <name xml:id="delsner" ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
             </respStmt>
-            <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
+            <funder>
+               <name>Austrian Science Fund (FWF)</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2024">2024</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -103,6 +96,7 @@
                </event>
                <event xml:id="amp_event_id_4" notBefore-iso="1965-11-09" notAfter-iso="1965-11-10" type="historic">
                   <label>Northeast blackout of 1965 1965-11-09--1965-11-10</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_passiveparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -116,10 +110,10 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251686</idno>
                </event>
                <event xml:id="amp_event_id_5" notBefore-iso="1966-01-01" notAfter-iso="1966-01-13" type="historic">
                   <label>1966 New York City transit strike 1966-01-01--1966-01-13</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_passiveparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -133,10 +127,10 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3118377</idno>
                </event>
                <event xml:id="amp_event_id_6" notBefore-iso="1967-10-25" notAfter-iso="1967-10-28" type="professional">
                   <label>T S Eliot Memorial Lectures: "Secondary Worlds - Art and Truth" 1967-10-25--1967-10-28</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
@@ -155,10 +149,10 @@
                         <orgName>Eliot College</orgName>
                      </org>
                   </listOrg>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123758233</idno>
                </event>
                <event xml:id="amp_event_id_7" notBefore-iso="1969-05-05" notAfter-iso="1969-05-10" type="historic">
                   <label>State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                   <listPerson>
                      <person sameAs="amp_person_2" role="is_attendee_of">
                         <persName>Musulin, Stella Mary Bellairs</persName>
@@ -181,7 +175,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72716379</idno>
                </event>
                <event xml:id="amp_event_id_8" notBefore-iso="1815-01-01" notAfter-iso="1848-12-31" type="historic">
                   <label>Biedermeier period</label>
@@ -691,6 +684,7 @@
                </event>
                <event xml:id="amp_event_id_37" notBefore-iso="1970-06-14" notAfter-iso="1970-06-14" type="professional">
                   <label>Lyrik 70 poetry convention 1970-06-14</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124289732</idno>
                   <listPerson>
                      <person sameAs="amp_person_112" role="is_attendee_of">
                         <persName>Maurer, Andreas</persName>
@@ -710,7 +704,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124289732</idno>
                </event>
                <event xml:id="amp_event_id_38" notBefore-iso="1965-12-21" notAfter-iso="1966-02-03" type="personal">
                   <label>Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03</label>
@@ -733,6 +726,7 @@
                </event>
                <event xml:id="amp_event_id_42" notBefore-iso="1968-01-05" notAfter-iso="1968-08-21" type="historic">
                   <label>Prague Spring 1968-01-05--1968-08-21</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_passiveparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -755,7 +749,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q162401</idno>
                </event>
                <event xml:id="amp_event_id_43" notBefore-iso="1972-04-15" notAfter-iso="1972-09-30" type="personal">
                   <label>Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30</label>
@@ -799,6 +792,7 @@
                </event>
                <event xml:id="amp_event_id_47" notBefore-iso="1955-11-01" notAfter-iso="1975-04-30" type="historic">
                   <label>Vietnam War 1955-11-01--1975-04-30</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                   <listPlace>
                      <place sameAs="amp_place_id_236" type="location" subtype="is_event_location">
                         <placeName>Vietnam</placeName>
@@ -807,7 +801,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8740</idno>
                </event>
                <event xml:id="amp_event_id_48" notBefore-iso="1968-01-20" notAfter-iso="1968-01-23" type="historic">
                   <label>Pueblo incident 1968-01-20--1968-01-23</label>
@@ -834,6 +827,7 @@
                </event>
                <event xml:id="amp_event_id_52" notBefore-iso="1945-01-01" notAfter-iso="1948-01-01" type="historic">
                   <label>Expulsion of Germans from Czechoslovakia, 1945-1948</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                   <listPlace>
                      <place sameAs="amp_place_id_100" type="location" subtype="is_event_location">
                         <placeName>Czechoslovakia</placeName>
@@ -842,7 +836,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542945</idno>
                </event>
                <event xml:id="amp_event_id_53" notBefore-iso="1914-07-28" notAfter-iso="1918-11-11" type="historic">
                   <label>World War I 1914-07-28--1918-11-11</label>
@@ -854,6 +847,7 @@
                </event>
                <event xml:id="amp_event_id_55" notBefore-iso="1938-03-12" type="historic">
                   <label>Anschluss (annexation of Austria into Nazi Germany 1938)</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -862,10 +856,10 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q154681</idno>
                </event>
                <event xml:id="amp_event_id_56" type="recurrent">
                   <label>Salzburg Festival</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                   <listPlace>
                      <place sameAs="amp_place_id_37" type="location" subtype="is_event_location">
                         <placeName>Salzburg</placeName>
@@ -874,7 +868,6 @@
                         </location>
                      </place>
                   </listPlace>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q256443</idno>
                </event>
                <event xml:id="amp_event_id_57" notBefore-iso="1959-01-01" notAfter-iso="1959-10-10" type="personal" subtype="meeting">
                   <label>Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10</label>
@@ -1737,6 +1730,7 @@
                </event>
                <event xml:id="amp_event_id_105" notBefore-iso="1984-10-11" notAfter-iso="1984-11-03" type="professional">
                   <label>Exhibition "W. H. Auden 1907-1973" 1984-10-11--1984-11-03</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124830790</idno>
                   <listPerson>
                      <person sameAs="amp_person_99" role="is_activeparticipant_in">
                         <persName>O'Sullivan, Michael</persName>
@@ -1767,7 +1761,6 @@
                         <orgName>Künstlerhaus Wien</orgName>
                      </org>
                   </listOrg>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124830790</idno>
                </event>
                <event xml:id="amp_event_id_106" notBefore-iso="1976-06-23" notAfter-iso="1976-06-23" type="professional">
                   <label>Talk Stella Musulin "Auden in Kirchstetten" 1976-06-23</label>

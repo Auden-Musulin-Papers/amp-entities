@@ -2,51 +2,44 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index of Literature in Auden Musulin Papers</title>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Index of Works</title>
             <respStmt>
-               <resp>providing the content</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
+               <resp>editing entities</resp>
+               <name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name>
+               <name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
+               <name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name>
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
-               <name>Daniel Elsner</name>
+               <name xml:id="delsner" ref="https://orcid.org/0000-0002-0636-4476">Elsner, Daniel</name>
             </respStmt>
-            <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
+            <funder>
+               <name>Austrian Science Fund (FWF)</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2024">2024</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -65,7 +58,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q6754148</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_2" type="book of poems">
+            <bibl xml:id="lit_work_id_2" type="book_of_poems">
                <title>Homage to Clio</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -152,7 +145,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q192039</idno>
                <lang>it</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_9" type="ballet chanté">
+            <bibl xml:id="lit_work_id_9" type="ballet_chanté">
                <title>Die Sieben Todsünden (The Seven Deadly Sins)</title>
                <author ref="#amp_person_40">
                   <persName>Weill, Kurt</persName>
@@ -191,16 +184,16 @@
                <idno type="URI" subtype="GND">https://d-nb.info/gnd/7615440-3</idno>
                <lang>it</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_12" type="religious text">
+            <bibl xml:id="lit_work_id_12" type="religious_text">
                <title>New Testament</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
-            <bibl xml:id="lit_work_id_13" type="religious text">
+            <bibl xml:id="lit_work_id_13" type="religious_text">
                <title>Book of Common Prayer</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q784710</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_14" type="religious text">
+            <bibl xml:id="lit_work_id_14" type="religious_text">
                <title>First Epistle to the Corinthians</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q80355</idno>
             </bibl>
@@ -316,12 +309,12 @@
                <date when="1937">1937</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_27" type="collection of poems">
+            <bibl xml:id="lit_work_id_27" type="collection_of_poems">
                <title>The Elder Edda</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q205874</idno>
                <lang>non</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_28" type="book of poems">
+            <bibl xml:id="lit_work_id_28" type="book_of_poems">
                <title>W. H. Auden: Collected Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -333,7 +326,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_29" type="autobiographical text">
+            <bibl xml:id="lit_work_id_29" type="autobiographical_text">
                <title>Vägmärken (Markings)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -344,7 +337,7 @@
                <date when="1964">1964</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_30" type="autobiographical text">
+            <bibl xml:id="lit_work_id_30" type="autobiographical_text">
                <title>Vägmärken (Markings)</title>
                <author ref="#amp_person_131">
                   <persName>Hammarskjöld, Dag</persName>
@@ -353,7 +346,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7944306</idno>
                <lang>sv</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_31" type="collection of essays">
+            <bibl xml:id="lit_work_id_31" type="collection_of_essays">
                <title>The Dyer's Hand</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -391,7 +384,7 @@
                <date when="1966">1966</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_35" type="ballet music">
+            <bibl xml:id="lit_work_id_35" type="ballet_music">
                <title>Le Sacre du Printemps (The Rite of Spring)</title>
                <author ref="#amp_person_25">
                   <persName>Stravinsky, Igor</persName>
@@ -423,7 +416,7 @@
                <date when="1967">1967</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_39" type="biographical text">
+            <bibl xml:id="lit_work_id_39" type="biographical_text">
                <title>W. H. Auden: A Biography</title>
                <author ref="#amp_person_100">
                   <persName>Carpenter, Humphrey</persName>
@@ -456,7 +449,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_44" type="autobiographical text">
+            <bibl xml:id="lit_work_id_44" type="autobiographical_text">
                <title>Leben und Ereignisse des Peter Prosch, eines Tyrolers von Ried im Zillertal, oder Das wunderbare Schicksal, geschrieben zur Zeit der Aufklärung</title>
                <author ref="#amp_person_34">
                   <persName>Prosch, Peter</persName>
@@ -475,7 +468,7 @@
                <lang>de</lang>
                <lang>fr</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_46" type="autobiographical text">
+            <bibl xml:id="lit_work_id_46" type="autobiographical_text">
                <title>In Retrospect</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -483,7 +476,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_47" type="biographical text">
+            <bibl xml:id="lit_work_id_47" type="biographical_text">
                <title>The Years in Austria 1976-09-04--1980-12-01</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -491,7 +484,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_48" type="biographical text">
+            <bibl xml:id="lit_work_id_48" type="biographical_text">
                <title>Auden in Love</title>
                <author ref="#amp_person_150">
                   <persName>Farnan, Dorothy J.</persName>
@@ -499,7 +492,7 @@
                <date when="1984">1984</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_49" type="biographical text">
+            <bibl xml:id="lit_work_id_49" type="biographical_text">
                <title>Early Auden</title>
                <author ref="#amp_person_98">
                   <persName>Mendelson, Edward</persName>
@@ -507,12 +500,12 @@
                <date when="1981">1981</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_51" type="reference work">
+            <bibl xml:id="lit_work_id_51" type="reference_work">
                <title>The Oxford English Dictionary</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q44996</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_53" type="collection of essays">
+            <bibl xml:id="lit_work_id_53" type="collection_of_essays">
                <title>Forewords and Afterwords</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -567,7 +560,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_59" type="religious text">
+            <bibl xml:id="lit_work_id_59" type="religious_text">
                <title>Bible</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1845</idno>
             </bibl>
@@ -598,7 +591,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_67" type="book of poems">
+            <bibl xml:id="lit_work_id_67" type="book_of_poems">
                <title>Gedichte/Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -667,7 +660,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2701465</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_70" type="autobiographical text">
+            <bibl xml:id="lit_work_id_70" type="autobiographical_text">
                <title>Italienische Reise (Italian Journey)</title>
                <author ref="#amp_person_11">
                   <persName>Goethe, Johann Wolfgang von</persName>
@@ -708,7 +701,7 @@
                <date when="1961">1961</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_78" type="biographical text">
+            <bibl xml:id="lit_work_id_78" type="biographical_text">
                <title>W. H. Auden in America</title>
                <author ref="#amp_person_84">
                   <persName>Wilson, Edmund</persName>
@@ -736,7 +729,7 @@
                <date when="1977">1977</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_82" type="religious text">
+            <bibl xml:id="lit_work_id_82" type="religious_text">
                <title>King James Version</title>
                <date when="1611">1611</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q623398</idno>
@@ -752,7 +745,7 @@
                <lang>de</lang>
                <lang>fr</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_87" type="journalistic text">
+            <bibl xml:id="lit_work_id_87" type="journalistic_text">
                <title>Fleißaufgaben in Nächstenliebe</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -831,7 +824,7 @@
                <lang>de</lang>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_95" type="collection of essays">
+            <bibl xml:id="lit_work_id_95" type="collection_of_essays">
                <title>The Image of the City, and Other Essays</title>
                <author ref="#amp_person_6">
                   <persName>Williams, Charles</persName>
@@ -847,7 +840,7 @@
                <date when="1959">1959</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_97" type="autobiographical text">
+            <bibl xml:id="lit_work_id_97" type="autobiographical_text">
                <title>The Doors of Perception</title>
                <author ref="#amp_person_143">
                   <persName>Huxley, Aldous</persName>
@@ -856,7 +849,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1215450</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_99" type="legal document">
+            <bibl xml:id="lit_work_id_99" type="legal_document">
                <title>Statement addressed to the Austrian tax authorities (English version 1972-07-26)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -889,7 +882,7 @@
                <lang>en</lang>
                <lang>it</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_103" type="legal document">
+            <bibl xml:id="lit_work_id_103" type="legal_document">
                <title>Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -900,7 +893,7 @@
                <date when="1972">1972</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_104" type="legal document">
+            <bibl xml:id="lit_work_id_104" type="legal_document">
                <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -913,14 +906,14 @@
                </author>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_105" type="legal document">
+            <bibl xml:id="lit_work_id_105" type="legal_document">
                <title>Statement (addressed to the Austrian tax authorities)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
                </author>
                <date when="1972">1972</date>
             </bibl>
-            <bibl xml:id="lit_work_id_106" type="legal document">
+            <bibl xml:id="lit_work_id_106" type="legal_document">
                <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -950,7 +943,7 @@
                <date when="1976">1976</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_109" type="religious text">
+            <bibl xml:id="lit_work_id_109" type="religious_text">
                <title>Luther Bible</title>
                <author ref="#amp_person_102">
                   <persName>Luther, Martin</persName>
@@ -959,7 +952,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1571095</idno>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_110" type="religious text">
+            <bibl xml:id="lit_work_id_110" type="religious_text">
                <title>Second Epistle to the Corinthians</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q123808</idno>
             </bibl>
@@ -980,11 +973,11 @@
                <date when="1968">1968</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_113" type="religious text">
+            <bibl xml:id="lit_work_id_113" type="religious_text">
                <title>New Testament</title>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q18813</idno>
             </bibl>
-            <bibl xml:id="lit_work_id_114" type="biographical text">
+            <bibl xml:id="lit_work_id_114" type="biographical_text">
                <title>Unpublished volume on W. H. Auden in Austria to be edited by Peter Müller</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -995,7 +988,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_115" type="biographical text">
+            <bibl xml:id="lit_work_id_115" type="biographical_text">
                <title>Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1003,7 +996,7 @@
                <date when="1977">1977</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_116" type="collection of essays">
+            <bibl xml:id="lit_work_id_116" type="collection_of_essays">
                <title>Secondary Worlds</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1012,7 +1005,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7443800</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_117" type="biographical text">
+            <bibl xml:id="lit_work_id_117" type="biographical_text">
                <title>Unpublished volume of memoirs of W. H. Auden</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1037,7 +1030,7 @@
                <idno type="URL" subtype="OTHER">https://genome.ch.bbc.co.uk/f1a0c35242bdd164d03ab521070ffcb8</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_119" type="radio programme">
+            <bibl xml:id="lit_work_id_119" type="radio_programme">
                <title>The Double Man, a Portrait of W. H. Auden</title>
                <date when="1981">1981</date>
                <idno type="URL" subtype="OTHER">https://genome.ch.bbc.co.uk/aa7851de58d54f8bb33f34ba29e95c22</idno>
@@ -1076,7 +1069,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21646703</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_123" type="exhibition catalogue">
+            <bibl xml:id="lit_work_id_123" type="exhibition_catalogue">
                <title>Auden: Poems/Moore: Lithographs</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1128,7 +1121,7 @@
                <date when="1939">1939</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_129" type="collection of plays">
+            <bibl xml:id="lit_work_id_129" type="collection_of_plays">
                <title>Shakespeare's dramatische Werke</title>
                <author ref="#amp_person_201">
                   <persName>Tieck, Ludwig</persName>
@@ -1173,7 +1166,7 @@
                <date when="1967">1967</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_134" type="book of poems">
+            <bibl xml:id="lit_work_id_134" type="book_of_poems">
                <title>About the House</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1183,7 +1176,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_135" type="book of poems">
+            <bibl xml:id="lit_work_id_135" type="book_of_poems">
                <title>Collected Shorter Poems 1927–1957</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1191,7 +1184,7 @@
                <date when="1966">1966</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_136" type="book of poems">
+            <bibl xml:id="lit_work_id_136" type="book_of_poems">
                <title>Collected Longer Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1199,7 +1192,7 @@
                <date when="1968">1968</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_137" type="book of poems">
+            <bibl xml:id="lit_work_id_137" type="book_of_poems">
                <title>City Without Walls</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1209,7 +1202,7 @@
                <lang>en</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_138" type="book of poems">
+            <bibl xml:id="lit_work_id_138" type="book_of_poems">
                <title>Epistle to a Godson and Other Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1312,7 +1305,7 @@
                <date when="1951">1951</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_158" type="book of poems">
+            <bibl xml:id="lit_work_id_158" type="book_of_poems">
                <title>Nones</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1335,7 +1328,7 @@
                <date when="1968">1968</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_162" type="biographical text">
+            <bibl xml:id="lit_work_id_162" type="biographical_text">
                <title>Auden in Kirchstetten</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1412,7 +1405,7 @@
                <date when="1807">1807</date>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_171" type="autobiographical text">
+            <bibl xml:id="lit_work_id_171" type="autobiographical_text">
                <title>Confessiones (Confessions)</title>
                <author ref="#amp_person_111">
                   <persName>Hippo, Augustine of</persName>
@@ -1420,7 +1413,7 @@
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q372941</idno>
                <lang>la</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_172" type="autobiographical text">
+            <bibl xml:id="lit_work_id_172" type="autobiographical_text">
                <title>Retrospectives and Conclusions</title>
                <author ref="#amp_person_25">
                   <persName>Stravinsky, Igor</persName>
@@ -1511,7 +1504,7 @@
                <date when="1973">1973</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_182" type="book of poems">
+            <bibl xml:id="lit_work_id_182" type="book_of_poems">
                <title>On This Island</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1536,7 +1529,7 @@
                <date when="1940">1940</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_185" type="collection of essays">
+            <bibl xml:id="lit_work_id_185" type="collection_of_essays">
                <title>"two volumes by and about Auden" (amp-transcript__0033.xml)</title>
                <author ref="#amp_person_2">
                   <persName>Musulin, Stella Mary Bellairs</persName>
@@ -1576,7 +1569,7 @@
                <date when="1939">1939</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_190" type="TV program">
+            <bibl xml:id="lit_work_id_190" type="TV_program">
                <title>Inzwischen: Ein Musik-Fernseh-Spiel</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1625,7 +1618,7 @@
                <date when="1962">1962</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_194" type="book of poems">
+            <bibl xml:id="lit_work_id_194" type="book_of_poems">
                <title>Academic Graffiti</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1636,7 +1629,7 @@
                <lang>de</lang>
                <lang>fr</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_195" type="book of poems">
+            <bibl xml:id="lit_work_id_195" type="book_of_poems">
                <title>Thank You, Fog and Other Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1646,7 +1639,7 @@
                <lang>en</lang>
                <lang>it</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_196" type="book of poems">
+            <bibl xml:id="lit_work_id_196" type="book_of_poems">
                <title>Selected Poetry of W. H. Auden: Second Edition</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1656,7 +1649,7 @@
                <lang>it</lang>
                <lang>de</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_197" type="book of poems">
+            <bibl xml:id="lit_work_id_197" type="book_of_poems">
                <title>Selected Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1664,13 +1657,13 @@
                <date when="1968">1968</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_198" type="religious text">
+            <bibl xml:id="lit_work_id_198" type="religious_text">
                <title>Anchor Bible Series</title>
                <date when="1956">1956</date>
                <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q489181</idno>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_199" type="religious text">
+            <bibl xml:id="lit_work_id_199" type="religious_text">
                <title>"new translation of the Bible"</title>
                <lang>en</lang>
             </bibl>
@@ -1684,7 +1677,7 @@
                <lang>fr</lang>
                <lang>la</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_201" type="collection of essays">
+            <bibl xml:id="lit_work_id_201" type="collection_of_essays">
                <title>Auden: A Collection of Critical Essays</title>
                <author ref="#amp_person_85">
                   <persName>Spears, Monroe K.</persName>
@@ -1692,7 +1685,7 @@
                <date when="1964">1964</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_202" type="book of poems">
+            <bibl xml:id="lit_work_id_202" type="book_of_poems">
                <title>W. H. Auden: Selected Poems</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
@@ -1703,7 +1696,7 @@
                <date when="1979">1979</date>
                <lang>en</lang>
             </bibl>
-            <bibl xml:id="lit_work_id_203" type="collection of plays">
+            <bibl xml:id="lit_work_id_203" type="collection_of_plays">
                <title>Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</title>
                <author ref="#amp_person_1">
                   <persName>Auden, W. H.</persName>
