@@ -57,6 +57,13 @@ for any purpose, even commercially.</p>
                   {% if x.wikidata|length > 0 %}
                   <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
                   {% endif %}
+                  {% if x.org_event|length > 0 %}
+                  {% for p in x.org_event if p.data %}
+                  <org sameAs="amp_organization_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">
+                     <orgName>{{ p.data.source[0].value }}</orgName>
+                  </org>
+                  {% endfor %}
+                  {% endif %}
                   {% if x.person_event|length > 0 %}
                   <listPerson>
                      {% for p in x.person_event if p.data %}
@@ -83,15 +90,6 @@ for any purpose, even commercially.</p>
                      </place>
                      {% endfor %}
                   </listPlace>
-                  {% endif %}
-                  {% if x.org_event|length > 0 %}
-                  <listOrg>
-                     {% for p in x.org_event if p.data %}
-                     <org sameAs="amp_organization_{{ p.data.source[0].id }}" role="{{ p.data.relation_type_object[0].value }}">
-                        <orgName>{{ p.data.source[0].value }}</orgName>
-                     </org>
-                     {% endfor %}
-                  </listOrg>
                   {% endif %}
                </event>
             {% endfor %}
