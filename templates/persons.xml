@@ -2,26 +2,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Index of Persons mentioned in Auden Musulin Papers</title>
+            <title type="main">Index of Persons</title>
             <respStmt>
-               <resp>providing the content</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
+               <resp>editing entities</resp>
+               <name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name>
+               <name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
+               <name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name>
             </respStmt>
             <respStmt>
                <resp>converted to XML encoding</resp>
                <name>Daniel Elsner</name>
             </respStmt>
-            <funder xmlns="http://www.tei-c.org/ns/1.0">
-               <name>FWF Der Wissenschaftsfond.</name>
+            <funder>
+               <name>Austrian Science Fund (FWF)</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
