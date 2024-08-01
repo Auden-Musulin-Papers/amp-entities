@@ -49,41 +49,43 @@ for any purpose, even commercially.</p>
    </teiHeader>
    <text>
       <body>
-         <listBibl>
-         {% for x in objects %}
-            <bibl xml:id="{{ x.lit_work_id }}" {% if x.type|length > 0 %}type="{{ x.type[0].value }}"{% endif %}>
-               <title>{{ x.name }}</title>
-               {% if x.is_written_by|length > 0 %}
-               {% for p in x.is_written_by if p.data %}
-               <author ref="#{{ p.data.amp_id }}">
-                  <persName>{{ p.data.name }}</persName>
-               </author>
-               {% endfor %}
-               {% endif %}
-               {% if x.has_year is string %}
-               <date when="{{ x.has_year }}">{{ x.has_year }}</date>
-               {% endif %}
-               {% if x.book_number %}
-               <biblScope type="volume">{{ x.book_number }}</biblScope>
-               {% endif %}
-               {% if x.chapter_number %}
-               <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
-               {% endif %}
-               {% if x.other|length > 0 %}
-               <idno type="URL" subtype="OTHER">{{ x.other }}</idno>
-               {% endif %}
-               {% if x.wikidata|length > 0 %}
-               <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
-               {% endif %}
-               {% if x.gnd|length > 0 %}
-               <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
-               {% endif %}
-               {% for l in x.language if x.language %}
-               <lang>{{ l.value }}</lang>
-               {% endfor %}
-            </bibl>
-         {% endfor %}
-      </listBibl>
+         <div type="index_works">
+            <listBibl>
+            {% for x in objects %}
+               <bibl xml:id="{{ x.lit_work_id }}" {% if x.type|length > 0 %}type="{{ x.type[0].value }}"{% endif %}>
+                  <title>{{ x.name }}</title>
+                  {% if x.is_written_by|length > 0 %}
+                  {% for p in x.is_written_by if p.data %}
+                  <author ref="#{{ p.data.amp_id }}">
+                     <persName>{{ p.data.name }}</persName>
+                  </author>
+                  {% endfor %}
+                  {% endif %}
+                  {% if x.has_year is string %}
+                  <date when="{{ x.has_year }}">{{ x.has_year }}</date>
+                  {% endif %}
+                  {% if x.book_number %}
+                  <biblScope type="volume">{{ x.book_number }}</biblScope>
+                  {% endif %}
+                  {% if x.chapter_number %}
+                  <biblScope type="chapter">{{ x.chapter_number }}</biblScope>
+                  {% endif %}
+                  {% if x.other|length > 0 %}
+                  <idno type="URL" subtype="OTHER">{{ x.other }}</idno>
+                  {% endif %}
+                  {% if x.wikidata|length > 0 %}
+                  <idno type="URI" subtype="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+                  {% if x.gnd|length > 0 %}
+                  <idno type="URI" subtype="GND">{{ x.gnd }}</idno>
+                  {% endif %}
+                  {% for l in x.language if x.language %}
+                  <lang>{{ l.value }}</lang>
+                  {% endfor %}
+               </bibl>
+            {% endfor %}
+            </listBibl>
+         </div>
       </body>
    </text>
 </TEI>
