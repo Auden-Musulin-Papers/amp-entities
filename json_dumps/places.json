@@ -319,6 +319,10 @@
       {
         "id": 90,
         "value": "Vienna State Opera"
+      },
+      {
+        "id": 91,
+        "value": "Postamt 1200 (post office 1200)"
       }
     ],
     "is_part_of": [
@@ -14141,6 +14145,38 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "356": {
+    "id": 356,
+    "order": "355.00000000000000000000",
+    "name": "Adalbert-Stifter-Straße 22",
+    "amp_id": "amp_place_id_356",
+    "geonames_id": "https://sws.geonames.org/13060398/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 45,
+        "value": "relationship_place_id__45"
+      }
+    ],
     "updated_geonames": false
   }
 }

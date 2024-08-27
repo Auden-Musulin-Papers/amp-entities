@@ -995,6 +995,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209937</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_91">
+                  <orgName>Postamt 1200 (post office 1200)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <note>https://de.wikipedia.org/wiki/Wien_Nordwestbahnhof</note>
+               </org>
             </listOrg>
          </div>
       </body>

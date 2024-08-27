@@ -2225,5 +2225,31 @@
     ],
     "gnd": "https://d-nb.info/gnd/502324-5",
     "URL": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "89.00000000000000000000",
+    "name": "Postamt 1200 (post office 1200)",
+    "wikidata": "",
+    "amp_id": "amp_organization_91",
+    "founded_in_year": null,
+    "comments": "https://de.wikipedia.org/wiki/Wien_Nordwestbahnhof",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 40,
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }

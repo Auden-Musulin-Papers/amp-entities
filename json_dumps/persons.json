@@ -6041,19 +6041,19 @@
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
-    "name": "K., Hugo",
+    "name": "Kurka, Hugo",
     "amp_id": "amp_person_107",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1937",
     "birth_place": [],
     "birth_day": null,
-    "death_year": null,
+    "death_year": "2012",
     "death_place": [],
     "death_day": null,
     "comment": "known as Hugi, Huegerl.",
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q129650602",
     "Title": [],
     "person_event": [
       {
@@ -6068,7 +6068,12 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 45,
+        "value": "relationship_place_id__45"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {

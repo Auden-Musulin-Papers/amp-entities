@@ -1098,5 +1098,30 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__45",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 356,
+        "value": "Adalbert-Stifter-Straße 22"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
