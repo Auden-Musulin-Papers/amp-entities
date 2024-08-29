@@ -1437,7 +1437,7 @@
     "target": [
       {
         "id": 240,
-        "value": "K., Christa"
+        "value": "Kurka, Christa"
       }
     ],
     "start_date": null,
@@ -1456,7 +1456,7 @@
     "source": [
       {
         "id": 240,
-        "value": "K., Christa"
+        "value": "Kurka, Christa"
       }
     ],
     "target": [
@@ -5321,6 +5321,66 @@
       {
         "id": 43,
         "value": "portrays"
+      }
+    ]
+  },
+  "233": {
+    "id": 233,
+    "order": "234.00000000000000000000",
+    "amp_id": "relationship_person_id__233",
+    "source": [],
+    "target": [],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": []
+  },
+  "234": {
+    "id": 234,
+    "order": "235.00000000000000000000",
+    "amp_id": "relationship_person_id__234",
+    "source": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of"
+      }
+    ]
+  },
+  "235": {
+    "id": 235,
+    "order": "236.00000000000000000000",
+    "amp_id": "relationship_person_id__235",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H."
+      }
+    ],
+    "target": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of"
       }
     ]
   }

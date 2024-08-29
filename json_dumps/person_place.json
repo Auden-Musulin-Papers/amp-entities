@@ -1123,5 +1123,30 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__46",
+    "source": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of"
+      }
+    ],
+    "target": [
+      {
+        "id": 356,
+        "value": "Adalbert-Stifter-Straße 22"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

@@ -966,6 +966,10 @@
       {
         "id": 229,
         "value": "relationship_person_id__229"
+      },
+      {
+        "id": 235,
+        "value": "relationship_person_id__235"
       }
     ],
     "PMB": ""
@@ -11071,7 +11075,7 @@
   "240": {
     "id": 240,
     "order": "238.00000000000000000000",
-    "name": "K., Christa",
+    "name": "Kurka, Christa",
     "amp_id": "amp_person_240",
     "gnd": "",
     "birth_year": null,
@@ -11098,12 +11102,21 @@
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 46,
+        "value": "relationship_place_id__46"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {
         "id": 67,
         "value": "relationship_person_id__67"
+      },
+      {
+        "id": 234,
+        "value": "relationship_person_id__234"
       }
     ],
     "PMB": ""
@@ -11474,6 +11487,32 @@
         "value": "person_org__24"
       }
     ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "251": {
+    "id": 251,
+    "order": "249.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_251",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
     "person_person": [],
     "PMB": ""
   }
