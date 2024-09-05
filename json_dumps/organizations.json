@@ -2251,5 +2251,26 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "90.00000000000000000000",
+    "name": "Flughafen Berlin-Tempelhof (Berlin Tempelhof Airport)",
+    "wikidata": "https://www.wikidata.org/wiki/Q9686",
+    "amp_id": "amp_organization_92",
+    "founded_in_year": "1923",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4477598-2",
+    "URL": ""
   }
 }

@@ -1005,6 +1005,18 @@ for any purpose, even commercially.</p>
                   </location>
                   <note>https://de.wikipedia.org/wiki/Wien_Nordwestbahnhof</note>
                </org>
+               <org xml:id="amp_organization_92">
+                  <orgName>Flughafen Berlin-Tempelhof (Berlin Tempelhof Airport)</orgName>
+                  <desc>Was founded in year 1923.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9686</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
