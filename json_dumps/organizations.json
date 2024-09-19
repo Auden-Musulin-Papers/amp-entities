@@ -1850,7 +1850,7 @@
   "76": {
     "id": 76,
     "order": "74.00000000000000000000",
-    "name": "Hauptpostamt 1150 (main post office 1150)",
+    "name": "Postamt Rudolfsheim-Fünfhaus (post office Rudolfsheim-Fünfhaus)",
     "wikidata": "",
     "amp_id": "amp_organization_76",
     "founded_in_year": null,
@@ -2272,5 +2272,31 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4477598-2",
     "URL": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "91.00000000000000000000",
+    "name": "Telegraphenzentralstation Wien (Vienna Telegraph Central Station)",
+    "wikidata": "https://www.wikidata.org/wiki/Q1718139",
+    "amp_id": "amp_organization_93",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 40,
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=39772"
   }
 }

@@ -829,7 +829,7 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_76">
-                  <orgName>Hauptpostamt 1150 (main post office 1150)</orgName>
+                  <orgName>Postamt Rudolfsheim-Fünfhaus (post office Rudolfsheim-Fünfhaus)</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_310">Rudolfsheim-Fünfhaus</placeName>
                   </location>
@@ -1015,6 +1015,17 @@ for any purpose, even commercially.</p>
                      <geo>52.52437, 13.41053</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9686</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_93">
+                  <orgName>Telegraphenzentralstation Wien (Vienna Telegraph Central Station)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1718139</idno>
                   <note/>
                </org>
             </listOrg>
