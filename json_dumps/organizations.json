@@ -2069,7 +2069,7 @@
   "85": {
     "id": 85,
     "order": "83.00000000000000000000",
-    "name": "United States General Post Office",
+    "name": "U. S. General Post Office",
     "wikidata": "https://www.wikidata.org/wiki/Q2466300",
     "amp_id": "amp_organization_85",
     "founded_in_year": null,
@@ -2298,5 +2298,26 @@
     "person_org": [],
     "gnd": "",
     "URL": "https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=39772"
+  },
+  "94": {
+    "id": 94,
+    "order": "92.00000000000000000000",
+    "name": "Pan American World Airways",
+    "wikidata": "https://www.wikidata.org/wiki/Q8681",
+    "amp_id": "amp_organization_94",
+    "founded_in_year": "1927",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/16282139-6",
+    "URL": ""
   }
 }
