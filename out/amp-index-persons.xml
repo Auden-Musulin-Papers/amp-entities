@@ -4383,6 +4383,22 @@ for any purpose, even commercially.</p>
                      <surname>N/A_11</surname>
                   </persName>
                </person>
+               <person xml:id="amp_person_252">
+                  <persName>
+                     <forename>Christopher</forename>
+                     <surname>Burstall</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1932-03-10">1932-03-10</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2009-06-02">2009-06-02</date>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1089413297</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_209">Portrait Gallery</bibl>
+                  </listBibl>
+               </person>
             </listPerson>
          </div>
       </body>

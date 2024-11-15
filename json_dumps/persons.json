@@ -11515,5 +11515,41 @@
     "person_org": [],
     "person_person": [],
     "PMB": ""
+  },
+  "252": {
+    "id": 252,
+    "order": "250.00000000000000000000",
+    "name": "Burstall, Christopher",
+    "amp_id": "amp_person_252",
+    "gnd": "https://d-nb.info/gnd/1089413297",
+    "birth_year": "1932",
+    "birth_place": [],
+    "birth_day": "1932-03-10",
+    "death_year": "2009",
+    "death_place": [],
+    "death_day": "2009-06-02",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 209,
+        "value": "Portrait Gallery"
+      }
+    ],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.theguardian.com/theguardian/2009/jul/10/obituary-christopher-burstall",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 26,
+        "value": "person_org__26"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
   }
 }

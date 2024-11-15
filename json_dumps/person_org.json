@@ -623,5 +623,30 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "person_org": "person_org__26",
+    "source": [
+      {
+        "id": 252,
+        "value": "Burstall, Christopher"
+      }
+    ],
+    "target": [
+      {
+        "id": 20,
+        "value": "The Sunday Times"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
