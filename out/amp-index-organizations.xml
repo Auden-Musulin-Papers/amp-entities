@@ -1040,6 +1040,18 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8681</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_95">
+                  <orgName>Flughafen Berlin-Tegel (Berlin Tegel Airport)</orgName>
+                  <desc>Was founded in year 1948.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9688</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

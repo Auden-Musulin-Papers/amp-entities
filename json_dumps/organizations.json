@@ -2328,5 +2328,26 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/16282139-6",
     "URL": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "name": "Flughafen Berlin-Tegel (Berlin Tegel Airport)",
+    "wikidata": "https://www.wikidata.org/wiki/Q9688",
+    "amp_id": "amp_organization_95",
+    "founded_in_year": "1948",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4352488-6",
+    "URL": ""
   }
 }
