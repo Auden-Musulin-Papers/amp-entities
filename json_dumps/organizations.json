@@ -2349,5 +2349,26 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4352488-6",
     "URL": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "name": "John F. Kennedy International Airport",
+    "wikidata": "https://www.wikidata.org/wiki/Q8685",
+    "amp_id": "amp_organization_96",
+    "founded_in_year": "1948",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1086645626",
+    "URL": ""
   }
 }
