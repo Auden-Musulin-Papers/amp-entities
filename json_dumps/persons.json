@@ -11117,6 +11117,10 @@
       {
         "id": 234,
         "value": "relationship_person_id__234"
+      },
+      {
+        "id": 236,
+        "value": "relationship_person_id__236"
       }
     ],
     "PMB": ""
@@ -11602,6 +11606,37 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "256": {
+    "id": 256,
+    "order": "253.00000000000000000000",
+    "name": "N/A_13, \"Christa's Schwester\"",
+    "amp_id": "amp_person_256",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 233,
+        "value": "relationship_person_id__233"
+      }
+    ],
     "PMB": ""
   }
 }

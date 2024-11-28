@@ -5328,11 +5328,26 @@
     "id": 233,
     "order": "234.00000000000000000000",
     "amp_id": "relationship_person_id__233",
-    "source": [],
-    "target": [],
+    "source": [
+      {
+        "id": 256,
+        "value": "N/A_13, \"Christa's Schwester\""
+      }
+    ],
+    "target": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa"
+      }
+    ],
     "start_date": null,
     "end_date": null,
-    "relation_type_object": []
+    "relation_type_object": [
+      {
+        "id": 6,
+        "value": "is_sibling_of"
+      }
+    ]
   },
   "234": {
     "id": 234,
@@ -5381,6 +5396,31 @@
       {
         "id": 13,
         "value": "is_friend_of"
+      }
+    ]
+  },
+  "236": {
+    "id": 236,
+    "order": "237.00000000000000000000",
+    "amp_id": "relationship_person_id__236",
+    "source": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa"
+      }
+    ],
+    "target": [
+      {
+        "id": 256,
+        "value": "N/A_13, \"Christa's Schwester\""
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 6,
+        "value": "is_sibling_of"
       }
     ]
   }
