@@ -1064,6 +1064,30 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q8685</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_97">
+                  <orgName>United States Post Office Church Street Station</orgName>
+                  <desc>Was founded in year 1935.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4645629</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_98">
+                  <orgName>United States Post Office Cooper Station</orgName>
+                  <desc>Was founded in year 1937.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9051836</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

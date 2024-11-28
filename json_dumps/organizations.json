@@ -2370,5 +2370,57 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1086645626",
     "URL": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "name": "United States Post Office Church Street Station",
+    "wikidata": "https://www.wikidata.org/wiki/Q4645629",
+    "amp_id": "amp_organization_97",
+    "founded_in_year": "1935",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 84,
+        "value": "United States Post Office Department"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "name": "United States Post Office Cooper Station",
+    "wikidata": "https://www.wikidata.org/wiki/Q9051836",
+    "amp_id": "amp_organization_98",
+    "founded_in_year": "1937",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 84,
+        "value": "United States Post Office Department"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }
