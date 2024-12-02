@@ -2130,7 +2130,7 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q122166308",
+    "wikidata": "http://www.wikidata.org/entity/Q1794",
     "gnd": "https://d-nb.info/gnd/4018118-2",
     "geonames_coordinates": "50.11552, 8.68417",
     "place_type": "city, village,...",
@@ -11601,7 +11601,7 @@
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q3139238",
-    "gnd": "https://d-nb.info/gnd/4273574-9",
+    "gnd": "https://d-nb.info/gnd/5058878-3",
     "geonames_coordinates": "51.35, -0.2",
     "place_type": "city, village,...",
     "country": "United Kingdom",
@@ -13544,7 +13544,7 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q41753",
+    "wikidata": "http://www.wikidata.org/entity/Q41753",
     "gnd": "https://d-nb.info/gnd/1023732653",
     "geonames_coordinates": "46.62472, 14.30528",
     "place_type": "city, village,...",
@@ -14163,17 +14163,17 @@
     ],
     "wikidata": "",
     "gnd": "",
-    "geonames_coordinates": "",
-    "place_type": "",
-    "country": "",
-    "country_code": "",
-    "place_type_class": "",
+    "geonames_coordinates": "48.1833, 15.81999",
+    "place_type": "spot, building, farm",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "S",
     "updated": true,
     "events": [],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
-    "updated_geonames": false
+    "updated_geonames": true
   },
   "356": {
     "id": 356,
@@ -14205,7 +14205,7 @@
     "country": "",
     "country_code": "",
     "place_type_class": "",
-    "updated": false,
+    "updated": true,
     "events": [],
     "alternative_link": "",
     "same_as": [],
@@ -14246,17 +14246,17 @@
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q489810",
     "gnd": "https://d-nb.info/gnd/4061190-5",
-    "geonames_coordinates": "",
-    "place_type": "",
-    "country": "",
-    "country_code": "",
-    "place_type_class": "",
-    "updated": false,
+    "geonames_coordinates": "48.32829, 16.05858",
+    "place_type": "city, village,...",
+    "country": "Austria",
+    "country_code": "AT",
+    "place_type_class": "P",
+    "updated": true,
     "events": [],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
-    "updated_geonames": false
+    "updated_geonames": true
   },
   "358": {
     "id": 358,
@@ -14281,18 +14281,18 @@
         "value": "is_part_of"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q41",
+    "wikidata": "http://www.wikidata.org/entity/Q41",
     "gnd": "https://d-nb.info/gnd/4022047-3",
-    "geonames_coordinates": "",
-    "place_type": "",
-    "country": "",
-    "country_code": "",
-    "place_type_class": "",
-    "updated": false,
+    "geonames_coordinates": "39, 22",
+    "place_type": "country, state, region,...",
+    "country": "Greece",
+    "country_code": "GR",
+    "place_type_class": "A",
+    "updated": true,
     "events": [],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
-    "updated_geonames": false
+    "updated_geonames": true
   }
 }

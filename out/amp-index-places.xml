@@ -526,7 +526,7 @@ for any purpose, even commercially.</p>
                      <geo>50.11552, 8.68417</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2925533/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q122166308</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1794</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4018118-2</idno>
                </place>
                <place xml:id="amp_place_id_34">
@@ -4137,7 +4137,7 @@ for any purpose, even commercially.</p>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2636503/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3139238</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4273574-9</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5058878-3</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_289">
@@ -4892,7 +4892,7 @@ for any purpose, even commercially.</p>
                      <geo>46.62472, 14.30528</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2774326/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q41753</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41753</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1023732653</idno>
                   <note/>
                </place>
@@ -5140,9 +5140,16 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_355">
-                  <placeName>Franz Biber Fleischhauer u. Gastwirt</placeName>
+                  <settlement type="S">
+                     <placeName>Franz Biber Fleischhauer u. Gastwirt</placeName>
+                  </settlement>
+                  <desc type="entity_type">spot, building, farm</desc>
+                  <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.1833, 15.81999</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12902788/</idno>
                   <note/>
@@ -5156,9 +5163,16 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_357">
-                  <placeName>Tulln an der Donau</placeName>
+                  <settlement type="P">
+                     <placeName>Tulln an der Donau</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.32829, 16.05858</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2763266/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q489810</idno>
@@ -5166,12 +5180,19 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_358">
-                  <placeName>Greece</placeName>
+                  <settlement type="A">
+                     <placeName>Greece</placeName>
+                  </settlement>
+                  <desc type="entity_type">country, state, region,...</desc>
+                  <country>GR, Greece</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_30">Europe</placeName>
                   </location>
+                  <location type="coords">
+                     <geo>39, 22</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/390903/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q41</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4022047-3</idno>
                   <note/>
                </place>
