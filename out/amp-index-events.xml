@@ -705,6 +705,9 @@ for any purpose, even commercially.</p>
                   <listPlace>
                      <place sameAs="amp_place_id_71" type="location" subtype="is_event_location">
                         <placeName>Eslarngasse 18</placeName>
+                        <location type="coords">
+                           <geo>48.19436511723707, 16.392957740017156</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
