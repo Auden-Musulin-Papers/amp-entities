@@ -5155,9 +5155,16 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_356">
-                  <placeName>Adalbert-Stifter-Straße 22</placeName>
+                  <settlement type="S">
+                     <placeName>Adalbert-Stifter-Straße 22</placeName>
+                  </settlement>
+                  <desc type="entity_type">spot, building, farm</desc>
+                  <country>AT, Austria</country>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.23778, 16.36648</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13060398/</idno>
                   <note/>
