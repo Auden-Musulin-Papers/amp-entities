@@ -5186,7 +5186,7 @@ for any purpose, even commercially.</p>
                      <geo>48.32829, 16.05858</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2763266/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q489810</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q489810</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061190-5</idno>
                   <note/>
                </place>
@@ -5205,6 +5205,20 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/390903/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4022047-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_359">
+                  <settlement type="P">
+                     <placeName>Jerusalem</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>IL, Israel</country>
+                  <location type="coords">
+                     <geo>31.76904, 35.21633</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/281184/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1218</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4028586-8</idno>
                   <note/>
                </place>
             </listPlace>

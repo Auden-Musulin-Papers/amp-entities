@@ -1088,6 +1088,22 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9051836</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_99">
+                  <orgName>Sozialistische Partei Österreichs (Socialist Party of Austria)</orgName>
+                  <desc>Was founded in year 1945.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q179111</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_100">
+                  <orgName/>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

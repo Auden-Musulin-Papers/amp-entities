@@ -2422,5 +2422,42 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "name": "Sozialistische Partei Österreichs (Socialist Party of Austria)",
+    "wikidata": "https://www.wikidata.org/wiki/Q179111",
+    "amp_id": "amp_organization_99",
+    "founded_in_year": "1945",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/3589-0",
+    "URL": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_100",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }
