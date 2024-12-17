@@ -1887,6 +1887,18 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_114">
                   <label>"Vorlesungsreise"</label>
                </event>
+               <event xml:id="amp_event_id_115" notBefore-iso="1970-03-01" notAfter-iso="1970-03-01" type="historic">
+                  <label>1970 Austrian legislative election</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q680680</idno>
+                  <listPlace>
+                     <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
+                        <placeName>Austria</placeName>
+                        <location type="coords">
+                           <geo>47.33333, 13.33333</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

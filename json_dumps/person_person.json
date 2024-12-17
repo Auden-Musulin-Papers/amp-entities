@@ -5331,7 +5331,7 @@
     "source": [
       {
         "id": 256,
-        "value": "N/A_13, \"Christa's Schwester\""
+        "value": "Becker, Eva Hermine"
       }
     ],
     "target": [
@@ -5412,7 +5412,7 @@
     "target": [
       {
         "id": 256,
-        "value": "N/A_13, \"Christa's Schwester\""
+        "value": "Becker, Eva Hermine"
       }
     ],
     "start_date": null,
@@ -5423,5 +5423,25 @@
         "value": "is_sibling_of"
       }
     ]
+  },
+  "237": {
+    "id": 237,
+    "order": "238.00000000000000000000",
+    "amp_id": "relationship_person_id__237",
+    "source": [],
+    "target": [],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": []
+  },
+  "238": {
+    "id": 238,
+    "order": "239.00000000000000000000",
+    "amp_id": "relationship_person_id__238",
+    "source": [],
+    "target": [],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": []
   }
 }

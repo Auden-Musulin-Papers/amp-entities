@@ -2221,6 +2221,9 @@ for any purpose, even commercially.</p>
                   <birth>
                      <date when-iso="1937-12-15">1937-12-15</date>
                   </birth>
+                  <death>
+                     <date when-iso="2012-08-27">2012-08-27</date>
+                  </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q129650602</idno>
                </person>
                <person xml:id="amp_person_108">
@@ -4238,6 +4241,12 @@ for any purpose, even commercially.</p>
                      <forename>Christa</forename>
                      <surname>Kurka</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1941-12-14">1941-12-14</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2013-12-12">2013-12-12</date>
+                  </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q131161889</idno>
                </person>
                <person xml:id="amp_person_241">
@@ -4413,9 +4422,18 @@ for any purpose, even commercially.</p>
                </person>
                <person xml:id="amp_person_256">
                   <persName>
-                     <forename>"Christa's Schwester"</forename>
-                     <surname>N/A_13</surname>
+                     <forename>Eva Hermine</forename>
+                     <surname>Becker</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1932-06-09">1932-06-09</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2022-06-20">2022-06-20</date>
+                  </death>
                </person>
                <person xml:id="amp_person_257">
                   <persName>

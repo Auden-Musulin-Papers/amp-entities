@@ -4429,5 +4429,34 @@
     "status": null,
     "org_event": [],
     "part_of": []
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "name": "1970 Austrian legislative election",
+    "amp_id": "amp_event_id_115",
+    "place_of_event": [
+      {
+        "id": 10,
+        "value": "Austria"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1970-03-01",
+    "wikidata": "https://www.wikidata.org/entity/Q680680",
+    "person_event": [],
+    "Comments": "",
+    "end_date": "1970-03-01",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [],
+    "part_of": []
   }
 }
