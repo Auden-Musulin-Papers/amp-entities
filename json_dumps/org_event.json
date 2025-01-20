@@ -6,19 +6,22 @@
     "source": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 69,
-        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17",
+        "order": "69.00000000000000000000"
       }
     ]
   },
@@ -29,19 +32,22 @@
     "source": [
       {
         "id": 57,
-        "value": "Eliot College"
+        "value": "Eliot College",
+        "order": "57.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 6,
-        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28"
+        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -52,19 +58,22 @@
     "source": [
       {
         "id": 57,
-        "value": "Eliot College"
+        "value": "Eliot College",
+        "order": "57.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "order": "9.00000000000000000000"
       }
     ]
   },
@@ -75,19 +84,22 @@
     "source": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05"
+        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -98,13 +110,15 @@
     "source": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": []
@@ -116,19 +130,22 @@
     "source": [
       {
         "id": 60,
-        "value": "Künstlerhaus Wien"
+        "value": "Künstlerhaus Wien",
+        "order": "60.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -139,19 +156,22 @@
     "source": [
       {
         "id": 16,
-        "value": "British Council"
+        "value": "British Council",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -162,19 +182,22 @@
     "source": [
       {
         "id": 16,
-        "value": "British Council"
+        "value": "British Council",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ]
   },
@@ -185,19 +208,22 @@
     "source": [
       {
         "id": 60,
-        "value": "Künstlerhaus Wien"
+        "value": "Künstlerhaus Wien",
+        "order": "60.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ]
   },
@@ -208,19 +234,22 @@
     "source": [
       {
         "id": 47,
-        "value": "English PEN"
+        "value": "English PEN",
+        "order": "47.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 106,
-        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23"
+        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23",
+        "order": "106.00000000000000000000"
       }
     ]
   },
@@ -231,19 +260,22 @@
     "source": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Reading W. H. Auden 1962-10-04"
+        "value": "Reading W. H. Auden 1962-10-04",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -254,19 +286,22 @@
     "source": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 109,
-        "value": "Reading W. H. Auden \"Hier und Jetzt\""
+        "value": "Reading W. H. Auden \"Hier und Jetzt\"",
+        "order": "109.00000000000000000000"
       }
     ]
   },
@@ -277,19 +312,22 @@
     "source": [
       {
         "id": 51,
-        "value": "PEN International"
+        "value": "PEN International",
+        "order": "51.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 26,
-        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18"
+        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -300,19 +338,22 @@
     "source": [
       {
         "id": 35,
-        "value": "Österreichisch-Britische Gesellschaft (Austro-British Society)"
+        "value": "Österreichisch-Britische Gesellschaft (Austro-British Society)",
+        "order": "35.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24"
+        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -323,19 +364,22 @@
     "source": [
       {
         "id": 16,
-        "value": "British Council"
+        "value": "British Council",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24"
+        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -346,19 +390,22 @@
     "source": [
       {
         "id": 61,
-        "value": "Naturhistorisches Museum Wien (Natural History Museum Vienna)"
+        "value": "Naturhistorisches Museum Wien (Natural History Museum Vienna)",
+        "order": "61.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24"
+        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -369,19 +416,22 @@
     "source": [
       {
         "id": 62,
-        "value": "Großes Festspielhaus (Large Festival House)"
+        "value": "Großes Festspielhaus (Large Festival House)",
+        "order": "62.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 32,
-        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\" 1968-07-25"
+        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\" 1968-07-25",
+        "order": "32.00000000000000000000"
       }
     ]
   },
@@ -392,19 +442,22 @@
     "source": [
       {
         "id": 58,
-        "value": "University of Michigan"
+        "value": "University of Michigan",
+        "order": "58.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 60,
-        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942"
+        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942",
+        "order": "60.00000000000000000000"
       }
     ]
   },
@@ -415,19 +468,22 @@
     "source": [
       {
         "id": 43,
-        "value": "Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)"
+        "value": "Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)",
+        "order": "43.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 46,
-        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25"
+        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25",
+        "order": "46.00000000000000000000"
       }
     ]
   },
@@ -438,19 +494,22 @@
     "source": [
       {
         "id": 90,
-        "value": "Vienna State Opera"
+        "value": "Vienna State Opera",
+        "order": "88.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06",
+        "order": "96.00000000000000000000"
       }
     ]
   },
@@ -461,19 +520,22 @@
     "source": [
       {
         "id": 90,
-        "value": "Vienna State Opera"
+        "value": "Vienna State Opera",
+        "order": "88.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 113,
-        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
+        "order": "113.00000000000000000000"
       }
     ]
   }

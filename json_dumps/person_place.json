@@ -6,19 +6,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -31,19 +34,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "Schloss Fridau"
+        "value": "Schloss Fridau",
+        "order": "7.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -56,19 +62,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 11,
-        "value": "Neulinggasse 26"
+        "value": "Neulinggasse 26",
+        "order": "11.00000000000000000000"
       }
     ],
     "start_date": "1958-01-01",
@@ -81,19 +90,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -106,19 +118,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -131,19 +146,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -156,19 +174,22 @@
     "source": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "Schloss Fridau"
+        "value": "Schloss Fridau",
+        "order": "7.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -181,19 +202,22 @@
     "source": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "Schloss Fridau"
+        "value": "Schloss Fridau",
+        "order": "7.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -206,19 +230,22 @@
     "source": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 11,
-        "value": "Neulinggasse 26"
+        "value": "Neulinggasse 26",
+        "order": "11.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -231,19 +258,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Hubertusbader Straße 43"
+        "value": "Hubertusbader Straße 43",
+        "order": "19.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -256,19 +286,22 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 171,
-        "value": "39 Claremont Avenue, apt 32"
+        "value": "39 Claremont Avenue, apt 32",
+        "order": "171.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -281,19 +314,22 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 248,
-        "value": "39 Claremont Avenue, apt 31"
+        "value": "39 Claremont Avenue, apt 31",
+        "order": "248.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -306,19 +342,22 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -331,19 +370,22 @@
     "source": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -356,19 +398,22 @@
     "source": [
       {
         "id": 19,
-        "value": "Heyworth, Peter"
+        "value": "Heyworth, Peter",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 45,
-        "value": "32 Bryanston Square"
+        "value": "32 Bryanston Square",
+        "order": "45.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -381,19 +426,22 @@
     "source": [
       {
         "id": 21,
-        "value": "Hoffmann, Otto"
+        "value": "Hoffmann, Otto",
+        "order": "21.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 48,
-        "value": "Karl-Schweighofer-Gasse 4"
+        "value": "Karl-Schweighofer-Gasse 4",
+        "order": "48.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -406,19 +454,22 @@
     "source": [
       {
         "id": 191,
-        "value": "Spender, Natasha"
+        "value": "Spender, Natasha",
+        "order": "190.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 69,
-        "value": "15 Loudoun Road"
+        "value": "15 Loudoun Road",
+        "order": "69.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -431,19 +482,22 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 69,
-        "value": "15 Loudoun Road"
+        "value": "15 Loudoun Road",
+        "order": "69.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -456,19 +510,22 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -481,19 +538,22 @@
     "source": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -506,19 +566,22 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 224,
-        "value": "Johann-Strauß-Gasse 28"
+        "value": "Johann-Strauß-Gasse 28",
+        "order": "224.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -531,19 +594,22 @@
     "source": [
       {
         "id": 99,
-        "value": "O'Sullivan, Michael"
+        "value": "O'Sullivan, Michael",
+        "order": "99.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 173,
-        "value": "22 Kildare Street"
+        "value": "22 Kildare Street",
+        "order": "173.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -556,19 +622,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -581,19 +650,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -606,19 +678,22 @@
     "source": [
       {
         "id": 14,
-        "value": "Redlich, Walter"
+        "value": "Redlich, Walter",
+        "order": "14.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 38,
-        "value": "Wipplingerstrasse 24"
+        "value": "Wipplingerstrasse 24",
+        "order": "38.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -631,19 +706,22 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -656,19 +734,22 @@
     "source": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -681,19 +762,22 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -706,19 +790,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 177,
-        "value": "Palais Wilczek"
+        "value": "Palais Wilczek",
+        "order": "177.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -731,19 +818,22 @@
     "source": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 217,
-        "value": "Alser Straße 48"
+        "value": "Alser Straße 48",
+        "order": "217.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -756,19 +846,22 @@
     "source": [
       {
         "id": 156,
-        "value": "Duncan, Bruce"
+        "value": "Duncan, Bruce",
+        "order": "155.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 170,
-        "value": "The Vicarage, Crediton"
+        "value": "The Vicarage, Crediton",
+        "order": "170.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -781,19 +874,22 @@
     "source": [
       {
         "id": 198,
-        "value": "Blaha, Rudolf"
+        "value": "Blaha, Rudolf",
+        "order": "197.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 253,
-        "value": "Leystraße 23"
+        "value": "Leystraße 23",
+        "order": "253.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -806,19 +902,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 19,
-        "value": "is_guest_of"
+        "value": "is_guest_of",
+        "order": "19.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Hotel König von Ungarn"
+        "value": "Hotel König von Ungarn",
+        "order": "42.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -831,19 +930,22 @@
     "source": [
       {
         "id": 14,
-        "value": "Redlich, Walter"
+        "value": "Redlich, Walter",
+        "order": "14.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 49,
-        "value": "Paradisgasse 55"
+        "value": "Paradisgasse 55",
+        "order": "49.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -856,19 +958,22 @@
     "source": [
       {
         "id": 225,
-        "value": "Lloyd-Philipps, Margaret Elinor"
+        "value": "Lloyd-Philipps, Margaret Elinor",
+        "order": "223.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 215,
-        "value": "2 St Julian's Street"
+        "value": "2 St Julian's Street",
+        "order": "215.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -881,19 +986,22 @@
     "source": [
       {
         "id": 142,
-        "value": "Lanier, Amelie"
+        "value": "Lanier, Amelie",
+        "order": "141.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Zell am See"
+        "value": "Zell am See",
+        "order": "74.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -906,19 +1014,22 @@
     "source": [
       {
         "id": 147,
-        "value": "Windisch-Graetz, Eva"
+        "value": "Windisch-Graetz, Eva",
+        "order": "146.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 303,
-        "value": "Fillgradergasse 12"
+        "value": "Fillgradergasse 12",
+        "order": "302.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -931,19 +1042,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 172,
-        "value": "Schlösselgasse 8"
+        "value": "Schlösselgasse 8",
+        "order": "172.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -956,19 +1070,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 71,
-        "value": "Eslarngasse 18"
+        "value": "Eslarngasse 18",
+        "order": "71.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -981,19 +1098,22 @@
     "source": [
       {
         "id": 43,
-        "value": "Hofmannsthal, Gertrude von"
+        "value": "Hofmannsthal, Gertrude von",
+        "order": "43.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 75,
-        "value": "Prielau (Schloss Prielau)"
+        "value": "Prielau (Schloss Prielau)",
+        "order": "75.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1006,19 +1126,22 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 75,
-        "value": "Prielau (Schloss Prielau)"
+        "value": "Prielau (Schloss Prielau)",
+        "order": "75.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1031,19 +1154,22 @@
     "source": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 75,
-        "value": "Prielau (Schloss Prielau)"
+        "value": "Prielau (Schloss Prielau)",
+        "order": "75.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1056,19 +1182,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Zell am See"
+        "value": "Zell am See",
+        "order": "74.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1081,19 +1210,22 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Zell am See"
+        "value": "Zell am See",
+        "order": "74.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1106,19 +1238,22 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 356,
-        "value": "Adalbert-Stifter-Straße 22"
+        "value": "Adalbert-Stifter-Straße 22",
+        "order": "355.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1131,19 +1266,22 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 27,
-        "value": "is_resident_of"
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 356,
-        "value": "Adalbert-Stifter-Straße 22"
+        "value": "Adalbert-Stifter-Straße 22",
+        "order": "355.00000000000000000000"
       }
     ],
     "start_date": null,

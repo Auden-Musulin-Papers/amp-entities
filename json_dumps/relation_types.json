@@ -6,7 +6,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_child_of",
@@ -22,103 +23,128 @@
     "person_person": [
       {
         "id": 11,
-        "value": "relationship_person_id__11"
+        "value": "relationship_person_id__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "relationship_person_id__28"
+        "value": "relationship_person_id__28",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "relationship_person_id__30"
+        "value": "relationship_person_id__30",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "relationship_person_id__35"
+        "value": "relationship_person_id__35",
+        "order": "35.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "relationship_person_id__36"
+        "value": "relationship_person_id__36",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 39,
-        "value": "relationship_person_id__39"
+        "value": "relationship_person_id__39",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 40,
-        "value": "relationship_person_id__40"
+        "value": "relationship_person_id__40",
+        "order": "40.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "relationship_person_id__44"
+        "value": "relationship_person_id__44",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 48,
-        "value": "relationship_person_id__48"
+        "value": "relationship_person_id__48",
+        "order": "48.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "relationship_person_id__57"
+        "value": "relationship_person_id__57",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "relationship_person_id__59"
+        "value": "relationship_person_id__59",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "relationship_person_id__61"
+        "value": "relationship_person_id__61",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 65,
-        "value": "relationship_person_id__65"
+        "value": "relationship_person_id__65",
+        "order": "65.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "relationship_person_id__68"
+        "value": "relationship_person_id__68",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 77,
-        "value": "relationship_person_id__77"
+        "value": "relationship_person_id__77",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "relationship_person_id__84"
+        "value": "relationship_person_id__84",
+        "order": "84.00000000000000000000"
       },
       {
         "id": 102,
-        "value": "relationship_person_id__102"
+        "value": "relationship_person_id__102",
+        "order": "102.00000000000000000000"
       },
       {
         "id": 103,
-        "value": "relationship_person_id__103"
+        "value": "relationship_person_id__103",
+        "order": "103.00000000000000000000"
       },
       {
         "id": 106,
-        "value": "relationship_person_id__106"
+        "value": "relationship_person_id__106",
+        "order": "106.00000000000000000000"
       },
       {
         "id": 108,
-        "value": "relationship_person_id__108"
+        "value": "relationship_person_id__108",
+        "order": "108.00000000000000000000"
       },
       {
         "id": 173,
-        "value": "relationship_person_id__173"
+        "value": "relationship_person_id__173",
+        "order": "173.00000000000000000000"
       },
       {
         "id": 176,
-        "value": "relationship_person_id__176"
+        "value": "relationship_person_id__176",
+        "order": "176.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "relationship_person_id__210"
+        "value": "relationship_person_id__210",
+        "order": "211.00000000000000000000"
       },
       {
         "id": 211,
-        "value": "relationship_person_id__211"
+        "value": "relationship_person_id__211",
+        "order": "212.00000000000000000000"
       },
       {
         "id": 226,
-        "value": "relationship_person_id__226"
+        "value": "relationship_person_id__226",
+        "order": "227.00000000000000000000"
       }
     ]
   },
@@ -146,7 +172,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_parent_of",
@@ -162,107 +189,133 @@
     "person_person": [
       {
         "id": 12,
-        "value": "relationship_person_id__12"
+        "value": "relationship_person_id__12",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "relationship_person_id__27"
+        "value": "relationship_person_id__27",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "relationship_person_id__29"
+        "value": "relationship_person_id__29",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "relationship_person_id__33"
+        "value": "relationship_person_id__33",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "relationship_person_id__34"
+        "value": "relationship_person_id__34",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "relationship_person_id__41"
+        "value": "relationship_person_id__41",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "relationship_person_id__42"
+        "value": "relationship_person_id__42",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "relationship_person_id__43"
+        "value": "relationship_person_id__43",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 47,
-        "value": "relationship_person_id__47"
+        "value": "relationship_person_id__47",
+        "order": "47.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "relationship_person_id__58"
+        "value": "relationship_person_id__58",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "relationship_person_id__60"
+        "value": "relationship_person_id__60",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "relationship_person_id__62"
+        "value": "relationship_person_id__62",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "relationship_person_id__64"
+        "value": "relationship_person_id__64",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "relationship_person_id__69"
+        "value": "relationship_person_id__69",
+        "order": "69.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "relationship_person_id__74"
+        "value": "relationship_person_id__74",
+        "order": "74.00000000000000000000"
       },
       {
         "id": 76,
-        "value": "relationship_person_id__76"
+        "value": "relationship_person_id__76",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 82,
-        "value": "relationship_person_id__82"
+        "value": "relationship_person_id__82",
+        "order": "82.00000000000000000000"
       },
       {
         "id": 100,
-        "value": "relationship_person_id__100"
+        "value": "relationship_person_id__100",
+        "order": "100.00000000000000000000"
       },
       {
         "id": 101,
-        "value": "relationship_person_id__101"
+        "value": "relationship_person_id__101",
+        "order": "101.00000000000000000000"
       },
       {
         "id": 104,
-        "value": "relationship_person_id__104"
+        "value": "relationship_person_id__104",
+        "order": "104.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "relationship_person_id__105"
+        "value": "relationship_person_id__105",
+        "order": "105.00000000000000000000"
       },
       {
         "id": 107,
-        "value": "relationship_person_id__107"
+        "value": "relationship_person_id__107",
+        "order": "107.00000000000000000000"
       },
       {
         "id": 174,
-        "value": "relationship_person_id__174"
+        "value": "relationship_person_id__174",
+        "order": "174.00000000000000000000"
       },
       {
         "id": 208,
-        "value": "relationship_person_id__208"
+        "value": "relationship_person_id__208",
+        "order": "209.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "relationship_person_id__209"
+        "value": "relationship_person_id__209",
+        "order": "210.00000000000000000000"
       },
       {
         "id": 225,
-        "value": "relationship_person_id__225"
+        "value": "relationship_person_id__225",
+        "order": "226.00000000000000000000"
       }
     ]
   },
@@ -273,7 +326,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_daughter-in-law_of",
@@ -289,7 +343,8 @@
     "person_person": [
       {
         "id": 63,
-        "value": "relationship_person_id__63"
+        "value": "relationship_person_id__63",
+        "order": "63.00000000000000000000"
       }
     ]
   },
@@ -300,7 +355,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_parentinlaw_of",
@@ -316,7 +372,8 @@
     "person_person": [
       {
         "id": 55,
-        "value": "relationship_person_id__55"
+        "value": "relationship_person_id__55",
+        "order": "55.00000000000000000000"
       }
     ]
   },
@@ -327,7 +384,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_sibling_of",
@@ -343,47 +401,58 @@
     "person_person": [
       {
         "id": 9,
-        "value": "relationship_person_id__9"
+        "value": "relationship_person_id__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "relationship_person_id__10"
+        "value": "relationship_person_id__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "relationship_person_id__31"
+        "value": "relationship_person_id__31",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "relationship_person_id__45"
+        "value": "relationship_person_id__45",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "relationship_person_id__46"
+        "value": "relationship_person_id__46",
+        "order": "46.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "relationship_person_id__53"
+        "value": "relationship_person_id__53",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "relationship_person_id__54"
+        "value": "relationship_person_id__54",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 223,
-        "value": "relationship_person_id__223"
+        "value": "relationship_person_id__223",
+        "order": "224.00000000000000000000"
       },
       {
         "id": 224,
-        "value": "relationship_person_id__224"
+        "value": "relationship_person_id__224",
+        "order": "225.00000000000000000000"
       },
       {
         "id": 233,
-        "value": "relationship_person_id__233"
+        "value": "relationship_person_id__233",
+        "order": "234.00000000000000000000"
       },
       {
         "id": 236,
-        "value": "relationship_person_id__236"
+        "value": "relationship_person_id__236",
+        "order": "237.00000000000000000000"
       }
     ]
   },
@@ -394,7 +463,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_brother_of",
@@ -410,7 +480,8 @@
     "person_person": [
       {
         "id": 32,
-        "value": "relationship_person_id__32"
+        "value": "relationship_person_id__32",
+        "order": "32.00000000000000000000"
       }
     ]
   },
@@ -421,7 +492,8 @@
     "has_broader": [
       {
         "id": 9,
-        "value": "was_produced_by"
+        "value": "was_produced_by",
+        "order": "9.00000000000000000000"
       }
     ],
     "inverse": "wrote",
@@ -460,7 +532,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_lover_of",
@@ -476,19 +549,23 @@
     "person_person": [
       {
         "id": 2,
-        "value": "relationship_person_id__2"
+        "value": "relationship_person_id__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "relationship_person_id__4"
+        "value": "relationship_person_id__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "relationship_person_id__21"
+        "value": "relationship_person_id__21",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "relationship_person_id__22"
+        "value": "relationship_person_id__22",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -499,7 +576,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_spouse_of",
@@ -515,99 +593,123 @@
     "person_person": [
       {
         "id": 7,
-        "value": "relationship_person_id__7"
+        "value": "relationship_person_id__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "relationship_person_id__8"
+        "value": "relationship_person_id__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "relationship_person_id__37"
+        "value": "relationship_person_id__37",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "relationship_person_id__38"
+        "value": "relationship_person_id__38",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "relationship_person_id__66"
+        "value": "relationship_person_id__66",
+        "order": "66.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "relationship_person_id__67"
+        "value": "relationship_person_id__67",
+        "order": "67.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "relationship_person_id__70"
+        "value": "relationship_person_id__70",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "relationship_person_id__71"
+        "value": "relationship_person_id__71",
+        "order": "71.00000000000000000000"
       },
       {
         "id": 75,
-        "value": "relationship_person_id__75"
+        "value": "relationship_person_id__75",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "relationship_person_id__79"
+        "value": "relationship_person_id__79",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 80,
-        "value": "relationship_person_id__80"
+        "value": "relationship_person_id__80",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 81,
-        "value": "relationship_person_id__81"
+        "value": "relationship_person_id__81",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "relationship_person_id__86"
+        "value": "relationship_person_id__86",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "relationship_person_id__87"
+        "value": "relationship_person_id__87",
+        "order": "87.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "relationship_person_id__90"
+        "value": "relationship_person_id__90",
+        "order": "90.00000000000000000000"
       },
       {
         "id": 97,
-        "value": "relationship_person_id__97"
+        "value": "relationship_person_id__97",
+        "order": "97.00000000000000000000"
       },
       {
         "id": 98,
-        "value": "relationship_person_id__98"
+        "value": "relationship_person_id__98",
+        "order": "98.00000000000000000000"
       },
       {
         "id": 99,
-        "value": "relationship_person_id__99"
+        "value": "relationship_person_id__99",
+        "order": "99.00000000000000000000"
       },
       {
         "id": 110,
-        "value": "relationship_person_id__110"
+        "value": "relationship_person_id__110",
+        "order": "110.00000000000000000000"
       },
       {
         "id": 111,
-        "value": "relationship_person_id__111"
+        "value": "relationship_person_id__111",
+        "order": "111.00000000000000000000"
       },
       {
         "id": 188,
-        "value": "relationship_person_id__188"
+        "value": "relationship_person_id__188",
+        "order": "188.00000000000000000000"
       },
       {
         "id": 190,
-        "value": "relationship_person_id__190"
+        "value": "relationship_person_id__190",
+        "order": "190.00000000000000000000"
       },
       {
         "id": 206,
-        "value": "relationship_person_id__206"
+        "value": "relationship_person_id__206",
+        "order": "207.00000000000000000000"
       },
       {
         "id": 207,
-        "value": "relationship_person_id__207"
+        "value": "relationship_person_id__207",
+        "order": "208.00000000000000000000"
       }
     ]
   },
@@ -618,7 +720,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_friend_of",
@@ -634,139 +737,173 @@
     "person_person": [
       {
         "id": 5,
-        "value": "relationship_person_id__5"
+        "value": "relationship_person_id__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "relationship_person_id__6"
+        "value": "relationship_person_id__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "relationship_person_id__13"
+        "value": "relationship_person_id__13",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "relationship_person_id__18"
+        "value": "relationship_person_id__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "relationship_person_id__25"
+        "value": "relationship_person_id__25",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "relationship_person_id__26"
+        "value": "relationship_person_id__26",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "relationship_person_id__51"
+        "value": "relationship_person_id__51",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "relationship_person_id__52"
+        "value": "relationship_person_id__52",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "relationship_person_id__56"
+        "value": "relationship_person_id__56",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 112,
-        "value": "relationship_person_id__112"
+        "value": "relationship_person_id__112",
+        "order": "112.00000000000000000000"
       },
       {
         "id": 130,
-        "value": "relationship_person_id__130"
+        "value": "relationship_person_id__130",
+        "order": "130.00000000000000000000"
       },
       {
         "id": 137,
-        "value": "relationship_person_id__137"
+        "value": "relationship_person_id__137",
+        "order": "137.00000000000000000000"
       },
       {
         "id": 138,
-        "value": "relationship_person_id__138"
+        "value": "relationship_person_id__138",
+        "order": "138.00000000000000000000"
       },
       {
         "id": 140,
-        "value": "relationship_person_id__140"
+        "value": "relationship_person_id__140",
+        "order": "140.00000000000000000000"
       },
       {
         "id": 143,
-        "value": "relationship_person_id__143"
+        "value": "relationship_person_id__143",
+        "order": "143.00000000000000000000"
       },
       {
         "id": 145,
-        "value": "relationship_person_id__145"
+        "value": "relationship_person_id__145",
+        "order": "145.00000000000000000000"
       },
       {
         "id": 152,
-        "value": "relationship_person_id__152"
+        "value": "relationship_person_id__152",
+        "order": "152.00000000000000000000"
       },
       {
         "id": 163,
-        "value": "relationship_person_id__163"
+        "value": "relationship_person_id__163",
+        "order": "163.00000000000000000000"
       },
       {
         "id": 168,
-        "value": "relationship_person_id__168"
+        "value": "relationship_person_id__168",
+        "order": "168.00000000000000000000"
       },
       {
         "id": 169,
-        "value": "relationship_person_id__169"
+        "value": "relationship_person_id__169",
+        "order": "169.00000000000000000000"
       },
       {
         "id": 170,
-        "value": "relationship_person_id__170"
+        "value": "relationship_person_id__170",
+        "order": "170.00000000000000000000"
       },
       {
         "id": 171,
-        "value": "relationship_person_id__171"
+        "value": "relationship_person_id__171",
+        "order": "171.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "relationship_person_id__172"
+        "value": "relationship_person_id__172",
+        "order": "172.00000000000000000000"
       },
       {
         "id": 175,
-        "value": "relationship_person_id__175"
+        "value": "relationship_person_id__175",
+        "order": "175.00000000000000000000"
       },
       {
         "id": 185,
-        "value": "relationship_person_id__185"
+        "value": "relationship_person_id__185",
+        "order": "185.00000000000000000000"
       },
       {
         "id": 195,
-        "value": "relationship_person_id__195"
+        "value": "relationship_person_id__195",
+        "order": "195.00000000000000000000"
       },
       {
         "id": 196,
-        "value": "relationship_person_id__196"
+        "value": "relationship_person_id__196",
+        "order": "196.00000000000000000000"
       },
       {
         "id": 202,
-        "value": "relationship_person_id__202"
+        "value": "relationship_person_id__202",
+        "order": "203.00000000000000000000"
       },
       {
         "id": 212,
-        "value": "relationship_person_id__212"
+        "value": "relationship_person_id__212",
+        "order": "213.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "relationship_person_id__213"
+        "value": "relationship_person_id__213",
+        "order": "214.00000000000000000000"
       },
       {
         "id": 214,
-        "value": "relationship_person_id__214"
+        "value": "relationship_person_id__214",
+        "order": "215.00000000000000000000"
       },
       {
         "id": 215,
-        "value": "relationship_person_id__215"
+        "value": "relationship_person_id__215",
+        "order": "216.00000000000000000000"
       },
       {
         "id": 234,
-        "value": "relationship_person_id__234"
+        "value": "relationship_person_id__234",
+        "order": "235.00000000000000000000"
       },
       {
         "id": 235,
-        "value": "relationship_person_id__235"
+        "value": "relationship_person_id__235",
+        "order": "236.00000000000000000000"
       }
     ]
   },
@@ -777,7 +914,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_collaborator_of",
@@ -793,87 +931,108 @@
     "person_person": [
       {
         "id": 119,
-        "value": "relationship_person_id__119"
+        "value": "relationship_person_id__119",
+        "order": "119.00000000000000000000"
       },
       {
         "id": 120,
-        "value": "relationship_person_id__120"
+        "value": "relationship_person_id__120",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 121,
-        "value": "relationship_person_id__121"
+        "value": "relationship_person_id__121",
+        "order": "121.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "relationship_person_id__122"
+        "value": "relationship_person_id__122",
+        "order": "122.00000000000000000000"
       },
       {
         "id": 123,
-        "value": "relationship_person_id__123"
+        "value": "relationship_person_id__123",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 124,
-        "value": "relationship_person_id__124"
+        "value": "relationship_person_id__124",
+        "order": "124.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "relationship_person_id__125"
+        "value": "relationship_person_id__125",
+        "order": "125.00000000000000000000"
       },
       {
         "id": 126,
-        "value": "relationship_person_id__126"
+        "value": "relationship_person_id__126",
+        "order": "126.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "relationship_person_id__136"
+        "value": "relationship_person_id__136",
+        "order": "136.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "relationship_person_id__144"
+        "value": "relationship_person_id__144",
+        "order": "144.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "relationship_person_id__146"
+        "value": "relationship_person_id__146",
+        "order": "146.00000000000000000000"
       },
       {
         "id": 147,
-        "value": "relationship_person_id__147"
+        "value": "relationship_person_id__147",
+        "order": "147.00000000000000000000"
       },
       {
         "id": 148,
-        "value": "relationship_person_id__148"
+        "value": "relationship_person_id__148",
+        "order": "148.00000000000000000000"
       },
       {
         "id": 177,
-        "value": "relationship_person_id__177"
+        "value": "relationship_person_id__177",
+        "order": "177.00000000000000000000"
       },
       {
         "id": 178,
-        "value": "relationship_person_id__178"
+        "value": "relationship_person_id__178",
+        "order": "178.00000000000000000000"
       },
       {
         "id": 179,
-        "value": "relationship_person_id__179"
+        "value": "relationship_person_id__179",
+        "order": "179.00000000000000000000"
       },
       {
         "id": 180,
-        "value": "relationship_person_id__180"
+        "value": "relationship_person_id__180",
+        "order": "180.00000000000000000000"
       },
       {
         "id": 181,
-        "value": "relationship_person_id__181"
+        "value": "relationship_person_id__181",
+        "order": "181.00000000000000000000"
       },
       {
         "id": 182,
-        "value": "relationship_person_id__182"
+        "value": "relationship_person_id__182",
+        "order": "182.00000000000000000000"
       },
       {
         "id": 183,
-        "value": "relationship_person_id__183"
+        "value": "relationship_person_id__183",
+        "order": "183.00000000000000000000"
       },
       {
         "id": 184,
-        "value": "relationship_person_id__184"
+        "value": "relationship_person_id__184",
+        "order": "184.00000000000000000000"
       }
     ]
   },
@@ -884,7 +1043,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "stays_with",
@@ -906,7 +1066,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "has_part",
@@ -915,1155 +1076,1443 @@
     "places": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "York"
+        "value": "York",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "Dale"
+        "value": "Dale",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Lower Austria"
+        "value": "Lower Austria",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "Schloss Fridau"
+        "value": "Schloss Fridau",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "Ober-Grafendorf"
+        "value": "Ober-Grafendorf",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "St. Pölten"
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "Neulinggasse 26"
+        "value": "Neulinggasse 26",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Brooklyn"
+        "value": "Brooklyn",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "Athens"
+        "value": "Athens",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "Florence"
+        "value": "Florence",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Ottakring"
+        "value": "Ottakring",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "Dahlem"
+        "value": "Dahlem",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "Hubertusbader Straße 43"
+        "value": "Hubertusbader Straße 43",
+        "order": "19.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "Federal Republic of Germany"
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "East Berlin"
+        "value": "East Berlin",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "Sankt Radegund"
+        "value": "Sankt Radegund",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "Brandenburg an der Havel"
+        "value": "Brandenburg an der Havel",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "Munich"
+        "value": "Munich",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "Amerikahaus Vienna (1957-1971)"
+        "value": "Amerikahaus Vienna (1957-1971)",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "Ravenna"
+        "value": "Ravenna",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "Stratford-upon-Avon"
+        "value": "Stratford-upon-Avon",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "Frankfurt am Main"
+        "value": "Frankfurt am Main",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "Weimar"
+        "value": "Weimar",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "Pieve di Cadore"
+        "value": "Pieve di Cadore",
+        "order": "35.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "Venice"
+        "value": "Venice",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "Wipplingerstrasse 24"
+        "value": "Wipplingerstrasse 24",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 39,
-        "value": "Canterbury"
+        "value": "Canterbury",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 40,
-        "value": "Cambridge"
+        "value": "Cambridge",
+        "order": "40.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "West Pennine Moors"
+        "value": "West Pennine Moors",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "Hotel König von Ungarn"
+        "value": "Hotel König von Ungarn",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "Rochester"
+        "value": "Rochester",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "24 Russell Square"
+        "value": "24 Russell Square",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "32 Bryanston Square"
+        "value": "32 Bryanston Square",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
       },
       {
         "id": 47,
-        "value": "Neulengbach"
+        "value": "Neulengbach",
+        "order": "47.00000000000000000000"
       },
       {
         "id": 48,
-        "value": "Karl-Schweighofer-Gasse 4"
+        "value": "Karl-Schweighofer-Gasse 4",
+        "order": "48.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "Paradisgasse 55"
+        "value": "Paradisgasse 55",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "Palestrina"
+        "value": "Palestrina",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "Rome"
+        "value": "Rome",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "Lomonosov"
+        "value": "Lomonosov",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "Málaga"
+        "value": "Málaga",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "Mougins"
+        "value": "Mougins",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "St. Louis"
+        "value": "St. Louis",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Caprese Michelangelo"
+        "value": "Caprese Michelangelo",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "Bonn"
+        "value": "Bonn",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "Eastwood"
+        "value": "Eastwood",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "Vence"
+        "value": "Vence",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "Lichfield"
+        "value": "Lichfield",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "Krems"
+        "value": "Krems",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "Ried im Zillertal"
+        "value": "Ried im Zillertal",
+        "order": "63.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "Ansfelden"
+        "value": "Ansfelden",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 65,
-        "value": "Horní Planá"
+        "value": "Horní Planá",
+        "order": "65.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "Linz"
+        "value": "Linz",
+        "order": "66.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "Pottenstein"
+        "value": "Pottenstein",
+        "order": "67.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "Graz"
+        "value": "Graz",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "15 Loudoun Road"
+        "value": "15 Loudoun Road",
+        "order": "69.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "Livadaki"
+        "value": "Livadaki",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "Eslarngasse 18"
+        "value": "Eslarngasse 18",
+        "order": "71.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "Zell am See"
+        "value": "Zell am See",
+        "order": "74.00000000000000000000"
       },
       {
         "id": 75,
-        "value": "Prielau (Schloss Prielau)"
+        "value": "Prielau (Schloss Prielau)",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "Böheimkirchen"
+        "value": "Böheimkirchen",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 80,
-        "value": "Café Central"
+        "value": "Café Central",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 81,
-        "value": "Café Herrenhof"
+        "value": "Café Herrenhof",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 82,
-        "value": "Schloss Schönbrunn"
+        "value": "Schloss Schönbrunn",
+        "order": "82.00000000000000000000"
       },
       {
         "id": 83,
-        "value": "France"
+        "value": "France",
+        "order": "83.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "Paris"
+        "value": "Paris",
+        "order": "84.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "Palais Pálffy"
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "Budapest"
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "Westminster Abbey"
+        "value": "Westminster Abbey",
+        "order": "87.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "Hofburg"
+        "value": "Hofburg",
+        "order": "89.00000000000000000000"
       },
       {
         "id": 92,
-        "value": "Café de l'Opera (Operncafé/Opern-Café)"
+        "value": "Café de l'Opera (Operncafé/Opern-Café)",
+        "order": "92.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "United Kingdom"
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "Pielach (stream)"
+        "value": "Pielach (stream)",
+        "order": "94.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "Neuer Markt"
+        "value": "Neuer Markt",
+        "order": "95.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "Jutland"
+        "value": "Jutland",
+        "order": "96.00000000000000000000"
       },
       {
         "id": 97,
-        "value": "Switzerland"
+        "value": "Switzerland",
+        "order": "97.00000000000000000000"
       },
       {
         "id": 100,
-        "value": "Czechoslovakia"
+        "value": "Czechoslovakia",
+        "order": "100.00000000000000000000"
       },
       {
         "id": 106,
-        "value": "Crowthorne"
+        "value": "Crowthorne",
+        "order": "106.00000000000000000000"
       },
       {
         "id": 107,
-        "value": "Leipzig"
+        "value": "Leipzig",
+        "order": "107.00000000000000000000"
       },
       {
         "id": 108,
-        "value": "Dublin"
+        "value": "Dublin",
+        "order": "108.00000000000000000000"
       },
       {
         "id": 109,
-        "value": "Dessau-Roßlau"
+        "value": "Dessau-Roßlau",
+        "order": "109.00000000000000000000"
       },
       {
         "id": 111,
-        "value": "Rodaun"
+        "value": "Rodaun",
+        "order": "111.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "Heerlen"
+        "value": "Heerlen",
+        "order": "113.00000000000000000000"
       },
       {
         "id": 114,
-        "value": "Gmunden"
+        "value": "Gmunden",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 115,
-        "value": "Predappio"
+        "value": "Predappio",
+        "order": "115.00000000000000000000"
       },
       {
         "id": 116,
-        "value": "Mezzegra"
+        "value": "Mezzegra",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 117,
-        "value": "Velké Pavlovice"
+        "value": "Velké Pavlovice",
+        "order": "117.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "Sierre"
+        "value": "Sierre",
+        "order": "118.00000000000000000000"
       },
       {
         "id": 120,
-        "value": "Sărata"
+        "value": "Sărata",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 121,
-        "value": "Cabaj-Čápor"
+        "value": "Cabaj-Čápor",
+        "order": "121.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "Geneva"
+        "value": "Geneva",
+        "order": "122.00000000000000000000"
       },
       {
         "id": 123,
-        "value": "Moosbierbaum"
+        "value": "Moosbierbaum",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 124,
-        "value": "Bremen"
+        "value": "Bremen",
+        "order": "124.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "Bad Wiessee"
+        "value": "Bad Wiessee",
+        "order": "125.00000000000000000000"
       },
       {
         "id": 126,
-        "value": "Hamburg"
+        "value": "Hamburg",
+        "order": "126.00000000000000000000"
       },
       {
         "id": 127,
-        "value": "Hailey"
+        "value": "Hailey",
+        "order": "127.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "Starosiedle"
+        "value": "Starosiedle",
+        "order": "128.00000000000000000000"
       },
       {
         "id": 129,
-        "value": "Chicago"
+        "value": "Chicago",
+        "order": "129.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "Belfast"
+        "value": "Belfast",
+        "order": "132.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "Zürich"
+        "value": "Zürich",
+        "order": "133.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "Seattle"
+        "value": "Seattle",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "Saint Petersburg"
+        "value": "Saint Petersburg",
+        "order": "135.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "Potsdam"
+        "value": "Potsdam",
+        "order": "136.00000000000000000000"
       },
       {
         "id": 137,
-        "value": "Włocławek"
+        "value": "Włocławek",
+        "order": "137.00000000000000000000"
       },
       {
         "id": 138,
-        "value": "Moscow"
+        "value": "Moscow",
+        "order": "138.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "Gütersloh"
+        "value": "Gütersloh",
+        "order": "139.00000000000000000000"
       },
       {
         "id": 140,
-        "value": "Dresden"
+        "value": "Dresden",
+        "order": "140.00000000000000000000"
       },
       {
         "id": 141,
-        "value": "Jičín"
+        "value": "Jičín",
+        "order": "141.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "Castleford"
+        "value": "Castleford",
+        "order": "142.00000000000000000000"
       },
       {
         "id": 143,
-        "value": "Much Hadham"
+        "value": "Much Hadham",
+        "order": "143.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "Pöchlarn"
+        "value": "Pöchlarn",
+        "order": "144.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "Red Bank"
+        "value": "Red Bank",
+        "order": "146.00000000000000000000"
       },
       {
         "id": 147,
-        "value": "Talcottville"
+        "value": "Talcottville",
+        "order": "147.00000000000000000000"
       },
       {
         "id": 148,
-        "value": "Darlington"
+        "value": "Darlington",
+        "order": "148.00000000000000000000"
       },
       {
         "id": 149,
-        "value": "Winchester"
+        "value": "Winchester",
+        "order": "149.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "Kolkata"
+        "value": "Kolkata",
+        "order": "150.00000000000000000000"
       },
       {
         "id": 151,
-        "value": "St Briavels"
+        "value": "St Briavels",
+        "order": "151.00000000000000000000"
       },
       {
         "id": 154,
-        "value": "Prague"
+        "value": "Prague",
+        "order": "154.00000000000000000000"
       },
       {
         "id": 155,
-        "value": "Boston"
+        "value": "Boston",
+        "order": "155.00000000000000000000"
       },
       {
         "id": 156,
-        "value": "Landstraße"
+        "value": "Landstraße",
+        "order": "156.00000000000000000000"
       },
       {
         "id": 158,
-        "value": "Prater"
+        "value": "Prater",
+        "order": "158.00000000000000000000"
       },
       {
         "id": 159,
-        "value": "Italy"
+        "value": "Italy",
+        "order": "159.00000000000000000000"
       },
       {
         "id": 160,
-        "value": "Embassy of the United Kingdom in Austria"
+        "value": "Embassy of the United Kingdom in Austria",
+        "order": "160.00000000000000000000"
       },
       {
         "id": 161,
-        "value": "San Francisco"
+        "value": "San Francisco",
+        "order": "161.00000000000000000000"
       },
       {
         "id": 162,
-        "value": "Lutherstadt Eisleben"
+        "value": "Lutherstadt Eisleben",
+        "order": "162.00000000000000000000"
       },
       {
         "id": 166,
-        "value": "Trautmannsdorf an der Leitha"
+        "value": "Trautmannsdorf an der Leitha",
+        "order": "166.00000000000000000000"
       },
       {
         "id": 167,
-        "value": "Nottingham"
+        "value": "Nottingham",
+        "order": "167.00000000000000000000"
       },
       {
         "id": 168,
-        "value": "Manhattan"
+        "value": "Manhattan",
+        "order": "168.00000000000000000000"
       },
       {
         "id": 169,
-        "value": "Augsburg"
+        "value": "Augsburg",
+        "order": "169.00000000000000000000"
       },
       {
         "id": 170,
-        "value": "The Vicarage, Crediton"
+        "value": "The Vicarage, Crediton",
+        "order": "170.00000000000000000000"
       },
       {
         "id": 171,
-        "value": "39 Claremont Avenue, apt 32"
+        "value": "39 Claremont Avenue, apt 32",
+        "order": "171.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "Schlösselgasse 8"
+        "value": "Schlösselgasse 8",
+        "order": "172.00000000000000000000"
       },
       {
         "id": 173,
-        "value": "22 Kildare Street"
+        "value": "22 Kildare Street",
+        "order": "173.00000000000000000000"
       },
       {
         "id": 174,
-        "value": "Lackierergasse 5"
+        "value": "Lackierergasse 5",
+        "order": "174.00000000000000000000"
       },
       {
         "id": 175,
-        "value": "Vienna Woods"
+        "value": "Vienna Woods",
+        "order": "175.00000000000000000000"
       },
       {
         "id": 176,
-        "value": "Riga"
+        "value": "Riga",
+        "order": "176.00000000000000000000"
       },
       {
         "id": 177,
-        "value": "Palais Wilczek"
+        "value": "Palais Wilczek",
+        "order": "177.00000000000000000000"
       },
       {
         "id": 178,
-        "value": "Lisburn"
+        "value": "Lisburn",
+        "order": "178.00000000000000000000"
       },
       {
         "id": 180,
-        "value": "Ardmore"
+        "value": "Ardmore",
+        "order": "180.00000000000000000000"
       },
       {
         "id": 181,
-        "value": "Belford"
+        "value": "Belford",
+        "order": "181.00000000000000000000"
       },
       {
         "id": 183,
-        "value": "Burcot"
+        "value": "Burcot",
+        "order": "183.00000000000000000000"
       },
       {
         "id": 184,
-        "value": "Los Angeles"
+        "value": "Los Angeles",
+        "order": "184.00000000000000000000"
       },
       {
         "id": 185,
-        "value": "Petzelsdorf"
+        "value": "Petzelsdorf",
+        "order": "185.00000000000000000000"
       },
       {
         "id": 186,
-        "value": "Cedar Rapids"
+        "value": "Cedar Rapids",
+        "order": "186.00000000000000000000"
       },
       {
         "id": 187,
-        "value": "Magdeburg"
+        "value": "Magdeburg",
+        "order": "187.00000000000000000000"
       },
       {
         "id": 188,
-        "value": "Braunau am Inn"
+        "value": "Braunau am Inn",
+        "order": "188.00000000000000000000"
       },
       {
         "id": 189,
-        "value": "Villeneuve-sur-Fère"
+        "value": "Villeneuve-sur-Fère",
+        "order": "189.00000000000000000000"
       },
       {
         "id": 190,
-        "value": "Burg Hülshoff"
+        "value": "Burg Hülshoff",
+        "order": "190.00000000000000000000"
       },
       {
         "id": 191,
-        "value": "Burg Meersburg"
+        "value": "Burg Meersburg",
+        "order": "191.00000000000000000000"
       },
       {
         "id": 192,
-        "value": "The Golz-Kinsky Palace"
+        "value": "The Golz-Kinsky Palace",
+        "order": "192.00000000000000000000"
       },
       {
         "id": 193,
-        "value": "Lowestoft"
+        "value": "Lowestoft",
+        "order": "193.00000000000000000000"
       },
       {
         "id": 194,
-        "value": "Aldeburgh"
+        "value": "Aldeburgh",
+        "order": "194.00000000000000000000"
       },
       {
         "id": 195,
-        "value": "Lienz"
+        "value": "Lienz",
+        "order": "195.00000000000000000000"
       },
       {
         "id": 196,
-        "value": "Mayfair"
+        "value": "Mayfair",
+        "order": "196.00000000000000000000"
       },
       {
         "id": 197,
-        "value": "Balmoral Castle"
+        "value": "Balmoral Castle",
+        "order": "197.00000000000000000000"
       },
       {
         "id": 198,
-        "value": "Hitchin"
+        "value": "Hitchin",
+        "order": "198.00000000000000000000"
       },
       {
         "id": 199,
-        "value": "Royal Lodge"
+        "value": "Royal Lodge",
+        "order": "199.00000000000000000000"
       },
       {
         "id": 200,
-        "value": "Clarence House"
+        "value": "Clarence House",
+        "order": "200.00000000000000000000"
       },
       {
         "id": 201,
-        "value": "Godalming"
+        "value": "Godalming",
+        "order": "201.00000000000000000000"
       },
       {
         "id": 202,
-        "value": "Jönköping"
+        "value": "Jönköping",
+        "order": "202.00000000000000000000"
       },
       {
         "id": 204,
-        "value": "Edinburgh"
+        "value": "Edinburgh",
+        "order": "204.00000000000000000000"
       },
       {
         "id": 205,
-        "value": "Cincinnati"
+        "value": "Cincinnati",
+        "order": "205.00000000000000000000"
       },
       {
         "id": 206,
-        "value": "Wellesley"
+        "value": "Wellesley",
+        "order": "206.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "California"
+        "value": "California",
+        "order": "209.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Trumansburg"
+        "value": "Trumansburg",
+        "order": "210.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "Tenby"
+        "value": "Tenby",
+        "order": "213.00000000000000000000"
       },
       {
         "id": 214,
-        "value": "Pembrokeshire"
+        "value": "Pembrokeshire",
+        "order": "214.00000000000000000000"
       },
       {
         "id": 215,
-        "value": "2 St Julian's Street"
+        "value": "2 St Julian's Street",
+        "order": "215.00000000000000000000"
       },
       {
         "id": 217,
-        "value": "Alser Straße 48"
+        "value": "Alser Straße 48",
+        "order": "217.00000000000000000000"
       },
       {
         "id": 219,
-        "value": "Liverpool"
+        "value": "Liverpool",
+        "order": "219.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "Paddington"
+        "value": "Paddington",
+        "order": "220.00000000000000000000"
       },
       {
         "id": 221,
-        "value": "575 Madison Avenue"
+        "value": "575 Madison Avenue",
+        "order": "221.00000000000000000000"
       },
       {
         "id": 222,
-        "value": "New Haven"
+        "value": "New Haven",
+        "order": "222.00000000000000000000"
       },
       {
         "id": 224,
-        "value": "Johann-Strauß-Gasse 28"
+        "value": "Johann-Strauß-Gasse 28",
+        "order": "224.00000000000000000000"
       },
       {
         "id": 225,
-        "value": "Hotel Altenburgerhof"
+        "value": "Hotel Altenburgerhof",
+        "order": "225.00000000000000000000"
       },
       {
         "id": 228,
-        "value": "Neuilly-sur-Seine"
+        "value": "Neuilly-sur-Seine",
+        "order": "228.00000000000000000000"
       },
       {
         "id": 230,
-        "value": "Nevsky Prospect"
+        "value": "Nevsky Prospect",
+        "order": "230.00000000000000000000"
       },
       {
         "id": 234,
-        "value": "Kensington"
+        "value": "Kensington",
+        "order": "234.00000000000000000000"
       },
       {
         "id": 235,
-        "value": "Kärntner Straße"
+        "value": "Kärntner Straße",
+        "order": "235.00000000000000000000"
       },
       {
         "id": 237,
-        "value": "Devon"
+        "value": "Devon",
+        "order": "237.00000000000000000000"
       },
       {
         "id": 238,
-        "value": "Bad Vilbel"
+        "value": "Bad Vilbel",
+        "order": "238.00000000000000000000"
       },
       {
         "id": 239,
-        "value": "England"
+        "value": "England",
+        "order": "239.00000000000000000000"
       },
       {
         "id": 240,
-        "value": "Koblenz"
+        "value": "Koblenz",
+        "order": "240.00000000000000000000"
       },
       {
         "id": 241,
-        "value": "Acton"
+        "value": "Acton",
+        "order": "241.00000000000000000000"
       },
       {
         "id": 242,
-        "value": "Wormingford"
+        "value": "Wormingford",
+        "order": "242.00000000000000000000"
       },
       {
         "id": 243,
-        "value": "Nisko"
+        "value": "Nisko",
+        "order": "243.00000000000000000000"
       },
       {
         "id": 244,
-        "value": "Schwertberg"
+        "value": "Schwertberg",
+        "order": "244.00000000000000000000"
       },
       {
         "id": 245,
-        "value": "Innsbruck"
+        "value": "Innsbruck",
+        "order": "245.00000000000000000000"
       },
       {
         "id": 247,
-        "value": "East Village"
+        "value": "East Village",
+        "order": "247.00000000000000000000"
       },
       {
         "id": 248,
-        "value": "39 Claremont Avenue, apt 31"
+        "value": "39 Claremont Avenue, apt 31",
+        "order": "248.00000000000000000000"
       },
       {
         "id": 250,
-        "value": "Rheydt"
+        "value": "Rheydt",
+        "order": "250.00000000000000000000"
       },
       {
         "id": 251,
-        "value": "Perschling (stream)"
+        "value": "Perschling (stream)",
+        "order": "251.00000000000000000000"
       },
       {
         "id": 252,
-        "value": "Sichelbach (stream)"
+        "value": "Sichelbach (stream)",
+        "order": "252.00000000000000000000"
       },
       {
         "id": 253,
-        "value": "Leystraße 23"
+        "value": "Leystraße 23",
+        "order": "253.00000000000000000000"
       },
       {
         "id": 254,
-        "value": "Loretto"
+        "value": "Loretto",
+        "order": "254.00000000000000000000"
       },
       {
         "id": 256,
-        "value": "Lake Zell"
+        "value": "Lake Zell",
+        "order": "256.00000000000000000000"
       },
       {
         "id": 257,
-        "value": "Austria-Hungary"
+        "value": "Austria-Hungary",
+        "order": "257.00000000000000000000"
       },
       {
         "id": 258,
-        "value": "Haus Fallegg"
+        "value": "Haus Fallegg",
+        "order": "258.00000000000000000000"
       },
       {
         "id": 259,
-        "value": "St. Mark's Place"
+        "value": "St. Mark's Place",
+        "order": "259.00000000000000000000"
       },
       {
         "id": 261,
-        "value": "Hauptpostamt"
+        "value": "Hauptpostamt",
+        "order": "261.00000000000000000000"
       },
       {
         "id": 262,
-        "value": "Hanover"
+        "value": "Hanover",
+        "order": "262.00000000000000000000"
       },
       {
         "id": 263,
-        "value": "Garmisch-Partenkirchen"
+        "value": "Garmisch-Partenkirchen",
+        "order": "263.00000000000000000000"
       },
       {
         "id": 265,
-        "value": "Marquardt"
+        "value": "Marquardt",
+        "order": "265.00000000000000000000"
       },
       {
         "id": 266,
-        "value": "Winona"
+        "value": "Winona",
+        "order": "266.00000000000000000000"
       },
       {
         "id": 267,
-        "value": "Düsseldorf"
+        "value": "Düsseldorf",
+        "order": "267.00000000000000000000"
       },
       {
         "id": 268,
-        "value": "Chernivtsi"
+        "value": "Chernivtsi",
+        "order": "268.00000000000000000000"
       },
       {
         "id": 269,
-        "value": "Birmingham"
+        "value": "Birmingham",
+        "order": "269.00000000000000000000"
       },
       {
         "id": 270,
-        "value": "Oklahoma City"
+        "value": "Oklahoma City",
+        "order": "270.00000000000000000000"
       },
       {
         "id": 271,
-        "value": "Albany, Georgia"
+        "value": "Albany, Georgia",
+        "order": "271.00000000000000000000"
       },
       {
         "id": 272,
-        "value": "St John's Wood"
+        "value": "St John's Wood",
+        "order": "272.00000000000000000000"
       },
       {
         "id": 273,
-        "value": "Michelbach"
+        "value": "Michelbach",
+        "order": "273.00000000000000000000"
       },
       {
         "id": 274,
-        "value": "Mumbai"
+        "value": "Mumbai",
+        "order": "274.00000000000000000000"
       },
       {
         "id": 275,
-        "value": "Bournemouth"
+        "value": "Bournemouth",
+        "order": "275.00000000000000000000"
       },
       {
         "id": 276,
-        "value": "Montreux"
+        "value": "Montreux",
+        "order": "276.00000000000000000000"
       },
       {
         "id": 277,
-        "value": "Cromford"
+        "value": "Cromford",
+        "order": "277.00000000000000000000"
       },
       {
         "id": 278,
-        "value": "Newbridge"
+        "value": "Newbridge",
+        "order": "278.00000000000000000000"
       },
       {
         "id": 279,
-        "value": "Horninglow"
+        "value": "Horninglow",
+        "order": "279.00000000000000000000"
       },
       {
         "id": 280,
-        "value": "Theobalds House"
+        "value": "Theobalds House",
+        "order": "280.00000000000000000000"
       },
       {
         "id": 281,
-        "value": "Salamis Island"
+        "value": "Salamis Island",
+        "order": "281.00000000000000000000"
       },
       {
         "id": 282,
-        "value": "Pella"
+        "value": "Pella",
+        "order": "282.00000000000000000000"
       },
       {
         "id": 283,
-        "value": "Straubing"
+        "value": "Straubing",
+        "order": "283.00000000000000000000"
       },
       {
         "id": 284,
-        "value": "Ceneda"
+        "value": "Ceneda",
+        "order": "284.00000000000000000000"
       },
       {
         "id": 286,
-        "value": "Burano"
+        "value": "Burano",
+        "order": "286.00000000000000000000"
       },
       {
         "id": 287,
-        "value": "Amersham"
+        "value": "Amersham",
+        "order": "287.00000000000000000000"
       },
       {
         "id": 288,
-        "value": "Sutton"
+        "value": "Sutton",
+        "order": "288.00000000000000000000"
       },
       {
         "id": 290,
-        "value": "Baden-Baden"
+        "value": "Baden-Baden",
+        "order": "290.00000000000000000000"
       },
       {
         "id": 291,
-        "value": "Rendsburg"
+        "value": "Rendsburg",
+        "order": "291.00000000000000000000"
       },
       {
         "id": 292,
-        "value": "Wiesbaden"
+        "value": "Wiesbaden",
+        "order": "292.00000000000000000000"
       },
       {
         "id": 293,
-        "value": "Andernach"
+        "value": "Andernach",
+        "order": "293.00000000000000000000"
       },
       {
         "id": 294,
-        "value": "Brake"
+        "value": "Brake",
+        "order": "294.00000000000000000000"
       },
       {
         "id": 295,
-        "value": "Pichl-Kainisch"
+        "value": "Pichl-Kainisch",
+        "order": "295.00000000000000000000"
       },
       {
         "id": 296,
-        "value": "Leverkusen"
+        "value": "Leverkusen",
+        "order": "296.00000000000000000000"
       },
       {
         "id": 297,
-        "value": "Freiburg im Breisgau"
+        "value": "Freiburg im Breisgau",
+        "order": "297.00000000000000000000"
       },
       {
         "id": 298,
-        "value": "Ann Arbor"
+        "value": "Ann Arbor",
+        "order": "298.00000000000000000000"
       },
       {
         "id": 300,
-        "value": "Öblarn"
+        "value": "Öblarn",
+        "order": "299.00000000000000000000"
       },
       {
         "id": 301,
-        "value": "Kaffee 3/4"
+        "value": "Kaffee 3/4",
+        "order": "300.00000000000000000000"
       },
       {
         "id": 303,
-        "value": "Fillgradergasse 12"
+        "value": "Fillgradergasse 12",
+        "order": "302.00000000000000000000"
       },
       {
         "id": 305,
-        "value": "70 Lexham Gardens"
+        "value": "70 Lexham Gardens",
+        "order": "304.00000000000000000000"
       },
       {
         "id": 306,
-        "value": "Washington, D.C."
+        "value": "Washington, D.C.",
+        "order": "305.00000000000000000000"
       },
       {
         "id": 307,
-        "value": "West Germany"
+        "value": "West Germany",
+        "order": "306.00000000000000000000"
       },
       {
         "id": 308,
-        "value": "Wieden"
+        "value": "Wieden",
+        "order": "307.00000000000000000000"
       },
       {
         "id": 309,
-        "value": "Vienna West railway station"
+        "value": "Vienna West railway station",
+        "order": "308.00000000000000000000"
       },
       {
         "id": 310,
-        "value": "Rudolfsheim-Fünfhaus"
+        "value": "Rudolfsheim-Fünfhaus",
+        "order": "309.00000000000000000000"
       },
       {
         "id": 311,
-        "value": "Oberndorf an der Melk"
+        "value": "Oberndorf an der Melk",
+        "order": "310.00000000000000000000"
       },
       {
         "id": 312,
-        "value": "Grunewald"
+        "value": "Grunewald",
+        "order": "311.00000000000000000000"
       },
       {
         "id": 313,
-        "value": "Schmargendorf"
+        "value": "Schmargendorf",
+        "order": "312.00000000000000000000"
       },
       {
         "id": 316,
-        "value": "Reinprechtspölla"
+        "value": "Reinprechtspölla",
+        "order": "315.00000000000000000000"
       },
       {
         "id": 317,
-        "value": "Accrington"
+        "value": "Accrington",
+        "order": "316.00000000000000000000"
       },
       {
         "id": 318,
-        "value": "Mere, Wiltshire"
+        "value": "Mere, Wiltshire",
+        "order": "317.00000000000000000000"
       },
       {
         "id": 319,
-        "value": "Bronxville, New York"
+        "value": "Bronxville, New York",
+        "order": "318.00000000000000000000"
       },
       {
         "id": 321,
-        "value": "Hotel Wandl"
+        "value": "Hotel Wandl",
+        "order": "320.00000000000000000000"
       },
       {
         "id": 322,
-        "value": "Hellmonsödt"
+        "value": "Hellmonsödt",
+        "order": "321.00000000000000000000"
       },
       {
         "id": 323,
-        "value": "Merthyr Tydfil"
+        "value": "Merthyr Tydfil",
+        "order": "322.00000000000000000000"
       },
       {
         "id": 324,
-        "value": "Clevedon"
+        "value": "Clevedon",
+        "order": "323.00000000000000000000"
       },
       {
         "id": 325,
-        "value": "Wroxham"
+        "value": "Wroxham",
+        "order": "324.00000000000000000000"
       },
       {
         "id": 326,
-        "value": "Strelzhof"
+        "value": "Strelzhof",
+        "order": "325.00000000000000000000"
       },
       {
         "id": 327,
-        "value": "Repton"
+        "value": "Repton",
+        "order": "326.00000000000000000000"
       },
       {
         "id": 329,
-        "value": "Kingston, New York"
+        "value": "Kingston, New York",
+        "order": "328.00000000000000000000"
       },
       {
         "id": 331,
-        "value": "Poets' Corner"
+        "value": "Poets' Corner",
+        "order": "330.00000000000000000000"
       },
       {
         "id": 332,
-        "value": "Pfarrkirche Kirchstetten (Kirchstetten parish church)"
+        "value": "Pfarrkirche Kirchstetten (Kirchstetten parish church)",
+        "order": "331.00000000000000000000"
       },
       {
         "id": 336,
-        "value": "Ollersbach"
+        "value": "Ollersbach",
+        "order": "335.00000000000000000000"
       },
       {
         "id": 337,
-        "value": "Frieth"
+        "value": "Frieth",
+        "order": "336.00000000000000000000"
       },
       {
         "id": 338,
-        "value": "Brunn am Gebirge"
+        "value": "Brunn am Gebirge",
+        "order": "337.00000000000000000000"
       },
       {
         "id": 339,
-        "value": "Klagenfurt am Wörthersee"
+        "value": "Klagenfurt am Wörthersee",
+        "order": "338.00000000000000000000"
       },
       {
         "id": 340,
-        "value": "County Cork"
+        "value": "County Cork",
+        "order": "339.00000000000000000000"
       },
       {
         "id": 341,
-        "value": "Cleveland"
+        "value": "Cleveland",
+        "order": "340.00000000000000000000"
       },
       {
         "id": 342,
-        "value": "Land Salzburg"
+        "value": "Land Salzburg",
+        "order": "341.00000000000000000000"
       },
       {
         "id": 344,
-        "value": "Stockholm"
+        "value": "Stockholm",
+        "order": "343.00000000000000000000"
       },
       {
         "id": 345,
-        "value": "Boden"
+        "value": "Boden",
+        "order": "344.00000000000000000000"
       },
       {
         "id": 346,
-        "value": "Galway"
+        "value": "Galway",
+        "order": "345.00000000000000000000"
       },
       {
         "id": 347,
-        "value": "Wolfsberg"
+        "value": "Wolfsberg",
+        "order": "346.00000000000000000000"
       },
       {
         "id": 348,
-        "value": "Wiener Ringstraße (Vienna Ring Road)"
+        "value": "Wiener Ringstraße (Vienna Ring Road)",
+        "order": "347.00000000000000000000"
       },
       {
         "id": 351,
-        "value": "Josefsplatz"
+        "value": "Josefsplatz",
+        "order": "350.00000000000000000000"
       },
       {
         "id": 352,
-        "value": "Odesa"
+        "value": "Odesa",
+        "order": "351.00000000000000000000"
       },
       {
         "id": 354,
-        "value": "Ilminster"
+        "value": "Ilminster",
+        "order": "353.00000000000000000000"
       },
       {
         "id": 355,
-        "value": "Franz Biber Fleischhauer u. Gastwirt"
+        "value": "Franz Biber Fleischhauer u. Gastwirt",
+        "order": "354.00000000000000000000"
       },
       {
         "id": 356,
-        "value": "Adalbert-Stifter-Straße 22"
+        "value": "Adalbert-Stifter-Straße 22",
+        "order": "355.00000000000000000000"
       },
       {
         "id": 357,
-        "value": "Tulln an der Donau"
+        "value": "Tulln an der Donau",
+        "order": "356.00000000000000000000"
       },
       {
         "id": 358,
-        "value": "Greece"
+        "value": "Greece",
+        "order": "357.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -2081,7 +2530,8 @@
     "has_broader": [
       {
         "id": 16,
-        "value": "is_part_of"
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
       }
     ],
     "inverse": "has_participants",
@@ -2103,7 +2553,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_partner_of",
@@ -2119,11 +2570,13 @@
     "person_person": [
       {
         "id": 1,
-        "value": "relationship_person_id__1"
+        "value": "relationship_person_id__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "relationship_person_id__3"
+        "value": "relationship_person_id__3",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2134,7 +2587,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_host_of",
@@ -2144,7 +2598,8 @@
     "person_place": [
       {
         "id": 33,
-        "value": "relationship_place_id__33"
+        "value": "relationship_place_id__33",
+        "order": "33.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -2155,19 +2610,23 @@
     "person_person": [
       {
         "id": 14,
-        "value": "relationship_person_id__14"
+        "value": "relationship_person_id__14",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 129,
-        "value": "relationship_person_id__129"
+        "value": "relationship_person_id__129",
+        "order": "129.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "relationship_person_id__139"
+        "value": "relationship_person_id__139",
+        "order": "139.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "relationship_person_id__142"
+        "value": "relationship_person_id__142",
+        "order": "142.00000000000000000000"
       }
     ]
   },
@@ -2178,7 +2637,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_guest_of",
@@ -2190,35 +2650,43 @@
     "org_event": [
       {
         "id": 2,
-        "value": "org_event__2"
+        "value": "org_event__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "org_event__3"
+        "value": "org_event__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "org_event__5"
+        "value": "org_event__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "org_event__6"
+        "value": "org_event__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "org_event__9"
+        "value": "org_event__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "org_event__16"
+        "value": "org_event__16",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "org_event__17"
+        "value": "org_event__17",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "org_event__18"
+        "value": "org_event__18",
+        "order": "18.00000000000000000000"
       }
     ],
     "has_label": "is host of",
@@ -2227,19 +2695,23 @@
     "person_person": [
       {
         "id": 109,
-        "value": "relationship_person_id__109"
+        "value": "relationship_person_id__109",
+        "order": "109.00000000000000000000"
       },
       {
         "id": 127,
-        "value": "relationship_person_id__127"
+        "value": "relationship_person_id__127",
+        "order": "127.00000000000000000000"
       },
       {
         "id": 141,
-        "value": "relationship_person_id__141"
+        "value": "relationship_person_id__141",
+        "order": "141.00000000000000000000"
       },
       {
         "id": 151,
-        "value": "relationship_person_id__151"
+        "value": "relationship_person_id__151",
+        "order": "151.00000000000000000000"
       }
     ]
   },
@@ -2261,43 +2733,53 @@
     "person_person": [
       {
         "id": 164,
-        "value": "relationship_person_id__164"
+        "value": "relationship_person_id__164",
+        "order": "164.00000000000000000000"
       },
       {
         "id": 165,
-        "value": "relationship_person_id__165"
+        "value": "relationship_person_id__165",
+        "order": "165.00000000000000000000"
       },
       {
         "id": 186,
-        "value": "relationship_person_id__186"
+        "value": "relationship_person_id__186",
+        "order": "186.00000000000000000000"
       },
       {
         "id": 187,
-        "value": "relationship_person_id__187"
+        "value": "relationship_person_id__187",
+        "order": "187.00000000000000000000"
       },
       {
         "id": 191,
-        "value": "relationship_person_id__191"
+        "value": "relationship_person_id__191",
+        "order": "191.00000000000000000000"
       },
       {
         "id": 192,
-        "value": "relationship_person_id__192"
+        "value": "relationship_person_id__192",
+        "order": "192.00000000000000000000"
       },
       {
         "id": 193,
-        "value": "relationship_person_id__193"
+        "value": "relationship_person_id__193",
+        "order": "193.00000000000000000000"
       },
       {
         "id": 194,
-        "value": "relationship_person_id__194"
+        "value": "relationship_person_id__194",
+        "order": "194.00000000000000000000"
       },
       {
         "id": 217,
-        "value": "relationship_person_id__217"
+        "value": "relationship_person_id__217",
+        "order": "218.00000000000000000000"
       },
       {
         "id": 219,
-        "value": "relationship_person_id__219"
+        "value": "relationship_person_id__219",
+        "order": "220.00000000000000000000"
       }
     ]
   },
@@ -2308,7 +2790,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_coparticipant_of",
@@ -2324,43 +2807,53 @@
     "person_person": [
       {
         "id": 91,
-        "value": "relationship_person_id__91"
+        "value": "relationship_person_id__91",
+        "order": "91.00000000000000000000"
       },
       {
         "id": 92,
-        "value": "relationship_person_id__92"
+        "value": "relationship_person_id__92",
+        "order": "197.00000000000000000000"
       },
       {
         "id": 197,
-        "value": "relationship_person_id__197"
+        "value": "relationship_person_id__197",
+        "order": "198.00000000000000000000"
       },
       {
         "id": 198,
-        "value": "relationship_person_id__198"
+        "value": "relationship_person_id__198",
+        "order": "199.00000000000000000000"
       },
       {
         "id": 199,
-        "value": "relationship_person_id__199"
+        "value": "relationship_person_id__199",
+        "order": "200.00000000000000000000"
       },
       {
         "id": 200,
-        "value": "relationship_person_id__200"
+        "value": "relationship_person_id__200",
+        "order": "201.00000000000000000000"
       },
       {
         "id": 201,
-        "value": "relationship_person_id__201"
+        "value": "relationship_person_id__201",
+        "order": "202.00000000000000000000"
       },
       {
         "id": 203,
-        "value": "relationship_person_id__203"
+        "value": "relationship_person_id__203",
+        "order": "204.00000000000000000000"
       },
       {
         "id": 204,
-        "value": "relationship_person_id__204"
+        "value": "relationship_person_id__204",
+        "order": "205.00000000000000000000"
       },
       {
         "id": 205,
-        "value": "relationship_person_id__205"
+        "value": "relationship_person_id__205",
+        "order": "206.00000000000000000000"
       }
     ]
   },
@@ -2371,7 +2864,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_employee_of",
@@ -2387,27 +2881,33 @@
     "person_person": [
       {
         "id": 113,
-        "value": "relationship_person_id__113"
+        "value": "relationship_person_id__113",
+        "order": "113.00000000000000000000"
       },
       {
         "id": 114,
-        "value": "relationship_person_id__114"
+        "value": "relationship_person_id__114",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 153,
-        "value": "relationship_person_id__153"
+        "value": "relationship_person_id__153",
+        "order": "153.00000000000000000000"
       },
       {
         "id": 154,
-        "value": "relationship_person_id__154"
+        "value": "relationship_person_id__154",
+        "order": "154.00000000000000000000"
       },
       {
         "id": 155,
-        "value": "relationship_person_id__155"
+        "value": "relationship_person_id__155",
+        "order": "155.00000000000000000000"
       },
       {
         "id": 161,
-        "value": "relationship_person_id__161"
+        "value": "relationship_person_id__161",
+        "order": "161.00000000000000000000"
       }
     ]
   },
@@ -2418,7 +2918,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_contractor_of",
@@ -2434,19 +2935,23 @@
     "person_person": [
       {
         "id": 88,
-        "value": "relationship_person_id__88"
+        "value": "relationship_person_id__88",
+        "order": "88.00000000000000000000"
       },
       {
         "id": 115,
-        "value": "relationship_person_id__115"
+        "value": "relationship_person_id__115",
+        "order": "115.00000000000000000000"
       },
       {
         "id": 116,
-        "value": "relationship_person_id__116"
+        "value": "relationship_person_id__116",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 166,
-        "value": "relationship_person_id__166"
+        "value": "relationship_person_id__166",
+        "order": "166.00000000000000000000"
       }
     ]
   },
@@ -2457,7 +2962,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_professionalacquaintance_of",
@@ -2473,19 +2979,23 @@
     "person_person": [
       {
         "id": 117,
-        "value": "relationship_person_id__117"
+        "value": "relationship_person_id__117",
+        "order": "117.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "relationship_person_id__118"
+        "value": "relationship_person_id__118",
+        "order": "118.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "relationship_person_id__134"
+        "value": "relationship_person_id__134",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "relationship_person_id__150"
+        "value": "relationship_person_id__150",
+        "order": "150.00000000000000000000"
       }
     ]
   },
@@ -2496,7 +3006,8 @@
     "has_broader": [
       {
         "id": 2,
-        "value": "is_related_to"
+        "value": "is_related_to",
+        "order": "2.00000000000000000000"
       }
     ],
     "inverse": "is_acquaintance_of",
@@ -2512,23 +3023,28 @@
     "person_person": [
       {
         "id": 131,
-        "value": "relationship_person_id__131"
+        "value": "relationship_person_id__131",
+        "order": "131.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "relationship_person_id__132"
+        "value": "relationship_person_id__132",
+        "order": "132.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "relationship_person_id__133"
+        "value": "relationship_person_id__133",
+        "order": "133.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "relationship_person_id__135"
+        "value": "relationship_person_id__135",
+        "order": "135.00000000000000000000"
       },
       {
         "id": 149,
-        "value": "relationship_person_id__149"
+        "value": "relationship_person_id__149",
+        "order": "149.00000000000000000000"
       }
     ]
   },
@@ -2544,143 +3060,178 @@
     "person_place": [
       {
         "id": 1,
-        "value": "relationship_place_id__1"
+        "value": "relationship_place_id__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 2,
-        "value": "relationship_place_id__2"
+        "value": "relationship_place_id__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "relationship_place_id__3"
+        "value": "relationship_place_id__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "relationship_place_id__4"
+        "value": "relationship_place_id__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "relationship_place_id__5"
+        "value": "relationship_place_id__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "relationship_place_id__6"
+        "value": "relationship_place_id__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "relationship_place_id__7"
+        "value": "relationship_place_id__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "relationship_place_id__8"
+        "value": "relationship_place_id__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "relationship_place_id__9"
+        "value": "relationship_place_id__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "relationship_place_id__10"
+        "value": "relationship_place_id__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "relationship_place_id__11"
+        "value": "relationship_place_id__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "relationship_place_id__12"
+        "value": "relationship_place_id__12",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "relationship_place_id__13"
+        "value": "relationship_place_id__13",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "relationship_place_id__14"
+        "value": "relationship_place_id__14",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "relationship_place_id__15"
+        "value": "relationship_place_id__15",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "relationship_place_id__16"
+        "value": "relationship_place_id__16",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "relationship_place_id__17"
+        "value": "relationship_place_id__17",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "relationship_place_id__18"
+        "value": "relationship_place_id__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "relationship_place_id__19"
+        "value": "relationship_place_id__19",
+        "order": "19.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "relationship_place_id__20"
+        "value": "relationship_place_id__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "relationship_place_id__21"
+        "value": "relationship_place_id__21",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "relationship_place_id__22"
+        "value": "relationship_place_id__22",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "relationship_place_id__34"
+        "value": "relationship_place_id__34",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "relationship_place_id__35"
+        "value": "relationship_place_id__35",
+        "order": "35.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "relationship_place_id__36"
+        "value": "relationship_place_id__36",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "relationship_place_id__37"
+        "value": "relationship_place_id__37",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "relationship_place_id__38"
+        "value": "relationship_place_id__38",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 39,
-        "value": "relationship_place_id__39"
+        "value": "relationship_place_id__39",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 40,
-        "value": "relationship_place_id__40"
+        "value": "relationship_place_id__40",
+        "order": "40.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "relationship_place_id__41"
+        "value": "relationship_place_id__41",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "relationship_place_id__42"
+        "value": "relationship_place_id__42",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "relationship_place_id__43"
+        "value": "relationship_place_id__43",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "relationship_place_id__44"
+        "value": "relationship_place_id__44",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "relationship_place_id__45"
+        "value": "relationship_place_id__45",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "relationship_place_id__46"
+        "value": "relationship_place_id__46",
+        "order": "46.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -2703,459 +3254,573 @@
     "person_event": [
       {
         "id": 1,
-        "value": "person_event__1"
+        "value": "person_event__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 2,
-        "value": "person_event__2"
+        "value": "person_event__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "person_event__4"
+        "value": "person_event__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "person_event__10"
+        "value": "person_event__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "person_event__11"
+        "value": "person_event__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "person_event__12"
+        "value": "person_event__12",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "person_event__24"
+        "value": "person_event__24",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "person_event__25"
+        "value": "person_event__25",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "person_event__26"
+        "value": "person_event__26",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "person_event__28"
+        "value": "person_event__28",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "person_event__33"
+        "value": "person_event__33",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "person_event__34"
+        "value": "person_event__34",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "person_event__36"
+        "value": "person_event__36",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "person_event__37"
+        "value": "person_event__37",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "person_event__38"
+        "value": "person_event__38",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "person_event__41"
+        "value": "person_event__41",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "person_event__52"
+        "value": "person_event__52",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "person_event__53"
+        "value": "person_event__53",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "person_event__54"
+        "value": "person_event__54",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "person_event__55"
+        "value": "person_event__55",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "person_event__57"
+        "value": "person_event__57",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "person_event__58"
+        "value": "person_event__58",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "person_event__60"
+        "value": "person_event__60",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "person_event__72"
+        "value": "person_event__72",
+        "order": "72.00000000000000000000"
       },
       {
         "id": 75,
-        "value": "person_event__75"
+        "value": "person_event__75",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 80,
-        "value": "person_event__80"
+        "value": "person_event__80",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "person_event__85"
+        "value": "person_event__85",
+        "order": "85.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "person_event__90"
+        "value": "person_event__90",
+        "order": "90.00000000000000000000"
       },
       {
         "id": 102,
-        "value": "person_event__102"
+        "value": "person_event__102",
+        "order": "102.00000000000000000000"
       },
       {
         "id": 103,
-        "value": "person_event__103"
+        "value": "person_event__103",
+        "order": "103.00000000000000000000"
       },
       {
         "id": 104,
-        "value": "person_event__104"
+        "value": "person_event__104",
+        "order": "104.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "person_event__105"
+        "value": "person_event__105",
+        "order": "105.00000000000000000000"
       },
       {
         "id": 107,
-        "value": "person_event__107"
+        "value": "person_event__107",
+        "order": "107.00000000000000000000"
       },
       {
         "id": 109,
-        "value": "person_event__109"
+        "value": "person_event__109",
+        "order": "109.00000000000000000000"
       },
       {
         "id": 111,
-        "value": "person_event__111"
+        "value": "person_event__111",
+        "order": "111.00000000000000000000"
       },
       {
         "id": 114,
-        "value": "person_event__114"
+        "value": "person_event__114",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 115,
-        "value": "person_event__115"
+        "value": "person_event__115",
+        "order": "115.00000000000000000000"
       },
       {
         "id": 117,
-        "value": "person_event__117"
+        "value": "person_event__117",
+        "order": "117.00000000000000000000"
       },
       {
         "id": 124,
-        "value": "person_event__124"
+        "value": "person_event__124",
+        "order": "124.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "person_event__125"
+        "value": "person_event__125",
+        "order": "125.00000000000000000000"
       },
       {
         "id": 126,
-        "value": "person_event__126"
+        "value": "person_event__126",
+        "order": "126.00000000000000000000"
       },
       {
         "id": 127,
-        "value": "person_event__127"
+        "value": "person_event__127",
+        "order": "127.00000000000000000000"
       },
       {
         "id": 129,
-        "value": "person_event__129"
+        "value": "person_event__129",
+        "order": "129.00000000000000000000"
       },
       {
         "id": 131,
-        "value": "person_event__131"
+        "value": "person_event__131",
+        "order": "131.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "person_event__132"
+        "value": "person_event__132",
+        "order": "132.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "person_event__133"
+        "value": "person_event__133",
+        "order": "133.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "person_event__134"
+        "value": "person_event__134",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "person_event__135"
+        "value": "person_event__135",
+        "order": "135.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "person_event__136"
+        "value": "person_event__136",
+        "order": "136.00000000000000000000"
       },
       {
         "id": 138,
-        "value": "person_event__138"
+        "value": "person_event__138",
+        "order": "138.00000000000000000000"
       },
       {
         "id": 140,
-        "value": "person_event__140"
+        "value": "person_event__140",
+        "order": "140.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "person_event__142"
+        "value": "person_event__142",
+        "order": "142.00000000000000000000"
       },
       {
         "id": 143,
-        "value": "person_event__143"
+        "value": "person_event__143",
+        "order": "143.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "person_event__146"
+        "value": "person_event__146",
+        "order": "146.00000000000000000000"
       },
       {
         "id": 167,
-        "value": "person_event__167"
+        "value": "person_event__167",
+        "order": "167.00000000000000000000"
       },
       {
         "id": 168,
-        "value": "person_event__168"
+        "value": "person_event__168",
+        "order": "168.00000000000000000000"
       },
       {
         "id": 170,
-        "value": "person_event__170"
+        "value": "person_event__170",
+        "order": "170.00000000000000000000"
       },
       {
         "id": 171,
-        "value": "person_event__171"
+        "value": "person_event__171",
+        "order": "171.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "person_event__172"
+        "value": "person_event__172",
+        "order": "172.00000000000000000000"
       },
       {
         "id": 174,
-        "value": "person_event__174"
+        "value": "person_event__174",
+        "order": "174.00000000000000000000"
       },
       {
         "id": 177,
-        "value": "person_event__177"
+        "value": "person_event__177",
+        "order": "177.00000000000000000000"
       },
       {
         "id": 178,
-        "value": "person_event__178"
+        "value": "person_event__178",
+        "order": "178.00000000000000000000"
       },
       {
         "id": 182,
-        "value": "person_event__182"
+        "value": "person_event__182",
+        "order": "182.00000000000000000000"
       },
       {
         "id": 183,
-        "value": "person_event__183"
+        "value": "person_event__183",
+        "order": "183.00000000000000000000"
       },
       {
         "id": 184,
-        "value": "person_event__184"
+        "value": "person_event__184",
+        "order": "184.00000000000000000000"
       },
       {
         "id": 185,
-        "value": "person_event__185"
+        "value": "person_event__185",
+        "order": "185.00000000000000000000"
       },
       {
         "id": 187,
-        "value": "person_event__187"
+        "value": "person_event__187",
+        "order": "187.00000000000000000000"
       },
       {
         "id": 188,
-        "value": "person_event__188"
+        "value": "person_event__188",
+        "order": "188.00000000000000000000"
       },
       {
         "id": 190,
-        "value": "person_event__190"
+        "value": "person_event__190",
+        "order": "190.00000000000000000000"
       },
       {
         "id": 192,
-        "value": "person_event__192"
+        "value": "person_event__192",
+        "order": "192.00000000000000000000"
       },
       {
         "id": 193,
-        "value": "person_event__193"
+        "value": "person_event__193",
+        "order": "193.00000000000000000000"
       },
       {
         "id": 194,
-        "value": "person_event__194"
+        "value": "person_event__194",
+        "order": "194.00000000000000000000"
       },
       {
         "id": 195,
-        "value": "person_event__195"
+        "value": "person_event__195",
+        "order": "195.00000000000000000000"
       },
       {
         "id": 196,
-        "value": "person_event__196"
+        "value": "person_event__196",
+        "order": "196.00000000000000000000"
       },
       {
         "id": 198,
-        "value": "person_event__198"
+        "value": "person_event__198",
+        "order": "198.00000000000000000000"
       },
       {
         "id": 199,
-        "value": "person_event__199"
+        "value": "person_event__199",
+        "order": "199.00000000000000000000"
       },
       {
         "id": 200,
-        "value": "person_event__200"
+        "value": "person_event__200",
+        "order": "200.00000000000000000000"
       },
       {
         "id": 202,
-        "value": "person_event__202"
+        "value": "person_event__202",
+        "order": "202.00000000000000000000"
       },
       {
         "id": 205,
-        "value": "person_event__205"
+        "value": "person_event__205",
+        "order": "205.00000000000000000000"
       },
       {
         "id": 207,
-        "value": "person_event__207"
+        "value": "person_event__207",
+        "order": "207.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "person_event__209"
+        "value": "person_event__209",
+        "order": "209.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "person_event__210"
+        "value": "person_event__210",
+        "order": "210.00000000000000000000"
       },
       {
         "id": 212,
-        "value": "person_event__212"
+        "value": "person_event__212",
+        "order": "212.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "person_event__213"
+        "value": "person_event__213",
+        "order": "213.00000000000000000000"
       },
       {
         "id": 214,
-        "value": "person_event__214"
+        "value": "person_event__214",
+        "order": "214.00000000000000000000"
       },
       {
         "id": 215,
-        "value": "person_event__215"
+        "value": "person_event__215",
+        "order": "215.00000000000000000000"
       },
       {
         "id": 219,
-        "value": "person_event__219"
+        "value": "person_event__219",
+        "order": "219.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "person_event__220"
+        "value": "person_event__220",
+        "order": "220.00000000000000000000"
       },
       {
         "id": 222,
-        "value": "person_event__222"
+        "value": "person_event__222",
+        "order": "222.00000000000000000000"
       },
       {
         "id": 223,
-        "value": "person_event__223"
+        "value": "person_event__223",
+        "order": "223.00000000000000000000"
       },
       {
         "id": 224,
-        "value": "person_event__224"
+        "value": "person_event__224",
+        "order": "224.00000000000000000000"
       },
       {
         "id": 225,
-        "value": "person_event__225"
+        "value": "person_event__225",
+        "order": "225.00000000000000000000"
       },
       {
         "id": 226,
-        "value": "person_event__226"
+        "value": "person_event__226",
+        "order": "226.00000000000000000000"
       },
       {
         "id": 227,
-        "value": "person_event__227"
+        "value": "person_event__227",
+        "order": "227.00000000000000000000"
       },
       {
         "id": 228,
-        "value": "person_event__228"
+        "value": "person_event__228",
+        "order": "228.00000000000000000000"
       },
       {
         "id": 229,
-        "value": "person_event__229"
+        "value": "person_event__229",
+        "order": "229.00000000000000000000"
       },
       {
         "id": 231,
-        "value": "person_event__231"
+        "value": "person_event__231",
+        "order": "231.00000000000000000000"
       },
       {
         "id": 233,
-        "value": "person_event__233"
+        "value": "person_event__233",
+        "order": "233.00000000000000000000"
       },
       {
         "id": 237,
-        "value": "person_event__237"
+        "value": "person_event__237",
+        "order": "237.00000000000000000000"
       },
       {
         "id": 238,
-        "value": "person_event__238"
+        "value": "person_event__238",
+        "order": "238.00000000000000000000"
       },
       {
         "id": 239,
-        "value": "person_event__239"
+        "value": "person_event__239",
+        "order": "239.00000000000000000000"
       },
       {
         "id": 240,
-        "value": "person_event__240"
+        "value": "person_event__240",
+        "order": "240.00000000000000000000"
       },
       {
         "id": 241,
-        "value": "person_event__241"
+        "value": "person_event__241",
+        "order": "241.00000000000000000000"
       },
       {
         "id": 242,
-        "value": "person_event__242"
+        "value": "person_event__242",
+        "order": "242.00000000000000000000"
       },
       {
         "id": 245,
-        "value": "person_event__245"
+        "value": "person_event__245",
+        "order": "245.00000000000000000000"
       },
       {
         "id": 249,
-        "value": "person_event__249"
+        "value": "person_event__249",
+        "order": "249.00000000000000000000"
       },
       {
         "id": 253,
-        "value": "person_event__253"
+        "value": "person_event__253",
+        "order": "253.00000000000000000000"
       },
       {
         "id": 256,
-        "value": "person_event__256"
+        "value": "person_event__256",
+        "order": "256.00000000000000000000"
       },
       {
         "id": 259,
-        "value": "person_event__259"
+        "value": "person_event__259",
+        "order": "259.00000000000000000000"
       },
       {
         "id": 262,
-        "value": "person_event__262"
+        "value": "person_event__262",
+        "order": "262.00000000000000000000"
       },
       {
         "id": 263,
-        "value": "person_event__263"
+        "value": "person_event__263",
+        "order": "263.00000000000000000000"
       },
       {
         "id": 264,
-        "value": "person_event__264"
+        "value": "person_event__264",
+        "order": "264.00000000000000000000"
       },
       {
         "id": 265,
-        "value": "person_event__265"
+        "value": "person_event__265",
+        "order": "265.00000000000000000000"
       },
       {
         "id": 268,
-        "value": "person_event__268"
+        "value": "person_event__268",
+        "order": "268.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -3171,7 +3836,8 @@
     "has_broader": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ],
     "inverse": "has_speaker",
@@ -3182,115 +3848,143 @@
     "person_event": [
       {
         "id": 17,
-        "value": "person_event__17"
+        "value": "person_event__17",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "person_event__18"
+        "value": "person_event__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "person_event__20"
+        "value": "person_event__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "person_event__21"
+        "value": "person_event__21",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 47,
-        "value": "person_event__47"
+        "value": "person_event__47",
+        "order": "47.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "person_event__49"
+        "value": "person_event__49",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "person_event__50"
+        "value": "person_event__50",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "person_event__62"
+        "value": "person_event__62",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "person_event__70"
+        "value": "person_event__70",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "person_event__118"
+        "value": "person_event__118",
+        "order": "118.00000000000000000000"
       },
       {
         "id": 120,
-        "value": "person_event__120"
+        "value": "person_event__120",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 145,
-        "value": "person_event__145"
+        "value": "person_event__145",
+        "order": "145.00000000000000000000"
       },
       {
         "id": 151,
-        "value": "person_event__151"
+        "value": "person_event__151",
+        "order": "151.00000000000000000000"
       },
       {
         "id": 152,
-        "value": "person_event__152"
+        "value": "person_event__152",
+        "order": "152.00000000000000000000"
       },
       {
         "id": 153,
-        "value": "person_event__153"
+        "value": "person_event__153",
+        "order": "153.00000000000000000000"
       },
       {
         "id": 154,
-        "value": "person_event__154"
+        "value": "person_event__154",
+        "order": "154.00000000000000000000"
       },
       {
         "id": 155,
-        "value": "person_event__155"
+        "value": "person_event__155",
+        "order": "155.00000000000000000000"
       },
       {
         "id": 156,
-        "value": "person_event__156"
+        "value": "person_event__156",
+        "order": "156.00000000000000000000"
       },
       {
         "id": 157,
-        "value": "person_event__157"
+        "value": "person_event__157",
+        "order": "157.00000000000000000000"
       },
       {
         "id": 158,
-        "value": "person_event__158"
+        "value": "person_event__158",
+        "order": "158.00000000000000000000"
       },
       {
         "id": 159,
-        "value": "person_event__159"
+        "value": "person_event__159",
+        "order": "159.00000000000000000000"
       },
       {
         "id": 160,
-        "value": "person_event__160"
+        "value": "person_event__160",
+        "order": "160.00000000000000000000"
       },
       {
         "id": 161,
-        "value": "person_event__161"
+        "value": "person_event__161",
+        "order": "161.00000000000000000000"
       },
       {
         "id": 162,
-        "value": "person_event__162"
+        "value": "person_event__162",
+        "order": "162.00000000000000000000"
       },
       {
         "id": 236,
-        "value": "person_event__236"
+        "value": "person_event__236",
+        "order": "236.00000000000000000000"
       },
       {
         "id": 252,
-        "value": "person_event__252"
+        "value": "person_event__252",
+        "order": "252.00000000000000000000"
       },
       {
         "id": 255,
-        "value": "person_event__255"
+        "value": "person_event__255",
+        "order": "255.00000000000000000000"
       },
       {
         "id": 257,
-        "value": "person_event__257"
+        "value": "person_event__257",
+        "order": "257.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -3312,167 +4006,208 @@
     "person_event": [
       {
         "id": 5,
-        "value": "person_event__5"
+        "value": "person_event__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "person_event__6"
+        "value": "person_event__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "person_event__7"
+        "value": "person_event__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "person_event__8"
+        "value": "person_event__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "person_event__9"
+        "value": "person_event__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 39,
-        "value": "person_event__39"
+        "value": "person_event__39",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "person_event__61"
+        "value": "person_event__61",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 76,
-        "value": "person_event__76"
+        "value": "person_event__76",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 112,
-        "value": "person_event__112"
+        "value": "person_event__112",
+        "order": "112.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "person_event__113"
+        "value": "person_event__113",
+        "order": "113.00000000000000000000"
       },
       {
         "id": 116,
-        "value": "person_event__116"
+        "value": "person_event__116",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 121,
-        "value": "person_event__121"
+        "value": "person_event__121",
+        "order": "121.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "person_event__122"
+        "value": "person_event__122",
+        "order": "122.00000000000000000000"
       },
       {
         "id": 123,
-        "value": "person_event__123"
+        "value": "person_event__123",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "person_event__128"
+        "value": "person_event__128",
+        "order": "128.00000000000000000000"
       },
       {
         "id": 130,
-        "value": "person_event__130"
+        "value": "person_event__130",
+        "order": "130.00000000000000000000"
       },
       {
         "id": 137,
-        "value": "person_event__137"
+        "value": "person_event__137",
+        "order": "137.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "person_event__139"
+        "value": "person_event__139",
+        "order": "139.00000000000000000000"
       },
       {
         "id": 141,
-        "value": "person_event__141"
+        "value": "person_event__141",
+        "order": "141.00000000000000000000"
       },
       {
         "id": 169,
-        "value": "person_event__169"
+        "value": "person_event__169",
+        "order": "169.00000000000000000000"
       },
       {
         "id": 173,
-        "value": "person_event__173"
+        "value": "person_event__173",
+        "order": "173.00000000000000000000"
       },
       {
         "id": 176,
-        "value": "person_event__176"
+        "value": "person_event__176",
+        "order": "176.00000000000000000000"
       },
       {
         "id": 179,
-        "value": "person_event__179"
+        "value": "person_event__179",
+        "order": "179.00000000000000000000"
       },
       {
         "id": 180,
-        "value": "person_event__180"
+        "value": "person_event__180",
+        "order": "180.00000000000000000000"
       },
       {
         "id": 186,
-        "value": "person_event__186"
+        "value": "person_event__186",
+        "order": "186.00000000000000000000"
       },
       {
         "id": 189,
-        "value": "person_event__189"
+        "value": "person_event__189",
+        "order": "189.00000000000000000000"
       },
       {
         "id": 191,
-        "value": "person_event__191"
+        "value": "person_event__191",
+        "order": "191.00000000000000000000"
       },
       {
         "id": 197,
-        "value": "person_event__197"
+        "value": "person_event__197",
+        "order": "197.00000000000000000000"
       },
       {
         "id": 201,
-        "value": "person_event__201"
+        "value": "person_event__201",
+        "order": "201.00000000000000000000"
       },
       {
         "id": 203,
-        "value": "person_event__203"
+        "value": "person_event__203",
+        "order": "203.00000000000000000000"
       },
       {
         "id": 204,
-        "value": "person_event__204"
+        "value": "person_event__204",
+        "order": "204.00000000000000000000"
       },
       {
         "id": 206,
-        "value": "person_event__206"
+        "value": "person_event__206",
+        "order": "206.00000000000000000000"
       },
       {
         "id": 208,
-        "value": "person_event__208"
+        "value": "person_event__208",
+        "order": "208.00000000000000000000"
       },
       {
         "id": 211,
-        "value": "person_event__211"
+        "value": "person_event__211",
+        "order": "211.00000000000000000000"
       },
       {
         "id": 221,
-        "value": "person_event__221"
+        "value": "person_event__221",
+        "order": "221.00000000000000000000"
       },
       {
         "id": 230,
-        "value": "person_event__230"
+        "value": "person_event__230",
+        "order": "230.00000000000000000000"
       },
       {
         "id": 234,
-        "value": "person_event__234"
+        "value": "person_event__234",
+        "order": "234.00000000000000000000"
       },
       {
         "id": 258,
-        "value": "person_event__258"
+        "value": "person_event__258",
+        "order": "258.00000000000000000000"
       },
       {
         "id": 260,
-        "value": "person_event__260"
+        "value": "person_event__260",
+        "order": "260.00000000000000000000"
       },
       {
         "id": 261,
-        "value": "person_event__261"
+        "value": "person_event__261",
+        "order": "261.00000000000000000000"
       },
       {
         "id": 266,
-        "value": "person_event__266"
+        "value": "person_event__266",
+        "order": "266.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -3494,155 +4229,193 @@
     "person_event": [
       {
         "id": 22,
-        "value": "person_event__22"
+        "value": "person_event__22",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "person_event__23"
+        "value": "person_event__23",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "person_event__29"
+        "value": "person_event__29",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "person_event__30"
+        "value": "person_event__30",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "person_event__43"
+        "value": "person_event__43",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "person_event__44"
+        "value": "person_event__44",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "person_event__56"
+        "value": "person_event__56",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "person_event__86"
+        "value": "person_event__86",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 88,
-        "value": "person_event__88"
+        "value": "person_event__88",
+        "order": "88.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "person_event__93"
+        "value": "person_event__93",
+        "order": "93.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "person_event__94"
+        "value": "person_event__94",
+        "order": "94.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "person_event__95"
+        "value": "person_event__95",
+        "order": "95.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "person_event__96"
+        "value": "person_event__96",
+        "order": "96.00000000000000000000"
       },
       {
         "id": 98,
-        "value": "person_event__98"
+        "value": "person_event__98",
+        "order": "98.00000000000000000000"
       },
       {
         "id": 99,
-        "value": "person_event__99"
+        "value": "person_event__99",
+        "order": "99.00000000000000000000"
       },
       {
         "id": 100,
-        "value": "person_event__100"
+        "value": "person_event__100",
+        "order": "100.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "person_event__144"
+        "value": "person_event__144",
+        "order": "144.00000000000000000000"
       },
       {
         "id": 147,
-        "value": "person_event__147"
+        "value": "person_event__147",
+        "order": "147.00000000000000000000"
       },
       {
         "id": 148,
-        "value": "person_event__148"
+        "value": "person_event__148",
+        "order": "148.00000000000000000000"
       },
       {
         "id": 149,
-        "value": "person_event__149"
+        "value": "person_event__149",
+        "order": "149.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "person_event__150"
+        "value": "person_event__150",
+        "order": "150.00000000000000000000"
       },
       {
         "id": 163,
-        "value": "person_event__163"
+        "value": "person_event__163",
+        "order": "163.00000000000000000000"
       },
       {
         "id": 165,
-        "value": "person_event__165"
+        "value": "person_event__165",
+        "order": "165.00000000000000000000"
       },
       {
         "id": 175,
-        "value": "person_event__175"
+        "value": "person_event__175",
+        "order": "175.00000000000000000000"
       },
       {
         "id": 181,
-        "value": "person_event__181"
+        "value": "person_event__181",
+        "order": "181.00000000000000000000"
       },
       {
         "id": 216,
-        "value": "person_event__216"
+        "value": "person_event__216",
+        "order": "216.00000000000000000000"
       },
       {
         "id": 217,
-        "value": "person_event__217"
+        "value": "person_event__217",
+        "order": "217.00000000000000000000"
       },
       {
         "id": 218,
-        "value": "person_event__218"
+        "value": "person_event__218",
+        "order": "218.00000000000000000000"
       },
       {
         "id": 232,
-        "value": "person_event__232"
+        "value": "person_event__232",
+        "order": "232.00000000000000000000"
       },
       {
         "id": 235,
-        "value": "person_event__235"
+        "value": "person_event__235",
+        "order": "235.00000000000000000000"
       },
       {
         "id": 243,
-        "value": "person_event__243"
+        "value": "person_event__243",
+        "order": "243.00000000000000000000"
       },
       {
         "id": 244,
-        "value": "person_event__244"
+        "value": "person_event__244",
+        "order": "244.00000000000000000000"
       },
       {
         "id": 246,
-        "value": "person_event__246"
+        "value": "person_event__246",
+        "order": "246.00000000000000000000"
       },
       {
         "id": 247,
-        "value": "person_event__247"
+        "value": "person_event__247",
+        "order": "247.00000000000000000000"
       },
       {
         "id": 248,
-        "value": "person_event__248"
+        "value": "person_event__248",
+        "order": "248.00000000000000000000"
       },
       {
         "id": 250,
-        "value": "person_event__250"
+        "value": "person_event__250",
+        "order": "250.00000000000000000000"
       },
       {
         "id": 251,
-        "value": "person_event__251"
+        "value": "person_event__251",
+        "order": "251.00000000000000000000"
       },
       {
         "id": 254,
-        "value": "person_event__254"
+        "value": "person_event__254",
+        "order": "254.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -3675,7 +4448,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "has_organizer",
@@ -3686,61 +4460,75 @@
     "person_event": [
       {
         "id": 267,
-        "value": "person_event__267"
+        "value": "person_event__267",
+        "order": "267.00000000000000000000"
       }
     ],
     "org_event": [
       {
         "id": 1,
-        "value": "org_event__1"
+        "value": "org_event__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "org_event__4"
+        "value": "org_event__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "org_event__7"
+        "value": "org_event__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "org_event__8"
+        "value": "org_event__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "org_event__10"
+        "value": "org_event__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "org_event__11"
+        "value": "org_event__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "org_event__12"
+        "value": "org_event__12",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "org_event__13"
+        "value": "org_event__13",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "org_event__14"
+        "value": "org_event__14",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "org_event__15"
+        "value": "org_event__15",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "org_event__19"
+        "value": "org_event__19",
+        "order": "19.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "org_event__20"
+        "value": "org_event__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "org_event__21"
+        "value": "org_event__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "has_label": "is organizer of",
@@ -3760,43 +4548,53 @@
     "person_place": [
       {
         "id": 23,
-        "value": "relationship_place_id__23"
+        "value": "relationship_place_id__23",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "relationship_place_id__24"
+        "value": "relationship_place_id__24",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "relationship_place_id__25"
+        "value": "relationship_place_id__25",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "relationship_place_id__26"
+        "value": "relationship_place_id__26",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "relationship_place_id__27"
+        "value": "relationship_place_id__27",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "relationship_place_id__28"
+        "value": "relationship_place_id__28",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "relationship_place_id__29"
+        "value": "relationship_place_id__29",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "relationship_place_id__30"
+        "value": "relationship_place_id__30",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "relationship_place_id__31"
+        "value": "relationship_place_id__31",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "relationship_place_id__32"
+        "value": "relationship_place_id__32",
+        "order": "32.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -3806,11 +4604,13 @@
     "person_org": [
       {
         "id": 2,
-        "value": "person_org__2"
+        "value": "person_org__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "person_org__8"
+        "value": "person_org__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "person_person": []
@@ -3822,7 +4622,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_employer_of",
@@ -3837,69 +4638,85 @@
     "person_org": [
       {
         "id": 1,
-        "value": "person_org__1"
+        "value": "person_org__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "person_org__6"
+        "value": "person_org__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "person_org__9"
+        "value": "person_org__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "person_org__10"
+        "value": "person_org__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "person_org__11"
+        "value": "person_org__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "person_org__12"
+        "value": "person_org__12",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "person_org__14"
+        "value": "person_org__14",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "person_org__15"
+        "value": "person_org__15",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "person_org__16"
+        "value": "person_org__16",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "person_org__20"
+        "value": "person_org__20",
+        "order": "20.00000000000000000000"
       }
     ],
     "person_person": [
       {
         "id": 15,
-        "value": "relationship_person_id__15"
+        "value": "relationship_person_id__15",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 156,
-        "value": "relationship_person_id__156"
+        "value": "relationship_person_id__156",
+        "order": "156.00000000000000000000"
       },
       {
         "id": 157,
-        "value": "relationship_person_id__157"
+        "value": "relationship_person_id__157",
+        "order": "157.00000000000000000000"
       },
       {
         "id": 158,
-        "value": "relationship_person_id__158"
+        "value": "relationship_person_id__158",
+        "order": "158.00000000000000000000"
       },
       {
         "id": 159,
-        "value": "relationship_person_id__159"
+        "value": "relationship_person_id__159",
+        "order": "159.00000000000000000000"
       },
       {
         "id": 162,
-        "value": "relationship_person_id__162"
+        "value": "relationship_person_id__162",
+        "order": "162.00000000000000000000"
       }
     ]
   },
@@ -3910,7 +4727,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_client_of",
@@ -3925,65 +4743,80 @@
     "person_org": [
       {
         "id": 3,
-        "value": "person_org__3"
+        "value": "person_org__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "person_org__4"
+        "value": "person_org__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "person_org__5"
+        "value": "person_org__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "person_org__7"
+        "value": "person_org__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "person_org__13"
+        "value": "person_org__13",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "person_org__17"
+        "value": "person_org__17",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "person_org__18"
+        "value": "person_org__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "person_org__22"
+        "value": "person_org__22",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "person_org__23"
+        "value": "person_org__23",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "person_org__24"
+        "value": "person_org__24",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "person_org__25"
+        "value": "person_org__25",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "person_org__26"
+        "value": "person_org__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "person_person": [
       {
         "id": 89,
-        "value": "relationship_person_id__89"
+        "value": "relationship_person_id__89",
+        "order": "89.00000000000000000000"
       },
       {
         "id": 160,
-        "value": "relationship_person_id__160"
+        "value": "relationship_person_id__160",
+        "order": "160.00000000000000000000"
       },
       {
         "id": 167,
-        "value": "relationship_person_id__167"
+        "value": "relationship_person_id__167",
+        "order": "167.00000000000000000000"
       }
     ]
   },
@@ -3994,7 +4827,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "gives_award_to",
@@ -4009,7 +4843,8 @@
     "person_org": [
       {
         "id": 19,
-        "value": "person_org__19"
+        "value": "person_org__19",
+        "order": "19.00000000000000000000"
       }
     ],
     "person_person": []
@@ -4021,7 +4856,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "receives_award_from",
@@ -4043,7 +4879,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "has_member",
@@ -4058,7 +4895,8 @@
     "person_org": [
       {
         "id": 21,
-        "value": "person_org__21"
+        "value": "person_org__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "person_person": []
@@ -4070,7 +4908,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "interviews",
@@ -4086,11 +4925,13 @@
     "person_person": [
       {
         "id": 218,
-        "value": "relationship_person_id__218"
+        "value": "relationship_person_id__218",
+        "order": "219.00000000000000000000"
       },
       {
         "id": 221,
-        "value": "relationship_person_id__221"
+        "value": "relationship_person_id__221",
+        "order": "222.00000000000000000000"
       }
     ]
   },
@@ -4101,7 +4942,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_interviewed_by",
@@ -4117,11 +4959,13 @@
     "person_person": [
       {
         "id": 220,
-        "value": "relationship_person_id__220"
+        "value": "relationship_person_id__220",
+        "order": "221.00000000000000000000"
       },
       {
         "id": 222,
-        "value": "relationship_person_id__222"
+        "value": "relationship_person_id__222",
+        "order": "223.00000000000000000000"
       }
     ]
   },
@@ -4132,7 +4976,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "is_portrayed_by",
@@ -4148,15 +4993,18 @@
     "person_person": [
       {
         "id": 228,
-        "value": "relationship_person_id__228"
+        "value": "relationship_person_id__228",
+        "order": "229.00000000000000000000"
       },
       {
         "id": 230,
-        "value": "relationship_person_id__230"
+        "value": "relationship_person_id__230",
+        "order": "231.00000000000000000000"
       },
       {
         "id": 232,
-        "value": "relationship_person_id__232"
+        "value": "relationship_person_id__232",
+        "order": "233.00000000000000000000"
       }
     ]
   },
@@ -4167,7 +5015,8 @@
     "has_broader": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ],
     "inverse": "portrays",
@@ -4183,15 +5032,18 @@
     "person_person": [
       {
         "id": 227,
-        "value": "relationship_person_id__227"
+        "value": "relationship_person_id__227",
+        "order": "228.00000000000000000000"
       },
       {
         "id": 229,
-        "value": "relationship_person_id__229"
+        "value": "relationship_person_id__229",
+        "order": "230.00000000000000000000"
       },
       {
         "id": 231,
-        "value": "relationship_person_id__231"
+        "value": "relationship_person_id__231",
+        "order": "232.00000000000000000000"
       }
     ]
   }

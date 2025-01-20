@@ -2592,6 +2592,9 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118551655</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q352</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/11715</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_210">Mein Kampf</bibl>
+                  </listBibl>
                </person>
                <person xml:id="amp_person_131">
                   <persName>
@@ -4383,6 +4386,12 @@ for any purpose, even commercially.</p>
                         <placeName>Vienna</placeName>
                      </settlement>
                   </birth>
+                  <death>
+                     <date when-iso="2025-01-09">2025-01-09</date>
+                     <settlement key="amp_place_id_360">
+                        <placeName>Oberhofen am Irrsee</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/119276690</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88247</idno>
                </person>

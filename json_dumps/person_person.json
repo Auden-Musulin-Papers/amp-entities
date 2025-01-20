@@ -6,13 +6,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -20,7 +22,8 @@
     "relation_type_object": [
       {
         "id": 18,
-        "value": "is_partner_of"
+        "value": "is_partner_of",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -31,13 +34,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -45,7 +50,8 @@
     "relation_type_object": [
       {
         "id": 10,
-        "value": "is_lover_of"
+        "value": "is_lover_of",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -56,13 +62,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -70,7 +78,8 @@
     "relation_type_object": [
       {
         "id": 18,
-        "value": "is_partner_of"
+        "value": "is_partner_of",
+        "order": "18.00000000000000000000"
       }
     ]
   },
@@ -81,13 +90,15 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -95,7 +106,8 @@
     "relation_type_object": [
       {
         "id": 10,
-        "value": "is_lover_of"
+        "value": "is_lover_of",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -106,13 +118,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -120,7 +134,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -131,13 +146,15 @@
     "source": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -145,7 +162,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -156,13 +174,15 @@
     "source": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 95,
-        "value": "Clark, John"
+        "value": "Clark, John",
+        "order": "95.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -170,7 +190,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -181,13 +202,15 @@
     "source": [
       {
         "id": 95,
-        "value": "Clark, John"
+        "value": "Clark, John",
+        "order": "95.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -195,7 +218,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -206,13 +230,15 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -220,7 +246,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -231,13 +258,15 @@
     "source": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -245,7 +274,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -256,13 +286,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -270,7 +302,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -281,13 +314,15 @@
     "source": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -295,7 +330,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -306,13 +342,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -320,7 +358,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -331,13 +370,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 191,
-        "value": "Spender, Natasha"
+        "value": "Spender, Natasha",
+        "order": "190.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -345,7 +386,8 @@
     "relation_type_object": [
       {
         "id": 19,
-        "value": "is_guest_of"
+        "value": "is_guest_of",
+        "order": "19.00000000000000000000"
       }
     ]
   },
@@ -356,13 +398,15 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -370,7 +414,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -381,13 +426,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Heyworth, Peter"
+        "value": "Heyworth, Peter",
+        "order": "19.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -395,7 +442,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -406,13 +454,15 @@
     "source": [
       {
         "id": 23,
-        "value": "Boras, Ioannis"
+        "value": "Boras, Ioannis",
+        "order": "23.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -420,7 +470,8 @@
     "relation_type_object": [
       {
         "id": 10,
-        "value": "is_lover_of"
+        "value": "is_lover_of",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -431,13 +482,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Boras, Ioannis"
+        "value": "Boras, Ioannis",
+        "order": "23.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -445,7 +498,8 @@
     "relation_type_object": [
       {
         "id": 10,
-        "value": "is_lover_of"
+        "value": "is_lover_of",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -456,13 +510,15 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -470,7 +526,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -481,13 +538,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -495,7 +554,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -506,13 +566,15 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Hofmannsthal, Hugo von"
+        "value": "Hofmannsthal, Hugo von",
+        "order": "42.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -520,7 +582,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -531,13 +594,15 @@
     "source": [
       {
         "id": 42,
-        "value": "Hofmannsthal, Hugo von"
+        "value": "Hofmannsthal, Hugo von",
+        "order": "42.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -545,7 +610,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -556,13 +622,15 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 43,
-        "value": "Hofmannsthal, Gertrude von"
+        "value": "Hofmannsthal, Gertrude von",
+        "order": "43.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -570,7 +638,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -581,13 +650,15 @@
     "source": [
       {
         "id": 43,
-        "value": "Hofmannsthal, Gertrude von"
+        "value": "Hofmannsthal, Gertrude von",
+        "order": "43.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -595,7 +666,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -606,13 +678,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -620,7 +694,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -631,13 +706,15 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -645,7 +722,8 @@
     "relation_type_object": [
       {
         "id": 7,
-        "value": "is_sister_of"
+        "value": "is_sister_of",
+        "order": "7.00000000000000000000"
       }
     ]
   },
@@ -656,13 +734,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Hofmannsthal, Hugo von"
+        "value": "Hofmannsthal, Hugo von",
+        "order": "42.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -670,7 +750,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -681,13 +762,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 43,
-        "value": "Hofmannsthal, Gertrude von"
+        "value": "Hofmannsthal, Gertrude von",
+        "order": "43.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -695,7 +778,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -706,13 +790,15 @@
     "source": [
       {
         "id": 43,
-        "value": "Hofmannsthal, Gertrude von"
+        "value": "Hofmannsthal, Gertrude von",
+        "order": "43.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -720,7 +806,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -731,13 +818,15 @@
     "source": [
       {
         "id": 42,
-        "value": "Hofmannsthal, Hugo von"
+        "value": "Hofmannsthal, Hugo von",
+        "order": "42.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -745,7 +834,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -756,13 +846,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -770,7 +862,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -781,13 +874,15 @@
     "source": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -795,7 +890,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -806,13 +902,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -820,7 +918,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -831,13 +930,15 @@
     "source": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -845,7 +946,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -856,13 +958,15 @@
     "source": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -870,7 +974,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -881,13 +986,15 @@
     "source": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -895,7 +1002,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -906,13 +1014,15 @@
     "source": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -920,7 +1030,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -931,13 +1042,15 @@
     "source": [
       {
         "id": 44,
-        "value": "Hofmannsthal, Raimund von"
+        "value": "Hofmannsthal, Raimund von",
+        "order": "44.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -945,7 +1058,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -956,13 +1070,15 @@
     "source": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -970,7 +1086,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -981,13 +1098,15 @@
     "source": [
       {
         "id": 47,
-        "value": "Hofmannsthal, Octavian Charles Hugo von"
+        "value": "Hofmannsthal, Octavian Charles Hugo von",
+        "order": "47.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -995,7 +1114,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -1006,13 +1126,15 @@
     "source": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1020,7 +1142,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1031,13 +1154,15 @@
     "source": [
       {
         "id": 45,
-        "value": "Hofmannsthal, Elizabeth von"
+        "value": "Hofmannsthal, Elizabeth von",
+        "order": "45.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 46,
-        "value": "Hofmannsthal, Sarah Arabella Marjorie von"
+        "value": "Hofmannsthal, Sarah Arabella Marjorie von",
+        "order": "46.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1045,7 +1170,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1056,13 +1182,15 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1070,7 +1198,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -1081,13 +1210,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1095,7 +1226,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -1106,13 +1238,15 @@
     "source": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1120,7 +1254,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -1131,13 +1266,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1145,7 +1282,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -1156,13 +1294,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1170,7 +1310,8 @@
     "relation_type_object": [
       {
         "id": 5,
-        "value": "is_childinlaw_of"
+        "value": "is_childinlaw_of",
+        "order": "5.00000000000000000000"
       }
     ]
   },
@@ -1181,13 +1322,15 @@
     "source": [
       {
         "id": 19,
-        "value": "Heyworth, Peter"
+        "value": "Heyworth, Peter",
+        "order": "19.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1195,7 +1338,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -1206,13 +1350,15 @@
     "source": [
       {
         "id": 141,
-        "value": "Lanier, Sonja Maria"
+        "value": "Lanier, Sonja Maria",
+        "order": "140.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 142,
-        "value": "Lanier, Amelie"
+        "value": "Lanier, Amelie",
+        "order": "141.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1220,7 +1366,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1231,13 +1378,15 @@
     "source": [
       {
         "id": 142,
-        "value": "Lanier, Amelie"
+        "value": "Lanier, Amelie",
+        "order": "141.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 141,
-        "value": "Lanier, Sonja Maria"
+        "value": "Lanier, Sonja Maria",
+        "order": "140.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1245,7 +1394,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1256,13 +1406,15 @@
     "source": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 140,
-        "value": "Anne, Princess Royal"
+        "value": "Anne, Princess Royal",
+        "order": "139.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1270,7 +1422,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1281,13 +1434,15 @@
     "source": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 139,
-        "value": "Elizabeth, The Queen Mother"
+        "value": "Elizabeth, The Queen Mother",
+        "order": "138.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1295,7 +1450,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1306,13 +1462,15 @@
     "source": [
       {
         "id": 139,
-        "value": "Elizabeth, The Queen Mother"
+        "value": "Elizabeth, The Queen Mother",
+        "order": "138.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1320,7 +1478,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1331,13 +1490,15 @@
     "source": [
       {
         "id": 140,
-        "value": "Anne, Princess Royal"
+        "value": "Anne, Princess Royal",
+        "order": "139.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1345,7 +1506,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1356,13 +1518,15 @@
     "source": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1370,7 +1534,8 @@
     "relation_type_object": [
       {
         "id": 4,
-        "value": "is_mother-in-law_of"
+        "value": "is_mother-in-law_of",
+        "order": "4.00000000000000000000"
       }
     ]
   },
@@ -1381,13 +1546,15 @@
     "source": [
       {
         "id": 141,
-        "value": "Lanier, Sonja Maria"
+        "value": "Lanier, Sonja Maria",
+        "order": "140.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 146,
-        "value": "Etthofen, Brigitta von"
+        "value": "Etthofen, Brigitta von",
+        "order": "145.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1395,7 +1562,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1406,13 +1574,15 @@
     "source": [
       {
         "id": 146,
-        "value": "Etthofen, Brigitta von"
+        "value": "Etthofen, Brigitta von",
+        "order": "145.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 141,
-        "value": "Lanier, Sonja Maria"
+        "value": "Lanier, Sonja Maria",
+        "order": "140.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1420,7 +1590,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1431,13 +1602,15 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1445,7 +1618,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1456,13 +1630,15 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1470,7 +1646,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1481,13 +1658,15 @@
     "source": [
       {
         "id": 160,
-        "value": "Kallman, Edward"
+        "value": "Kallman, Edward",
+        "order": "159.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1495,7 +1674,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1506,13 +1686,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 160,
-        "value": "Kallman, Edward"
+        "value": "Kallman, Edward",
+        "order": "159.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1520,7 +1702,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1531,13 +1714,15 @@
     "source": [
       {
         "id": 160,
-        "value": "Kallman, Edward"
+        "value": "Kallman, Edward",
+        "order": "159.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 150,
-        "value": "Farnan, Dorothy J."
+        "value": "Farnan, Dorothy J.",
+        "order": "149.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1545,7 +1730,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1556,13 +1742,15 @@
     "source": [
       {
         "id": 150,
-        "value": "Farnan, Dorothy J."
+        "value": "Farnan, Dorothy J.",
+        "order": "149.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 160,
-        "value": "Kallman, Edward"
+        "value": "Kallman, Edward",
+        "order": "159.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1570,7 +1758,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1581,13 +1770,15 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1595,7 +1786,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1606,13 +1798,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1620,7 +1814,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1631,13 +1826,15 @@
     "source": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1645,7 +1842,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1656,13 +1854,15 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1670,7 +1870,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1681,13 +1882,15 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1695,7 +1898,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1706,13 +1910,15 @@
     "source": [
       {
         "id": 91,
-        "value": "Toynbee, Philip"
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 168,
-        "value": "Toynbee, Frances Genevieve Sally"
+        "value": "Toynbee, Frances Genevieve Sally",
+        "order": "167.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1720,7 +1926,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1731,13 +1938,15 @@
     "source": [
       {
         "id": 168,
-        "value": "Toynbee, Frances Genevieve Sally"
+        "value": "Toynbee, Frances Genevieve Sally",
+        "order": "167.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 91,
-        "value": "Toynbee, Philip"
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1745,7 +1954,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1756,13 +1966,15 @@
     "source": [
       {
         "id": 169,
-        "value": "Clark, Lisa"
+        "value": "Clark, Lisa",
+        "order": "168.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1770,7 +1982,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -1781,13 +1994,15 @@
     "source": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 169,
-        "value": "Clark, Lisa"
+        "value": "Clark, Lisa",
+        "order": "168.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1795,7 +2010,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -1806,13 +2022,15 @@
     "source": [
       {
         "id": 155,
-        "value": "Langer, N/A_4"
+        "value": "Langer, N/A_4",
+        "order": "154.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 171,
-        "value": "Langer, N/A_5"
+        "value": "Langer, N/A_5",
+        "order": "170.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1820,7 +2038,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1831,13 +2050,15 @@
     "source": [
       {
         "id": 171,
-        "value": "Langer, N/A_5"
+        "value": "Langer, N/A_5",
+        "order": "170.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 155,
-        "value": "Langer, N/A_4"
+        "value": "Langer, N/A_4",
+        "order": "154.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1845,7 +2066,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1856,13 +2078,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Hoffmann, Otto"
+        "value": "Hoffmann, Otto",
+        "order": "21.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1870,7 +2094,8 @@
     "relation_type_object": [
       {
         "id": 24,
-        "value": "is_client_of"
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -1881,13 +2106,15 @@
     "source": [
       {
         "id": 21,
-        "value": "Hoffmann, Otto"
+        "value": "Hoffmann, Otto",
+        "order": "21.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1895,7 +2122,8 @@
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ]
   },
@@ -1906,13 +2134,15 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1920,7 +2150,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1931,13 +2162,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 91,
-        "value": "Toynbee, Philip"
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1945,7 +2178,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -1956,13 +2190,15 @@
     "source": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1970,7 +2206,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -1981,13 +2218,15 @@
     "source": [
       {
         "id": 183,
-        "value": "Auden, George Augustus"
+        "value": "Auden, George Augustus",
+        "order": "182.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -1995,7 +2234,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -2006,13 +2246,15 @@
     "source": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 183,
-        "value": "Auden, George Augustus"
+        "value": "Auden, George Augustus",
+        "order": "182.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2020,7 +2262,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -2031,13 +2274,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 183,
-        "value": "Auden, George Augustus"
+        "value": "Auden, George Augustus",
+        "order": "182.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2045,7 +2290,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2056,13 +2302,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2070,7 +2318,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2081,13 +2330,15 @@
     "source": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2095,7 +2346,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -2106,13 +2358,15 @@
     "source": [
       {
         "id": 183,
-        "value": "Auden, George Augustus"
+        "value": "Auden, George Augustus",
+        "order": "182.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2120,7 +2374,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -2131,13 +2386,15 @@
     "source": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2145,7 +2402,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2156,13 +2414,15 @@
     "source": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 183,
-        "value": "Auden, George Augustus"
+        "value": "Auden, George Augustus",
+        "order": "182.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2170,7 +2430,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2181,13 +2442,15 @@
     "source": [
       {
         "id": 184,
-        "value": "Auden, Constance Rosalie"
+        "value": "Auden, Constance Rosalie",
+        "order": "183.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2195,7 +2458,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -2206,13 +2470,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 225,
-        "value": "Lloyd-Philipps, Margaret Elinor"
+        "value": "Lloyd-Philipps, Margaret Elinor",
+        "order": "223.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2220,7 +2486,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -2231,13 +2498,15 @@
     "source": [
       {
         "id": 225,
-        "value": "Lloyd-Philipps, Margaret Elinor"
+        "value": "Lloyd-Philipps, Margaret Elinor",
+        "order": "223.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2245,7 +2514,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -2256,13 +2526,15 @@
     "source": [
       {
         "id": 191,
-        "value": "Spender, Natasha"
+        "value": "Spender, Natasha",
+        "order": "190.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2270,7 +2542,8 @@
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -2281,13 +2554,15 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 191,
-        "value": "Spender, Natasha"
+        "value": "Spender, Natasha",
+        "order": "190.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2295,7 +2570,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -2306,13 +2582,15 @@
     "source": [
       {
         "id": 191,
-        "value": "Spender, Natasha"
+        "value": "Spender, Natasha",
+        "order": "190.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2320,7 +2598,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -2331,13 +2610,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2345,7 +2626,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -2356,13 +2638,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2370,7 +2654,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -2381,13 +2666,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2395,7 +2682,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -2406,13 +2694,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 14,
-        "value": "Redlich, Walter"
+        "value": "Redlich, Walter",
+        "order": "14.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2420,7 +2710,8 @@
     "relation_type_object": [
       {
         "id": 24,
-        "value": "is_client_of"
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -2431,13 +2722,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Hoffmann, Otto"
+        "value": "Hoffmann, Otto",
+        "order": "21.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2445,7 +2738,8 @@
     "relation_type_object": [
       {
         "id": 24,
-        "value": "is_client_of"
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -2456,13 +2750,15 @@
     "source": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2470,7 +2766,8 @@
     "relation_type_object": [
       {
         "id": 25,
-        "value": "is_professionalacquaintance_of"
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -2481,13 +2778,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2495,7 +2794,8 @@
     "relation_type_object": [
       {
         "id": 25,
-        "value": "is_professionalacquaintance_of"
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -2506,13 +2806,15 @@
     "source": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2520,7 +2822,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2531,13 +2834,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2545,7 +2850,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2556,13 +2862,15 @@
     "source": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2570,7 +2878,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2581,13 +2890,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2595,7 +2906,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2606,13 +2918,15 @@
     "source": [
       {
         "id": 79,
-        "value": "Henze, Hans Werner"
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2620,7 +2934,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2631,13 +2946,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 79,
-        "value": "Henze, Hans Werner"
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2645,7 +2962,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2656,13 +2974,15 @@
     "source": [
       {
         "id": 79,
-        "value": "Henze, Hans Werner"
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2670,7 +2990,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2681,13 +3002,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 79,
-        "value": "Henze, Hans Werner"
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2695,7 +3018,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2706,13 +3030,15 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2720,7 +3046,8 @@
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -2731,13 +3058,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2745,7 +3074,8 @@
     "relation_type_object": [
       {
         "id": 19,
-        "value": "is_guest_of"
+        "value": "is_guest_of",
+        "order": "19.00000000000000000000"
       }
     ]
   },
@@ -2756,13 +3086,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2770,7 +3102,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -2781,13 +3114,15 @@
     "source": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2795,7 +3130,8 @@
     "relation_type_object": [
       {
         "id": 26,
-        "value": "is_acquaintance_of"
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -2806,13 +3142,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2820,7 +3158,8 @@
     "relation_type_object": [
       {
         "id": 26,
-        "value": "is_acquaintance_of"
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -2831,13 +3170,15 @@
     "source": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2845,7 +3186,8 @@
     "relation_type_object": [
       {
         "id": 26,
-        "value": "is_acquaintance_of"
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -2856,13 +3198,15 @@
     "source": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2870,7 +3214,8 @@
     "relation_type_object": [
       {
         "id": 25,
-        "value": "is_professionalacquaintance_of"
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -2881,13 +3226,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2895,7 +3242,8 @@
     "relation_type_object": [
       {
         "id": 26,
-        "value": "is_acquaintance_of"
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -2906,13 +3254,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2920,7 +3270,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -2931,13 +3282,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 151,
-        "value": "Silbermann, Edith"
+        "value": "Silbermann, Edith",
+        "order": "150.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2945,7 +3298,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -2956,13 +3310,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2970,7 +3326,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -2981,13 +3338,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Heyworth, Peter"
+        "value": "Heyworth, Peter",
+        "order": "19.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -2995,7 +3354,8 @@
     "relation_type_object": [
       {
         "id": 19,
-        "value": "is_guest_of"
+        "value": "is_guest_of",
+        "order": "19.00000000000000000000"
       }
     ]
   },
@@ -3006,13 +3366,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3020,7 +3382,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3031,13 +3394,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3045,7 +3410,8 @@
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -3056,13 +3422,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3070,7 +3438,8 @@
     "relation_type_object": [
       {
         "id": 19,
-        "value": "is_guest_of"
+        "value": "is_guest_of",
+        "order": "19.00000000000000000000"
       }
     ]
   },
@@ -3081,13 +3450,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3095,7 +3466,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3106,13 +3478,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3120,7 +3494,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3131,13 +3506,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3145,7 +3522,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3156,13 +3534,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3170,7 +3550,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3181,13 +3562,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3195,7 +3578,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3206,13 +3590,15 @@
     "source": [
       {
         "id": 59,
-        "value": "Fritsch, Gerhard"
+        "value": "Fritsch, Gerhard",
+        "order": "59.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3220,7 +3606,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3231,13 +3618,15 @@
     "source": [
       {
         "id": 59,
-        "value": "Fritsch, Gerhard"
+        "value": "Fritsch, Gerhard",
+        "order": "59.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3245,7 +3634,8 @@
     "relation_type_object": [
       {
         "id": 26,
-        "value": "is_acquaintance_of"
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
       }
     ]
   },
@@ -3256,13 +3646,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3270,7 +3662,8 @@
     "relation_type_object": [
       {
         "id": 25,
-        "value": "is_professionalacquaintance_of"
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
       }
     ]
   },
@@ -3281,13 +3674,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3295,7 +3690,8 @@
     "relation_type_object": [
       {
         "id": 20,
-        "value": "is_host_of"
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
       }
     ]
   },
@@ -3306,13 +3702,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 121,
-        "value": "Esders, Christa"
+        "value": "Esders, Christa",
+        "order": "120.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3320,7 +3718,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3331,13 +3730,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3345,7 +3746,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -3356,13 +3758,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3370,7 +3774,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -3381,13 +3786,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3395,7 +3802,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -3406,13 +3814,15 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3420,7 +3830,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -3431,13 +3842,15 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3445,7 +3858,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -3456,13 +3870,15 @@
     "source": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3470,7 +3886,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -3481,13 +3898,15 @@
     "source": [
       {
         "id": 17,
-        "value": "Eiermann, Josef"
+        "value": "Eiermann, Josef",
+        "order": "17.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3495,7 +3914,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -3506,13 +3926,15 @@
     "source": [
       {
         "id": 14,
-        "value": "Redlich, Walter"
+        "value": "Redlich, Walter",
+        "order": "14.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3520,7 +3942,8 @@
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ]
   },
@@ -3531,13 +3954,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3545,7 +3970,8 @@
     "relation_type_object": [
       {
         "id": 23,
-        "value": "is_employer_of"
+        "value": "is_employer_of",
+        "order": "23.00000000000000000000"
       }
     ]
   },
@@ -3556,13 +3982,15 @@
     "source": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3570,7 +3998,8 @@
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ]
   },
@@ -3581,13 +4010,15 @@
     "source": [
       {
         "id": 19,
-        "value": "Heyworth, Peter"
+        "value": "Heyworth, Peter",
+        "order": "19.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3595,7 +4026,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3606,13 +4038,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "Enzinger, Josef"
+        "value": "Enzinger, Josef",
+        "order": "22.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3620,7 +4054,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -3631,13 +4066,15 @@
     "source": [
       {
         "id": 22,
-        "value": "Enzinger, Josef"
+        "value": "Enzinger, Josef",
+        "order": "22.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3645,7 +4082,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -3656,13 +4094,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 235,
-        "value": "Mikesch, Erich"
+        "value": "Mikesch, Erich",
+        "order": "233.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3670,7 +4110,8 @@
     "relation_type_object": [
       {
         "id": 24,
-        "value": "is_client_of"
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
       }
     ]
   },
@@ -3681,13 +4122,15 @@
     "source": [
       {
         "id": 235,
-        "value": "Mikesch, Erich"
+        "value": "Mikesch, Erich",
+        "order": "233.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3695,7 +4138,8 @@
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ]
   },
@@ -3706,13 +4150,15 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3720,7 +4166,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3731,13 +4178,15 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3745,7 +4194,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3756,13 +4206,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3770,7 +4222,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3781,13 +4234,15 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3795,7 +4250,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3806,13 +4262,15 @@
     "source": [
       {
         "id": 151,
-        "value": "Silbermann, Edith"
+        "value": "Silbermann, Edith",
+        "order": "150.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3820,7 +4278,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3831,13 +4290,15 @@
     "source": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3845,7 +4306,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -3856,13 +4318,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 238,
-        "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd"
+        "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd",
+        "order": "236.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3870,7 +4334,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -3881,13 +4346,15 @@
     "source": [
       {
         "id": 25,
-        "value": "Stravinsky, Igor"
+        "value": "Stravinsky, Igor",
+        "order": "25.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3895,7 +4362,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -3906,13 +4374,15 @@
     "source": [
       {
         "id": 238,
-        "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd"
+        "value": "Lloyd-Philipps, Rhodri Vaughan Lloyd",
+        "order": "236.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3920,7 +4390,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -3931,13 +4402,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 136,
-        "value": "Britten, Benjamin"
+        "value": "Britten, Benjamin",
+        "order": "135.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3945,7 +4418,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3956,13 +4430,15 @@
     "source": [
       {
         "id": 136,
-        "value": "Britten, Benjamin"
+        "value": "Britten, Benjamin",
+        "order": "135.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3970,7 +4446,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -3981,13 +4458,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 211,
-        "value": "Cavalcanti, Alberto"
+        "value": "Cavalcanti, Alberto",
+        "order": "210.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -3995,7 +4474,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4006,13 +4486,15 @@
     "source": [
       {
         "id": 211,
-        "value": "Cavalcanti, Alberto"
+        "value": "Cavalcanti, Alberto",
+        "order": "210.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4020,7 +4502,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4031,13 +4514,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 209,
-        "value": "Watt, Harry"
+        "value": "Watt, Harry",
+        "order": "208.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4045,7 +4530,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4056,13 +4542,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 210,
-        "value": "Wright, Basil Charles"
+        "value": "Wright, Basil Charles",
+        "order": "209.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4070,7 +4558,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4081,13 +4570,15 @@
     "source": [
       {
         "id": 209,
-        "value": "Watt, Harry"
+        "value": "Watt, Harry",
+        "order": "208.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4095,7 +4586,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4106,13 +4598,15 @@
     "source": [
       {
         "id": 210,
-        "value": "Wright, Basil Charles"
+        "value": "Wright, Basil Charles",
+        "order": "209.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4120,7 +4614,8 @@
     "relation_type_object": [
       {
         "id": 14,
-        "value": "is_collaborator_of"
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
       }
     ]
   },
@@ -4131,13 +4626,15 @@
     "source": [
       {
         "id": 121,
-        "value": "Esders, Christa"
+        "value": "Esders, Christa",
+        "order": "120.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4145,7 +4642,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4156,13 +4654,15 @@
     "source": [
       {
         "id": 242,
-        "value": "Kettemann, Ilse"
+        "value": "Kettemann, Ilse",
+        "order": "240.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4170,7 +4670,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4181,13 +4682,15 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 242,
-        "value": "Kettemann, Ilse"
+        "value": "Kettemann, Ilse",
+        "order": "240.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4195,7 +4698,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4206,13 +4710,15 @@
     "source": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4220,7 +4726,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -4241,13 +4748,15 @@
     "source": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4255,7 +4764,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -4266,13 +4776,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4280,7 +4792,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4291,13 +4804,15 @@
     "source": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4305,7 +4820,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4316,13 +4832,15 @@
     "source": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4330,7 +4848,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4341,13 +4860,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4355,7 +4876,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4366,13 +4888,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 71,
-        "value": "MacNeice, Louis"
+        "value": "MacNeice, Louis",
+        "order": "71.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4380,7 +4904,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4391,13 +4916,15 @@
     "source": [
       {
         "id": 71,
-        "value": "MacNeice, Louis"
+        "value": "MacNeice, Louis",
+        "order": "71.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4405,7 +4932,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4416,13 +4944,15 @@
     "source": [
       {
         "id": 91,
-        "value": "Toynbee, Philip"
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4430,7 +4960,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4441,13 +4972,15 @@
     "source": [
       {
         "id": 73,
-        "value": "Bondy, François"
+        "value": "Bondy, François",
+        "order": "73.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4455,7 +4988,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4466,13 +5000,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 73,
-        "value": "Bondy, François"
+        "value": "Bondy, François",
+        "order": "73.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4480,7 +5016,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4491,13 +5028,15 @@
     "source": [
       {
         "id": 72,
-        "value": "McCarthy, Mary"
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4505,7 +5044,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4516,13 +5056,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 72,
-        "value": "McCarthy, Mary"
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4530,7 +5072,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4541,13 +5084,15 @@
     "source": [
       {
         "id": 74,
-        "value": "Etkind, Efim"
+        "value": "Etkind, Efim",
+        "order": "74.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4555,7 +5100,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4566,13 +5112,15 @@
     "source": [
       {
         "id": 87,
-        "value": "Opel, Adolf"
+        "value": "Opel, Adolf",
+        "order": "87.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4580,7 +5128,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4591,13 +5140,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Etkind, Efim"
+        "value": "Etkind, Efim",
+        "order": "74.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4605,7 +5156,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4616,13 +5168,15 @@
     "source": [
       {
         "id": 75,
-        "value": "Reich-Ranicki, Marcel"
+        "value": "Reich-Ranicki, Marcel",
+        "order": "75.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4630,7 +5184,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4641,13 +5196,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 75,
-        "value": "Reich-Ranicki, Marcel"
+        "value": "Reich-Ranicki, Marcel",
+        "order": "75.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4655,7 +5212,8 @@
     "relation_type_object": [
       {
         "id": 22,
-        "value": "is_coparticipant_of"
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
       }
     ]
   },
@@ -4666,13 +5224,15 @@
     "source": [
       {
         "id": 172,
-        "value": "Tacoli, Gherardo"
+        "value": "Tacoli, Gherardo",
+        "order": "171.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4680,7 +5240,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -4691,13 +5252,15 @@
     "source": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 172,
-        "value": "Tacoli, Gherardo"
+        "value": "Tacoli, Gherardo",
+        "order": "171.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4705,7 +5268,8 @@
     "relation_type_object": [
       {
         "id": 11,
-        "value": "is_spouse_of"
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
       }
     ]
   },
@@ -4716,13 +5280,15 @@
     "source": [
       {
         "id": 193,
-        "value": "Tacoli, Alexander"
+        "value": "Tacoli, Alexander",
+        "order": "192.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4730,7 +5296,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -4741,13 +5308,15 @@
     "source": [
       {
         "id": 193,
-        "value": "Tacoli, Alexander"
+        "value": "Tacoli, Alexander",
+        "order": "192.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 172,
-        "value": "Tacoli, Gherardo"
+        "value": "Tacoli, Gherardo",
+        "order": "171.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4755,7 +5324,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -4766,13 +5336,15 @@
     "source": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 193,
-        "value": "Tacoli, Alexander"
+        "value": "Tacoli, Alexander",
+        "order": "192.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4780,7 +5352,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -4791,13 +5364,15 @@
     "source": [
       {
         "id": 172,
-        "value": "Tacoli, Gherardo"
+        "value": "Tacoli, Gherardo",
+        "order": "171.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 193,
-        "value": "Tacoli, Alexander"
+        "value": "Tacoli, Alexander",
+        "order": "192.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4805,7 +5380,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -4816,13 +5392,15 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 87,
-        "value": "Opel, Adolf"
+        "value": "Opel, Adolf",
+        "order": "87.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4830,7 +5408,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4841,13 +5420,15 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4855,7 +5436,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4866,13 +5448,15 @@
     "source": [
       {
         "id": 89,
-        "value": "Luke, Frederic Davey [David]"
+        "value": "Luke, Frederic Davey [David]",
+        "order": "89.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4880,7 +5464,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4891,13 +5476,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 89,
-        "value": "Luke, Frederic Davey [David]"
+        "value": "Luke, Frederic Davey [David]",
+        "order": "89.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4905,7 +5492,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -4916,7 +5504,8 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [],
@@ -4931,13 +5520,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 146,
-        "value": "Etthofen, Brigitta von"
+        "value": "Etthofen, Brigitta von",
+        "order": "145.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4945,7 +5536,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -4956,13 +5548,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 249,
-        "value": "Schott, Webster"
+        "value": "Schott, Webster",
+        "order": "247.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4970,7 +5564,8 @@
     "relation_type_object": [
       {
         "id": 41,
-        "value": "is_interviewed_by"
+        "value": "is_interviewed_by",
+        "order": "40.00000000000000000000"
       }
     ]
   },
@@ -4981,13 +5576,15 @@
     "source": [
       {
         "id": 146,
-        "value": "Etthofen, Brigitta von"
+        "value": "Etthofen, Brigitta von",
+        "order": "145.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -4995,7 +5592,8 @@
     "relation_type_object": [
       {
         "id": 21,
-        "value": "is_professionallyrelated_to"
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
       }
     ]
   },
@@ -5006,13 +5604,15 @@
     "source": [
       {
         "id": 249,
-        "value": "Schott, Webster"
+        "value": "Schott, Webster",
+        "order": "247.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5020,7 +5620,8 @@
     "relation_type_object": [
       {
         "id": 42,
-        "value": "interviews"
+        "value": "interviews",
+        "order": "41.00000000000000000000"
       }
     ]
   },
@@ -5031,13 +5632,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 163,
-        "value": "Schmalz-Jacobsen, Cornelia"
+        "value": "Schmalz-Jacobsen, Cornelia",
+        "order": "162.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5045,7 +5648,8 @@
     "relation_type_object": [
       {
         "id": 41,
-        "value": "is_interviewed_by"
+        "value": "is_interviewed_by",
+        "order": "40.00000000000000000000"
       }
     ]
   },
@@ -5056,13 +5660,15 @@
     "source": [
       {
         "id": 163,
-        "value": "Schmalz-Jacobsen, Cornelia"
+        "value": "Schmalz-Jacobsen, Cornelia",
+        "order": "162.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5070,7 +5676,8 @@
     "relation_type_object": [
       {
         "id": 42,
-        "value": "interviews"
+        "value": "interviews",
+        "order": "41.00000000000000000000"
       }
     ]
   },
@@ -5081,13 +5688,15 @@
     "source": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5095,7 +5704,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -5106,13 +5716,15 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5120,7 +5732,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -5131,13 +5744,15 @@
     "source": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5145,7 +5760,8 @@
     "relation_type_object": [
       {
         "id": 3,
-        "value": "is_child_of"
+        "value": "is_child_of",
+        "order": "3.00000000000000000000"
       }
     ]
   },
@@ -5156,13 +5772,15 @@
     "source": [
       {
         "id": 93,
-        "value": "Musulin, Elsa Gerda Maria Louise Pauline von"
+        "value": "Musulin, Elsa Gerda Maria Louise Pauline von",
+        "order": "93.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 192,
-        "value": "Tacoli, Marga"
+        "value": "Tacoli, Marga",
+        "order": "191.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5170,7 +5788,8 @@
     "relation_type_object": [
       {
         "id": 1,
-        "value": "is_parent_of"
+        "value": "is_parent_of",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -5181,13 +5800,15 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 198,
-        "value": "Blaha, Rudolf"
+        "value": "Blaha, Rudolf",
+        "order": "197.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5195,7 +5816,8 @@
     "relation_type_object": [
       {
         "id": 44,
-        "value": "is_portrayed_by"
+        "value": "is_portrayed_by",
+        "order": "43.00000000000000000000"
       }
     ]
   },
@@ -5206,13 +5828,15 @@
     "source": [
       {
         "id": 198,
-        "value": "Blaha, Rudolf"
+        "value": "Blaha, Rudolf",
+        "order": "197.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5220,7 +5844,8 @@
     "relation_type_object": [
       {
         "id": 43,
-        "value": "portrays"
+        "value": "portrays",
+        "order": "42.00000000000000000000"
       }
     ]
   },
@@ -5231,13 +5856,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5245,7 +5872,8 @@
     "relation_type_object": [
       {
         "id": 44,
-        "value": "is_portrayed_by"
+        "value": "is_portrayed_by",
+        "order": "43.00000000000000000000"
       }
     ]
   },
@@ -5256,13 +5884,15 @@
     "source": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5270,7 +5900,8 @@
     "relation_type_object": [
       {
         "id": 43,
-        "value": "portrays"
+        "value": "portrays",
+        "order": "42.00000000000000000000"
       }
     ]
   },
@@ -5281,13 +5912,15 @@
     "source": [
       {
         "id": 72,
-        "value": "McCarthy, Mary"
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5295,7 +5928,8 @@
     "relation_type_object": [
       {
         "id": 44,
-        "value": "is_portrayed_by"
+        "value": "is_portrayed_by",
+        "order": "43.00000000000000000000"
       }
     ]
   },
@@ -5306,13 +5940,15 @@
     "source": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 72,
-        "value": "McCarthy, Mary"
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5320,7 +5956,8 @@
     "relation_type_object": [
       {
         "id": 43,
-        "value": "portrays"
+        "value": "portrays",
+        "order": "42.00000000000000000000"
       }
     ]
   },
@@ -5331,13 +5968,15 @@
     "source": [
       {
         "id": 256,
-        "value": "Becker, Eva Hermine"
+        "value": "Becker, Eva Hermine",
+        "order": "253.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5345,7 +5984,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -5356,13 +5996,15 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5370,7 +6012,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -5381,13 +6024,15 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5395,7 +6040,8 @@
     "relation_type_object": [
       {
         "id": 13,
-        "value": "is_friend_of"
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
       }
     ]
   },
@@ -5406,13 +6052,15 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 256,
-        "value": "Becker, Eva Hermine"
+        "value": "Becker, Eva Hermine",
+        "order": "253.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -5420,7 +6068,8 @@
     "relation_type_object": [
       {
         "id": 6,
-        "value": "is_sibling_of"
+        "value": "is_sibling_of",
+        "order": "6.00000000000000000000"
       }
     ]
   },

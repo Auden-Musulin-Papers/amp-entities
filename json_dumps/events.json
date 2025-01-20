@@ -17,7 +17,8 @@
     "person_event": [
       {
         "id": 6,
-        "value": "person_event__6"
+        "value": "person_event__6",
+        "order": "6.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -44,7 +45,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -59,7 +61,8 @@
     "person_event": [
       {
         "id": 5,
-        "value": "person_event__5"
+        "value": "person_event__5",
+        "order": "5.00000000000000000000"
       }
     ],
     "Comments": "Address: To Yannis Boras, by Chester Kallman",
@@ -78,7 +81,8 @@
     "place_of_event": [
       {
         "id": 85,
-        "value": "Palais Pálffy"
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
       }
     ],
     "has_type": [
@@ -93,11 +97,13 @@
     "person_event": [
       {
         "id": 20,
-        "value": "person_event__20"
+        "value": "person_event__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "person_event__21"
+        "value": "person_event__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -116,7 +122,8 @@
     "place_of_event": [
       {
         "id": 15,
-        "value": "United States of America"
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
       }
     ],
     "has_type": [
@@ -131,7 +138,8 @@
     "person_event": [
       {
         "id": 7,
-        "value": "person_event__7"
+        "value": "person_event__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -150,7 +158,8 @@
     "place_of_event": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "has_type": [
@@ -165,7 +174,8 @@
     "person_event": [
       {
         "id": 8,
-        "value": "person_event__8"
+        "value": "person_event__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -184,7 +194,8 @@
     "place_of_event": [
       {
         "id": 39,
-        "value": "Canterbury"
+        "value": "Canterbury",
+        "order": "39.00000000000000000000"
       }
     ],
     "has_type": [
@@ -199,7 +210,8 @@
     "person_event": [
       {
         "id": 17,
-        "value": "person_event__17"
+        "value": "person_event__17",
+        "order": "17.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -210,7 +222,8 @@
     "org_event": [
       {
         "id": 2,
-        "value": "org_event__2"
+        "value": "org_event__2",
+        "order": "2.00000000000000000000"
       }
     ],
     "part_of": []
@@ -223,7 +236,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -238,19 +252,23 @@
     "person_event": [
       {
         "id": 22,
-        "value": "person_event__22"
+        "value": "person_event__22",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "person_event__24"
+        "value": "person_event__24",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "person_event__25"
+        "value": "person_event__25",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 216,
-        "value": "person_event__216"
+        "value": "person_event__216",
+        "order": "216.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -293,7 +311,8 @@
     "place_of_event": [
       {
         "id": 39,
-        "value": "Canterbury"
+        "value": "Canterbury",
+        "order": "39.00000000000000000000"
       }
     ],
     "has_type": [
@@ -308,19 +327,23 @@
     "person_event": [
       {
         "id": 2,
-        "value": "person_event__2"
+        "value": "person_event__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "person_event__9"
+        "value": "person_event__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "person_event__18"
+        "value": "person_event__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 181,
-        "value": "person_event__181"
+        "value": "person_event__181",
+        "order": "181.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -331,13 +354,15 @@
     "org_event": [
       {
         "id": 3,
-        "value": "org_event__3"
+        "value": "org_event__3",
+        "order": "3.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 6,
-        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28"
+        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28",
+        "order": "6.00000000000000000000"
       }
     ]
   },
@@ -349,7 +374,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -364,15 +390,18 @@
     "person_event": [
       {
         "id": 10,
-        "value": "person_event__10"
+        "value": "person_event__10",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "person_event__11"
+        "value": "person_event__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "person_event__12"
+        "value": "person_event__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -403,7 +432,8 @@
     "place_of_event": [
       {
         "id": 6,
-        "value": "Lower Austria"
+        "value": "Lower Austria",
+        "order": "6.00000000000000000000"
       }
     ],
     "has_type": [
@@ -418,11 +448,13 @@
     "person_event": [
       {
         "id": 29,
-        "value": "person_event__29"
+        "value": "person_event__29",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "person_event__30"
+        "value": "person_event__30",
+        "order": "30.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -449,7 +481,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -464,11 +497,13 @@
     "person_event": [
       {
         "id": 33,
-        "value": "person_event__33"
+        "value": "person_event__33",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "person_event__34"
+        "value": "person_event__34",
+        "order": "34.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -499,7 +534,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -514,15 +550,18 @@
     "person_event": [
       {
         "id": 36,
-        "value": "person_event__36"
+        "value": "person_event__36",
+        "order": "36.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "person_event__37"
+        "value": "person_event__37",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "person_event__38"
+        "value": "person_event__38",
+        "order": "38.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -553,7 +592,8 @@
     "place_of_event": [
       {
         "id": 225,
-        "value": "Hotel Altenburgerhof"
+        "value": "Hotel Altenburgerhof",
+        "order": "225.00000000000000000000"
       }
     ],
     "has_type": [
@@ -568,7 +608,8 @@
     "person_event": [
       {
         "id": 39,
-        "value": "person_event__39"
+        "value": "person_event__39",
+        "order": "39.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -587,7 +628,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -602,95 +644,118 @@
     "person_event": [
       {
         "id": 23,
-        "value": "person_event__23"
+        "value": "person_event__23",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "person_event__41"
+        "value": "person_event__41",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "person_event__43"
+        "value": "person_event__43",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "person_event__44"
+        "value": "person_event__44",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "person_event__55"
+        "value": "person_event__55",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "person_event__56"
+        "value": "person_event__56",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "person_event__86"
+        "value": "person_event__86",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "person_event__93"
+        "value": "person_event__93",
+        "order": "93.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "person_event__94"
+        "value": "person_event__94",
+        "order": "94.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "person_event__95"
+        "value": "person_event__95",
+        "order": "95.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "person_event__96"
+        "value": "person_event__96",
+        "order": "96.00000000000000000000"
       },
       {
         "id": 98,
-        "value": "person_event__98"
+        "value": "person_event__98",
+        "order": "98.00000000000000000000"
       },
       {
         "id": 99,
-        "value": "person_event__99"
+        "value": "person_event__99",
+        "order": "99.00000000000000000000"
       },
       {
         "id": 100,
-        "value": "person_event__100"
+        "value": "person_event__100",
+        "order": "100.00000000000000000000"
       },
       {
         "id": 235,
-        "value": "person_event__235"
+        "value": "person_event__235",
+        "order": "235.00000000000000000000"
       },
       {
         "id": 243,
-        "value": "person_event__243"
+        "value": "person_event__243",
+        "order": "243.00000000000000000000"
       },
       {
         "id": 244,
-        "value": "person_event__244"
+        "value": "person_event__244",
+        "order": "244.00000000000000000000"
       },
       {
         "id": 246,
-        "value": "person_event__246"
+        "value": "person_event__246",
+        "order": "246.00000000000000000000"
       },
       {
         "id": 247,
-        "value": "person_event__247"
+        "value": "person_event__247",
+        "order": "247.00000000000000000000"
       },
       {
         "id": 248,
-        "value": "person_event__248"
+        "value": "person_event__248",
+        "order": "248.00000000000000000000"
       },
       {
         "id": 250,
-        "value": "person_event__250"
+        "value": "person_event__250",
+        "order": "250.00000000000000000000"
       },
       {
         "id": 251,
-        "value": "person_event__251"
+        "value": "person_event__251",
+        "order": "251.00000000000000000000"
       },
       {
         "id": 254,
-        "value": "person_event__254"
+        "value": "person_event__254",
+        "order": "254.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -709,7 +774,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -724,19 +790,23 @@
     "person_event": [
       {
         "id": 47,
-        "value": "person_event__47"
+        "value": "person_event__47",
+        "order": "47.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "person_event__49"
+        "value": "person_event__49",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "person_event__50"
+        "value": "person_event__50",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 236,
-        "value": "person_event__236"
+        "value": "person_event__236",
+        "order": "236.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -747,17 +817,20 @@
     "org_event": [
       {
         "id": 6,
-        "value": "org_event__6"
+        "value": "org_event__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "org_event__7"
+        "value": "org_event__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ]
   },
@@ -769,7 +842,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -784,19 +858,23 @@
     "person_event": [
       {
         "id": 212,
-        "value": "person_event__212"
+        "value": "person_event__212",
+        "order": "212.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "person_event__213"
+        "value": "person_event__213",
+        "order": "213.00000000000000000000"
       },
       {
         "id": 214,
-        "value": "person_event__214"
+        "value": "person_event__214",
+        "order": "214.00000000000000000000"
       },
       {
         "id": 215,
-        "value": "person_event__215"
+        "value": "person_event__215",
+        "order": "215.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -827,7 +905,8 @@
     "place_of_event": [
       {
         "id": 85,
-        "value": "Palais Pálffy"
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
       }
     ],
     "has_type": [
@@ -842,11 +921,13 @@
     "person_event": [
       {
         "id": 52,
-        "value": "person_event__52"
+        "value": "person_event__52",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 153,
-        "value": "person_event__153"
+        "value": "person_event__153",
+        "order": "153.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -857,7 +938,8 @@
     "org_event": [
       {
         "id": 4,
-        "value": "org_event__4"
+        "value": "org_event__4",
+        "order": "4.00000000000000000000"
       }
     ],
     "part_of": []
@@ -880,11 +962,13 @@
     "person_event": [
       {
         "id": 62,
-        "value": "person_event__62"
+        "value": "person_event__62",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "person_event__118"
+        "value": "person_event__118",
+        "order": "118.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -895,7 +979,8 @@
     "org_event": [
       {
         "id": 11,
-        "value": "org_event__11"
+        "value": "org_event__11",
+        "order": "11.00000000000000000000"
       }
     ],
     "part_of": []
@@ -908,7 +993,8 @@
     "place_of_event": [
       {
         "id": 86,
-        "value": "Budapest"
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
       }
     ],
     "has_type": [
@@ -923,7 +1009,8 @@
     "person_event": [
       {
         "id": 154,
-        "value": "person_event__154"
+        "value": "person_event__154",
+        "order": "154.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -934,7 +1021,8 @@
     "org_event": [
       {
         "id": 13,
-        "value": "org_event__13"
+        "value": "org_event__13",
+        "order": "13.00000000000000000000"
       }
     ],
     "part_of": []
@@ -947,7 +1035,8 @@
     "place_of_event": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "has_type": [
@@ -962,7 +1051,8 @@
     "person_event": [
       {
         "id": 58,
-        "value": "person_event__58"
+        "value": "person_event__58",
+        "order": "58.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -981,7 +1071,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -996,11 +1087,13 @@
     "person_event": [
       {
         "id": 61,
-        "value": "person_event__61"
+        "value": "person_event__61",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 155,
-        "value": "person_event__155"
+        "value": "person_event__155",
+        "order": "155.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1011,15 +1104,18 @@
     "org_event": [
       {
         "id": 14,
-        "value": "org_event__14"
+        "value": "org_event__14",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "org_event__15"
+        "value": "org_event__15",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "org_event__16"
+        "value": "org_event__16",
+        "order": "16.00000000000000000000"
       }
     ],
     "part_of": []
@@ -1032,7 +1128,8 @@
     "place_of_event": [
       {
         "id": 87,
-        "value": "Westminster Abbey"
+        "value": "Westminster Abbey",
+        "order": "87.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1047,7 +1144,8 @@
     "person_event": [
       {
         "id": 162,
-        "value": "person_event__162"
+        "value": "person_event__162",
+        "order": "162.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1066,11 +1164,13 @@
     "place_of_event": [
       {
         "id": 85,
-        "value": "Palais Pálffy"
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "Hofburg"
+        "value": "Hofburg",
+        "order": "89.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1085,47 +1185,58 @@
     "person_event": [
       {
         "id": 70,
-        "value": "person_event__70"
+        "value": "person_event__70",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 156,
-        "value": "person_event__156"
+        "value": "person_event__156",
+        "order": "156.00000000000000000000"
       },
       {
         "id": 157,
-        "value": "person_event__157"
+        "value": "person_event__157",
+        "order": "157.00000000000000000000"
       },
       {
         "id": 158,
-        "value": "person_event__158"
+        "value": "person_event__158",
+        "order": "158.00000000000000000000"
       },
       {
         "id": 159,
-        "value": "person_event__159"
+        "value": "person_event__159",
+        "order": "159.00000000000000000000"
       },
       {
         "id": 160,
-        "value": "person_event__160"
+        "value": "person_event__160",
+        "order": "160.00000000000000000000"
       },
       {
         "id": 161,
-        "value": "person_event__161"
+        "value": "person_event__161",
+        "order": "161.00000000000000000000"
       },
       {
         "id": 163,
-        "value": "person_event__163"
+        "value": "person_event__163",
+        "order": "163.00000000000000000000"
       },
       {
         "id": 165,
-        "value": "person_event__165"
+        "value": "person_event__165",
+        "order": "165.00000000000000000000"
       },
       {
         "id": 257,
-        "value": "person_event__257"
+        "value": "person_event__257",
+        "order": "257.00000000000000000000"
       },
       {
         "id": 268,
-        "value": "person_event__268"
+        "value": "person_event__268",
+        "order": "268.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1144,7 +1255,8 @@
     "place_of_event": [
       {
         "id": 37,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1159,7 +1271,8 @@
     "person_event": [
       {
         "id": 152,
-        "value": "person_event__152"
+        "value": "person_event__152",
+        "order": "152.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1170,13 +1283,15 @@
     "org_event": [
       {
         "id": 17,
-        "value": "org_event__17"
+        "value": "org_event__17",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 56,
-        "value": "Salzburg Festival"
+        "value": "Salzburg Festival",
+        "order": "56.00000000000000000000"
       }
     ]
   },
@@ -1188,7 +1303,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1203,7 +1319,8 @@
     "person_event": [
       {
         "id": 75,
-        "value": "person_event__75"
+        "value": "person_event__75",
+        "order": "75.00000000000000000000"
       }
     ],
     "Comments": "Carpenter 427",
@@ -1222,7 +1339,8 @@
     "place_of_event": [
       {
         "id": 6,
-        "value": "Lower Austria"
+        "value": "Lower Austria",
+        "order": "6.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1237,15 +1355,18 @@
     "person_event": [
       {
         "id": 80,
-        "value": "person_event__80"
+        "value": "person_event__80",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 256,
-        "value": "person_event__256"
+        "value": "person_event__256",
+        "order": "256.00000000000000000000"
       },
       {
         "id": 258,
-        "value": "person_event__258"
+        "value": "person_event__258",
+        "order": "258.00000000000000000000"
       }
     ],
     "Comments": "Kurier 1962-10-16, \"Ein Mädchen und vier Burschen auf Diebszug unterwegs\"",
@@ -1264,7 +1385,8 @@
     "place_of_event": [
       {
         "id": 47,
-        "value": "Neulengbach"
+        "value": "Neulengbach",
+        "order": "47.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1279,15 +1401,18 @@
     "person_event": [
       {
         "id": 88,
-        "value": "person_event__88"
+        "value": "person_event__88",
+        "order": "88.00000000000000000000"
       },
       {
         "id": 151,
-        "value": "person_event__151"
+        "value": "person_event__151",
+        "order": "151.00000000000000000000"
       },
       {
         "id": 267,
-        "value": "person_event__267"
+        "value": "person_event__267",
+        "order": "267.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1306,7 +1431,8 @@
     "place_of_event": [
       {
         "id": 71,
-        "value": "Eslarngasse 18"
+        "value": "Eslarngasse 18",
+        "order": "71.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1321,15 +1447,18 @@
     "person_event": [
       {
         "id": 90,
-        "value": "person_event__90"
+        "value": "person_event__90",
+        "order": "90.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "person_event__144"
+        "value": "person_event__144",
+        "order": "144.00000000000000000000"
       },
       {
         "id": 147,
-        "value": "person_event__147"
+        "value": "person_event__147",
+        "order": "147.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1356,7 +1485,8 @@
     "place_of_event": [
       {
         "id": 100,
-        "value": "Czechoslovakia"
+        "value": "Czechoslovakia",
+        "order": "100.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1371,19 +1501,23 @@
     "person_event": [
       {
         "id": 112,
-        "value": "person_event__112"
+        "value": "person_event__112",
+        "order": "112.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "person_event__113"
+        "value": "person_event__113",
+        "order": "113.00000000000000000000"
       },
       {
         "id": 114,
-        "value": "person_event__114"
+        "value": "person_event__114",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 115,
-        "value": "person_event__115"
+        "value": "person_event__115",
+        "order": "115.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1412,7 +1546,8 @@
     "person_event": [
       {
         "id": 85,
-        "value": "person_event__85"
+        "value": "person_event__85",
+        "order": "85.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1431,7 +1566,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1460,7 +1596,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1475,7 +1612,8 @@
     "person_event": [
       {
         "id": 263,
-        "value": "person_event__263"
+        "value": "person_event__263",
+        "order": "263.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1486,7 +1624,8 @@
     "org_event": [
       {
         "id": 19,
-        "value": "org_event__19"
+        "value": "org_event__19",
+        "order": "19.00000000000000000000"
       }
     ],
     "part_of": []
@@ -1499,7 +1638,8 @@
     "place_of_event": [
       {
         "id": 236,
-        "value": "Vietnam"
+        "value": "Vietnam",
+        "order": "236.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1552,7 +1692,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1572,7 +1713,8 @@
     "person_event": [
       {
         "id": 143,
-        "value": "person_event__143"
+        "value": "person_event__143",
+        "order": "143.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1615,7 +1757,8 @@
     "place_of_event": [
       {
         "id": 100,
-        "value": "Czechoslovakia"
+        "value": "Czechoslovakia",
+        "order": "100.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1692,7 +1835,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1721,7 +1865,8 @@
     "place_of_event": [
       {
         "id": 37,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1750,7 +1895,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1765,11 +1911,13 @@
     "person_event": [
       {
         "id": 26,
-        "value": "person_event__26"
+        "value": "person_event__26",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 126,
-        "value": "person_event__126"
+        "value": "person_event__126",
+        "order": "126.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1800,7 +1948,8 @@
     "place_of_event": [
       {
         "id": 274,
-        "value": "Mumbai"
+        "value": "Mumbai",
+        "order": "274.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1815,7 +1964,8 @@
     "person_event": [
       {
         "id": 107,
-        "value": "person_event__107"
+        "value": "person_event__107",
+        "order": "107.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1834,7 +1984,8 @@
     "place_of_event": [
       {
         "id": 298,
-        "value": "Ann Arbor"
+        "value": "Ann Arbor",
+        "order": "298.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1849,7 +2000,8 @@
     "person_event": [
       {
         "id": 28,
-        "value": "person_event__28"
+        "value": "person_event__28",
+        "order": "28.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1860,7 +2012,8 @@
     "org_event": [
       {
         "id": 18,
-        "value": "org_event__18"
+        "value": "org_event__18",
+        "order": "18.00000000000000000000"
       }
     ],
     "part_of": []
@@ -1873,7 +2026,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1888,11 +2042,13 @@
     "person_event": [
       {
         "id": 127,
-        "value": "person_event__127"
+        "value": "person_event__127",
+        "order": "127.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "person_event__128"
+        "value": "person_event__128",
+        "order": "128.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1933,11 +2089,13 @@
     "person_event": [
       {
         "id": 129,
-        "value": "person_event__129"
+        "value": "person_event__129",
+        "order": "129.00000000000000000000"
       },
       {
         "id": 130,
-        "value": "person_event__130"
+        "value": "person_event__130",
+        "order": "130.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -1968,7 +2126,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -1983,15 +2142,18 @@
     "person_event": [
       {
         "id": 131,
-        "value": "person_event__131"
+        "value": "person_event__131",
+        "order": "131.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "person_event__132"
+        "value": "person_event__132",
+        "order": "132.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "person_event__133"
+        "value": "person_event__133",
+        "order": "133.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2022,7 +2184,8 @@
     "place_of_event": [
       {
         "id": 315,
-        "value": "\"your place\" (amp-transcript__0058.xml)"
+        "value": "\"your place\" (amp-transcript__0058.xml)",
+        "order": "314.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2037,11 +2200,13 @@
     "person_event": [
       {
         "id": 134,
-        "value": "person_event__134"
+        "value": "person_event__134",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "person_event__135"
+        "value": "person_event__135",
+        "order": "135.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2072,7 +2237,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2087,11 +2253,13 @@
     "person_event": [
       {
         "id": 136,
-        "value": "person_event__136"
+        "value": "person_event__136",
+        "order": "136.00000000000000000000"
       },
       {
         "id": 137,
-        "value": "person_event__137"
+        "value": "person_event__137",
+        "order": "137.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2132,35 +2300,43 @@
     "person_event": [
       {
         "id": 120,
-        "value": "person_event__120"
+        "value": "person_event__120",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 121,
-        "value": "person_event__121"
+        "value": "person_event__121",
+        "order": "121.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "person_event__122"
+        "value": "person_event__122",
+        "order": "122.00000000000000000000"
       },
       {
         "id": 123,
-        "value": "person_event__123"
+        "value": "person_event__123",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "person_event__146"
+        "value": "person_event__146",
+        "order": "146.00000000000000000000"
       },
       {
         "id": 148,
-        "value": "person_event__148"
+        "value": "person_event__148",
+        "order": "148.00000000000000000000"
       },
       {
         "id": 149,
-        "value": "person_event__149"
+        "value": "person_event__149",
+        "order": "149.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "person_event__150"
+        "value": "person_event__150",
+        "order": "150.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2179,7 +2355,8 @@
     "place_of_event": [
       {
         "id": 301,
-        "value": "Kaffee 3/4"
+        "value": "Kaffee 3/4",
+        "order": "300.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2194,11 +2371,13 @@
     "person_event": [
       {
         "id": 124,
-        "value": "person_event__124"
+        "value": "person_event__124",
+        "order": "124.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "person_event__125"
+        "value": "person_event__125",
+        "order": "125.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2229,7 +2408,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2244,11 +2424,13 @@
     "person_event": [
       {
         "id": 138,
-        "value": "person_event__138"
+        "value": "person_event__138",
+        "order": "138.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "person_event__139"
+        "value": "person_event__139",
+        "order": "139.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2279,7 +2461,8 @@
     "place_of_event": [
       {
         "id": 177,
-        "value": "Palais Wilczek"
+        "value": "Palais Wilczek",
+        "order": "177.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2294,11 +2477,13 @@
     "person_event": [
       {
         "id": 140,
-        "value": "person_event__140"
+        "value": "person_event__140",
+        "order": "140.00000000000000000000"
       },
       {
         "id": 145,
-        "value": "person_event__145"
+        "value": "person_event__145",
+        "order": "145.00000000000000000000"
       }
     ],
     "Comments": "https://www.ogl.at/programm/aktuelles-programm/archiv/1963/5/",
@@ -2309,7 +2494,8 @@
     "org_event": [
       {
         "id": 1,
-        "value": "org_event__1"
+        "value": "org_event__1",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": []
@@ -2322,7 +2508,8 @@
     "place_of_event": [
       {
         "id": 19,
-        "value": "Hubertusbader Straße 43"
+        "value": "Hubertusbader Straße 43",
+        "order": "19.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2337,11 +2524,13 @@
     "person_event": [
       {
         "id": 141,
-        "value": "person_event__141"
+        "value": "person_event__141",
+        "order": "141.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "person_event__142"
+        "value": "person_event__142",
+        "order": "142.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2382,11 +2571,13 @@
     "person_event": [
       {
         "id": 167,
-        "value": "person_event__167"
+        "value": "person_event__167",
+        "order": "167.00000000000000000000"
       },
       {
         "id": 168,
-        "value": "person_event__168"
+        "value": "person_event__168",
+        "order": "168.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2417,7 +2608,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2432,11 +2624,13 @@
     "person_event": [
       {
         "id": 169,
-        "value": "person_event__169"
+        "value": "person_event__169",
+        "order": "169.00000000000000000000"
       },
       {
         "id": 170,
-        "value": "person_event__170"
+        "value": "person_event__170",
+        "order": "170.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2477,11 +2671,13 @@
     "person_event": [
       {
         "id": 171,
-        "value": "person_event__171"
+        "value": "person_event__171",
+        "order": "171.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "person_event__172"
+        "value": "person_event__172",
+        "order": "172.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2512,7 +2708,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2527,11 +2724,13 @@
     "person_event": [
       {
         "id": 173,
-        "value": "person_event__173"
+        "value": "person_event__173",
+        "order": "173.00000000000000000000"
       },
       {
         "id": 174,
-        "value": "person_event__174"
+        "value": "person_event__174",
+        "order": "174.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2562,7 +2761,8 @@
     "place_of_event": [
       {
         "id": 27,
-        "value": "Amerikahaus Vienna (1957-1971)"
+        "value": "Amerikahaus Vienna (1957-1971)",
+        "order": "27.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2577,7 +2777,8 @@
     "person_event": [
       {
         "id": 175,
-        "value": "person_event__175"
+        "value": "person_event__175",
+        "order": "175.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2604,7 +2805,8 @@
     "place_of_event": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2619,11 +2821,13 @@
     "person_event": [
       {
         "id": 176,
-        "value": "person_event__176"
+        "value": "person_event__176",
+        "order": "176.00000000000000000000"
       },
       {
         "id": 177,
-        "value": "person_event__177"
+        "value": "person_event__177",
+        "order": "177.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2654,7 +2858,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2669,15 +2874,18 @@
     "person_event": [
       {
         "id": 178,
-        "value": "person_event__178"
+        "value": "person_event__178",
+        "order": "178.00000000000000000000"
       },
       {
         "id": 179,
-        "value": "person_event__179"
+        "value": "person_event__179",
+        "order": "179.00000000000000000000"
       },
       {
         "id": 180,
-        "value": "person_event__180"
+        "value": "person_event__180",
+        "order": "180.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2708,7 +2916,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2723,15 +2932,18 @@
     "person_event": [
       {
         "id": 182,
-        "value": "person_event__182"
+        "value": "person_event__182",
+        "order": "182.00000000000000000000"
       },
       {
         "id": 183,
-        "value": "person_event__183"
+        "value": "person_event__183",
+        "order": "183.00000000000000000000"
       },
       {
         "id": 184,
-        "value": "person_event__184"
+        "value": "person_event__184",
+        "order": "184.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2762,7 +2974,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2777,11 +2990,13 @@
     "person_event": [
       {
         "id": 185,
-        "value": "person_event__185"
+        "value": "person_event__185",
+        "order": "185.00000000000000000000"
       },
       {
         "id": 186,
-        "value": "person_event__186"
+        "value": "person_event__186",
+        "order": "186.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2812,7 +3027,8 @@
     "place_of_event": [
       {
         "id": 11,
-        "value": "Neulinggasse 26"
+        "value": "Neulinggasse 26",
+        "order": "11.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2827,11 +3043,13 @@
     "person_event": [
       {
         "id": 187,
-        "value": "person_event__187"
+        "value": "person_event__187",
+        "order": "187.00000000000000000000"
       },
       {
         "id": 189,
-        "value": "person_event__189"
+        "value": "person_event__189",
+        "order": "189.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2862,7 +3080,8 @@
     "place_of_event": [
       {
         "id": 11,
-        "value": "Neulinggasse 26"
+        "value": "Neulinggasse 26",
+        "order": "11.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2877,11 +3096,13 @@
     "person_event": [
       {
         "id": 190,
-        "value": "person_event__190"
+        "value": "person_event__190",
+        "order": "190.00000000000000000000"
       },
       {
         "id": 191,
-        "value": "person_event__191"
+        "value": "person_event__191",
+        "order": "191.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2912,7 +3133,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2927,7 +3149,8 @@
     "person_event": [
       {
         "id": 192,
-        "value": "person_event__192"
+        "value": "person_event__192",
+        "order": "192.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -2958,7 +3181,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -2973,7 +3197,8 @@
     "person_event": [
       {
         "id": 193,
-        "value": "person_event__193"
+        "value": "person_event__193",
+        "order": "193.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3004,7 +3229,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3019,7 +3245,8 @@
     "person_event": [
       {
         "id": 194,
-        "value": "person_event__194"
+        "value": "person_event__194",
+        "order": "194.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3050,7 +3277,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3065,7 +3293,8 @@
     "person_event": [
       {
         "id": 195,
-        "value": "person_event__195"
+        "value": "person_event__195",
+        "order": "195.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3096,7 +3325,8 @@
     "place_of_event": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3111,7 +3341,8 @@
     "person_event": [
       {
         "id": 188,
-        "value": "person_event__188"
+        "value": "person_event__188",
+        "order": "188.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3142,7 +3373,8 @@
     "place_of_event": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3157,7 +3389,8 @@
     "person_event": [
       {
         "id": 196,
-        "value": "person_event__196"
+        "value": "person_event__196",
+        "order": "196.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3188,7 +3421,8 @@
     "place_of_event": [
       {
         "id": 45,
-        "value": "32 Bryanston Square"
+        "value": "32 Bryanston Square",
+        "order": "45.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3203,11 +3437,13 @@
     "person_event": [
       {
         "id": 197,
-        "value": "person_event__197"
+        "value": "person_event__197",
+        "order": "197.00000000000000000000"
       },
       {
         "id": 198,
-        "value": "person_event__198"
+        "value": "person_event__198",
+        "order": "198.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3238,7 +3474,8 @@
     "place_of_event": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3253,7 +3490,8 @@
     "person_event": [
       {
         "id": 199,
-        "value": "person_event__199"
+        "value": "person_event__199",
+        "order": "199.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3284,7 +3522,8 @@
     "place_of_event": [
       {
         "id": 45,
-        "value": "32 Bryanston Square"
+        "value": "32 Bryanston Square",
+        "order": "45.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3299,11 +3538,13 @@
     "person_event": [
       {
         "id": 200,
-        "value": "person_event__200"
+        "value": "person_event__200",
+        "order": "200.00000000000000000000"
       },
       {
         "id": 201,
-        "value": "person_event__201"
+        "value": "person_event__201",
+        "order": "201.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3334,7 +3575,8 @@
     "place_of_event": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3349,11 +3591,13 @@
     "person_event": [
       {
         "id": 202,
-        "value": "person_event__202"
+        "value": "person_event__202",
+        "order": "202.00000000000000000000"
       },
       {
         "id": 203,
-        "value": "person_event__203"
+        "value": "person_event__203",
+        "order": "203.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3384,7 +3628,8 @@
     "place_of_event": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3399,11 +3644,13 @@
     "person_event": [
       {
         "id": 204,
-        "value": "person_event__204"
+        "value": "person_event__204",
+        "order": "204.00000000000000000000"
       },
       {
         "id": 205,
-        "value": "person_event__205"
+        "value": "person_event__205",
+        "order": "205.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3434,7 +3681,8 @@
     "place_of_event": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3449,11 +3697,13 @@
     "person_event": [
       {
         "id": 206,
-        "value": "person_event__206"
+        "value": "person_event__206",
+        "order": "206.00000000000000000000"
       },
       {
         "id": 207,
-        "value": "person_event__207"
+        "value": "person_event__207",
+        "order": "207.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3484,7 +3734,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3499,11 +3750,13 @@
     "person_event": [
       {
         "id": 208,
-        "value": "person_event__208"
+        "value": "person_event__208",
+        "order": "208.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "person_event__209"
+        "value": "person_event__209",
+        "order": "209.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3534,7 +3787,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3549,11 +3803,13 @@
     "person_event": [
       {
         "id": 210,
-        "value": "person_event__210"
+        "value": "person_event__210",
+        "order": "210.00000000000000000000"
       },
       {
         "id": 211,
-        "value": "person_event__211"
+        "value": "person_event__211",
+        "order": "211.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3584,7 +3840,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [],
@@ -3593,11 +3850,13 @@
     "person_event": [
       {
         "id": 217,
-        "value": "person_event__217"
+        "value": "person_event__217",
+        "order": "217.00000000000000000000"
       },
       {
         "id": 218,
-        "value": "person_event__218"
+        "value": "person_event__218",
+        "order": "218.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3608,13 +3867,15 @@
     "org_event": [
       {
         "id": 20,
-        "value": "org_event__20"
+        "value": "org_event__20",
+        "order": "20.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ]
   },
@@ -3626,7 +3887,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3641,11 +3903,13 @@
     "person_event": [
       {
         "id": 219,
-        "value": "person_event__219"
+        "value": "person_event__219",
+        "order": "219.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "person_event__220"
+        "value": "person_event__220",
+        "order": "220.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3676,7 +3940,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3691,11 +3956,13 @@
     "person_event": [
       {
         "id": 221,
-        "value": "person_event__221"
+        "value": "person_event__221",
+        "order": "221.00000000000000000000"
       },
       {
         "id": 222,
-        "value": "person_event__222"
+        "value": "person_event__222",
+        "order": "222.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3726,7 +3993,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3741,15 +4009,18 @@
     "person_event": [
       {
         "id": 223,
-        "value": "person_event__223"
+        "value": "person_event__223",
+        "order": "223.00000000000000000000"
       },
       {
         "id": 224,
-        "value": "person_event__224"
+        "value": "person_event__224",
+        "order": "224.00000000000000000000"
       },
       {
         "id": 225,
-        "value": "person_event__225"
+        "value": "person_event__225",
+        "order": "225.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3780,7 +4051,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3795,15 +4067,18 @@
     "person_event": [
       {
         "id": 226,
-        "value": "person_event__226"
+        "value": "person_event__226",
+        "order": "226.00000000000000000000"
       },
       {
         "id": 227,
-        "value": "person_event__227"
+        "value": "person_event__227",
+        "order": "227.00000000000000000000"
       },
       {
         "id": 228,
-        "value": "person_event__228"
+        "value": "person_event__228",
+        "order": "228.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3834,7 +4109,8 @@
     "place_of_event": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3849,7 +4125,8 @@
     "person_event": [
       {
         "id": 229,
-        "value": "person_event__229"
+        "value": "person_event__229",
+        "order": "229.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3880,7 +4157,8 @@
     "place_of_event": [
       {
         "id": 29,
-        "value": "77 St. Mark's Place"
+        "value": "77 St. Mark's Place",
+        "order": "29.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3895,11 +4173,13 @@
     "person_event": [
       {
         "id": 230,
-        "value": "person_event__230"
+        "value": "person_event__230",
+        "order": "230.00000000000000000000"
       },
       {
         "id": 231,
-        "value": "person_event__231"
+        "value": "person_event__231",
+        "order": "231.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3930,7 +4210,8 @@
     "place_of_event": [
       {
         "id": 82,
-        "value": "Schloss Schönbrunn"
+        "value": "Schloss Schönbrunn",
+        "order": "82.00000000000000000000"
       }
     ],
     "has_type": [
@@ -3945,7 +4226,8 @@
     "person_event": [
       {
         "id": 232,
-        "value": "person_event__232"
+        "value": "person_event__232",
+        "order": "232.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -3957,7 +4239,8 @@
     "part_of": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ]
   },
@@ -3979,11 +4262,13 @@
     "person_event": [
       {
         "id": 233,
-        "value": "person_event__233"
+        "value": "person_event__233",
+        "order": "233.00000000000000000000"
       },
       {
         "id": 234,
-        "value": "person_event__234"
+        "value": "person_event__234",
+        "order": "234.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4006,7 +4291,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4021,19 +4307,23 @@
     "person_event": [
       {
         "id": 237,
-        "value": "person_event__237"
+        "value": "person_event__237",
+        "order": "237.00000000000000000000"
       },
       {
         "id": 238,
-        "value": "person_event__238"
+        "value": "person_event__238",
+        "order": "238.00000000000000000000"
       },
       {
         "id": 239,
-        "value": "person_event__239"
+        "value": "person_event__239",
+        "order": "239.00000000000000000000"
       },
       {
         "id": 240,
-        "value": "person_event__240"
+        "value": "person_event__240",
+        "order": "240.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4044,11 +4334,13 @@
     "org_event": [
       {
         "id": 8,
-        "value": "org_event__8"
+        "value": "org_event__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "org_event__9"
+        "value": "org_event__9",
+        "order": "9.00000000000000000000"
       }
     ],
     "part_of": []
@@ -4061,7 +4353,8 @@
     "place_of_event": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4076,7 +4369,8 @@
     "person_event": [
       {
         "id": 252,
-        "value": "person_event__252"
+        "value": "person_event__252",
+        "order": "252.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4087,7 +4381,8 @@
     "org_event": [
       {
         "id": 10,
-        "value": "org_event__10"
+        "value": "org_event__10",
+        "order": "10.00000000000000000000"
       }
     ],
     "part_of": []
@@ -4110,11 +4405,13 @@
     "person_event": [
       {
         "id": 116,
-        "value": "person_event__116"
+        "value": "person_event__116",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 117,
-        "value": "person_event__117"
+        "value": "person_event__117",
+        "order": "117.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4137,7 +4434,8 @@
     "place_of_event": [
       {
         "id": 2,
-        "value": "Hinterholz 6"
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4152,23 +4450,28 @@
     "person_event": [
       {
         "id": 241,
-        "value": "person_event__241"
+        "value": "person_event__241",
+        "order": "241.00000000000000000000"
       },
       {
         "id": 242,
-        "value": "person_event__242"
+        "value": "person_event__242",
+        "order": "242.00000000000000000000"
       },
       {
         "id": 245,
-        "value": "person_event__245"
+        "value": "person_event__245",
+        "order": "245.00000000000000000000"
       },
       {
         "id": 249,
-        "value": "person_event__249"
+        "value": "person_event__249",
+        "order": "249.00000000000000000000"
       },
       {
         "id": 253,
-        "value": "person_event__253"
+        "value": "person_event__253",
+        "order": "253.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4195,7 +4498,8 @@
     "place_of_event": [
       {
         "id": 85,
-        "value": "Palais Pálffy"
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4210,7 +4514,8 @@
     "person_event": [
       {
         "id": 255,
-        "value": "person_event__255"
+        "value": "person_event__255",
+        "order": "255.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4229,7 +4534,8 @@
     "org_event": [
       {
         "id": 12,
-        "value": "org_event__12"
+        "value": "org_event__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "part_of": []
@@ -4242,7 +4548,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4257,11 +4564,13 @@
     "person_event": [
       {
         "id": 259,
-        "value": "person_event__259"
+        "value": "person_event__259",
+        "order": "259.00000000000000000000"
       },
       {
         "id": 260,
-        "value": "person_event__260"
+        "value": "person_event__260",
+        "order": "260.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4302,11 +4611,13 @@
     "person_event": [
       {
         "id": 261,
-        "value": "person_event__261"
+        "value": "person_event__261",
+        "order": "261.00000000000000000000"
       },
       {
         "id": 262,
-        "value": "person_event__262"
+        "value": "person_event__262",
+        "order": "262.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4337,7 +4648,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4352,7 +4664,8 @@
     "person_event": [
       {
         "id": 264,
-        "value": "person_event__264"
+        "value": "person_event__264",
+        "order": "264.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4383,7 +4696,8 @@
     "place_of_event": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "has_type": [],
@@ -4392,11 +4706,13 @@
     "person_event": [
       {
         "id": 265,
-        "value": "person_event__265"
+        "value": "person_event__265",
+        "order": "265.00000000000000000000"
       },
       {
         "id": 266,
-        "value": "person_event__266"
+        "value": "person_event__266",
+        "order": "266.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -4407,7 +4723,8 @@
     "org_event": [
       {
         "id": 21,
-        "value": "org_event__21"
+        "value": "org_event__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "part_of": []
@@ -4438,7 +4755,8 @@
     "place_of_event": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "has_type": [

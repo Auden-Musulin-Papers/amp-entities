@@ -10,7 +10,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -31,7 +32,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -40,7 +42,8 @@
     "person_org": [
       {
         "id": 21,
-        "value": "person_org__21"
+        "value": "person_org__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -73,85 +76,104 @@
     "location": [
       {
         "id": 44,
-        "value": "24 Russell Square"
+        "value": "24 Russell Square",
+        "order": "44.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 28,
-        "value": "W. H. Auden: Collected Poems"
+        "value": "W. H. Auden: Collected Poems",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "Vägmärken (Markings)"
+        "value": "Vägmärken (Markings)",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "The Faber Book of Aphorisms"
+        "value": "The Faber Book of Aphorisms",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "Austria: People and Landscape"
+        "value": "Austria: People and Landscape",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "Early Auden"
+        "value": "Early Auden",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "Doggerel by a Senior Citizen"
+        "value": "Doggerel by a Senior Citizen",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 80,
-        "value": "The English Auden: Poems, Essays and Dramatic Writings, 1927-1939"
+        "value": "The English Auden: Poems, Essays and Dramatic Writings, 1927-1939",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "Collected Shorter Poems 1927–1957"
+        "value": "Collected Shorter Poems 1927–1957",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "Collected Longer Poems"
+        "value": "Collected Longer Poems",
+        "order": "135.00000000000000000000"
       },
       {
         "id": 137,
-        "value": "City Without Walls"
+        "value": "City Without Walls",
+        "order": "136.00000000000000000000"
       },
       {
         "id": 158,
-        "value": "Nones"
+        "value": "Nones",
+        "order": "151.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "Retrospectives and Conclusions"
+        "value": "Retrospectives and Conclusions",
+        "order": "165.00000000000000000000"
       },
       {
         "id": 175,
-        "value": "Foreword"
+        "value": "Foreword",
+        "order": "168.00000000000000000000"
       },
       {
         "id": 194,
-        "value": "Academic Graffiti"
+        "value": "Academic Graffiti",
+        "order": "187.00000000000000000000"
       },
       {
         "id": 195,
-        "value": "Thank You, Fog and Other Poems"
+        "value": "Thank You, Fog and Other Poems",
+        "order": "188.00000000000000000000"
       },
       {
         "id": 197,
-        "value": "Selected Poems"
+        "value": "Selected Poems",
+        "order": "190.00000000000000000000"
       },
       {
         "id": 202,
-        "value": "W. H. Auden: Selected Poems"
+        "value": "W. H. Auden: Selected Poems",
+        "order": "195.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 12,
-        "value": "person_org__12"
+        "value": "person_org__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -168,13 +190,15 @@
     "location": [
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 55,
-        "value": "University of Oxford"
+        "value": "University of Oxford",
+        "order": "55.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -182,7 +206,8 @@
     "person_org": [
       {
         "id": 2,
-        "value": "person_org__2"
+        "value": "person_org__2",
+        "order": "2.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -199,14 +224,16 @@
     "location": [
       {
         "id": 155,
-        "value": "Boston"
+        "value": "Boston",
+        "order": "155.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 39,
-        "value": "W. H. Auden: A Biography"
+        "value": "W. H. Auden: A Biography",
+        "order": "39.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -225,14 +252,16 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 48,
-        "value": "Auden in Love"
+        "value": "Auden in Love",
+        "order": "48.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -251,7 +280,8 @@
     "location": [
       {
         "id": 177,
-        "value": "Palais Wilczek"
+        "value": "Palais Wilczek",
+        "order": "177.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -259,29 +289,35 @@
     "org_event": [
       {
         "id": 1,
-        "value": "org_event__1"
+        "value": "org_event__1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "org_event__4"
+        "value": "org_event__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "org_event__5"
+        "value": "org_event__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "org_event__11"
+        "value": "org_event__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "org_event__12"
+        "value": "org_event__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "person_org": [
       {
         "id": 8,
-        "value": "person_org__8"
+        "value": "person_org__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -298,7 +334,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -319,7 +356,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -328,7 +366,8 @@
     "person_org": [
       {
         "id": 11,
-        "value": "person_org__11"
+        "value": "person_org__11",
+        "order": "11.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -345,42 +384,51 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 2,
-        "value": "Homage to Clio"
+        "value": "Homage to Clio",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "The Dyer's Hand"
+        "value": "The Dyer's Hand",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "Forewords and Afterwords"
+        "value": "Forewords and Afterwords",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 117,
-        "value": "Unpublished volume of memoirs of W. H. Auden"
+        "value": "Unpublished volume of memoirs of W. H. Auden",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "About the House"
+        "value": "About the House",
+        "order": "133.00000000000000000000"
       },
       {
         "id": 138,
-        "value": "Epistle to a Godson and Other Poems"
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
       },
       {
         "id": 182,
-        "value": "On This Island"
+        "value": "On This Island",
+        "order": "175.00000000000000000000"
       },
       {
         "id": 196,
-        "value": "Selected Poetry of W. H. Auden: Second Edition"
+        "value": "Selected Poetry of W. H. Auden: Second Edition",
+        "order": "189.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -399,7 +447,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -420,25 +469,29 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 205,
-        "value": "\"article\""
+        "value": "\"article\"",
+        "order": "198.00000000000000000000"
       },
       {
         "id": 206,
-        "value": "Autumn for the 'Age of Anxiety'"
+        "value": "Autumn for the 'Age of Anxiety'",
+        "order": "199.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 25,
-        "value": "person_org__25"
+        "value": "person_org__25",
+        "order": "25.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -455,7 +508,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -463,15 +517,18 @@
     "org_event": [
       {
         "id": 7,
-        "value": "org_event__7"
+        "value": "org_event__7",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "org_event__8"
+        "value": "org_event__8",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "org_event__15"
+        "value": "org_event__15",
+        "order": "15.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -489,7 +546,8 @@
     "location": [
       {
         "id": 222,
-        "value": "New Haven"
+        "value": "New Haven",
+        "order": "222.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -510,7 +568,8 @@
     "location": [
       {
         "id": 222,
-        "value": "New Haven"
+        "value": "New Haven",
+        "order": "222.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -519,7 +578,8 @@
     "person_org": [
       {
         "id": 15,
-        "value": "person_org__15"
+        "value": "person_org__15",
+        "order": "15.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -536,18 +596,21 @@
     "location": [
       {
         "id": 93,
-        "value": "United Kingdom"
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 121,
-        "value": "Night Mail"
+        "value": "Night Mail",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "Coal Face"
+        "value": "Coal Face",
+        "order": "121.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -566,25 +629,29 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 204,
-        "value": "Books: Holiday bookings; List of recommendations from 1985"
+        "value": "Books: Holiday bookings; List of recommendations from 1985",
+        "order": "197.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "Portrait Gallery"
+        "value": "Portrait Gallery",
+        "order": "201.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 26,
-        "value": "person_org__26"
+        "value": "person_org__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -601,7 +668,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -622,21 +690,24 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 118,
-        "value": "The Auden Landscape"
+        "value": "The Auden Landscape",
+        "order": "117.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 14,
-        "value": "person_org__14"
+        "value": "person_org__14",
+        "order": "14.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -653,7 +724,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -662,11 +734,13 @@
     "person_org": [
       {
         "id": 6,
-        "value": "person_org__6"
+        "value": "person_org__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "person_org__7"
+        "value": "person_org__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -683,7 +757,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -704,7 +779,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -713,19 +789,23 @@
     "person_org": [
       {
         "id": 3,
-        "value": "person_org__3"
+        "value": "person_org__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 4,
-        "value": "person_org__4"
+        "value": "person_org__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "person_org__5"
+        "value": "person_org__5",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "person_org__18"
+        "value": "person_org__18",
+        "order": "18.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -742,21 +822,24 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 67,
-        "value": "Gedichte/Poems"
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 23,
-        "value": "person_org__23"
+        "value": "person_org__23",
+        "order": "23.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -773,7 +856,8 @@
     "location": [
       {
         "id": 156,
-        "value": "Landstraße"
+        "value": "Landstraße",
+        "order": "156.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -782,11 +866,13 @@
     "person_org": [
       {
         "id": 9,
-        "value": "person_org__9"
+        "value": "person_org__9",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "person_org__10"
+        "value": "person_org__10",
+        "order": "10.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -803,14 +889,16 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 119,
-        "value": "The Double Man, a Portrait of W. H. Auden"
+        "value": "The Double Man, a Portrait of W. H. Auden",
+        "order": "118.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -829,7 +917,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -850,7 +939,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -859,7 +949,8 @@
     "person_org": [
       {
         "id": 1,
-        "value": "person_org__1"
+        "value": "person_org__1",
+        "order": "1.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -876,7 +967,8 @@
     "location": [
       {
         "id": 108,
-        "value": "Dublin"
+        "value": "Dublin",
+        "order": "108.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -897,13 +989,15 @@
     "location": [
       {
         "id": 108,
-        "value": "Dublin"
+        "value": "Dublin",
+        "order": "108.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 31,
-        "value": "University of Dublin"
+        "value": "University of Dublin",
+        "order": "31.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -923,7 +1017,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -944,7 +1039,8 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -965,7 +1061,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -973,7 +1070,8 @@
     "org_event": [
       {
         "id": 14,
-        "value": "org_event__14"
+        "value": "org_event__14",
+        "order": "14.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -991,7 +1089,8 @@
     "location": [
       {
         "id": 84,
-        "value": "Paris"
+        "value": "Paris",
+        "order": "84.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1012,7 +1111,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1033,18 +1133,21 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 87,
-        "value": "Fleißaufgaben in Nächstenliebe"
+        "value": "Fleißaufgaben in Nächstenliebe",
+        "order": "87.00000000000000000000"
       },
       {
         "id": 207,
-        "value": "Ein Autor hat Bedenken"
+        "value": "Ein Autor hat Bedenken",
+        "order": "200.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -1063,7 +1166,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1084,14 +1188,16 @@
     "location": [
       {
         "id": 33,
-        "value": "Frankfurt am Main"
+        "value": "Frankfurt am Main",
+        "order": "33.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 89,
-        "value": "Josef Weinheber (translation Herbert Heckmann)"
+        "value": "Josef Weinheber (translation Herbert Heckmann)",
+        "order": "89.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -1110,7 +1216,8 @@
     "location": [
       {
         "id": 9,
-        "value": "St. Pölten"
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1131,7 +1238,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1139,7 +1247,8 @@
     "org_event": [
       {
         "id": 19,
-        "value": "org_event__19"
+        "value": "org_event__19",
+        "order": "19.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1157,7 +1266,8 @@
     "location": [
       {
         "id": 9,
-        "value": "St. Pölten"
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1210,20 +1320,23 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 108,
-        "value": "Auden in Kirchstetten (1976-06-23)"
+        "value": "Auden in Kirchstetten (1976-06-23)",
+        "order": "108.00000000000000000000"
       }
     ],
     "org_event": [
       {
         "id": 10,
-        "value": "org_event__10"
+        "value": "org_event__10",
+        "order": "10.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1241,7 +1354,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1262,7 +1376,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1270,7 +1385,8 @@
     "org_event": [
       {
         "id": 13,
-        "value": "org_event__13"
+        "value": "org_event__13",
+        "order": "13.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1288,7 +1404,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1309,14 +1426,16 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 133,
-        "value": "Of Drugs and Drivel"
+        "value": "Of Drugs and Drivel",
+        "order": "132.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -1335,7 +1454,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1356,7 +1476,8 @@
     "location": [
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1377,7 +1498,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1398,7 +1520,8 @@
     "location": [
       {
         "id": 39,
-        "value": "Canterbury"
+        "value": "Canterbury",
+        "order": "39.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1406,11 +1529,13 @@
     "org_event": [
       {
         "id": 2,
-        "value": "org_event__2"
+        "value": "org_event__2",
+        "order": "2.00000000000000000000"
       },
       {
         "id": 3,
-        "value": "org_event__3"
+        "value": "org_event__3",
+        "order": "3.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1428,7 +1553,8 @@
     "location": [
       {
         "id": 298,
-        "value": "Ann Arbor"
+        "value": "Ann Arbor",
+        "order": "298.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1436,13 +1562,15 @@
     "org_event": [
       {
         "id": 18,
-        "value": "org_event__18"
+        "value": "org_event__18",
+        "order": "18.00000000000000000000"
       }
     ],
     "person_org": [
       {
         "id": 20,
-        "value": "person_org__20"
+        "value": "person_org__20",
+        "order": "20.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -1459,7 +1587,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1468,7 +1597,8 @@
     "person_org": [
       {
         "id": 16,
-        "value": "person_org__16"
+        "value": "person_org__16",
+        "order": "16.00000000000000000000"
       }
     ],
     "gnd": "https://d-nb.info/gnd/1031490280",
@@ -1485,7 +1615,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1493,11 +1624,13 @@
     "org_event": [
       {
         "id": 6,
-        "value": "org_event__6"
+        "value": "org_event__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "org_event__9"
+        "value": "org_event__9",
+        "order": "9.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1515,7 +1648,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1523,7 +1657,8 @@
     "org_event": [
       {
         "id": 16,
-        "value": "org_event__16"
+        "value": "org_event__16",
+        "order": "16.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1541,7 +1676,8 @@
     "location": [
       {
         "id": 37,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1549,7 +1685,8 @@
     "org_event": [
       {
         "id": 17,
-        "value": "org_event__17"
+        "value": "org_event__17",
+        "order": "17.00000000000000000000"
       }
     ],
     "person_org": [],
@@ -1567,21 +1704,24 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 112,
-        "value": "A Very Inquisitive Old Party"
+        "value": "A Very Inquisitive Old Party",
+        "order": "111.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 22,
-        "value": "person_org__22"
+        "value": "person_org__22",
+        "order": "22.00000000000000000000"
       }
     ],
     "gnd": "https://d-nb.info/gnd/16118556-3",
@@ -1598,21 +1738,24 @@
     "location": [
       {
         "id": 126,
-        "value": "Hamburg"
+        "value": "Hamburg",
+        "order": "126.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 127,
-        "value": "Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden"
+        "value": "Ein halbes Jahr zu Gast in Berlin: Ein Gespräch mit dem Dichter, Essayisten und Librettisten Wystan Hugh Auden",
+        "order": "126.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 17,
-        "value": "person_org__17"
+        "value": "person_org__17",
+        "order": "17.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -1629,7 +1772,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1650,21 +1794,24 @@
     "location": [
       {
         "id": 10,
-        "value": "Austria"
+        "value": "Austria",
+        "order": "10.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 115,
-        "value": "Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten"
+        "value": "Die zwei Welten des W. H. Auden: Auf den Spuren des englischen Poeten in Kirchstetten",
+        "order": "114.00000000000000000000"
       }
     ],
     "org_event": [],
     "person_org": [
       {
         "id": 13,
-        "value": "person_org__13"
+        "value": "person_org__13",
+        "order": "13.00000000000000000000"
       }
     ],
     "gnd": "https://d-nb.info/gnd/4807822-0",
@@ -1681,18 +1828,21 @@
     "location": [
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 51,
-        "value": "The Oxford English Dictionary"
+        "value": "The Oxford English Dictionary",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 162,
-        "value": "Auden in Kirchstetten"
+        "value": "Auden in Kirchstetten",
+        "order": "155.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -1711,13 +1861,15 @@
     "location": [
       {
         "id": 5,
-        "value": "Kirchstetten"
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1737,13 +1889,15 @@
     "location": [
       {
         "id": 8,
-        "value": "Ober-Grafendorf"
+        "value": "Ober-Grafendorf",
+        "order": "8.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1763,13 +1917,15 @@
     "location": [
       {
         "id": 311,
-        "value": "Oberndorf an der Melk"
+        "value": "Oberndorf an der Melk",
+        "order": "310.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1789,13 +1945,15 @@
     "location": [
       {
         "id": 156,
-        "value": "Landstraße"
+        "value": "Landstraße",
+        "order": "156.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1815,13 +1973,15 @@
     "location": [
       {
         "id": 308,
-        "value": "Wieden"
+        "value": "Wieden",
+        "order": "307.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1841,13 +2001,15 @@
     "location": [
       {
         "id": 309,
-        "value": "Vienna West railway station"
+        "value": "Vienna West railway station",
+        "order": "308.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1867,13 +2029,15 @@
     "location": [
       {
         "id": 310,
-        "value": "Rudolfsheim-Fünfhaus"
+        "value": "Rudolfsheim-Fünfhaus",
+        "order": "309.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1893,7 +2057,8 @@
     "location": [
       {
         "id": 20,
-        "value": "Federal Republic of Germany"
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1914,13 +2079,15 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 77,
-        "value": "Deutsche Bundespost (German Federal Post Office)"
+        "value": "Deutsche Bundespost (German Federal Post Office)",
+        "order": "75.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1940,13 +2107,15 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 77,
-        "value": "Deutsche Bundespost (German Federal Post Office)"
+        "value": "Deutsche Bundespost (German Federal Post Office)",
+        "order": "75.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -1966,7 +2135,8 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1987,13 +2157,15 @@
     "location": [
       {
         "id": 46,
-        "value": "Oxford"
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 80,
-        "value": "General Post Office"
+        "value": "General Post Office",
+        "order": "78.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2013,13 +2185,15 @@
     "location": [
       {
         "id": 56,
-        "value": "London"
+        "value": "London",
+        "order": "56.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 80,
-        "value": "General Post Office"
+        "value": "General Post Office",
+        "order": "78.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2039,13 +2213,15 @@
     "location": [
       {
         "id": 272,
-        "value": "St John's Wood"
+        "value": "St John's Wood",
+        "order": "272.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 80,
-        "value": "General Post Office"
+        "value": "General Post Office",
+        "order": "78.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2065,7 +2241,8 @@
     "location": [
       {
         "id": 306,
-        "value": "Washington, D.C."
+        "value": "Washington, D.C.",
+        "order": "305.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2086,13 +2263,15 @@
     "location": [
       {
         "id": 168,
-        "value": "Manhattan"
+        "value": "Manhattan",
+        "order": "168.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 84,
-        "value": "United States Post Office Department"
+        "value": "United States Post Office Department",
+        "order": "82.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2112,7 +2291,8 @@
     "location": [
       {
         "id": 27,
-        "value": "Amerikahaus Vienna (1957-1971)"
+        "value": "Amerikahaus Vienna (1957-1971)",
+        "order": "27.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2133,7 +2313,8 @@
     "location": [
       {
         "id": 6,
-        "value": "Lower Austria"
+        "value": "Lower Austria",
+        "order": "6.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2154,14 +2335,16 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [
       {
         "id": 190,
-        "value": "Inzwischen: Ein Musik-Fernseh-Spiel"
+        "value": "Inzwischen: Ein Musik-Fernseh-Spiel",
+        "order": "183.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -2180,13 +2363,15 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 1,
-        "value": "Ford Foundation"
+        "value": "Ford Foundation",
+        "order": "1.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2194,7 +2379,8 @@
     "person_org": [
       {
         "id": 19,
-        "value": "person_org__19"
+        "value": "person_org__19",
+        "order": "19.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -2211,7 +2397,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2219,17 +2406,20 @@
     "org_event": [
       {
         "id": 20,
-        "value": "org_event__20"
+        "value": "org_event__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "org_event__21"
+        "value": "org_event__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "person_org": [
       {
         "id": 24,
-        "value": "person_org__24"
+        "value": "person_org__24",
+        "order": "24.00000000000000000000"
       }
     ],
     "gnd": "https://d-nb.info/gnd/502324-5",
@@ -2246,13 +2436,15 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2272,7 +2464,8 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2293,13 +2486,15 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 40,
-        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)"
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2319,7 +2514,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2340,7 +2536,8 @@
     "location": [
       {
         "id": 17,
-        "value": "Berlin"
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2361,7 +2558,8 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2382,13 +2580,15 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 84,
-        "value": "United States Post Office Department"
+        "value": "United States Post Office Department",
+        "order": "82.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2408,13 +2608,15 @@
     "location": [
       {
         "id": 28,
-        "value": "New York City"
+        "value": "New York City",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": [
       {
         "id": 84,
-        "value": "United States Post Office Department"
+        "value": "United States Post Office Department",
+        "order": "82.00000000000000000000"
       }
     ],
     "literary_works": [],
@@ -2434,7 +2636,8 @@
     "location": [
       {
         "id": 1,
-        "value": "Vienna"
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],

@@ -6,19 +6,22 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 30,
-        "value": "Columbia University"
+        "value": "Columbia University",
+        "order": "30.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -31,19 +34,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 6,
-        "value": "Christ Church"
+        "value": "Christ Church",
+        "order": "6.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -56,19 +62,22 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Die Furche"
+        "value": "Die Furche",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -81,19 +90,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Die Furche"
+        "value": "Die Furche",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -106,19 +118,22 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Die Furche"
+        "value": "Die Furche",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -131,19 +146,22 @@
     "source": [
       {
         "id": 199,
-        "value": "Jones, J. D. F."
+        "value": "Jones, J. D. F.",
+        "order": "198.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Financial Times"
+        "value": "Financial Times",
+        "order": "23.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -156,19 +174,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Financial Times"
+        "value": "Financial Times",
+        "order": "23.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -181,19 +202,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)"
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 34,
-        "value": "has_workplace_in"
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -206,19 +230,22 @@
     "source": [
       {
         "id": 118,
-        "value": "Phillips, Geoffrey John"
+        "value": "Phillips, Geoffrey John",
+        "order": "117.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 27,
-        "value": "Embassy of the United Kingdom in Austria"
+        "value": "Embassy of the United Kingdom in Austria",
+        "order": "27.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -231,19 +258,22 @@
     "source": [
       {
         "id": 156,
-        "value": "Duncan, Bruce"
+        "value": "Duncan, Bruce",
+        "order": "155.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 27,
-        "value": "Embassy of the United Kingdom in Austria"
+        "value": "Embassy of the United Kingdom in Austria",
+        "order": "27.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -256,19 +286,22 @@
     "source": [
       {
         "id": 94,
-        "value": "Musulin, Marko"
+        "value": "Musulin, Marko",
+        "order": "94.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 11,
-        "value": "Creditanstalt-Bankverein"
+        "value": "Creditanstalt-Bankverein",
+        "order": "11.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -281,19 +314,22 @@
     "source": [
       {
         "id": 120,
-        "value": "Monteith, Charles"
+        "value": "Monteith, Charles",
+        "order": "119.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 5,
-        "value": "Faber & Faber"
+        "value": "Faber & Faber",
+        "order": "5.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -306,19 +342,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 68,
-        "value": "morgen"
+        "value": "morgen",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -331,19 +370,22 @@
     "source": [
       {
         "id": 158,
-        "value": "Robinson, Robert"
+        "value": "Robinson, Robert",
+        "order": "157.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "BBC Television"
+        "value": "BBC Television",
+        "order": "22.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -356,19 +398,22 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 18,
-        "value": "Yale University"
+        "value": "Yale University",
+        "order": "18.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -381,19 +426,22 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 59,
-        "value": "Burgtheater"
+        "value": "Burgtheater",
+        "order": "59.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -406,19 +454,22 @@
     "source": [
       {
         "id": 163,
-        "value": "Schmalz-Jacobsen, Cornelia"
+        "value": "Schmalz-Jacobsen, Cornelia",
+        "order": "162.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Die Zeit"
+        "value": "Die Zeit",
+        "order": "64.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -431,19 +482,22 @@
     "source": [
       {
         "id": 61,
-        "value": "Fiechtner, Helmut Albert"
+        "value": "Fiechtner, Helmut Albert",
+        "order": "61.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Die Furche"
+        "value": "Die Furche",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -456,19 +510,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 89,
-        "value": "Ford Foundation Artist-in-Residence Program"
+        "value": "Ford Foundation Artist-in-Residence Program",
+        "order": "87.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 38,
-        "value": "receives_award_from"
+        "value": "receives_award_from",
+        "order": "37.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -481,19 +538,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 58,
-        "value": "University of Michigan"
+        "value": "University of Michigan",
+        "order": "58.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 35,
-        "value": "is_employee_of"
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -506,19 +566,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "American Academy of Arts and Letters"
+        "value": "American Academy of Arts and Letters",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 40,
-        "value": "is_member_of"
+        "value": "is_member_of",
+        "order": "39.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -531,19 +594,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 65,
-        "value": "The New Yorker"
+        "value": "The New Yorker",
+        "order": "63.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -556,19 +622,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 26,
-        "value": "Europa Verlag"
+        "value": "Europa Verlag",
+        "order": "26.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -581,19 +650,22 @@
     "source": [
       {
         "id": 250,
-        "value": "Schenk, Otto"
+        "value": "Schenk, Otto",
+        "order": "248.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 90,
-        "value": "Vienna State Opera"
+        "value": "Vienna State Opera",
+        "order": "88.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -606,19 +678,22 @@
     "source": [
       {
         "id": 249,
-        "value": "Schott, Webster"
+        "value": "Schott, Webster",
+        "order": "247.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 15,
-        "value": "LIFE"
+        "value": "LIFE",
+        "order": "15.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -631,19 +706,22 @@
     "source": [
       {
         "id": 252,
-        "value": "Burstall, Christopher"
+        "value": "Burstall, Christopher",
+        "order": "250.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 20,
-        "value": "The Sunday Times"
+        "value": "The Sunday Times",
+        "order": "20.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 36,
-        "value": "is_contractor_of"
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
       }
     ],
     "start_date": null,

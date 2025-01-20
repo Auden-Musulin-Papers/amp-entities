@@ -1744,6 +1744,15 @@ for any purpose, even commercially.</p>
                   <date when="1965">1965</date>
                   <lang>en</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_210" type="autobiographical_text">
+                  <title>Mein Kampf</title>
+                  <author ref="#amp_person_130">
+                     <persName>Hitler, Adolf</persName>
+                  </author>
+                  <date when="1926">1926</date>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q48244</idno>
+                  <lang>de</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>

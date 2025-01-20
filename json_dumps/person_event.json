@@ -6,14 +6,16 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -24,19 +26,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -47,14 +52,16 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -65,19 +72,22 @@
     "source": [
       {
         "id": 23,
-        "value": "Boras, Ioannis"
+        "value": "Boras, Ioannis",
+        "order": "23.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 2,
-        "value": "Death Ioannis Boras 1968-12-13"
+        "value": "Death Ioannis Boras 1968-12-13",
+        "order": "2.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -88,19 +98,22 @@
     "source": [
       {
         "id": 16,
-        "value": "Eiermann, Emma"
+        "value": "Eiermann, Emma",
+        "order": "16.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 1,
-        "value": "Death Emma Eiermann 1967-11-04"
+        "value": "Death Emma Eiermann 1967-11-04",
+        "order": "1.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -111,19 +124,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 4,
-        "value": "Northeast blackout of 1965 1965-11-09--1965-11-10"
+        "value": "Northeast blackout of 1965 1965-11-09--1965-11-10",
+        "order": "4.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -134,19 +150,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 5,
-        "value": "1966 New York City transit strike 1966-01-01--1966-01-13"
+        "value": "1966 New York City transit strike 1966-01-01--1966-01-13",
+        "order": "5.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -157,19 +176,22 @@
     "source": [
       {
         "id": 15,
-        "value": "Ramsey, Michael"
+        "value": "Ramsey, Michael",
+        "order": "15.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -180,19 +202,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 10,
-        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16",
+        "order": "10.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -203,19 +228,22 @@
     "source": [
       {
         "id": 176,
-        "value": "Strobl, Franz"
+        "value": "Strobl, Franz",
+        "order": "175.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 10,
-        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16",
+        "order": "10.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -226,19 +254,22 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 10,
-        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16"
+        "value": "W. H. Auden's interview of Strobls 1968-02-12--1968-02-16",
+        "order": "10.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -249,19 +280,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 6,
-        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28"
+        "value": "T S Eliot Memorial Lectures: \"Secondary Worlds - Art and Truth\" 1967-10-25--1967-10-28",
+        "order": "6.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -272,19 +306,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -295,19 +332,22 @@
     "source": [
       {
         "id": 129,
-        "value": "Benning, Achim"
+        "value": "Benning, Achim",
+        "order": "128.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28"
+        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28",
+        "order": "3.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -318,19 +358,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 3,
-        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28"
+        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28",
+        "order": "3.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -341,19 +384,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -364,19 +410,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -387,19 +436,22 @@
     "source": [
       {
         "id": 140,
-        "value": "Anne, Princess Royal"
+        "value": "Anne, Princess Royal",
+        "order": "139.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -410,19 +462,22 @@
     "source": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -433,19 +488,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 57,
-        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10"
+        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10",
+        "order": "57.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -456,19 +514,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 60,
-        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942"
+        "value": "W. H. Auden's position as Associate Professor of English in the University of Michigan at Ann Arbor 1941-1942",
+        "order": "60.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -479,19 +540,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 14,
-        "value": "\"Wedding near Krems\" 1970-06-13"
+        "value": "\"Wedding near Krems\" 1970-06-13",
+        "order": "14.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -502,19 +566,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 14,
-        "value": "\"Wedding near Krems\" 1970-06-13"
+        "value": "\"Wedding near Krems\" 1970-06-13",
+        "order": "14.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -525,19 +592,22 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 16,
-        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31"
+        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -548,19 +618,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 16,
-        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31"
+        "value": "Meeting W. H. Auden and Christiane Zimmer  1962-08-01--1962-08-31",
+        "order": "16.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -571,19 +644,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20",
+        "order": "17.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -594,19 +670,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20",
+        "order": "17.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -617,19 +696,22 @@
     "source": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 17,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Franz Josef Lustkandl 1962-10-20",
+        "order": "17.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -640,19 +722,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 18,
-        "value": "Death W. H. Auden 1973-09-28--1973-09-29"
+        "value": "Death W. H. Auden 1973-09-28--1973-09-29",
+        "order": "18.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -663,19 +748,22 @@
     "source": [
       {
         "id": 156,
-        "value": "Duncan, Bruce"
+        "value": "Duncan, Bruce",
+        "order": "155.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -686,19 +774,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -709,19 +800,22 @@
     "source": [
       {
         "id": 88,
-        "value": "Auden, John Bicknell"
+        "value": "Auden, John Bicknell",
+        "order": "88.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -732,19 +826,22 @@
     "source": [
       {
         "id": 99,
-        "value": "O'Sullivan, Michael"
+        "value": "O'Sullivan, Michael",
+        "order": "99.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -755,19 +852,22 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -778,19 +878,22 @@
     "source": [
       {
         "id": 100,
-        "value": "Carpenter, Humphrey"
+        "value": "Carpenter, Humphrey",
+        "order": "100.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -801,19 +904,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05"
+        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05",
+        "order": "23.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -824,14 +930,16 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -842,14 +950,16 @@
     "source": [
       {
         "id": 167,
-        "value": "Musulin, Janko von"
+        "value": "Musulin, Janko von",
+        "order": "166.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -860,19 +970,22 @@
     "source": [
       {
         "id": 230,
-        "value": "Schickelgruber, Anton"
+        "value": "Schickelgruber, Anton",
+        "order": "228.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -883,19 +996,22 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -906,14 +1022,16 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -924,19 +1042,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 27,
-        "value": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965"
+        "value": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965",
+        "order": "27.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -947,14 +1068,16 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -965,19 +1088,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24"
+        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "order": "29.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -988,19 +1114,22 @@
     "source": [
       {
         "id": 243,
-        "value": "Gasser, Wolfgang"
+        "value": "Gasser, Wolfgang",
+        "order": "241.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Reading W. H. Auden 1962-10-04"
+        "value": "Reading W. H. Auden 1962-10-04",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -1011,19 +1140,22 @@
     "source": [
       {
         "id": 91,
-        "value": "Toynbee, Philip"
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -1034,14 +1166,16 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1052,19 +1186,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 34,
-        "value": "Car accident W. H. Auden 1968-04"
+        "value": "Car accident W. H. Auden 1968-04",
+        "order": "34.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1075,14 +1212,16 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1093,19 +1232,22 @@
     "source": [
       {
         "id": 107,
-        "value": "Kurka, Hugo"
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 36,
-        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962",
+        "order": "36.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1116,19 +1258,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 43,
-        "value": "Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30"
+        "value": "Relocation W. H. Auden from New York City to Christ Church, Oxford 1972-04-15--1972-09-30",
+        "order": "43.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1139,19 +1284,22 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1162,19 +1310,22 @@
     "source": [
       {
         "id": 112,
-        "value": "Maurer, Andreas"
+        "value": "Maurer, Andreas",
+        "order": "112.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 37,
-        "value": "Lyrik 70 poetry convention 1970-06-14"
+        "value": "Lyrik 70 poetry convention 1970-06-14",
+        "order": "37.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1185,19 +1336,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 38,
-        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03",
+        "order": "38.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1208,19 +1362,22 @@
     "source": [
       {
         "id": 175,
-        "value": "N/A_8,  \"he whose name we never mention\""
+        "value": "N/A_8,  \"he whose name we never mention\"",
+        "order": "174.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1231,19 +1388,22 @@
     "source": [
       {
         "id": 96,
-        "value": "Clark, Thekla"
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1254,19 +1414,22 @@
     "source": [
       {
         "id": 169,
-        "value": "Clark, Lisa"
+        "value": "Clark, Lisa",
+        "order": "168.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1277,19 +1440,22 @@
     "source": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1300,19 +1466,22 @@
     "source": [
       {
         "id": 22,
-        "value": "Enzinger, Josef"
+        "value": "Enzinger, Josef",
+        "order": "22.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1323,19 +1492,22 @@
     "source": [
       {
         "id": 89,
-        "value": "Luke, Frederic Davey [David]"
+        "value": "Luke, Frederic Davey [David]",
+        "order": "89.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1346,19 +1518,22 @@
     "source": [
       {
         "id": 90,
-        "value": "Orwell, Sonia"
+        "value": "Orwell, Sonia",
+        "order": "90.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -1369,14 +1544,16 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1387,14 +1564,16 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1405,14 +1584,16 @@
     "source": [
       {
         "id": 22,
-        "value": "Enzinger, Josef"
+        "value": "Enzinger, Josef",
+        "order": "22.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1423,14 +1604,16 @@
     "source": [
       {
         "id": 32,
-        "value": "Strobl, Josefa"
+        "value": "Strobl, Josefa",
+        "order": "32.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1441,19 +1624,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 59,
-        "value": "First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31"
+        "value": "First Asian Conference on Cultural Freedom 1951-03-28--1951-03-31",
+        "order": "59.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1464,14 +1650,16 @@
     "source": [
       {
         "id": 169,
-        "value": "Clark, Lisa"
+        "value": "Clark, Lisa",
+        "order": "168.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1482,14 +1670,16 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1500,19 +1690,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Prague Spring 1968-01-05--1968-08-21"
+        "value": "Prague Spring 1968-01-05--1968-08-21",
+        "order": "42.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1523,19 +1716,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Prague Spring 1968-01-05--1968-08-21"
+        "value": "Prague Spring 1968-01-05--1968-08-21",
+        "order": "42.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1546,19 +1742,22 @@
     "source": [
       {
         "id": 171,
-        "value": "Langer, N/A_5"
+        "value": "Langer, N/A_5",
+        "order": "170.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Prague Spring 1968-01-05--1968-08-21"
+        "value": "Prague Spring 1968-01-05--1968-08-21",
+        "order": "42.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1569,19 +1768,22 @@
     "source": [
       {
         "id": 155,
-        "value": "Langer, N/A_4"
+        "value": "Langer, N/A_4",
+        "order": "154.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 42,
-        "value": "Prague Spring 1968-01-05--1968-08-21"
+        "value": "Prague Spring 1968-01-05--1968-08-21",
+        "order": "42.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1592,19 +1794,22 @@
     "source": [
       {
         "id": 121,
-        "value": "Esders, Christa"
+        "value": "Esders, Christa",
+        "order": "120.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 107,
-        "value": "Letter W. H. Auden to Christa Esders 1957-07-15"
+        "value": "Letter W. H. Auden to Christa Esders 1957-07-15",
+        "order": "107.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1615,19 +1820,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 107,
-        "value": "Letter W. H. Auden to Christa Esders 1957-07-15"
+        "value": "Letter W. H. Auden to Christa Esders 1957-07-15",
+        "order": "107.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1638,19 +1846,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 25,
-        "value": "Reading W. H. Auden 1962-10-04"
+        "value": "Reading W. H. Auden 1962-10-04",
+        "order": "25.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -1661,19 +1872,22 @@
     "source": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -1684,19 +1898,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1707,19 +1924,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1730,19 +1950,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1753,19 +1976,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 67,
-        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31"
+        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31",
+        "order": "67.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1776,19 +2002,22 @@
     "source": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 67,
-        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31"
+        "value": "Meeting Stella Musulin with Christine Busta 1958-01-01--1959-12-31",
+        "order": "67.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1799,19 +2028,22 @@
     "source": [
       {
         "id": 3,
-        "value": "Zimmer, Christiane"
+        "value": "Zimmer, Christiane",
+        "order": "3.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 57,
-        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10"
+        "value": "Meeting W. H. Auden and Christiane Zimmer 1959-01-01--1959-10-10",
+        "order": "57.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1822,19 +2054,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 61,
-        "value": "Letter Stella Musulin to W. H. Auden 1959-10-05"
+        "value": "Letter Stella Musulin to W. H. Auden 1959-10-05",
+        "order": "61.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1845,19 +2080,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 61,
-        "value": "Letter Stella Musulin to W. H. Auden 1959-10-05"
+        "value": "Letter Stella Musulin to W. H. Auden 1959-10-05",
+        "order": "61.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1868,19 +2106,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 62,
-        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21"
+        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21",
+        "order": "62.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1891,19 +2132,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 62,
-        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21"
+        "value": "Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21",
+        "order": "62.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -1914,19 +2158,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 63,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23",
+        "order": "63.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1937,19 +2184,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 63,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23",
+        "order": "63.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1960,19 +2210,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 63,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23",
+        "order": "63.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -1983,19 +2236,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 64,
-        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19"
+        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19",
+        "order": "64.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2006,19 +2262,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 64,
-        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19"
+        "value": "Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19",
+        "order": "64.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2029,19 +2288,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 65,
-        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13"
+        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13",
+        "order": "65.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2052,19 +2314,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 65,
-        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13"
+        "value": "Letter Stella Musulin to W. H. Auden 1961-08-16--1961-10-13",
+        "order": "65.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2075,19 +2340,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 68,
-        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11"
+        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11",
+        "order": "68.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2098,19 +2366,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 68,
-        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11"
+        "value": "Postcard Stella Musulin to W. H. Auden 1962-07-23--1962-09-11",
+        "order": "68.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2121,19 +2392,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 69,
-        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17",
+        "order": "69.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2144,19 +2418,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 70,
-        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23"
+        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23",
+        "order": "70.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2167,19 +2444,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 70,
-        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23"
+        "value": "Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23",
+        "order": "70.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2190,19 +2470,22 @@
     "source": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 49,
-        "value": "Commemorative event Josef Weinheber’s death 1965-10-30"
+        "value": "Commemorative event Josef Weinheber’s death 1965-10-30",
+        "order": "49.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2213,19 +2496,22 @@
     "source": [
       {
         "id": 175,
-        "value": "N/A_8,  \"he whose name we never mention\""
+        "value": "N/A_8,  \"he whose name we never mention\"",
+        "order": "174.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 38,
-        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03",
+        "order": "38.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2236,19 +2522,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 69,
-        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17"
+        "value": "International Rudolf Kassner Symposium 1963-05-12--1963-05-17",
+        "order": "69.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2259,19 +2548,22 @@
     "source": [
       {
         "id": 204,
-        "value": "Busta-Dimt, Christine"
+        "value": "Busta-Dimt, Christine",
+        "order": "203.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2282,19 +2574,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 38,
-        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03"
+        "value": "Party at Chester Kallman's apartment in Eslarngasse 18 1965-12-21--1966-02-03",
+        "order": "38.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2305,19 +2600,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2328,19 +2626,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2351,19 +2652,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 66,
-        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23"
+        "value": "Reading Christine Busta \"Meine Hinterhöfe\" 1962-05-23",
+        "order": "66.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2374,19 +2678,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 37,
-        "value": "Lyrik 70 poetry convention 1970-06-14"
+        "value": "Lyrik 70 poetry convention 1970-06-14",
+        "order": "37.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2397,19 +2704,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 32,
-        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\" 1968-07-25"
+        "value": "W. H. Auden's speech \"Worte und Noten: Rede zur Eröffnung der Salzburger Festspiele\" 1968-07-25",
+        "order": "32.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2420,19 +2730,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 23,
-        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05"
+        "value": "Stella Musulin's talk \"W. H. Auden und die Österreicher\" 1977-05-05",
+        "order": "23.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2443,19 +2756,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 26,
-        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18"
+        "value": "PEN International Executive Committee and Round Table Discussion \"Tradition and Innovation in Contemporary Literature\" 1964-10-15--1964-10-18",
+        "order": "26.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2466,19 +2782,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 29,
-        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24"
+        "value": "W. H. Auden's talk \"T. S. Eliot\" 1965-05-24",
+        "order": "29.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2489,19 +2808,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2512,19 +2834,22 @@
     "source": [
       {
         "id": 73,
-        "value": "Bondy, François"
+        "value": "Bondy, François",
+        "order": "73.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2535,19 +2860,22 @@
     "source": [
       {
         "id": 72,
-        "value": "McCarthy, Mary"
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2558,19 +2886,22 @@
     "source": [
       {
         "id": 74,
-        "value": "Etkind, Efim"
+        "value": "Etkind, Efim",
+        "order": "74.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2581,19 +2912,22 @@
     "source": [
       {
         "id": 182,
-        "value": "\"the square-headed commissar type from Moscow\""
+        "value": "\"the square-headed commissar type from Moscow\"",
+        "order": "181.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2604,19 +2938,22 @@
     "source": [
       {
         "id": 75,
-        "value": "Reich-Ranicki, Marcel"
+        "value": "Reich-Ranicki, Marcel",
+        "order": "75.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2627,19 +2964,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 30,
-        "value": "W. H. Auden's sermon delivered in Westminster Abbey 1966-10-18"
+        "value": "W. H. Auden's sermon delivered in Westminster Abbey 1966-10-18",
+        "order": "30.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -2650,19 +2990,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2673,19 +3016,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2696,19 +3042,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 71,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13",
+        "order": "71.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2719,19 +3068,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 71,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1963-05-13",
+        "order": "71.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2742,19 +3094,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 72,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28",
+        "order": "72.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2765,19 +3120,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 72,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-03-15--1965-04-28",
+        "order": "72.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2788,19 +3146,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 73,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28",
+        "order": "73.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2811,19 +3172,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 73,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1965-04-28",
+        "order": "73.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2834,19 +3198,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29",
+        "order": "74.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2857,19 +3224,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 74,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-04-28--1965-09-29",
+        "order": "74.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2880,19 +3250,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 75,
-        "value": "Reception Amerikahaus Vienna (1957-1971) 1965-10-05"
+        "value": "Reception Amerikahaus Vienna (1957-1971) 1965-10-05",
+        "order": "75.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -2903,19 +3276,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 76,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03",
+        "order": "76.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2926,19 +3302,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 76,
-        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03"
+        "value": "Letter Stella Musulin to W. H. Auden 1965-09-29--1966-02-03",
+        "order": "76.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2949,19 +3328,22 @@
     "source": [
       {
         "id": 108,
-        "value": "N/A_2, Harrison"
+        "value": "N/A_2, Harrison",
+        "order": "108.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 77,
-        "value": "Telegram Harrison 1965-09-29--1966-02-03"
+        "value": "Telegram Harrison 1965-09-29--1966-02-03",
+        "order": "77.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -2972,19 +3354,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 77,
-        "value": "Telegram Harrison 1965-09-29--1966-02-03"
+        "value": "Telegram Harrison 1965-09-29--1966-02-03",
+        "order": "77.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -2995,19 +3380,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 77,
-        "value": "Telegram Harrison 1965-09-29--1966-02-03"
+        "value": "Telegram Harrison 1965-09-29--1966-02-03",
+        "order": "77.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3018,19 +3406,22 @@
     "source": [
       {
         "id": 15,
-        "value": "Ramsey, Michael"
+        "value": "Ramsey, Michael",
+        "order": "15.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 9,
-        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25"
+        "value": "W. H. Auden's lecture \"The Martyr as Dramatic Hero\" 1967-10-25",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -3041,19 +3432,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 78,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29",
+        "order": "78.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3064,19 +3458,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 78,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29",
+        "order": "78.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3087,19 +3484,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 78,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1968-09-29",
+        "order": "78.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3110,19 +3510,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 79,
-        "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05"
+        "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05",
+        "order": "79.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3133,19 +3536,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 79,
-        "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05"
+        "value": "Telegram Stella Musulin to W. H. Auden 1968-10-05",
+        "order": "79.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3156,19 +3562,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 80,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05",
+        "order": "80.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3179,19 +3588,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 86,
-        "value": "Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20"
+        "value": "Arrival W. H. Auden in Kirchstetten from New York City 1966-04-20",
+        "order": "86.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3202,19 +3614,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 80,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-05",
+        "order": "80.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3225,19 +3640,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 81,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06",
+        "order": "81.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3248,19 +3666,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 81,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1968-10-06",
+        "order": "81.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3271,19 +3692,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 82,
-        "value": "Arrival W. H. Auden in Vienna from New York City 1968-02-12"
+        "value": "Arrival W. H. Auden in Vienna from New York City 1968-02-12",
+        "order": "82.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3294,19 +3718,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 83,
-        "value": "Departure W. H. Auden to England from Austria 1968-10-07"
+        "value": "Departure W. H. Auden to England from Austria 1968-10-07",
+        "order": "83.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3317,19 +3744,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 84,
-        "value": "Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14"
+        "value": "Arrival Chester Kallman in Kirchstetten from Florence 1963-05-14",
+        "order": "84.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3340,19 +3770,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 85,
-        "value": "Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22"
+        "value": "Arrival W. H. Auden in Kirchstetten from Berlin 1965-04-22",
+        "order": "85.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3363,19 +3796,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 87,
-        "value": "Arrival W. H. Auden in London from Oxford 1968-10-14"
+        "value": "Arrival W. H. Auden in London from Oxford 1968-10-14",
+        "order": "87.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3386,19 +3822,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 88,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15",
+        "order": "88.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3409,19 +3848,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 88,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-12--1968-10-15",
+        "order": "88.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3432,19 +3874,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 89,
-        "value": "Departure W. H. Auden to New York City from London 1968-10-31"
+        "value": "Departure W. H. Auden to New York City from London 1968-10-31",
+        "order": "89.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3455,19 +3900,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 90,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24",
+        "order": "90.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3478,19 +3926,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 90,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-15--1968-10-24",
+        "order": "90.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3501,19 +3952,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 91,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06",
+        "order": "91.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3524,19 +3978,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 91,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-10-24--1968-11-06",
+        "order": "91.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3547,19 +4004,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 92,
-        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13"
+        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13",
+        "order": "92.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3570,19 +4030,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 92,
-        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13"
+        "value": "Telephone call Chester Kallman to W. H. Auden 1968-12-13",
+        "order": "92.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3593,19 +4056,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 93,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04",
+        "order": "93.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3616,19 +4082,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 93,
-        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04"
+        "value": "Letter Stella Musulin to W. H. Auden 1968-12-29--1969-01-04",
+        "order": "93.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3639,19 +4108,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 94,
-        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21"
+        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21",
+        "order": "94.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3662,19 +4134,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 94,
-        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21"
+        "value": "Postcard Stella Musulin to W. H. Auden 1969-01-04--1969-05-21",
+        "order": "94.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3685,19 +4160,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 95,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21",
+        "order": "95.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3708,19 +4186,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 95,
-        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21"
+        "value": "Telephone call W. H. Auden to Stella Musulin 1969-01-04--1969-05-21",
+        "order": "95.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3731,19 +4212,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28",
+        "order": "22.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3754,19 +4238,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28",
+        "order": "22.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3777,19 +4264,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28",
+        "order": "22.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3800,19 +4290,22 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 22,
-        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28"
+        "value": "Meeting W. H. Auden, Friedrich Heer, Chester Kallman, and Stella Musulin 1969-05-28",
+        "order": "22.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3823,19 +4316,22 @@
     "source": [
       {
         "id": 147,
-        "value": "Windisch-Graetz, Eva"
+        "value": "Windisch-Graetz, Eva",
+        "order": "146.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 7,
-        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10"
+        "value": "State visit of Queen Elizabeth II in Austria 1969-05-05--1969-05-10",
+        "order": "7.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -3846,19 +4342,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06",
+        "order": "96.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -3869,19 +4368,22 @@
     "source": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 96,
-        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06"
+        "value": "Opera performance \"Die Fledermaus\" Vienna State Opera 1969-05-06",
+        "order": "96.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -3892,19 +4394,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 97,
-        "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14"
+        "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14",
+        "order": "97.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3915,19 +4420,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 97,
-        "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14"
+        "value": "Meeting W. H. Auden and Stella Musulin 1969-06-14",
+        "order": "97.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3938,19 +4446,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 98,
-        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10"
+        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10",
+        "order": "98.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -3961,19 +4472,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 98,
-        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10"
+        "value": "Letter Stella Musulin to W. H. Auden 1970-05-21--1970-06-10",
+        "order": "98.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -3984,19 +4498,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 99,
-        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22",
+        "order": "99.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4007,19 +4524,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 99,
-        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22",
+        "order": "99.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4030,19 +4550,22 @@
     "source": [
       {
         "id": 225,
-        "value": "Lloyd-Philipps, Margaret Elinor"
+        "value": "Lloyd-Philipps, Margaret Elinor",
+        "order": "223.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 99,
-        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22"
+        "value": "Meeting W. H. Auden, Margaret Lloyd-Philipps, and Stella Musulin 1970-09-22",
+        "order": "99.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4053,19 +4576,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 100,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15",
+        "order": "100.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4076,19 +4602,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 100,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15",
+        "order": "100.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4099,19 +4628,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 100,
-        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15"
+        "value": "Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1971-05-15",
+        "order": "100.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4122,19 +4654,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 101,
-        "value": "Departure W. H. Auden to New York City from London 1971-11-01"
+        "value": "Departure W. H. Auden to New York City from London 1971-11-01",
+        "order": "101.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4145,19 +4680,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 102,
-        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22"
+        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22",
+        "order": "102.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4168,19 +4706,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 102,
-        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22"
+        "value": "Letter Stella Musulin to W. H. Auden 1971-10-19--1972-02-22",
+        "order": "102.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4191,19 +4732,22 @@
     "source": [
       {
         "id": 138,
-        "value": "Elizabeth II.,  Elizabeth of the United Kingdom"
+        "value": "Elizabeth II.,  Elizabeth of the United Kingdom",
+        "order": "137.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 103,
-        "value": "Gala dinner Schönbrunn Palace 1969-05-05"
+        "value": "Gala dinner Schönbrunn Palace 1969-05-05",
+        "order": "103.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4214,19 +4758,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 104,
-        "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01"
+        "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01",
+        "order": "104.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4237,19 +4784,22 @@
     "source": [
       {
         "id": 157,
-        "value": "Mayer, Elizabeth"
+        "value": "Mayer, Elizabeth",
+        "order": "156.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 104,
-        "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01"
+        "value": "Letter W. H. Auden to Elizabeth Mayer 1965-03-01",
+        "order": "104.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4260,19 +4810,22 @@
     "source": [
       {
         "id": 98,
-        "value": "Mendelson, Edward"
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4283,19 +4836,22 @@
     "source": [
       {
         "id": 127,
-        "value": "Raimund, Hans"
+        "value": "Raimund, Hans",
+        "order": "126.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 21,
-        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13"
+        "value": "Symposium \"W. H. Auden 1907-1973\" 1984-10-11--1984-10-13",
+        "order": "21.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -4306,19 +4862,22 @@
     "source": [
       {
         "id": 99,
-        "value": "O'Sullivan, Michael"
+        "value": "O'Sullivan, Michael",
+        "order": "99.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4329,19 +4888,22 @@
     "source": [
       {
         "id": 127,
-        "value": "Raimund, Hans"
+        "value": "Raimund, Hans",
+        "order": "126.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4352,19 +4914,22 @@
     "source": [
       {
         "id": 8,
-        "value": "Spender, Stephen"
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4375,19 +4940,22 @@
     "source": [
       {
         "id": 100,
-        "value": "Carpenter, Humphrey"
+        "value": "Carpenter, Humphrey",
+        "order": "100.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 105,
-        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03"
+        "value": "Exhibition \"W. H. Auden 1907-1973\" 1984-10-11--1984-11-03",
+        "order": "105.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4398,19 +4966,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 108,
-        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "order": "108.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4421,19 +4992,22 @@
     "source": [
       {
         "id": 109,
-        "value": "Lustkandl, Franz"
+        "value": "Lustkandl, Franz",
+        "order": "109.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 108,
-        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "order": "108.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4444,19 +5018,22 @@
     "source": [
       {
         "id": 229,
-        "value": "Yates, Michael"
+        "value": "Yates, Michael",
+        "order": "227.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4467,19 +5044,22 @@
     "source": [
       {
         "id": 228,
-        "value": "Yates, Marny (Margaret)"
+        "value": "Yates, Marny (Margaret)",
+        "order": "226.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4490,19 +5070,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 108,
-        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "order": "108.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4513,19 +5096,22 @@
     "source": [
       {
         "id": 135,
-        "value": "Bronold, Hella"
+        "value": "Bronold, Hella",
+        "order": "134.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4536,19 +5122,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4559,19 +5148,22 @@
     "source": [
       {
         "id": 54,
-        "value": "Heer, Friedrich"
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4582,19 +5174,22 @@
     "source": [
       {
         "id": 200,
-        "value": "Seitz, Josef"
+        "value": "Seitz, Josef",
+        "order": "199.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 108,
-        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "order": "108.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4605,19 +5200,22 @@
     "source": [
       {
         "id": 227,
-        "value": "Osborne, Charles"
+        "value": "Osborne, Charles",
+        "order": "225.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4628,19 +5226,22 @@
     "source": [
       {
         "id": 120,
-        "value": "Monteith, Charles"
+        "value": "Monteith, Charles",
+        "order": "119.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4651,19 +5252,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 106,
-        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23"
+        "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23",
+        "order": "106.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -4674,19 +5278,22 @@
     "source": [
       {
         "id": 97,
-        "value": "Seitz, Maria"
+        "value": "Seitz, Maria",
+        "order": "97.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 108,
-        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21"
+        "value": "Meeting W. H. Auden, Franz Lustkandl, Stella Musulin, Josef Seitz, and Maria Seitz 1959-10-10--1960-07-21",
+        "order": "108.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4697,19 +5304,22 @@
     "source": [
       {
         "id": 121,
-        "value": "Esders, Christa"
+        "value": "Esders, Christa",
+        "order": "120.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 19,
-        "value": "Funeral of W. H. Auden 1973-10-04"
+        "value": "Funeral of W. H. Auden 1973-10-04",
+        "order": "19.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 31,
-        "value": "is_attendee_of"
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   },
@@ -4720,19 +5330,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 109,
-        "value": "Reading W. H. Auden \"Hier und Jetzt\""
+        "value": "Reading W. H. Auden \"Hier und Jetzt\"",
+        "order": "109.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -4743,19 +5356,22 @@
     "source": [
       {
         "id": 240,
-        "value": "Kurka, Christa"
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 36,
-        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962",
+        "order": "36.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4766,19 +5382,22 @@
     "source": [
       {
         "id": 137,
-        "value": "Kraus, Wolfgang"
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 29,
-        "value": "is_speaker_in"
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
       }
     ]
   },
@@ -4789,19 +5408,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 36,
-        "value": "Arrest and court trial of Christa K. and Hugo K. 1962"
+        "value": "Arrest and court trial of Christa K. and Hugo K. 1962",
+        "order": "36.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4812,19 +5434,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 110,
-        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19"
+        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19",
+        "order": "110.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4835,19 +5460,22 @@
     "source": [
       {
         "id": 2,
-        "value": "Musulin, Stella Mary Bellairs"
+        "value": "Musulin, Stella Mary Bellairs",
+        "order": "2.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 110,
-        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19"
+        "value": "Telegram W. H. Auden to Stella Musulin 1970-05-19",
+        "order": "110.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4858,19 +5486,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 111,
-        "value": "Letter Oskar Kokoschka to W. H. Auden"
+        "value": "Letter Oskar Kokoschka to W. H. Auden",
+        "order": "111.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4881,19 +5512,22 @@
     "source": [
       {
         "id": 83,
-        "value": "Kokoschka, Oskar"
+        "value": "Kokoschka, Oskar",
+        "order": "83.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 111,
-        "value": "Letter Oskar Kokoschka to W. H. Auden"
+        "value": "Letter Oskar Kokoschka to W. H. Auden",
+        "order": "111.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4904,19 +5538,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 46,
-        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25"
+        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25",
+        "order": "46.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4927,19 +5564,22 @@
     "source": [
       {
         "id": 1,
-        "value": "Auden, W. H."
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 112,
-        "value": "Departure W. H. Auden to New York City from Vienna 1968-02-16"
+        "value": "Departure W. H. Auden to New York City from Vienna 1968-02-16",
+        "order": "112.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4950,19 +5590,22 @@
     "source": [
       {
         "id": 250,
-        "value": "Schenk, Otto"
+        "value": "Schenk, Otto",
+        "order": "248.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 113,
-        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
+        "order": "113.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -4973,19 +5616,22 @@
     "source": [
       {
         "id": 4,
-        "value": "Kallman, Chester"
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 113,
-        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04"
+        "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
+        "order": "113.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 30,
-        "value": "is_passiveparticipant_in"
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
       }
     ]
   },
@@ -4996,19 +5642,22 @@
     "source": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 37,
-        "value": "Lyrik 70 poetry convention 1970-06-14"
+        "value": "Lyrik 70 poetry convention 1970-06-14",
+        "order": "37.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 33,
-        "value": "is_organizer_of"
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
       }
     ]
   },
@@ -5019,19 +5668,22 @@
     "source": [
       {
         "id": 152,
-        "value": "Breicha, Otto"
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
       }
     ],
     "target": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26"
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
       }
     ],
     "relation_type_object": [
       {
         "id": 28,
-        "value": "is_activeparticipant_in"
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
