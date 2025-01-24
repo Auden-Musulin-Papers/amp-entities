@@ -55,7 +55,7 @@ for any purpose, even commercially.</p>
                <org xml:id="{{ x.amp_id }}">
                   <orgName>{{ x.name }}</orgName>
                   {% if x.founded_in_year is string %}
-                  <desc>Was founded in year <date from-iso="{{ x.founded_in_year }}">{{ x.founded_in_year }}</date>.</desc>
+                  <desc>Was founded in year <date from-iso="{{ x.founded_in_year }}-01-01">{{ x.founded_in_year }}</date>.</desc>
                   {% endif %}
                   {% if x.location|length > 0 %}
                   {% for p in x.location if p.data %}
