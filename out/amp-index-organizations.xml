@@ -53,7 +53,7 @@ for any purpose, even commercially.</p>
             <listOrg xml:id="listorg">
                <org xml:id="amp_organization_1">
                   <orgName>Ford Foundation</orgName>
-                  <desc>Was founded in year 1936.</desc>
+                  <desc>Was founded in year <date from-iso="1936">1936</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -64,7 +64,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_2">
                   <orgName>American Academy of Arts and Letters</orgName>
-                  <desc>Was founded in year 1898.</desc>
+                  <desc>Was founded in year <date from-iso="1898">1898</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -76,13 +76,13 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_4">
                   <orgName>Church of England</orgName>
-                  <desc>Was founded in year 1534.</desc>
+                  <desc>Was founded in year <date from-iso="1534">1534</date>.</desc>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q82708</idno>
                   <note>https://www.churchofengland.org/</note>
                </org>
                <org xml:id="amp_organization_5">
                   <orgName>Faber &amp; Faber</orgName>
-                  <desc>Was founded in year 1929.</desc>
+                  <desc>Was founded in year <date from-iso="1929">1929</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_44">24 Russell Square</placeName>
                   </location>
@@ -94,7 +94,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_6">
                   <orgName>Christ Church</orgName>
-                  <desc>Was founded in year 1546.</desc>
+                  <desc>Was founded in year <date from-iso="1546">1546</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_46">Oxford</placeName>
                   </location>
@@ -106,7 +106,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_7">
                   <orgName>Houghton Mifflin Company</orgName>
-                  <desc>Was founded in year 1832.</desc>
+                  <desc>Was founded in year <date from-iso="1832">1832</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_155">Boston</placeName>
                   </location>
@@ -118,7 +118,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_8">
                   <orgName>Simon &amp; Schuster</orgName>
-                  <desc>Was founded in year 1924.</desc>
+                  <desc>Was founded in year <date from-iso="1924">1924</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -130,7 +130,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_9">
                   <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
-                  <desc>Was founded in year 1961.</desc>
+                  <desc>Was founded in year <date from-iso="1961">1961</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_177">Palais Wilczek</placeName>
                   </location>
@@ -142,7 +142,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_10">
                   <orgName>PEN Austria</orgName>
-                  <desc>Was founded in year 1923.</desc>
+                  <desc>Was founded in year <date from-iso="1923">1923</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -153,7 +153,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_11">
                   <orgName>Creditanstalt-Bankverein</orgName>
-                  <desc>Was founded in year 1855.</desc>
+                  <desc>Was founded in year <date from-iso="1855">1855</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -165,7 +165,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_12">
                   <orgName>Random House</orgName>
-                  <desc>Was founded in year 1927.</desc>
+                  <desc>Was founded in year <date from-iso="1927">1927</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -177,7 +177,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_13">
                   <orgName>Virago Press</orgName>
-                  <desc>Was founded in year 1973.</desc>
+                  <desc>Was founded in year <date from-iso="1973">1973</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -189,7 +189,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_15">
                   <orgName>LIFE</orgName>
-                  <desc>Was founded in year 1883.</desc>
+                  <desc>Was founded in year <date from-iso="1883">1883</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -201,7 +201,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_16">
                   <orgName>British Council</orgName>
-                  <desc>Was founded in year 1934.</desc>
+                  <desc>Was founded in year <date from-iso="1934">1934</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -213,7 +213,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_17">
                   <orgName>Beinecke Rare Book &amp; Manuscript Library</orgName>
-                  <desc>Was founded in year 1963.</desc>
+                  <desc>Was founded in year <date from-iso="1963">1963</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_222">New Haven</placeName>
                   </location>
@@ -225,7 +225,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_18">
                   <orgName>Yale University</orgName>
-                  <desc>Was founded in year 1701.</desc>
+                  <desc>Was founded in year <date from-iso="1701">1701</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_222">New Haven</placeName>
                   </location>
@@ -237,7 +237,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_19">
                   <orgName>GPO Film Unit</orgName>
-                  <desc>Was founded in year 1933.</desc>
+                  <desc>Was founded in year <date from-iso="1933">1933</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_93">United Kingdom</placeName>
                   </location>
@@ -249,7 +249,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_20">
                   <orgName>The Sunday Times</orgName>
-                  <desc>Was founded in year 1821.</desc>
+                  <desc>Was founded in year <date from-iso="1821">1821</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -261,7 +261,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_21">
                   <orgName>The New York Times</orgName>
-                  <desc>Was founded in year 1851.</desc>
+                  <desc>Was founded in year <date from-iso="1851">1851</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -273,7 +273,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_22">
                   <orgName>BBC Television</orgName>
-                  <desc>Was founded in year 1927.</desc>
+                  <desc>Was founded in year <date from-iso="1927">1927</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -285,7 +285,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_23">
                   <orgName>Financial Times</orgName>
-                  <desc>Was founded in year 1888.</desc>
+                  <desc>Was founded in year <date from-iso="1888">1888</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -297,7 +297,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_24">
                   <orgName>National Review</orgName>
-                  <desc>Was founded in year 1955.</desc>
+                  <desc>Was founded in year <date from-iso="1955">1955</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -309,7 +309,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_25">
                   <orgName>Die Furche</orgName>
-                  <desc>Was founded in year 1945.</desc>
+                  <desc>Was founded in year <date from-iso="1945">1945</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -321,7 +321,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_26">
                   <orgName>Europa Verlag</orgName>
-                  <desc>Was founded in year 1933.</desc>
+                  <desc>Was founded in year <date from-iso="1933">1933</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -344,7 +344,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_28">
                   <orgName>BBC Radio</orgName>
-                  <desc>Was founded in year 1922.</desc>
+                  <desc>Was founded in year <date from-iso="1922">1922</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -356,7 +356,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_29">
                   <orgName>Curtis Brown, Ltd.</orgName>
-                  <desc>Was founded in year 1914.</desc>
+                  <desc>Was founded in year <date from-iso="1914">1914</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -367,7 +367,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_30">
                   <orgName>Columbia University</orgName>
-                  <desc>Was founded in year 1754.</desc>
+                  <desc>Was founded in year <date from-iso="1754">1754</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -379,7 +379,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_31">
                   <orgName>University of Dublin</orgName>
-                  <desc>Was founded in year 1592.</desc>
+                  <desc>Was founded in year <date from-iso="1592">1592</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_108">Dublin</placeName>
                   </location>
@@ -391,7 +391,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_32">
                   <orgName>Trinity College Dublin</orgName>
-                  <desc>Was founded in year 1592.</desc>
+                  <desc>Was founded in year <date from-iso="1592">1592</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_108">Dublin</placeName>
                   </location>
@@ -403,7 +403,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_33">
                   <orgName>Group Theatre (London)</orgName>
-                  <desc>Was founded in year 1932.</desc>
+                  <desc>Was founded in year <date from-iso="1932">1932</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -415,7 +415,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_34">
                   <orgName>Senate of Berlin</orgName>
-                  <desc>Was founded in year 1950.</desc>
+                  <desc>Was founded in year <date from-iso="1950">1950</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -427,7 +427,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_35">
                   <orgName>Österreichisch-Britische Gesellschaft (Austro-British Society)</orgName>
-                  <desc>Was founded in year 1946.</desc>
+                  <desc>Was founded in year <date from-iso="1946">1946</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -438,7 +438,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_36">
                   <orgName>University of Paris</orgName>
-                  <desc>Was founded in year 1150.</desc>
+                  <desc>Was founded in year <date from-iso="1150">1150</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_84">Paris</placeName>
                   </location>
@@ -450,7 +450,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_38">
                   <orgName>Gebrüder Wild</orgName>
-                  <desc>Was founded in year 1816.</desc>
+                  <desc>Was founded in year <date from-iso="1816">1816</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -462,7 +462,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_39">
                   <orgName>Die Presse</orgName>
-                  <desc>Was founded in year 1848.</desc>
+                  <desc>Was founded in year <date from-iso="1848">1848</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -474,7 +474,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_40">
                   <orgName>Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)</orgName>
-                  <desc>Was founded in year 1866.</desc>
+                  <desc>Was founded in year <date from-iso="1866">1866</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -486,7 +486,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_41">
                   <orgName>Die neue Rundschau</orgName>
-                  <desc>Was founded in year 1890.</desc>
+                  <desc>Was founded in year <date from-iso="1890">1890</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_33">Frankfurt am Main</placeName>
                   </location>
@@ -498,7 +498,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_42">
                   <orgName>University Hospital in St. Pölten</orgName>
-                  <desc>Was founded in year 1894.</desc>
+                  <desc>Was founded in year <date from-iso="1894">1894</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_9">St. Pölten</placeName>
                   </location>
@@ -532,7 +532,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_45">
                   <orgName>Episcopal Church</orgName>
-                  <desc>Was founded in year 1785.</desc>
+                  <desc>Was founded in year <date from-iso="1785">1785</date>.</desc>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q682443</idno>
                   <note/>
                </org>
@@ -543,7 +543,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_47">
                   <orgName>English PEN</orgName>
-                  <desc>Was founded in year 1921.</desc>
+                  <desc>Was founded in year <date from-iso="1921">1921</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -555,7 +555,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_49">
                   <orgName>The Times</orgName>
-                  <desc>Was founded in year 1785.</desc>
+                  <desc>Was founded in year <date from-iso="1785">1785</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -567,7 +567,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_51">
                   <orgName>PEN International</orgName>
-                  <desc>Was founded in year 1921.</desc>
+                  <desc>Was founded in year <date from-iso="1921">1921</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -579,7 +579,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_52">
                   <orgName>Berufsfeuerwehr Wien (Fire brigade of Vienna)</orgName>
-                  <desc>Was founded in year 1686.</desc>
+                  <desc>Was founded in year <date from-iso="1686">1686</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -591,7 +591,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_53">
                   <orgName>The Sunday Telegraph</orgName>
-                  <desc>Was founded in year 1961.</desc>
+                  <desc>Was founded in year <date from-iso="1961">1961</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -603,7 +603,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_54">
                   <orgName>London Underground</orgName>
-                  <desc>Was founded in year 1863.</desc>
+                  <desc>Was founded in year <date from-iso="1863">1863</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -615,7 +615,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_55">
                   <orgName>University of Oxford</orgName>
-                  <desc>Was founded in year 1096.</desc>
+                  <desc>Was founded in year <date from-iso="1096">1096</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_46">Oxford</placeName>
                   </location>
@@ -627,7 +627,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_56">
                   <orgName>TU Wien (Vienna University of Technology)</orgName>
-                  <desc>Was founded in year 1815.</desc>
+                  <desc>Was founded in year <date from-iso="1815">1815</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -639,7 +639,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_57">
                   <orgName>Eliot College</orgName>
-                  <desc>Was founded in year 1965.</desc>
+                  <desc>Was founded in year <date from-iso="1965">1965</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_39">Canterbury</placeName>
                   </location>
@@ -651,7 +651,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_58">
                   <orgName>University of Michigan</orgName>
-                  <desc>Was founded in year 1817.</desc>
+                  <desc>Was founded in year <date from-iso="1817">1817</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_298">Ann Arbor</placeName>
                   </location>
@@ -663,7 +663,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_59">
                   <orgName>Burgtheater</orgName>
-                  <desc>Was founded in year 1741.</desc>
+                  <desc>Was founded in year <date from-iso="1741">1741</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -675,7 +675,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_60">
                   <orgName>Künstlerhaus Wien</orgName>
-                  <desc>Was founded in year 1868.</desc>
+                  <desc>Was founded in year <date from-iso="1868">1868</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -687,7 +687,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_61">
                   <orgName>Naturhistorisches Museum Wien (Natural History Museum Vienna)</orgName>
-                  <desc>Was founded in year 1889.</desc>
+                  <desc>Was founded in year <date from-iso="1889">1889</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -699,7 +699,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_62">
                   <orgName>Großes Festspielhaus (Large Festival House)</orgName>
-                  <desc>Was founded in year 1960.</desc>
+                  <desc>Was founded in year <date from-iso="1960">1960</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_37">Salzburg</placeName>
                   </location>
@@ -711,7 +711,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_65">
                   <orgName>The New Yorker</orgName>
-                  <desc>Was founded in year 1925.</desc>
+                  <desc>Was founded in year <date from-iso="1925">1925</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -723,7 +723,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_66">
                   <orgName>Die Zeit</orgName>
-                  <desc>Was founded in year 1946.</desc>
+                  <desc>Was founded in year <date from-iso="1946">1946</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_126">Hamburg</placeName>
                   </location>
@@ -735,7 +735,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_67">
                   <orgName>Kronenzeitung</orgName>
-                  <desc>Was founded in year 1899.</desc>
+                  <desc>Was founded in year <date from-iso="1899">1899</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -747,7 +747,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_68">
                   <orgName>morgen</orgName>
-                  <desc>Was founded in year 1977.</desc>
+                  <desc>Was founded in year <date from-iso="1977">1977</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
@@ -758,7 +758,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_69">
                   <orgName>Oxford University Press</orgName>
-                  <desc>Was founded in year 1586.</desc>
+                  <desc>Was founded in year <date from-iso="1586">1586</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_46">Oxford</placeName>
                   </location>
@@ -840,7 +840,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_77">
                   <orgName>Deutsche Bundespost (German Federal Post Office)</orgName>
-                  <desc>Was founded in year 1950.</desc>
+                  <desc>Was founded in year <date from-iso="1950">1950</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
                   </location>
@@ -872,7 +872,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_80">
                   <orgName>General Post Office</orgName>
-                  <desc>Was founded in year 1660.</desc>
+                  <desc>Was founded in year <date from-iso="1660">1660</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
@@ -914,7 +914,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_84">
                   <orgName>United States Post Office Department</orgName>
-                  <desc>Was founded in year 1792.</desc>
+                  <desc>Was founded in year <date from-iso="1792">1792</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_306">Washington, D.C.</placeName>
                   </location>
@@ -937,7 +937,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_86">
                   <orgName>Amerikahaus</orgName>
-                  <desc>Was founded in year 1945.</desc>
+                  <desc>Was founded in year <date from-iso="1945">1945</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_27">Amerikahaus Vienna (1957-1971)</placeName>
                   </location>
@@ -949,7 +949,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_87">
                   <orgName>Flughafen Wien-Schwechat (Vienna International Airport)</orgName>
-                  <desc>Was founded in year 1954.</desc>
+                  <desc>Was founded in year <date from-iso="1954">1954</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_6">Lower Austria</placeName>
                   </location>
@@ -961,7 +961,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_88">
                   <orgName>Österreichischer Rundfunk (Austrian Broadcasting Corporation)</orgName>
-                  <desc>Was founded in year 1953.</desc>
+                  <desc>Was founded in year <date from-iso="1953">1953</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -973,7 +973,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_89">
                   <orgName>Ford Foundation Artist-in-Residence Program</orgName>
-                  <desc>Was founded in year 1963.</desc>
+                  <desc>Was founded in year <date from-iso="1963">1963</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -985,7 +985,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_90">
                   <orgName>Vienna State Opera</orgName>
-                  <desc>Was founded in year 1955.</desc>
+                  <desc>Was founded in year <date from-iso="1955">1955</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1007,7 +1007,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_92">
                   <orgName>Flughafen Berlin-Tempelhof (Berlin Tempelhof Airport)</orgName>
-                  <desc>Was founded in year 1923.</desc>
+                  <desc>Was founded in year <date from-iso="1923">1923</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -1030,7 +1030,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_94">
                   <orgName>Pan American World Airways</orgName>
-                  <desc>Was founded in year 1927.</desc>
+                  <desc>Was founded in year <date from-iso="1927">1927</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -1042,7 +1042,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_95">
                   <orgName>Flughafen Berlin-Tegel (Berlin Tegel Airport)</orgName>
-                  <desc>Was founded in year 1948.</desc>
+                  <desc>Was founded in year <date from-iso="1948">1948</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_17">Berlin</placeName>
                   </location>
@@ -1054,7 +1054,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_96">
                   <orgName>John F. Kennedy International Airport</orgName>
-                  <desc>Was founded in year 1948.</desc>
+                  <desc>Was founded in year <date from-iso="1948">1948</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -1066,7 +1066,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_97">
                   <orgName>United States Post Office Church Street Station</orgName>
-                  <desc>Was founded in year 1935.</desc>
+                  <desc>Was founded in year <date from-iso="1935">1935</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -1078,7 +1078,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_98">
                   <orgName>United States Post Office Cooper Station</orgName>
-                  <desc>Was founded in year 1937.</desc>
+                  <desc>Was founded in year <date from-iso="1937">1937</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
@@ -1090,7 +1090,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_99">
                   <orgName>Sozialistische Partei Österreichs (Socialist Party of Austria)</orgName>
-                  <desc>Was founded in year 1945.</desc>
+                  <desc>Was founded in year <date from-iso="1945">1945</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
