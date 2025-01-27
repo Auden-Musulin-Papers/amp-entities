@@ -136,3 +136,4 @@ env.secret
 # exclude denormalized files
 *__denorm.json
 test_*.json
+amp-entities-pandorfer.xpr

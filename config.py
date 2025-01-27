@@ -51,27 +51,27 @@ MAPPING_LITERARY_WORKS = {
 MAPPING_RELATIONSHIPS_PERSONS = {
     "source": "persons.json",
     "target": "persons.json",
-    "relation_type_object": "relation_types.json"
+    "relation_type_object": "relation_types.json",
 }
 MAPPING_RELATIONSHIPS_PLACES = {
     "source": "persons.json",
     "target": "places.json",
-    "relation_type_object": "relation_types.json"
+    "relation_type_object": "relation_types.json",
 }
 MAPPING_RELATIONSHIPS_EVENTS = {
     "source": "persons.json",
     "target": "events.json",
-    "relation_type_object": "relation_types.json"
+    "relation_type_object": "relation_types.json",
 }
 MAPPING_RELATIONSHIPS_ORGS = {
     "source": "persons.json",
     "target": "organizations.json",
-    "relation_type_object": "relation_types.json"
+    "relation_type_object": "relation_types.json",
 }
 MAPPING_RELATIONSHIPS_ORGS_EVENT = {
     "source": "organizations.json",
     "target": "events.json",
-    "relation_type_object": "relation_types.json"
+    "relation_type_object": "relation_types.json",
 }
 MAPPING_RELATION_TYPES = {
     "has_broader": "relation_types.json",
@@ -81,7 +81,13 @@ MAPPING_RELATION_TYPES = {
     "org_event": "org_event.json",
     "person_org": "person_org.json",
     "literary_works": "literary_works.json",
-    "places": "places.json"
+    "places": "places.json",
 }
 
-br_client = BaseRowClient(BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL)
+try:
+    br_client = BaseRowClient(
+        BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
+    )
+except KeyError:
+    print("Please provide BASEROW_USER, BASEROW_PW, BASEROW_TOKEN in your environment.")
+    br_client = None
