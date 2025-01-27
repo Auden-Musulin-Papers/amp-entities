@@ -4731,16 +4731,6 @@
       }
     ]
   },
-  "189": {
-    "id": 189,
-    "order": "189.00000000000000000000",
-    "amp_id": "relationship_person_id__189",
-    "source": [],
-    "target": [],
-    "start_date": null,
-    "end_date": null,
-    "relation_type_object": []
-  },
   "190": {
     "id": 190,
     "order": "190.00000000000000000000",
@@ -5497,22 +5487,6 @@
       }
     ]
   },
-  "216": {
-    "id": 216,
-    "order": "217.00000000000000000000",
-    "amp_id": "relationship_person_id__216",
-    "source": [
-      {
-        "id": 2,
-        "value": "Musulin, Stella Mary Bellairs",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "target": [],
-    "start_date": null,
-    "end_date": null,
-    "relation_type_object": []
-  },
   "217": {
     "id": 217,
     "order": "218.00000000000000000000",
@@ -6072,25 +6046,5 @@
         "order": "6.00000000000000000000"
       }
     ]
-  },
-  "237": {
-    "id": 237,
-    "order": "238.00000000000000000000",
-    "amp_id": "relationship_person_id__237",
-    "source": [],
-    "target": [],
-    "start_date": null,
-    "end_date": null,
-    "relation_type_object": []
-  },
-  "238": {
-    "id": 238,
-    "order": "239.00000000000000000000",
-    "amp_id": "relationship_person_id__238",
-    "source": [],
-    "target": [],
-    "start_date": null,
-    "end_date": null,
-    "relation_type_object": []
   }
 }
