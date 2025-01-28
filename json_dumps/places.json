@@ -416,6 +416,11 @@
         "id": 99,
         "value": "Sozialistische Partei Österreichs (Socialist Party of Austria)",
         "order": "97.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Bundesgendarmerie (Federal Gendarmerie)",
+        "order": "99.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1075,6 +1080,11 @@
         "id": 44,
         "value": "Amt der niederösterreichischen Landesregierung (Office of the Federal Government of Lower Austria)",
         "order": "44.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Kreisgericht St. Pölten (St. Pölten district court)",
+        "order": "98.00000000000000000000"
       }
     ],
     "is_part_of": [

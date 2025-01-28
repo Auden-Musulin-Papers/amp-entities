@@ -1101,7 +1101,27 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_100">
-                  <orgName/>
+                  <orgName>Kreisgericht St. Pölten (St. Pölten district court)</orgName>
+                  <desc>Was founded in year <date from-iso="1850-01-01">1850</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2, 15.63333</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q42725963</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_101">
+                  <orgName>Bundesgendarmerie (Federal Gendarmerie)</orgName>
+                  <desc>Was founded in year <date from-iso="1849-01-01">1849</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877487</idno>
                   <note/>
                </org>
             </listOrg>

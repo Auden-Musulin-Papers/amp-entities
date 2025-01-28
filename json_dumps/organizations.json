@@ -2629,7 +2629,7 @@
     "id": 99,
     "order": "97.00000000000000000000",
     "name": "Sozialistische Partei Österreichs (Socialist Party of Austria)",
-    "wikidata": "https://www.wikidata.org/wiki/Q179111",
+    "wikidata": "https://www.wikidata.org/entity/Q179111",
     "amp_id": "amp_organization_99",
     "founded_in_year": "1945",
     "comments": "",
@@ -2650,17 +2650,45 @@
   "100": {
     "id": 100,
     "order": "98.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Kreisgericht St. Pölten (St. Pölten district court)",
+    "wikidata": "https://www.wikidata.org/entity/Q42725963",
     "amp_id": "amp_organization_100",
-    "founded_in_year": null,
+    "founded_in_year": "1850",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 9,
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
     "person_org": [],
     "gnd": "",
+    "URL": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "name": "Bundesgendarmerie (Federal Gendarmerie)",
+    "wikidata": "https://www.wikidata.org/entity/Q877487",
+    "amp_id": "amp_organization_101",
+    "founded_in_year": "1849",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/402315-8",
     "URL": ""
   }
 }

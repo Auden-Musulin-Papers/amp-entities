@@ -4425,8 +4425,8 @@ for any purpose, even commercially.</p>
                </person>
                <person xml:id="amp_person_254">
                   <persName>
-                     <forename/>
-                     <surname>"Gäste"</surname>
+                     <forename>"Gäste"</forename>
+                     <surname>N/A_14</surname>
                   </persName>
                </person>
                <person xml:id="amp_person_256">
@@ -4448,6 +4448,12 @@ for any purpose, even commercially.</p>
                   <persName>
                      <forename>"ein Freund"</forename>
                      <surname>N/A_13</surname>
+                  </persName>
+               </person>
+               <person xml:id="amp_person_258">
+                  <persName>
+                     <forename>"zwei Amerikarin"</forename>
+                     <surname>N/A_15</surname>
                   </persName>
                </person>
             </listPerson>
