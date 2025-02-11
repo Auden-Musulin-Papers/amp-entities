@@ -2690,5 +2690,27 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/402315-8",
     "URL": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "name": "Volkswagen Versicherungsdienst GmbH",
+    "wikidata": "https://www.wikidata.org/entity/Q2532303",
+    "amp_id": "amp_organization_102",
+    "founded_in_year": "1948",
+    "comments": "",
+    "location": [
+      {
+        "id": 361,
+        "value": "Wolfsburg",
+        "order": "360.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2151899-3",
+    "URL": ""
   }
 }

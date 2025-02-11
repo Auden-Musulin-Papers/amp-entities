@@ -1124,6 +1124,18 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877487</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_102">
+                  <orgName>Volkswagen Versicherungsdienst GmbH</orgName>
+                  <desc>Was founded in year <date from-iso="1948-01-01">1948</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_361">Wolfsburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.42452, 10.7815</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2532303</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

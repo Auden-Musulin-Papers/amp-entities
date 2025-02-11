@@ -5222,10 +5222,37 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_360">
-                  <placeName>Oberhofen am Irrsee</placeName>
+                  <settlement type="P">
+                     <placeName>Oberhofen am Irrsee</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>AT, Austria</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.95, 13.3</geo>
+                  </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2770042/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q665961</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4527802-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_361">
+                  <settlement type="P">
+                     <placeName>Wolfsburg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.42452, 10.7815</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2806654/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32067995</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066874-5</idno>
                   <note/>
                </place>
             </listPlace>
