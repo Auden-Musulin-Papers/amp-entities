@@ -4776,5 +4776,46 @@
     "status": null,
     "org_event": [],
     "part_of": []
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "name": "1968 United States presidential election",
+    "amp_id": "amp_event_id_116",
+    "place_of_event": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1968-11-05",
+    "wikidata": "https://www.wikidata.org/entity/Q693742",
+    "person_event": [
+      {
+        "id": 269,
+        "value": "person_event__269",
+        "order": "269.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "person_event__270",
+        "order": "270.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1968-11-05",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [],
+    "part_of": []
   }
 }

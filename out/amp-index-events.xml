@@ -1899,6 +1899,26 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_116" notBefore-iso="1968-11-05" notAfter-iso="1968-11-05" type="historic">
+                  <label>1968 United States presidential election</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q693742</idno>
+                  <listPerson>
+                     <person sameAs="amp_person_260" role="is_activeparticipant_in">
+                        <persName>Nixon, Richard Milhous</persName>
+                     </person>
+                     <person sameAs="amp_person_261" role="is_activeparticipant_in">
+                        <persName>Humphrey, Hubert</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_15" type="location" subtype="is_event_location">
+                        <placeName>United States of America</placeName>
+                        <location type="coords">
+                           <geo>39.76, -98.5</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

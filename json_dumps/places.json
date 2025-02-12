@@ -1481,6 +1481,11 @@
         "id": 4,
         "value": "Northeast blackout of 1965 1965-11-09--1965-11-10",
         "order": "4.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "1968 United States presidential election",
+        "order": "116.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -2096,6 +2101,11 @@
         "id": 207,
         "value": "Nabokov, Nicolas",
         "order": "206.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "Nixon, Richard Milhous",
+        "order": "257.00000000000000000000"
       }
     ],
     "google_maps_coordinates": "",
@@ -15585,6 +15595,141 @@
     "place_type": "city, village,...",
     "country": "Germany",
     "country_code": "DE",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "362": {
+    "id": 362,
+    "order": "361.00000000000000000000",
+    "name": "Yorba Linda, California",
+    "amp_id": "amp_place_id_362",
+    "geonames_id": "https://sws.geonames.org/5410902/",
+    "birth_place": [
+      {
+        "id": 260,
+        "value": "Nixon, Richard Milhous",
+        "order": "257.00000000000000000000"
+      }
+    ],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 209,
+        "value": "California",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q493518",
+    "gnd": "https://d-nb.info/gnd/4398575-0",
+    "geonames_coordinates": "33.88863, -117.81311",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "363": {
+    "id": 363,
+    "order": "362.00000000000000000000",
+    "name": "Wallace, South Dakota",
+    "amp_id": "amp_place_id_363",
+    "geonames_id": "https://sws.geonames.org/5232691/",
+    "birth_place": [
+      {
+        "id": 261,
+        "value": "Humphrey, Hubert",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q1572693",
+    "gnd": "",
+    "geonames_coordinates": "45.08607, -97.47592",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "364": {
+    "id": 364,
+    "order": "363.00000000000000000000",
+    "name": "Waverly, Minnesota",
+    "amp_id": "amp_place_id_364",
+    "geonames_id": "https://sws.geonames.org/5052104/",
+    "birth_place": [],
+    "death_place": [
+      {
+        "id": 261,
+        "value": "Humphrey, Hubert",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q1926770",
+    "gnd": "",
+    "geonames_coordinates": "45.06663, -93.96636",
+    "place_type": "city, village,...",
+    "country": "United States",
+    "country_code": "US",
     "place_type_class": "P",
     "updated": true,
     "events": [],

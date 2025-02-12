@@ -4462,6 +4462,46 @@ for any purpose, even commercially.</p>
                      <surname>N/A_16</surname>
                   </persName>
                </person>
+               <person xml:id="amp_person_260">
+                  <persName>
+                     <forename>Richard Milhous</forename>
+                     <surname>Nixon</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1913-01-09">1913-01-09</date>
+                     <settlement key="amp_place_id_362">
+                        <placeName>Yorba Linda, California</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1994-04-22">1994-04-22</date>
+                     <settlement key="amp_place_id_28">
+                        <placeName>New York City</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11858832X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9588</idno>
+               </person>
+               <person xml:id="amp_person_261">
+                  <persName>
+                     <forename>Hubert</forename>
+                     <surname>Humphrey</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1911-05-27">1911-05-27</date>
+                     <settlement key="amp_place_id_363">
+                        <placeName>Wallace, South Dakota</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1978-01-13">1978-01-13</date>
+                     <settlement key="amp_place_id_364">
+                        <placeName>Waverly, Minnesota</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/11942813X</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209989</idno>
+               </person>
             </listPerson>
          </div>
       </body>

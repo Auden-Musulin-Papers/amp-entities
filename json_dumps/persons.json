@@ -12839,5 +12839,115 @@
     "person_org": [],
     "person_person": [],
     "PMB": ""
+  },
+  "260": {
+    "id": 260,
+    "order": "257.00000000000000000000",
+    "name": "Nixon, Richard Milhous",
+    "amp_id": "amp_person_260",
+    "gnd": "https://d-nb.info/gnd/11858832X",
+    "birth_year": "1913",
+    "birth_place": [
+      {
+        "id": 362,
+        "value": "Yorba Linda, California",
+        "order": "361.00000000000000000000"
+      }
+    ],
+    "birth_day": "1913-01-09",
+    "death_year": "1994",
+    "death_place": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "death_day": "1994-04-22",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "http://www.wikidata.org/entity/Q9588",
+    "Title": [
+      {
+        "id": 14140,
+        "value": "President",
+        "color": "dark-pink"
+      },
+      {
+        "id": 18185,
+        "value": "Representative",
+        "color": "dark-purple"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 269,
+        "value": "person_event__269",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": true,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "261": {
+    "id": 261,
+    "order": "258.00000000000000000000",
+    "name": "Humphrey, Hubert",
+    "amp_id": "amp_person_261",
+    "gnd": "https://d-nb.info/gnd/11942813X",
+    "birth_year": "1911",
+    "birth_place": [
+      {
+        "id": 363,
+        "value": "Wallace, South Dakota",
+        "order": "362.00000000000000000000"
+      }
+    ],
+    "birth_day": "1911-05-27",
+    "death_year": "1978",
+    "death_place": [
+      {
+        "id": 364,
+        "value": "Waverly, Minnesota",
+        "order": "363.00000000000000000000"
+      }
+    ],
+    "death_day": "1978-01-13",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "http://www.wikidata.org/entity/Q209989",
+    "Title": [
+      {
+        "id": 18183,
+        "value": "Vice President",
+        "color": "darker-gray"
+      },
+      {
+        "id": 18184,
+        "value": "Senator",
+        "color": "darker-brown"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 270,
+        "value": "person_event__270",
+        "order": "270.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": true,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
   }
 }

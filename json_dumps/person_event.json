@@ -5691,8 +5691,52 @@
     "id": 269,
     "order": "269.00000000000000000000",
     "amp_id": "person_event__269",
-    "source": [],
-    "target": [],
-    "relation_type_object": []
+    "source": [
+      {
+        "id": 260,
+        "value": "Nixon, Richard Milhous",
+        "order": "257.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 116,
+        "value": "1968 United States presidential election",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "order": "270.00000000000000000000",
+    "amp_id": "person_event__270",
+    "source": [
+      {
+        "id": 261,
+        "value": "Humphrey, Hubert",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 116,
+        "value": "1968 United States presidential election",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

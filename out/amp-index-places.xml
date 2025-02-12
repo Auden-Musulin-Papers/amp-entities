@@ -5255,6 +5255,55 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4066874-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_362">
+                  <settlement type="P">
+                     <placeName>Yorba Linda, California</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_209">California</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>33.88863, -117.81311</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/5410902/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q493518</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4398575-0</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_363">
+                  <settlement type="P">
+                     <placeName>Wallace, South Dakota</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>45.08607, -97.47592</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/5232691/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1572693</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_364">
+                  <settlement type="P">
+                     <placeName>Waverly, Minnesota</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>US, United States</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>45.06663, -93.96636</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/5052104/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1926770</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

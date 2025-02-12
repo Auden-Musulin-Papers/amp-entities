@@ -2523,6 +2523,21 @@
         "id": 361,
         "value": "Wolfsburg",
         "order": "360.00000000000000000000"
+      },
+      {
+        "id": 362,
+        "value": "Yorba Linda, California",
+        "order": "361.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "Wallace, South Dakota",
+        "order": "362.00000000000000000000"
+      },
+      {
+        "id": 364,
+        "value": "Waverly, Minnesota",
+        "order": "363.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3831,6 +3846,16 @@
         "id": 268,
         "value": "person_event__268",
         "order": "268.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "person_event__269",
+        "order": "269.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "person_event__270",
+        "order": "270.00000000000000000000"
       }
     ],
     "org_event": [],
