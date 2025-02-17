@@ -543,6 +543,32 @@
     "id": 22,
     "order": "22.00000000000000000000",
     "org_event": "org_event__22",
+    "source": [
+      {
+        "id": 103,
+        "value": "Süddeutscher Rundfunk",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "org_event": "org_event__23",
     "source": [],
     "relation_type_object": [],
     "target": []

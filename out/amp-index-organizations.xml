@@ -1136,6 +1136,18 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2532303</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_103">
+                  <orgName>Süddeutscher Rundfunk</orgName>
+                  <desc>Was founded in year <date from-iso="1949-01-01">1949</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_365">Stuttgart</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.78232, 9.17702</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q446987</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

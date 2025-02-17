@@ -2457,7 +2457,7 @@
     "id": 92,
     "order": "90.00000000000000000000",
     "name": "Flughafen Berlin-Tempelhof (Berlin Tempelhof Airport)",
-    "wikidata": "https://www.wikidata.org/wiki/Q9686",
+    "wikidata": "https://www.wikidata.org/entity/Q9686",
     "amp_id": "amp_organization_92",
     "founded_in_year": "1923",
     "comments": "",
@@ -2479,7 +2479,7 @@
     "id": 93,
     "order": "91.00000000000000000000",
     "name": "Telegraphenzentralstation Wien (Vienna Telegraph Central Station)",
-    "wikidata": "https://www.wikidata.org/wiki/Q1718139",
+    "wikidata": "https://www.wikidata.org/entity/Q1718139",
     "amp_id": "amp_organization_93",
     "founded_in_year": null,
     "comments": "",
@@ -2507,7 +2507,7 @@
     "id": 94,
     "order": "92.00000000000000000000",
     "name": "Pan American World Airways",
-    "wikidata": "https://www.wikidata.org/wiki/Q8681",
+    "wikidata": "https://www.wikidata.org/entity/Q8681",
     "amp_id": "amp_organization_94",
     "founded_in_year": "1927",
     "comments": "",
@@ -2529,7 +2529,7 @@
     "id": 95,
     "order": "93.00000000000000000000",
     "name": "Flughafen Berlin-Tegel (Berlin Tegel Airport)",
-    "wikidata": "https://www.wikidata.org/wiki/Q9688",
+    "wikidata": "https://www.wikidata.org/entity/Q9688",
     "amp_id": "amp_organization_95",
     "founded_in_year": "1948",
     "comments": "",
@@ -2551,7 +2551,7 @@
     "id": 96,
     "order": "94.00000000000000000000",
     "name": "John F. Kennedy International Airport",
-    "wikidata": "https://www.wikidata.org/wiki/Q8685",
+    "wikidata": "https://www.wikidata.org/entity/Q8685",
     "amp_id": "amp_organization_96",
     "founded_in_year": "1948",
     "comments": "",
@@ -2573,7 +2573,7 @@
     "id": 97,
     "order": "95.00000000000000000000",
     "name": "United States Post Office Church Street Station",
-    "wikidata": "https://www.wikidata.org/wiki/Q4645629",
+    "wikidata": "https://www.wikidata.org/entity/Q4645629",
     "amp_id": "amp_organization_97",
     "founded_in_year": "1935",
     "comments": "",
@@ -2601,7 +2601,7 @@
     "id": 98,
     "order": "96.00000000000000000000",
     "name": "United States Post Office Cooper Station",
-    "wikidata": "https://www.wikidata.org/wiki/Q9051836",
+    "wikidata": "https://www.wikidata.org/entity/Q9051836",
     "amp_id": "amp_organization_98",
     "founded_in_year": "1937",
     "comments": "",
@@ -2711,6 +2711,34 @@
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/2151899-3",
+    "URL": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "name": "Süddeutscher Rundfunk",
+    "wikidata": "https://www.wikidata.org/entity/Q446987",
+    "amp_id": "amp_organization_103",
+    "founded_in_year": "1949",
+    "comments": "",
+    "location": [
+      {
+        "id": 365,
+        "value": "Stuttgart",
+        "order": "364.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 22,
+        "value": "org_event__22",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1009721-1",
     "URL": ""
   }
 }

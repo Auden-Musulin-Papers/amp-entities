@@ -15657,7 +15657,7 @@
     "birth_place": [
       {
         "id": 261,
-        "value": "Humphrey, Hubert",
+        "value": "Humphrey, Hubert Horatio Jr.",
         "order": "258.00000000000000000000"
       }
     ],
@@ -15703,7 +15703,7 @@
     "death_place": [
       {
         "id": 261,
-        "value": "Humphrey, Hubert",
+        "value": "Humphrey, Hubert Horatio Jr.",
         "order": "258.00000000000000000000"
       }
     ],
@@ -15730,6 +15730,123 @@
     "place_type": "city, village,...",
     "country": "United States",
     "country_code": "US",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "365": {
+    "id": 365,
+    "order": "364.00000000000000000000",
+    "name": "Stuttgart",
+    "amp_id": "amp_place_id_365",
+    "geonames_id": "https://sws.geonames.org/2825297/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 103,
+        "value": "Süddeutscher Rundfunk",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 20,
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q32749678",
+    "gnd": "https://d-nb.info/gnd/4058282-6",
+    "geonames_coordinates": "48.78232, 9.17702",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "366": {
+    "id": 366,
+    "order": "365.00000000000000000000",
+    "name": "Schwetzingen",
+    "amp_id": "amp_place_id_366",
+    "geonames_id": "https://sws.geonames.org/2834240/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 20,
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q11085311",
+    "gnd": "https://d-nb.info/gnd/4053980-5",
+    "geonames_coordinates": "49.38217, 8.5823",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
+    "place_type_class": "P",
+    "updated": true,
+    "events": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": true
+  },
+  "367": {
+    "id": 367,
+    "order": "366.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_place_id_367",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "49.38217, 8.5823",
+    "place_type": "city, village,...",
+    "country": "Germany",
+    "country_code": "DE",
     "place_type_class": "P",
     "updated": true,
     "events": [],

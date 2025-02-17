@@ -5304,6 +5304,51 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1926770</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_365">
+                  <settlement type="P">
+                     <placeName>Stuttgart</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.78232, 9.17702</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2825297/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32749678</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4058282-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_366">
+                  <settlement type="P">
+                     <placeName>Schwetzingen</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>49.38217, 8.5823</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2834240/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11085311</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053980-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_367">
+                  <settlement type="P">
+                     <placeName/>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="coords">
+                     <geo>49.38217, 8.5823</geo>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

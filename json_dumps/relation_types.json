@@ -2538,6 +2538,16 @@
         "id": 364,
         "value": "Waverly, Minnesota",
         "order": "363.00000000000000000000"
+      },
+      {
+        "id": 365,
+        "value": "Stuttgart",
+        "order": "364.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "Schwetzingen",
+        "order": "365.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4451,6 +4461,16 @@
         "id": 254,
         "value": "person_event__254",
         "order": "254.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "person_event__271",
+        "order": "271.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "person_event__272",
+        "order": "272.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -4564,6 +4584,11 @@
         "id": 21,
         "value": "org_event__21",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "org_event__22",
+        "order": "22.00000000000000000000"
       }
     ],
     "has_label": "is organizer of",

@@ -5720,7 +5720,7 @@
     "source": [
       {
         "id": 261,
-        "value": "Humphrey, Hubert",
+        "value": "Humphrey, Hubert Horatio Jr.",
         "order": "258.00000000000000000000"
       }
     ],
@@ -5736,6 +5736,58 @@
         "id": 28,
         "value": "is_activeparticipant_in",
         "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "271.00000000000000000000",
+    "amp_id": "person_event__271",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 31,
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "order": "272.00000000000000000000",
+    "amp_id": "person_event__272",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 31,
+        "value": "is_attendee_of",
+        "order": "31.00000000000000000000"
       }
     ]
   }

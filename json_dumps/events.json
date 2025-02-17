@@ -4817,5 +4817,57 @@
     "status": null,
     "org_event": [],
     "part_of": []
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "name": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+    "amp_id": "amp_event_id_117",
+    "place_of_event": [
+      {
+        "id": 366,
+        "value": "Schwetzingen",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      },
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1961-05-20",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 271,
+        "value": "person_event__271",
+        "order": "271.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "person_event__272",
+        "order": "272.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1961-05-20",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [
+      {
+        "id": 22,
+        "value": "org_event__22",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "part_of": []
   }
 }
