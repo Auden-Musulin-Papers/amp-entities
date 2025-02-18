@@ -4828,6 +4828,11 @@
         "id": 366,
         "value": "Schwetzingen",
         "order": "365.00000000000000000000"
+      },
+      {
+        "id": 370,
+        "value": "Hotel Europäischer Hof",
+        "order": "369.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4873,6 +4878,42 @@
         "order": "22.00000000000000000000"
       }
     ],
+    "part_of": [
+      {
+        "id": 118,
+        "value": "Schwetzinger Festspiele",
+        "order": "118.00000000000000000000"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "name": "Schwetzinger Festspiele",
+    "amp_id": "amp_event_id_118",
+    "place_of_event": [
+      {
+        "id": 366,
+        "value": "Schwetzingen",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1952-05-24",
+    "wikidata": "https://www.wikidata.org/entity/Q320221",
+    "person_event": [],
+    "Comments": "",
+    "end_date": null,
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [],
     "part_of": []
   }
 }

@@ -5389,6 +5389,15 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023996-2</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_370">
+                  <placeName>Hotel Europäischer Hof</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_369">Heidelberg</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q47486777</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/6010256-1</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

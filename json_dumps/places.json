@@ -15821,6 +15821,11 @@
         "id": 117,
         "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
         "order": "117.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "Schwetzinger Festspiele",
+        "order": "118.00000000000000000000"
       }
     ],
     "alternative_link": "",
@@ -15956,5 +15961,50 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": true
+  },
+  "370": {
+    "id": 370,
+    "order": "369.00000000000000000000",
+    "name": "Hotel Europäischer Hof",
+    "amp_id": "amp_place_id_370",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 369,
+        "value": "Heidelberg",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q47486777",
+    "gnd": "https://d-nb.info/gnd/6010256-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": true,
+    "events": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }
