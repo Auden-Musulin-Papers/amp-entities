@@ -5340,13 +5340,53 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_367">
                   <settlement type="P">
-                     <placeName/>
+                     <placeName>Waldshut</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
                   <location type="coords">
                      <geo>49.38217, 8.5823</geo>
                   </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2814791/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32752640</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4064419-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_368">
+                  <settlement type="P">
+                     <placeName>Bühl</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.69676, 8.13523</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2941976/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q104589406</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008726-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_369">
+                  <settlement type="P">
+                     <placeName>Heidelberg</placeName>
+                  </settlement>
+                  <desc type="entity_type">city, village,...</desc>
+                  <country>DE, Germany</country>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>49.40768, 8.69079</geo>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2907911/</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2966</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4023996-2</idno>
                   <note/>
                </place>
             </listPlace>

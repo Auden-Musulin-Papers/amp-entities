@@ -2737,7 +2737,13 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 27,
+        "value": "person_org__27",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "gnd": "https://d-nb.info/gnd/1009721-1",
     "URL": ""
   }

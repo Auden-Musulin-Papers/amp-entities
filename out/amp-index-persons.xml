@@ -4502,6 +4502,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11942813X</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q209989</idno>
                </person>
+               <person xml:id="amp_person_262">
+                  <persName>
+                     <forename>Hans</forename>
+                     <surname>Bausch</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1921-12-23">1921-12-23</date>
+                     <settlement key="amp_place_id_367">
+                        <placeName>Waldshut</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1991-11-23">1991-11-23</date>
+                     <settlement key="amp_place_id_368">
+                        <placeName>Bühl</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/116096365</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1578586</idno>
+               </person>
             </listPerson>
          </div>
       </body>

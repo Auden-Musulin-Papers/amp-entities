@@ -5790,5 +5790,31 @@
         "order": "31.00000000000000000000"
       }
     ]
+  },
+  "273": {
+    "id": 273,
+    "order": "273.00000000000000000000",
+    "amp_id": "person_event__273",
+    "source": [
+      {
+        "id": 262,
+        "value": "Bausch, Hans",
+        "order": "259.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

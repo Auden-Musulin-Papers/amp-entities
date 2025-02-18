@@ -726,5 +726,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "person_org": "person_org__27",
+    "source": [
+      {
+        "id": 262,
+        "value": "Bausch, Hans",
+        "order": "259.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 103,
+        "value": "Süddeutscher Rundfunk",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

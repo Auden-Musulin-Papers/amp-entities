@@ -12959,5 +12959,55 @@
     "person_org": [],
     "person_person": [],
     "PMB": ""
+  },
+  "262": {
+    "id": 262,
+    "order": "259.00000000000000000000",
+    "name": "Bausch, Hans",
+    "amp_id": "amp_person_262",
+    "gnd": "https://d-nb.info/gnd/116096365",
+    "birth_year": "1921",
+    "birth_place": [
+      {
+        "id": 367,
+        "value": "Waldshut",
+        "order": "366.00000000000000000000"
+      }
+    ],
+    "birth_day": "1921-12-23",
+    "death_year": "1991",
+    "death_place": [
+      {
+        "id": 368,
+        "value": "Bühl",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "death_day": "1991-11-23",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "http://www.wikidata.org/entity/Q1578586",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 273,
+        "value": "person_event__273",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": true,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 27,
+        "value": "person_org__27",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
   }
 }
