@@ -480,6 +480,11 @@
         "id": 203,
         "value": "Plays and Other Dramatic Writings by W. H. Auden, 1927-1938",
         "order": "196.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "Elegie für junge Liebende",
+        "order": "203.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1857,6 +1862,11 @@
         "id": 207,
         "value": "Ein Autor hat Bedenken",
         "order": "200.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "Elegie für junge Liebende",
+        "order": "203.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5093626",
@@ -5520,6 +5530,11 @@
         "id": 5,
         "value": "The Bassarids: Opera Seria with Intermezzo in One Act Based on \"The Bacchae\" of Euripides",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "Elegie für junge Liebende",
+        "order": "203.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q76915",
@@ -13007,6 +13022,38 @@
         "order": "27.00000000000000000000"
       }
     ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "263": {
+    "id": 263,
+    "order": "260.00000000000000000000",
+    "name": "Landgraf, Ludwig",
+    "amp_id": "amp_person_263",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 211,
+        "value": "Elegie für junge Liebende",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
     "person_person": [],
     "PMB": ""
   }

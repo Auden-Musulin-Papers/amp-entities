@@ -1753,6 +1753,24 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q48244</idno>
                   <lang>de</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_211" type="opera">
+                  <title>Elegie für junge Liebende</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_4">
+                     <persName>Kallman, Chester</persName>
+                  </author>
+                  <author ref="#amp_person_79">
+                     <persName>Henze, Hans Werner</persName>
+                  </author>
+                  <author ref="#amp_person_263">
+                     <persName>Landgraf, Ludwig</persName>
+                  </author>
+                  <date when="1961">1961</date>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3050642</idno>
+                  <lang>de</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>

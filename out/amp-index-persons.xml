@@ -162,6 +162,7 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_200">New Year Letter</bibl>
                      <bibl n="lit_work_id_202">W. H. Auden: Selected Poems</bibl>
                      <bibl n="lit_work_id_203">Plays and Other Dramatic Writings by W. H. Auden, 1927-1938</bibl>
+                     <bibl n="lit_work_id_211">Elegie für junge Liebende</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -262,6 +263,7 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_180">Delia</bibl>
                      <bibl n="lit_work_id_181">The Entertainment of the Senses</bibl>
                      <bibl n="lit_work_id_207">Ein Autor hat Bedenken</bibl>
+                     <bibl n="lit_work_id_211">Elegie für junge Liebende</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_5">
@@ -1733,6 +1735,7 @@ for any purpose, even commercially.</p>
                   <listBibl>
                      <bibl n="lit_work_id_4">Elegy for Young Lovers</bibl>
                      <bibl n="lit_work_id_5">The Bassarids: Opera Seria with Intermezzo in One Act Based on "The Bacchae" of Euripides</bibl>
+                     <bibl n="lit_work_id_211">Elegie für junge Liebende</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_80">
@@ -4521,6 +4524,15 @@ for any purpose, even commercially.</p>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/116096365</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1578586</idno>
+               </person>
+               <person xml:id="amp_person_263">
+                  <persName>
+                     <forename>Ludwig</forename>
+                     <surname>Landgraf</surname>
+                  </persName>
+                  <listBibl>
+                     <bibl n="lit_work_id_211">Elegie für junge Liebende</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

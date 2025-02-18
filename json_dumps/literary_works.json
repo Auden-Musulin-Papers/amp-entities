@@ -8363,5 +8363,58 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "211": {
+    "id": 211,
+    "order": "203.00000000000000000000",
+    "name": "Elegie für junge Liebende",
+    "lit_work_id": "lit_work_id_211",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "Landgraf, Ludwig",
+        "order": "260.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "https://www.wikidata.org/entity/Q3050642",
+    "has_year": "1961",
+    "type": [
+      {
+        "id": 6665,
+        "value": "opera",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
