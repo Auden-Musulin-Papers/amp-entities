@@ -13003,7 +13003,13 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "http://www.wikidata.org/entity/Q1578586",
-    "Title": [],
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
     "person_event": [
       {
         "id": 273,
