@@ -1936,26 +1936,20 @@ for any purpose, even commercially.</p>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_366" type="location" subtype="is_event_location">
-                        <placeName>Schwetzingen</placeName>
-                        <location type="coords">
-                           <geo>49.38217, 8.5823</geo>
-                        </location>
-                     </place>
                      <place sameAs="amp_place_id_370" type="location" subtype="is_event_location">
                         <placeName>Hotel Europäischer Hof</placeName>
+                     </place>
+                     <place sameAs="amp_place_id_373" type="location" subtype="is_event_location">
+                        <placeName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</placeName>
                      </place>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_118" notBefore-iso="1952-05-24" type="historic">
-                  <label>Schwetzinger Festspiele</label>
+                  <label>Schwetzinger Festspiele (Schwetzingen Festival)</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q320221</idno>
                   <listPlace>
-                     <place sameAs="amp_place_id_366" type="location" subtype="is_event_location">
-                        <placeName>Schwetzingen</placeName>
-                        <location type="coords">
-                           <geo>49.38217, 8.5823</geo>
-                        </location>
+                     <place sameAs="amp_place_id_373" type="location" subtype="is_event_location">
+                        <placeName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</placeName>
                      </place>
                   </listPlace>
                </event>

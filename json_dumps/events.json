@@ -4825,14 +4825,14 @@
     "amp_id": "amp_event_id_117",
     "place_of_event": [
       {
-        "id": 366,
-        "value": "Schwetzingen",
-        "order": "365.00000000000000000000"
-      },
-      {
         "id": 370,
         "value": "Hotel Europäischer Hof",
         "order": "369.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+        "order": "372.00000000000000000000"
       }
     ],
     "has_type": [
@@ -4881,7 +4881,7 @@
     "part_of": [
       {
         "id": 118,
-        "value": "Schwetzinger Festspiele",
+        "value": "Schwetzinger Festspiele (Schwetzingen Festival)",
         "order": "118.00000000000000000000"
       }
     ]
@@ -4889,13 +4889,13 @@
   "118": {
     "id": 118,
     "order": "118.00000000000000000000",
-    "name": "Schwetzinger Festspiele",
+    "name": "Schwetzinger Festspiele (Schwetzingen Festival)",
     "amp_id": "amp_event_id_118",
     "place_of_event": [
       {
-        "id": 366,
-        "value": "Schwetzingen",
-        "order": "365.00000000000000000000"
+        "id": 373,
+        "value": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+        "order": "372.00000000000000000000"
       }
     ],
     "has_type": [

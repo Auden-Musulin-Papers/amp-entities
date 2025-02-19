@@ -5398,6 +5398,34 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/6010256-1</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_371">
+                  <placeName>Müllnergasse 14</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13192917/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_372">
+                  <placeName>Tübingen</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2820860/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3806</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061147-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_373">
+                  <placeName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_366">Schwetzingen</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11288193/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q656581</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4332702-3</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -2746,5 +2746,49 @@
     ],
     "gnd": "https://d-nb.info/gnd/1009721-1",
     "URL": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "name": "Postamt Hamburg Flughafen (post office Hamburg Airport)",
+    "wikidata": "",
+    "amp_id": "amp_organization_104",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 126,
+        "value": "Hamburg",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "103.00000000000000000000",
+    "name": "Gebrüder Metz GmbH & Co.",
+    "wikidata": "https://www.wikidata.org/entity/Q1497210",
+    "amp_id": "amp_organization_105",
+    "founded_in_year": "1897",
+    "comments": "",
+    "location": [
+      {
+        "id": 372,
+        "value": "Tübingen",
+        "order": "371.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/32730-X",
+    "URL": ""
   }
 }

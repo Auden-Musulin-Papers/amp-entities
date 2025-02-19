@@ -1286,5 +1286,61 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__47",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 371,
+        "value": "Müllnergasse 14",
+        "order": "370.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__48",
+    "source": [
+      {
+        "id": 240,
+        "value": "Kurka, Christa",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 371,
+        "value": "Müllnergasse 14",
+        "order": "370.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
