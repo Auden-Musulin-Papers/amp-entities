@@ -13072,5 +13072,134 @@
     "person_org": [],
     "person_person": [],
     "PMB": ""
+  },
+  "264": {
+    "id": 264,
+    "order": "261.00000000000000000000",
+    "name": "Jones, Horace",
+    "amp_id": "amp_person_264",
+    "gnd": "https://d-nb.info/gnd/117175935",
+    "birth_year": "1819",
+    "birth_place": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "birth_day": "1819-05-20",
+    "death_year": "1887",
+    "death_place": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "death_day": "1887-05-21",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q3140459",
+    "Title": [
+      {
+        "id": 6731,
+        "value": "Sir",
+        "color": "light-red"
+      },
+      {
+        "id": 18260,
+        "value": "PPRIBA",
+        "color": "dark-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "265": {
+    "id": 265,
+    "order": "262.00000000000000000000",
+    "name": "Barry, John Wolfe",
+    "amp_id": "amp_person_265",
+    "gnd": "https://d-nb.info/gnd/117565482",
+    "birth_year": "1836",
+    "birth_place": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "birth_day": "1836-12-07",
+    "death_year": "1918",
+    "death_place": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "death_day": "1918-01-22",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1658568",
+    "Title": [
+      {
+        "id": 6731,
+        "value": "Sir",
+        "color": "light-red"
+      },
+      {
+        "id": 18258,
+        "value": "FRS",
+        "color": "gray"
+      },
+      {
+        "id": 18259,
+        "value": "KCB",
+        "color": "yellow"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "266": {
+    "id": 266,
+    "order": "263.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_266",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
   }
 }

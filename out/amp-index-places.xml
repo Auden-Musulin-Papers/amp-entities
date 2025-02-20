@@ -5416,6 +5416,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061147-4</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_374">
+                  <placeName>Her Majesty's Royal Palace and Fortress of the Tower of London</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6286786/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q62378</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4302320-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_375">
+                  <placeName>Tower Bridge</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2635595/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q83125</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026421128</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

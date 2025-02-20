@@ -1179,6 +1179,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q656581</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_108">
+                  <orgName>A.V. Fry &amp; Co., Ltd.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

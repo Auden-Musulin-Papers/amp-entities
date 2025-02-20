@@ -2823,5 +2823,27 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4332702-3",
     "URL": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "105.00000000000000000000",
+    "name": "A.V. Fry & Co., Ltd.",
+    "wikidata": "",
+    "amp_id": "amp_organization_108",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }

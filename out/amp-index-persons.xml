@@ -4534,6 +4534,52 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_211">Elegie für junge Liebende</bibl>
                   </listBibl>
                </person>
+               <person xml:id="amp_person_264">
+                  <persName>
+                     <forename>Horace</forename>
+                     <surname>Jones</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1819-05-20">1819-05-20</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1887-05-21">1887-05-21</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117175935</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3140459</idno>
+               </person>
+               <person xml:id="amp_person_265">
+                  <persName>
+                     <forename>John Wolfe</forename>
+                     <surname>Barry</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1836-12-07">1836-12-07</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1918-01-22">1918-01-22</date>
+                     <settlement key="amp_place_id_56">
+                        <placeName>London</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/117565482</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1658568</idno>
+               </person>
+               <person xml:id="amp_person_266">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
+               </person>
             </listPerson>
          </div>
       </body>
