@@ -1167,6 +1167,18 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1497210</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_107">
+                  <orgName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</orgName>
+                  <desc>Was founded in year <date from-iso="1753-01-01">1753</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_366">Schwetzingen</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>49.38217, 8.5823</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q656581</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

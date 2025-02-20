@@ -1924,6 +1924,9 @@ for any purpose, even commercially.</p>
                   <org sameAs="amp_organization_103" role="is_organizer_of">
                      <orgName>Süddeutscher Rundfunk</orgName>
                   </org>
+                  <org sameAs="amp_organization_107" role="is_host_of">
+                     <orgName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</orgName>
+                  </org>
                   <listPerson>
                      <person sameAs="amp_person_4" role="is_attendee_of">
                         <persName>Kallman, Chester</persName>
@@ -1939,19 +1942,14 @@ for any purpose, even commercially.</p>
                      <place sameAs="amp_place_id_370" type="location" subtype="is_event_location">
                         <placeName>Hotel Europäischer Hof</placeName>
                      </place>
-                     <place sameAs="amp_place_id_373" type="location" subtype="is_event_location">
-                        <placeName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</placeName>
-                     </place>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_118" notBefore-iso="1952-05-24" type="historic">
                   <label>Schwetzinger Festspiele (Schwetzingen Festival)</label>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q320221</idno>
-                  <listPlace>
-                     <place sameAs="amp_place_id_373" type="location" subtype="is_event_location">
-                        <placeName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</placeName>
-                     </place>
-                  </listPlace>
+                  <org sameAs="amp_organization_107" role="is_host_of">
+                     <orgName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</orgName>
+                  </org>
                </event>
             </listEvent>
          </div>

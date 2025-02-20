@@ -569,8 +569,52 @@
     "id": 23,
     "order": "23.00000000000000000000",
     "org_event": "org_event__23",
-    "source": [],
-    "relation_type_object": [],
-    "target": []
+    "source": [
+      {
+        "id": 107,
+        "value": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 20,
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 117,
+        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
+        "order": "117.00000000000000000000"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "org_event": "org_event__24",
+    "source": [
+      {
+        "id": 107,
+        "value": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 20,
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 118,
+        "value": "Schwetzinger Festspiele (Schwetzingen Festival)",
+        "order": "118.00000000000000000000"
+      }
+    ]
   }
 }

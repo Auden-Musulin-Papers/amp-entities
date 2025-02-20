@@ -2790,5 +2790,38 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/32730-X",
     "URL": ""
+  },
+  "107": {
+    "id": 107,
+    "order": "104.00000000000000000000",
+    "name": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+    "wikidata": "https://www.wikidata.org/entity/Q656581",
+    "amp_id": "amp_organization_107",
+    "founded_in_year": "1753",
+    "comments": "",
+    "location": [
+      {
+        "id": 366,
+        "value": "Schwetzingen",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 23,
+        "value": "org_event__23",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 24,
+        "value": "org_event__24",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4332702-3",
+    "URL": ""
   }
 }

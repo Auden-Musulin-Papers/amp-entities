@@ -15798,7 +15798,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 107,
+        "value": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
+        "order": "104.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 20,
@@ -16091,56 +16097,6 @@
     "place_type_class": "",
     "updated": false,
     "events": [],
-    "alternative_link": "",
-    "same_as": [],
-    "person_place": [],
-    "updated_geonames": false
-  },
-  "373": {
-    "id": 373,
-    "order": "372.00000000000000000000",
-    "name": "Schlosstheater Schwetzingen (Schwetzingen palace theater)",
-    "amp_id": "amp_place_id_373",
-    "geonames_id": "https://sws.geonames.org/11288193/",
-    "birth_place": [],
-    "death_place": [],
-    "google_maps_coordinates": "",
-    "comments": "",
-    "organizations": [],
-    "is_part_of": [
-      {
-        "id": 366,
-        "value": "Schwetzingen",
-        "order": "365.00000000000000000000"
-      }
-    ],
-    "relation_types": [
-      {
-        "id": 16,
-        "value": "is_part_of",
-        "order": "16.00000000000000000000"
-      }
-    ],
-    "wikidata": "https://www.wikidata.org/entity/Q656581",
-    "gnd": "https://d-nb.info/gnd/4332702-3",
-    "geonames_coordinates": "",
-    "place_type": "",
-    "country": "",
-    "country_code": "",
-    "place_type_class": "",
-    "updated": false,
-    "events": [
-      {
-        "id": 117,
-        "value": "Premiere \"Elegie für junge Liebende\" 1961-05-20",
-        "order": "117.00000000000000000000"
-      },
-      {
-        "id": 118,
-        "value": "Schwetzinger Festspiele (Schwetzingen Festival)",
-        "order": "118.00000000000000000000"
-      }
-    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
