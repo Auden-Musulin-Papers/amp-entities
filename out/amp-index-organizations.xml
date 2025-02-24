@@ -1189,6 +1189,27 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_110">
+                  <orgName>Penrose &amp; Palmer</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_111">
+                  <orgName>The Vandyck Printers Ltd.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_376">Bristol</placeName>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_112">
+                  <orgName/>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

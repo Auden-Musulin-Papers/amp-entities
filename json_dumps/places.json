@@ -3139,6 +3139,11 @@
         "id": 81,
         "value": "Post office Oxford",
         "order": "79.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Penrose & Palmer",
+        "order": "106.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -16193,6 +16198,51 @@
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q83125",
     "gnd": "https://d-nb.info/gnd/1026421128",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "376": {
+    "id": 376,
+    "order": "374.00000000000000000000",
+    "name": "Bristol",
+    "amp_id": "amp_place_id_376",
+    "geonames_id": "https://sws.geonames.org/2654675/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 111,
+        "value": "The Vandyck Printers Ltd.",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 239,
+        "value": "England",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q23154",
+    "gnd": "https://d-nb.info/gnd/4090130-0",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

@@ -2845,5 +2845,65 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "106.00000000000000000000",
+    "name": "Penrose & Palmer",
+    "wikidata": "",
+    "amp_id": "amp_organization_110",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 46,
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "111": {
+    "id": 111,
+    "order": "107.00000000000000000000",
+    "name": "The Vandyck Printers Ltd.",
+    "wikidata": "",
+    "amp_id": "amp_organization_111",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 376,
+        "value": "Bristol",
+        "order": "374.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "108.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_112",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }
