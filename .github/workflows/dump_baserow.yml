@@ -28,6 +28,9 @@ jobs:
       - name: data dump to xml
         run: |
           python json2xml.py
+      - name: add relations to xml
+        run: |
+          python add_relations.py
       - name: create pmb beacon
         run: |
           python pmb-beacon-generator.py
