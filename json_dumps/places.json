@@ -3801,6 +3801,11 @@
         "id": 108,
         "value": "A.V. Fry & Co., Ltd.",
         "order": "105.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "Larkin Bros. Ltd.",
+        "order": "108.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -16243,6 +16248,84 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q23154",
     "gnd": "https://d-nb.info/gnd/4090130-0",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "377": {
+    "id": 377,
+    "order": "375.00000000000000000000",
+    "name": "East End of London",
+    "amp_id": "amp_place_id_377",
+    "geonames_id": "https://sws.geonames.org/6697195/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q739700",
+    "gnd": "https://d-nb.info/gnd/4138902-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "378": {
+    "id": 378,
+    "order": "376.00000000000000000000",
+    "name": "St Cuthbert's, Earls Court",
+    "amp_id": "amp_place_id_378",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 234,
+        "value": "Kensington",
+        "order": "234.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q15139002",
+    "gnd": "",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

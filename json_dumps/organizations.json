@@ -2893,12 +2893,18 @@
   "112": {
     "id": 112,
     "order": "108.00000000000000000000",
-    "name": "",
+    "name": "Larkin Bros. Ltd.",
     "wikidata": "",
     "amp_id": "amp_organization_112",
     "founded_in_year": null,
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],

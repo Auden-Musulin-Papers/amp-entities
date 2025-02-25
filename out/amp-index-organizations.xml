@@ -1207,7 +1207,13 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_112">
-                  <orgName/>
+                  <orgName>Larkin Bros. Ltd.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
                   <note/>
                </org>
             </listOrg>

@@ -5446,6 +5446,24 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4090130-0</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_377">
+                  <placeName>East End of London</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6697195/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q739700</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4138902-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_378">
+                  <placeName>St Cuthbert's, Earls Court</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_234">Kensington</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q15139002</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
