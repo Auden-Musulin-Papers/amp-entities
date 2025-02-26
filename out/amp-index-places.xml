@@ -5464,6 +5464,15 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q15139002</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_379">
+                  <placeName>Michigan Avenue</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_129">Chicago</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1867529</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4308021-2</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
