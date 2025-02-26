@@ -6551,7 +6551,18 @@
     ],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 113,
+        "value": "H. S. Crocker Co., Inc.",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Chicago Natural History Museum",
+        "order": "110.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 15,
@@ -7806,7 +7817,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 113,
+        "value": "H. S. Crocker Co., Inc.",
+        "order": "109.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 15,

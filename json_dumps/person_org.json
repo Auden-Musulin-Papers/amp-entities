@@ -754,5 +754,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "person_org": "person_org__28",
+    "source": [
+      {
+        "id": 266,
+        "value": "Nawodylo, Wm. H.",
+        "order": "263.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 113,
+        "value": "H. S. Crocker Co., Inc.",
+        "order": "109.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

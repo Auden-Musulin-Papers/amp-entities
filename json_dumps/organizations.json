@@ -2911,5 +2911,60 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "109.00000000000000000000",
+    "name": "H. S. Crocker Co., Inc.",
+    "wikidata": "https://www.wikidata.org/entity/Q56870231",
+    "amp_id": "amp_organization_113",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 129,
+        "value": "Chicago",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 161,
+        "value": "San Francisco",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 28,
+        "value": "person_org__28",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "gnd": "",
+    "URL": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "110.00000000000000000000",
+    "name": "Chicago Natural History Museum",
+    "wikidata": "https://www.wikidata.org/entity/Q1122595",
+    "amp_id": "amp_organization_114",
+    "founded_in_year": "1894",
+    "comments": "",
+    "location": [
+      {
+        "id": 129,
+        "value": "Chicago",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/31934-X",
+    "URL": ""
   }
 }

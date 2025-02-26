@@ -13179,7 +13179,7 @@
   "266": {
     "id": 266,
     "order": "263.00000000000000000000",
-    "name": "",
+    "name": "Nawodylo, Wm. H.",
     "amp_id": "amp_person_266",
     "gnd": "",
     "birth_year": null,
@@ -13198,7 +13198,13 @@
     "alternative_website": "",
     "updated": false,
     "person_place": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 28,
+        "value": "person_org__28",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "person_person": [],
     "PMB": ""
   }
