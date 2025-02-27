@@ -1219,6 +1219,12 @@ for any purpose, even commercially.</p>
                <org xml:id="amp_organization_113">
                   <orgName>H. S. Crocker Co., Inc.</orgName>
                   <desc>Was founded in year <date from-iso="1856-01-01">1856</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_129">Chicago</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>41.85003, -87.65005</geo>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q56870231</idno>
                   <note/>
                </org>
@@ -1232,6 +1238,18 @@ for any purpose, even commercially.</p>
                      <geo>41.85003, -87.65005</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1122595</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_115">
+                  <orgName>Klinke &amp; Co.</orgName>
+                  <desc>Was founded in year <date from-iso="1927-01-01">1927</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47512902</idno>
                   <note/>
                </org>
             </listOrg>

@@ -1625,6 +1625,11 @@
         "id": 95,
         "value": "Flughafen Berlin-Tegel (Berlin Tegel Airport)",
         "order": "93.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "Klinke & Co.",
+        "order": "111.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -6552,6 +6557,11 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [
+      {
+        "id": 113,
+        "value": "H. S. Crocker Co., Inc.",
+        "order": "109.00000000000000000000"
+      },
       {
         "id": 114,
         "value": "Chicago Natural History Museum",
@@ -16371,6 +16381,84 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q1867529",
     "gnd": "https://d-nb.info/gnd/4308021-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "380": {
+    "id": 380,
+    "order": "378.00000000000000000000",
+    "name": "Kurfürstendamm",
+    "amp_id": "amp_place_id_380",
+    "geonames_id": "https://sws.geonames.org/7535596/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q160272",
+    "gnd": "https://d-nb.info/gnd/4069307-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "381": {
+    "id": 381,
+    "order": "379.00000000000000000000",
+    "name": "Berlin-Tempelhof",
+    "amp_id": "amp_place_id_381",
+    "geonames_id": "https://sws.geonames.org/2823538/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q363830",
+    "gnd": "https://d-nb.info/gnd/4112722-5",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

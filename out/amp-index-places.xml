@@ -5473,6 +5473,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4308021-2</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_380">
+                  <placeName>Kurfürstendamm</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7535596/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q160272</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4069307-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_381">
+                  <placeName>Berlin-Tempelhof</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2823538/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q363830</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4112722-5</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

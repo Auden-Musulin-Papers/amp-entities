@@ -2920,7 +2920,13 @@
     "amp_id": "amp_organization_113",
     "founded_in_year": "1856",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 129,
+        "value": "Chicago",
+        "order": "129.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
@@ -2954,6 +2960,28 @@
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/31934-X",
+    "URL": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "111.00000000000000000000",
+    "name": "Klinke & Co.",
+    "wikidata": "https://www.wikidata.org/entity/Q47512902",
+    "amp_id": "amp_organization_115",
+    "founded_in_year": "1927",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1139660284",
     "URL": ""
   }
 }
