@@ -1252,6 +1252,22 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q47512902</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_116">
+                  <orgName>Mittet &amp; Co. A/S</orgName>
+                  <desc>Was founded in year <date from-iso="1899-01-01">1899</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_382">Oslo</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11989652</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_117">
+                  <orgName>Post office Trondheim BR III</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_384">Trondheim</placeName>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

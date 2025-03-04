@@ -2983,5 +2983,49 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1139660284",
     "URL": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "112.00000000000000000000",
+    "name": "Mittet & Co. A/S",
+    "wikidata": "https://www.wikidata.org/entity/Q11989652",
+    "amp_id": "amp_organization_116",
+    "founded_in_year": "1899",
+    "comments": "",
+    "location": [
+      {
+        "id": 382,
+        "value": "Oslo",
+        "order": "380.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "113.00000000000000000000",
+    "name": "Post office Trondheim BR III",
+    "wikidata": "",
+    "amp_id": "amp_organization_117",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 384,
+        "value": "Trondheim",
+        "order": "382.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }

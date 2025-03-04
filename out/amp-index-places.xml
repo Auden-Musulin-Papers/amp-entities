@@ -5493,6 +5493,36 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4112722-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_382">
+                  <placeName>Oslo</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_383">Kingdom of Norway</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3143244/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q585</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4043968-9</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_383">
+                  <placeName>Kingdom of Norway</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3144096/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q20</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4042640-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_384">
+                  <placeName>Trondheim</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_383">Kingdom of Norway</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3133880/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q25804</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4070588-2</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

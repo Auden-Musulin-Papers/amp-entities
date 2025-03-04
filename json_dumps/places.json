@@ -16470,5 +16470,134 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "382": {
+    "id": 382,
+    "order": "380.00000000000000000000",
+    "name": "Oslo",
+    "amp_id": "amp_place_id_382",
+    "geonames_id": "https://sws.geonames.org/3143244/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 116,
+        "value": "Mittet & Co. A/S",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 383,
+        "value": "Kingdom of Norway",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q585",
+    "gnd": "https://d-nb.info/gnd/4043968-9",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "383": {
+    "id": 383,
+    "order": "381.00000000000000000000",
+    "name": "Kingdom of Norway",
+    "amp_id": "amp_place_id_383",
+    "geonames_id": "https://sws.geonames.org/3144096/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q20",
+    "gnd": "https://d-nb.info/gnd/4042640-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "384": {
+    "id": 384,
+    "order": "382.00000000000000000000",
+    "name": "Trondheim",
+    "amp_id": "amp_place_id_384",
+    "geonames_id": "https://sws.geonames.org/3133880/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 117,
+        "value": "Post office Trondheim BR III",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 383,
+        "value": "Kingdom of Norway",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q25804",
+    "gnd": "https://d-nb.info/gnd/4070588-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }
