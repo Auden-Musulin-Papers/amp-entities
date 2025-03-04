@@ -5523,6 +5523,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4070588-2</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_385">
+                  <placeName>Nidelva</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_383">Kingdom of Norway</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3144591/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q499668</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/7564314-5</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
