@@ -5533,6 +5533,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/7564314-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_386">
+                  <placeName>Karlsplatz</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6544572/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q152974</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4621930-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_387">
+                  <placeName>München Hauptbahnhof (Munich Central Station)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6324603/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q254647</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4416217-0</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

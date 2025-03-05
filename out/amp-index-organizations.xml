@@ -1268,6 +1268,26 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_118">
+                  <orgName>Bahnhofsbuchhandlung Max Sussmann</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_119">
+                  <orgName>München Bahnpostamt (Munich railway post office)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

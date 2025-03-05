@@ -3027,5 +3027,49 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "114.00000000000000000000",
+    "name": "Bahnhofsbuchhandlung Max Sussmann",
+    "wikidata": "",
+    "amp_id": "amp_organization_118",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "115.00000000000000000000",
+    "name": "München Bahnpostamt (Munich railway post office)",
+    "wikidata": "",
+    "amp_id": "amp_organization_119",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }
