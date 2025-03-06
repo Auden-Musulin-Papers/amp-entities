@@ -4971,7 +4971,7 @@ for any purpose, even commercially.</p>
                   <desc type="entity_type">city, village,...</desc>
                   <country>SE, Sweden</country>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_30">Europe</placeName>
+                     <placeName key="amp_place_id_389">Kingdom of Sweden</placeName>
                   </location>
                   <location type="coords">
                      <geo>59.32938, 18.06871</geo>
@@ -5422,7 +5422,7 @@ for any purpose, even commercially.</p>
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6286786/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q62378</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q62378</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4302320-4</idno>
                   <note/>
                </place>
@@ -5432,7 +5432,7 @@ for any purpose, even commercially.</p>
                      <placeName key="amp_place_id_56">London</placeName>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2635595/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q83125</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q83125</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1026421128</idno>
                   <note/>
                </place>
@@ -5551,6 +5551,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6324603/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q254647</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4416217-0</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_388">
+                  <placeName>Drottningholm Palace</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_389">Kingdom of Sweden</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2717199/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q208559</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4810822-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_389">
+                  <placeName>Kingdom of Sweden</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2661886/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q34</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4077258-5</idno>
                   <note/>
                </place>
             </listPlace>

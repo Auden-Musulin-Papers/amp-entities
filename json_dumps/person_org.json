@@ -782,5 +782,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "person_org": "person_org__29",
+    "source": [
+      {
+        "id": 267,
+        "value": "Algård, Göran",
+        "order": "264.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 135,
+        "value": "Grafisk Konst",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

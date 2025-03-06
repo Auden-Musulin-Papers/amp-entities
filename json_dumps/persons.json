@@ -13211,13 +13211,13 @@
   "267": {
     "id": 267,
     "order": "264.00000000000000000000",
-    "name": "",
+    "name": "Algård, Göran",
     "amp_id": "amp_person_267",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1917",
     "birth_place": [],
     "birth_day": null,
-    "death_year": null,
+    "death_year": "1997",
     "death_place": [],
     "death_day": null,
     "comment": "",
@@ -13230,7 +13230,13 @@
     "alternative_website": "",
     "updated": false,
     "person_place": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 29,
+        "value": "person_org__29",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "person_person": [],
     "PMB": ""
   }

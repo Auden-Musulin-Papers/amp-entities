@@ -409,7 +409,7 @@
       },
       {
         "id": 93,
-        "value": "Telegraphenzentralstation Wien (Vienna Telegraph Central Station)",
+        "value": "Telegraphenzentralstation Wien (Vienna telegraph central station)",
         "order": "91.00000000000000000000"
       },
       {
@@ -14949,12 +14949,18 @@
     ],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 135,
+        "value": "Grafisk Konst",
+        "order": "116.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
-        "id": 30,
-        "value": "Europe",
-        "order": "30.00000000000000000000"
+        "id": 389,
+        "value": "Kingdom of Sweden",
+        "order": "387.00000000000000000000"
       }
     ],
     "relation_types": [
@@ -16189,7 +16195,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q62378",
+    "wikidata": "https://www.wikidata.org/entity/Q62378",
     "gnd": "https://d-nb.info/gnd/4302320-4",
     "geonames_coordinates": "",
     "place_type": "",
@@ -16228,7 +16234,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "wikidata": "https://www.wikidata.org/wiki/Q83125",
+    "wikidata": "https://www.wikidata.org/entity/Q83125",
     "gnd": "https://d-nb.info/gnd/1026421128",
     "geonames_coordinates": "",
     "place_type": "",
@@ -16716,6 +16722,84 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q254647",
     "gnd": "https://d-nb.info/gnd/4416217-0",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "388": {
+    "id": 388,
+    "order": "386.00000000000000000000",
+    "name": "Drottningholm Palace",
+    "amp_id": "amp_place_id_388",
+    "geonames_id": "https://sws.geonames.org/2717199/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 389,
+        "value": "Kingdom of Sweden",
+        "order": "387.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q208559",
+    "gnd": "https://d-nb.info/gnd/4810822-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "389": {
+    "id": 389,
+    "order": "387.00000000000000000000",
+    "name": "Kingdom of Sweden",
+    "amp_id": "amp_place_id_389",
+    "geonames_id": "https://sws.geonames.org/2661886/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q34",
+    "gnd": "https://d-nb.info/gnd/4077258-5",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

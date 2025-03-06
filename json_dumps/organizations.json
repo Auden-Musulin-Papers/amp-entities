@@ -2478,7 +2478,7 @@
   "93": {
     "id": 93,
     "order": "91.00000000000000000000",
-    "name": "Telegraphenzentralstation Wien (Vienna Telegraph Central Station)",
+    "name": "Telegraphenzentralstation Wien (Vienna telegraph central station)",
     "wikidata": "https://www.wikidata.org/entity/Q1718139",
     "amp_id": "amp_organization_93",
     "founded_in_year": null,
@@ -3069,6 +3069,34 @@
     "literary_works": [],
     "org_event": [],
     "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "116.00000000000000000000",
+    "name": "Grafisk Konst",
+    "wikidata": "",
+    "amp_id": "amp_organization_135",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 344,
+        "value": "Stockholm",
+        "order": "343.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 29,
+        "value": "person_org__29",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "gnd": "",
     "URL": ""
   }

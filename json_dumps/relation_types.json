@@ -2648,6 +2648,16 @@
         "id": 387,
         "value": "München Hauptbahnhof (Munich Central Station)",
         "order": "385.00000000000000000000"
+      },
+      {
+        "id": 388,
+        "value": "Drottningholm Palace",
+        "order": "386.00000000000000000000"
+      },
+      {
+        "id": 389,
+        "value": "Kingdom of Sweden",
+        "order": "387.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4995,6 +5005,11 @@
         "id": 28,
         "value": "person_org__28",
         "order": "28.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "person_org__29",
+        "order": "29.00000000000000000000"
       }
     ],
     "person_person": [

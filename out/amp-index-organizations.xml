@@ -1018,7 +1018,7 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_93">
-                  <orgName>Telegraphenzentralstation Wien (Vienna Telegraph Central Station)</orgName>
+                  <orgName>Telegraphenzentralstation Wien (Vienna telegraph central station)</orgName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1285,6 +1285,16 @@ for any purpose, even commercially.</p>
                   </location>
                   <location type="coords">
                      <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_135">
+                  <orgName>Grafisk Konst</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_344">Stockholm</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>59.32938, 18.06871</geo>
                   </location>
                   <note/>
                </org>
