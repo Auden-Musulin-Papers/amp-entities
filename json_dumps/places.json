@@ -16816,5 +16816,122 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "390": {
+    "id": 390,
+    "order": "388.00000000000000000000",
+    "name": "Ísafjörður",
+    "amp_id": "amp_place_id_390",
+    "geonames_id": "https://sws.geonames.org/3415667/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 391,
+        "value": "Iceland",
+        "order": "389.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q106896",
+    "gnd": "https://d-nb.info/gnd/5195049-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "391": {
+    "id": 391,
+    "order": "389.00000000000000000000",
+    "name": "Iceland",
+    "amp_id": "amp_place_id_391",
+    "geonames_id": "https://sws.geonames.org/2629691/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q189",
+    "gnd": "https://d-nb.info/gnd/4027754-9",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "392": {
+    "id": 392,
+    "order": "390.00000000000000000000",
+    "name": "Reykjavík",
+    "amp_id": "amp_place_id_392",
+    "geonames_id": "https://sws.geonames.org/3413829/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 391,
+        "value": "Iceland",
+        "order": "389.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1764",
+    "gnd": "https://d-nb.info/gnd/4049708-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }

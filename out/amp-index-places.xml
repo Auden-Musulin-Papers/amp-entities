@@ -5573,6 +5573,36 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4077258-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_390">
+                  <placeName>Ísafjörður</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_391">Iceland</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3415667/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q106896</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5195049-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_391">
+                  <placeName>Iceland</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2629691/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q189</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027754-9</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_392">
+                  <placeName>Reykjavík</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_391">Iceland</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3413829/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1764</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4049708-2</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

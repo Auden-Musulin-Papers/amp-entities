@@ -810,5 +810,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "person_org": "person_org__30",
+    "source": [
+      {
+        "id": 268,
+        "value": "Pálsson, Hannes",
+        "order": "265.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 137,
+        "value": "Leonar",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

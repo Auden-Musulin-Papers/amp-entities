@@ -13239,5 +13239,37 @@
     ],
     "person_person": [],
     "PMB": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "265.00000000000000000000",
+    "name": "Pálsson, Hannes",
+    "amp_id": "amp_person_268",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://artfacts.net/artist/hannes-palsson/1026344",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 30,
+        "value": "person_org__30",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
   }
 }
