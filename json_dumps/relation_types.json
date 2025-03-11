@@ -2646,7 +2646,7 @@
       },
       {
         "id": 387,
-        "value": "München Hauptbahnhof (Munich Central Station)",
+        "value": "München Hauptbahnhof (Munich central station)",
         "order": "385.00000000000000000000"
       },
       {
@@ -2673,6 +2673,16 @@
         "id": 392,
         "value": "Reykjavík",
         "order": "390.00000000000000000000"
+      },
+      {
+        "id": 393,
+        "value": "Bahnhof Berlin Zoologischer Garten (Berlin Zoologischer Garten railway station)",
+        "order": "391.00000000000000000000"
+      },
+      {
+        "id": 394,
+        "value": "Berlin-Hansaviertel",
+        "order": "392.00000000000000000000"
       }
     ],
     "person_place": [],

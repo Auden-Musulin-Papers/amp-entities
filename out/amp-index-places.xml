@@ -5544,7 +5544,7 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_387">
-                  <placeName>München Hauptbahnhof (Munich Central Station)</placeName>
+                  <placeName>München Hauptbahnhof (Munich central station)</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_26">Munich</placeName>
                   </location>
@@ -5601,6 +5601,26 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3413829/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1764</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4049708-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_393">
+                  <placeName>Bahnhof Berlin Zoologischer Garten (Berlin Zoologischer Garten railway station)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7535595/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q681785</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4202678-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_394">
+                  <placeName>Berlin-Hansaviertel</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8334620/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q427582</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058845543</idno>
                   <note/>
                </place>
             </listPlace>

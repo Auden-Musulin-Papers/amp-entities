@@ -1630,6 +1630,11 @@
         "id": 115,
         "value": "Klinke & Co.",
         "order": "111.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "Hans Andres Verlag",
+        "order": "119.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -16703,7 +16708,7 @@
   "387": {
     "id": 387,
     "order": "385.00000000000000000000",
-    "name": "München Hauptbahnhof (Munich Central Station)",
+    "name": "München Hauptbahnhof (Munich central station)",
     "amp_id": "amp_place_id_387",
     "geonames_id": "https://sws.geonames.org/6324603/",
     "birth_place": [],
@@ -16922,6 +16927,84 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q1764",
     "gnd": "https://d-nb.info/gnd/4049708-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "393": {
+    "id": 393,
+    "order": "391.00000000000000000000",
+    "name": "Bahnhof Berlin Zoologischer Garten (Berlin Zoologischer Garten railway station)",
+    "amp_id": "amp_place_id_393",
+    "geonames_id": "https://sws.geonames.org/7535595/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q681785",
+    "gnd": "https://d-nb.info/gnd/4202678-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "394": {
+    "id": 394,
+    "order": "392.00000000000000000000",
+    "name": "Berlin-Hansaviertel",
+    "amp_id": "amp_place_id_394",
+    "geonames_id": "https://sws.geonames.org/8334620/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q427582",
+    "gnd": "https://d-nb.info/gnd/1058845543",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",
