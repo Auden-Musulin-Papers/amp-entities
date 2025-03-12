@@ -5623,6 +5623,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1058845543</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_395">
+                  <placeName>Basilica di Sant'Apollinare Nuovo</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_31">Ravenna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11126505/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q832278</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4453190-4</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
