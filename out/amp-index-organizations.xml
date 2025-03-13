@@ -1333,6 +1333,30 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_140">
+                  <orgName>Képzőművészeti Alap Kiadóvállalata</orgName>
+                  <desc>Was founded in year <date from-iso="1954-01-01">1954</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_86">Budapest</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.49835, 19.04045</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1124147</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_141">
+                  <orgName>Magyar Távirati Iroda</orgName>
+                  <desc>Was founded in year <date from-iso="1880-01-01">1880</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_86">Budapest</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.49835, 19.04045</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q376886</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

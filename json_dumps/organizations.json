@@ -3187,5 +3187,55 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "121.00000000000000000000",
+    "name": "Képzőművészeti Alap Kiadóvállalata",
+    "wikidata": "https://www.wikidata.org/entity/Q1124147",
+    "amp_id": "amp_organization_140",
+    "founded_in_year": "1954",
+    "comments": "",
+    "location": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "141": {
+    "id": 141,
+    "order": "122.00000000000000000000",
+    "name": "Magyar Távirati Iroda",
+    "wikidata": "https://www.wikidata.org/entity/Q376886",
+    "amp_id": "amp_organization_141",
+    "founded_in_year": "1880",
+    "comments": "",
+    "location": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 31,
+        "value": "person_org__31",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1090613806",
+    "URL": ""
   }
 }

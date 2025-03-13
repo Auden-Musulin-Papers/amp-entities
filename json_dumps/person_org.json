@@ -838,5 +838,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "person_org": "person_org__31",
+    "source": [
+      {
+        "id": 269,
+        "value": "Fényes,  Tamás",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 141,
+        "value": "Magyar Távirati Iroda",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

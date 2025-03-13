@@ -5069,11 +5069,34 @@
     "name": "Budapest",
     "amp_id": "amp_place_id_86",
     "geonames_id": "https://sws.geonames.org/3054643/",
-    "birth_place": [],
-    "death_place": [],
+    "birth_place": [
+      {
+        "id": 269,
+        "value": "Fényes,  Tamás",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "death_place": [
+      {
+        "id": 269,
+        "value": "Fényes,  Tamás",
+        "order": "266.00000000000000000000"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": null,
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 140,
+        "value": "Képzőművészeti Alap Kiadóvállalata",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "Magyar Távirati Iroda",
+        "order": "122.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 30,
@@ -17050,6 +17073,45 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q832278",
     "gnd": "https://d-nb.info/gnd/4453190-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "396": {
+    "id": 396,
+    "order": "394.00000000000000000000",
+    "name": "Grand Hotel Royal",
+    "amp_id": "amp_place_id_396",
+    "geonames_id": "https://sws.geonames.org/6503202/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q16972971",
+    "gnd": "",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",
