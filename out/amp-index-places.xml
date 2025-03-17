@@ -5672,6 +5672,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4380996-0</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_400">
+                  <placeName>Forio</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3176748/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q72114</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4381880-8</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
