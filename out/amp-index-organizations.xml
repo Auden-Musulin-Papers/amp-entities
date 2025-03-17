@@ -1357,6 +1357,15 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q376886</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_142">
+                  <orgName>Stabilimento poligrafico Alterocca S.A.</orgName>
+                  <desc>Was founded in year <date from-iso="1877-01-01">1877</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_397">Terni</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112281461</idno>
+                  <note>https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=prodente&amp;Chiave=90542</note>
+               </org>
             </listOrg>
          </div>
       </body>

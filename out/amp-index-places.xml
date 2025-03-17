@@ -5642,6 +5642,36 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q16972971</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_397">
+                  <placeName>Terni</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3165771/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q8621</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4106179-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_398">
+                  <placeName>Naples</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3172394/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q2634</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041476-0</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_399">
+                  <placeName>Lacco Ameno</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3175335/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q72138</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4380996-0</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

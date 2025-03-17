@@ -3237,5 +3237,27 @@
     ],
     "gnd": "https://d-nb.info/gnd/1090613806",
     "URL": ""
+  },
+  "142": {
+    "id": 142,
+    "order": "123.00000000000000000000",
+    "name": "Stabilimento poligrafico Alterocca S.A.",
+    "wikidata": "https://www.wikidata.org/entity/Q112281461",
+    "amp_id": "amp_organization_142",
+    "founded_in_year": "1877",
+    "comments": "https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=prodente&Chiave=90542",
+    "location": [
+      {
+        "id": 397,
+        "value": "Terni",
+        "order": "395.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1087595819",
+    "URL": ""
   }
 }
