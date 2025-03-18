@@ -1366,6 +1366,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112281461</idno>
                   <note>https://sias-archivi.cultura.gov.it/cgi-bin/pagina.pl?TipoPag=prodente&amp;Chiave=90542</note>
                </org>
+               <org xml:id="amp_organization_143">
+                  <orgName>Alfred Savage Ltd.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <note>https://archive-cat.chch.ox.ac.uk/names/f67c6aec-051a-4e0e-b89e-873c9aa571c3</note>
+               </org>
             </listOrg>
          </div>
       </body>
