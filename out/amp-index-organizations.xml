@@ -1376,6 +1376,26 @@ for any purpose, even commercially.</p>
                   </location>
                   <note>https://archive-cat.chch.ox.ac.uk/names/f67c6aec-051a-4e0e-b89e-873c9aa571c3</note>
                </org>
+               <org xml:id="amp_organization_144">
+                  <orgName>Knut Aune Kunstforlag A/S</orgName>
+                  <desc>Was founded in year <date from-iso="1949-01-01">1949</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_384">Trondheim</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11959651</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_145">
+                  <orgName>ULTRA</orgName>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_146">
+                  <orgName>Shipboard post office Trondheim - Kirkenes</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_383">Kingdom of Norway</placeName>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

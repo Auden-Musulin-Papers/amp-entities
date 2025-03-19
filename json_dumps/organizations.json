@@ -3281,5 +3281,65 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "144": {
+    "id": 144,
+    "order": "125.00000000000000000000",
+    "name": "Knut Aune Kunstforlag A/S",
+    "wikidata": "https://www.wikidata.org/entity/Q11959651",
+    "amp_id": "amp_organization_144",
+    "founded_in_year": "1949",
+    "comments": "",
+    "location": [
+      {
+        "id": 384,
+        "value": "Trondheim",
+        "order": "382.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "126.00000000000000000000",
+    "name": "ULTRA",
+    "wikidata": "",
+    "amp_id": "amp_organization_145",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "127.00000000000000000000",
+    "name": "Shipboard post office Trondheim - Kirkenes",
+    "wikidata": "",
+    "amp_id": "amp_organization_146",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 383,
+        "value": "Kingdom of Norway",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }

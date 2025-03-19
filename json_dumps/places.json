@@ -16587,7 +16587,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 146,
+        "value": "Shipboard post office Trondheim - Kirkenes",
+        "order": "127.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 30,
@@ -16631,6 +16637,11 @@
         "id": 117,
         "value": "Post office Trondheim BR III",
         "order": "113.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "Knut Aune Kunstforlag A/S",
+        "order": "125.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -17279,6 +17290,45 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q72114",
     "gnd": "https://d-nb.info/gnd/4381880-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "401": {
+    "id": 401,
+    "order": "399.00000000000000000000",
+    "name": "Hammerfest",
+    "amp_id": "amp_place_id_401",
+    "geonames_id": "https://sws.geonames.org/779683/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 383,
+        "value": "Kingdom of Norway",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q721374",
+    "gnd": "https://d-nb.info/gnd/4481492-6",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",
