@@ -1400,6 +1400,16 @@ for any purpose, even commercially.</p>
                   <orgName>T.P.C</orgName>
                   <note/>
                </org>
+               <org xml:id="amp_organization_148">
+                  <orgName>Münchener Bildkunstverlag August Lengauer</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
