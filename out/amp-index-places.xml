@@ -5692,6 +5692,23 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4481492-6</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_402">
+                  <placeName>Theodor-Heuss-Platz</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q565056</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_403">
+                  <placeName>Bezirk Charlottenburg</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q853708</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4087306-7</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

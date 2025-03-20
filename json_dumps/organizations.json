@@ -3411,5 +3411,27 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "132.00000000000000000000",
+    "name": "Kunst und Bild GmbH",
+    "wikidata": "",
+    "amp_id": "amp_organization_151",
+    "founded_in_year": "1930",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1065781695",
+    "URL": ""
   }
 }
