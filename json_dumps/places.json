@@ -17387,9 +17387,9 @@
   "403": {
     "id": 403,
     "order": "401.00000000000000000000",
-    "name": "Bezirk Charlottenburg",
+    "name": "Berlin-Charlottenburg",
     "amp_id": "amp_place_id_403",
-    "geonames_id": "",
+    "geonames_id": "https://sws.geonames.org/2940187/",
     "birth_place": [],
     "death_place": [],
     "google_maps_coordinates": "",
@@ -17403,7 +17403,7 @@
       }
     ],
     "relation_types": [],
-    "wikidata": "https://www.wikidata.org/entity/Q853708",
+    "wikidata": "https://www.wikidata.org/entity/Q162049",
     "gnd": "https://d-nb.info/gnd/4087306-7",
     "geonames_coordinates": "",
     "place_type": "",
