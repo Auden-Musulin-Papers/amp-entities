@@ -240,7 +240,7 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_13">
                   <settlement type="P">
-                     <placeName>Athens</placeName>
+                     <placeName>Αθήνα (Athens)</placeName>
                   </settlement>
                   <desc type="entity_type">city, village,...</desc>
                   <country>GR, Greece</country>
@@ -5708,6 +5708,25 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2940187/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q162049</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4087306-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_404">
+                  <placeName>Ελληνικό (Elliniko)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_358">Greece</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/262719/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q659728</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_405">
+                  <placeName>Ερέχθειο (Erechtheion)</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_13">Αθήνα (Athens)</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8354433/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q242741</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4228687-6</idno>
                   <note/>
                </place>
             </listPlace>

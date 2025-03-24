@@ -1136,7 +1136,7 @@
       },
       {
         "id": 13,
-        "value": "Athens",
+        "value": "Αθήνα (Athens)",
         "order": "13.00000000000000000000"
       },
       {
@@ -2718,6 +2718,26 @@
         "id": 401,
         "value": "Hammerfest",
         "order": "399.00000000000000000000"
+      },
+      {
+        "id": 402,
+        "value": "Theodor-Heuss-Platz",
+        "order": "400.00000000000000000000"
+      },
+      {
+        "id": 403,
+        "value": "Berlin-Charlottenburg",
+        "order": "401.00000000000000000000"
+      },
+      {
+        "id": 404,
+        "value": "Ελληνικό (Elliniko)",
+        "order": "402.00000000000000000000"
+      },
+      {
+        "id": 405,
+        "value": "Ερέχθειο (Erechtheion)",
+        "order": "403.00000000000000000000"
       }
     ],
     "person_place": [],

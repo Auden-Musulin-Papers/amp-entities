@@ -3433,5 +3433,27 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1065781695",
     "URL": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "133.00000000000000000000",
+    "name": "Post office Διεθνής Αερολιμένας Ελληνικού (Ellinikon International Airport)",
+    "wikidata": "",
+    "amp_id": "amp_organization_152",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 404,
+        "value": "Ελληνικό (Elliniko)",
+        "order": "402.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }
