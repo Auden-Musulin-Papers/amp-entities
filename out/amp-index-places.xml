@@ -5192,7 +5192,7 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_358">
                   <settlement type="A">
-                     <placeName>Greece</placeName>
+                     <placeName>Hellenic Republic</placeName>
                   </settlement>
                   <desc type="entity_type">country, state, region,...</desc>
                   <country>GR, Greece</country>
@@ -5713,7 +5713,7 @@ for any purpose, even commercially.</p>
                <place xml:id="amp_place_id_404">
                   <placeName>Elliniko</placeName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_358">Greece</placeName>
+                     <placeName key="amp_place_id_358">Hellenic Republic</placeName>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/262719/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q659728</idno>
