@@ -1341,7 +1341,7 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Αθήνα (Athens)",
+    "name": "Athens",
     "amp_id": "amp_place_id_13",
     "geonames_id": "https://sws.geonames.org/264371/",
     "birth_place": [
@@ -17432,7 +17432,7 @@
   "404": {
     "id": 404,
     "order": "402.00000000000000000000",
-    "name": "Ελληνικό (Elliniko)",
+    "name": "Elliniko",
     "amp_id": "amp_place_id_404",
     "geonames_id": "https://sws.geonames.org/262719/",
     "birth_place": [],
@@ -17442,7 +17442,7 @@
     "organizations": [
       {
         "id": 152,
-        "value": "Post office Διεθνής Αερολιμένας Ελληνικού (Ellinikon International Airport)",
+        "value": "Post office Ellinikon International Airport",
         "order": "133.00000000000000000000"
       }
     ],
@@ -17477,7 +17477,7 @@
   "405": {
     "id": 405,
     "order": "403.00000000000000000000",
-    "name": "Ερέχθειο (Erechtheion)",
+    "name": "Erechtheion",
     "amp_id": "amp_place_id_405",
     "geonames_id": "https://sws.geonames.org/8354433/",
     "birth_place": [],
@@ -17488,7 +17488,7 @@
     "is_part_of": [
       {
         "id": 13,
-        "value": "Αθήνα (Athens)",
+        "value": "Athens",
         "order": "13.00000000000000000000"
       }
     ],
@@ -17501,6 +17501,33 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q242741",
     "gnd": "https://d-nb.info/gnd/4228687-6",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "406": {
+    "id": 406,
+    "order": "404.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_place_id_406",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "",
+    "gnd": "",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",
