@@ -1085,6 +1085,11 @@
         "id": 100,
         "value": "Kreisgericht St. Pölten (St. Pölten district court)",
         "order": "98.00000000000000000000"
+      },
+      {
+        "id": 153,
+        "value": "Niederösterreichische Pressehaus Druck- und Verlagsgesellschaft m.b.H.",
+        "order": "134.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1101,8 +1106,8 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q21865352",
-    "gnd": "",
+    "wikidata": "http://www.wikidata.org/entity/Q82500",
+    "gnd": "https://d-nb.info/gnd/4051622-2",
     "geonames_coordinates": "48.2, 15.63333",
     "place_type": "city, village,...",
     "country": "Austria",
@@ -2683,7 +2688,13 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "death_place": [],
+    "death_place": [
+      {
+        "id": 272,
+        "value": "Pacher, Michael",
+        "order": "268.00000000000000000000"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [
@@ -17516,18 +17527,36 @@
   "406": {
     "id": 406,
     "order": "404.00000000000000000000",
-    "name": "",
+    "name": "Pfalzen",
     "amp_id": "amp_place_id_406",
-    "geonames_id": "",
-    "birth_place": [],
+    "geonames_id": "https://sws.geonames.org/3177231/",
+    "birth_place": [
+      {
+        "id": 272,
+        "value": "Pacher, Michael",
+        "order": "268.00000000000000000000"
+      }
+    ],
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "is_part_of": [],
-    "relation_types": [],
-    "wikidata": "",
-    "gnd": "",
+    "is_part_of": [
+      {
+        "id": 159,
+        "value": "Italy",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q380334",
+    "gnd": "https://d-nb.info/gnd/4528042-3",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

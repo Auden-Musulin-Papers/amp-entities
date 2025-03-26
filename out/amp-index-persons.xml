@@ -4085,7 +4085,6 @@ for any purpose, even commercially.</p>
                         <placeName>Öblarn</placeName>
                      </settlement>
                   </death>
-                  <idno type="URI" subtype="WIKIDATA">https://www.geni.com/people/Friedrich-Graf-von-Colloredo-Mannsfeld/6000000069375237010</idno>
                </person>
                <person xml:id="amp_person_227">
                   <persName>
@@ -4611,6 +4610,30 @@ for any purpose, even commercially.</p>
                      </settlement>
                   </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q107185483</idno>
+               </person>
+               <person xml:id="amp_person_271">
+                  <persName>
+                     <forename/>
+                     <surname>Joseph</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558382</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q128267</idno>
+               </person>
+               <person xml:id="amp_person_272">
+                  <persName>
+                     <forename>Michael</forename>
+                     <surname>Pacher</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118591088</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q463922</idno>
+               </person>
+               <person xml:id="amp_person_273">
+                  <persName>
+                     <forename/>
+                     <surname>Mary</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118640909</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q345</idno>
                </person>
             </listPerson>
          </div>

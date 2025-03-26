@@ -440,7 +440,7 @@
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Virago Press",
-    "wikidata": "https://www.wikidata.org/wiki/Q370233",
+    "wikidata": "https://www.wikidata.org/entity/Q370233",
     "amp_id": "amp_organization_13",
     "founded_in_year": "1973",
     "comments": "https://www.virago.co.uk/",
@@ -1126,7 +1126,7 @@
     "id": 39,
     "order": "39.00000000000000000000",
     "name": "Die Presse",
-    "wikidata": "https://www.wikidata.org/wiki/Q689934",
+    "wikidata": "https://www.wikidata.org/entity/Q689934",
     "amp_id": "amp_organization_39",
     "founded_in_year": "1848",
     "comments": "",
@@ -1821,7 +1821,7 @@
     "id": 69,
     "order": "67.00000000000000000000",
     "name": "Oxford University Press",
-    "wikidata": "https://www.wikidata.org/wiki/Q217595",
+    "wikidata": "https://www.wikidata.org/entity/Q217595",
     "amp_id": "amp_organization_69",
     "founded_in_year": "1586",
     "comments": "",
@@ -3454,6 +3454,28 @@
     "org_event": [],
     "person_org": [],
     "gnd": "",
+    "URL": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "134.00000000000000000000",
+    "name": "Niederösterreichische Pressehaus Druck- und Verlagsgesellschaft m.b.H.",
+    "wikidata": "https://www.wikidata.org/entity/Q1506138",
+    "amp_id": "amp_organization_153",
+    "founded_in_year": "1970",
+    "comments": "",
+    "location": [
+      {
+        "id": 9,
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/10114790-9",
     "URL": ""
   }
 }

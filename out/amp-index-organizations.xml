@@ -1437,6 +1437,18 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_153">
+                  <orgName>Niederösterreichische Pressehaus Druck- und Verlagsgesellschaft m.b.H.</orgName>
+                  <desc>Was founded in year <date from-iso="1970-01-01">1970</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2, 15.63333</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1506138</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

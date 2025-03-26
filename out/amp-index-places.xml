@@ -190,7 +190,8 @@ for any purpose, even commercially.</p>
                      <geo>48.2, 15.63333</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2766429/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21865352</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q82500</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051622-2</idno>
                </place>
                <place xml:id="amp_place_id_10">
                   <settlement type="A">
@@ -5730,7 +5731,13 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_406">
-                  <placeName/>
+                  <placeName>Pfalzen</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3177231/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q380334</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4528042-3</idno>
                   <note/>
                </place>
             </listPlace>
