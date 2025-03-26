@@ -4613,8 +4613,8 @@ for any purpose, even commercially.</p>
                </person>
                <person xml:id="amp_person_271">
                   <persName>
-                     <forename/>
-                     <surname>Joseph</surname>
+                     <forename>Joseph</forename>
+                     <surname>of Nazareth</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118558382</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q128267</idno>
@@ -4629,11 +4629,19 @@ for any purpose, even commercially.</p>
                </person>
                <person xml:id="amp_person_273">
                   <persName>
-                     <forename/>
-                     <surname>Mary</surname>
+                     <forename>Mary</forename>
+                     <surname>of Nazareth</surname>
                   </persName>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118640909</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q345</idno>
+               </person>
+               <person xml:id="amp_person_274">
+                  <persName>
+                     <forename>Jesus</forename>
+                     <surname>of Nazareth</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118557513</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q302</idno>
                </person>
             </listPerson>
          </div>
