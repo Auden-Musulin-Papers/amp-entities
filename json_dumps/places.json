@@ -1415,6 +1415,11 @@
         "id": 9,
         "value": "Alighieri, Dante",
         "order": "9.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Dolci, Carlo",
+        "order": "271.00000000000000000000"
       }
     ],
     "death_place": [
@@ -1427,6 +1432,11 @@
         "id": 96,
         "value": "Clark, Thekla",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Dolci, Carlo",
+        "order": "271.00000000000000000000"
       }
     ],
     "google_maps_coordinates": "",
@@ -17557,6 +17567,57 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q380334",
     "gnd": "https://d-nb.info/gnd/4528042-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "407": {
+    "id": 407,
+    "order": "405.00000000000000000000",
+    "name": "Bologna",
+    "amp_id": "amp_place_id_407",
+    "geonames_id": "https://sws.geonames.org/3181928/",
+    "birth_place": [
+      {
+        "id": 277,
+        "value": "Reni, Guido",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "death_place": [
+      {
+        "id": 277,
+        "value": "Reni, Guido",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 159,
+        "value": "Italy",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1891",
+    "gnd": "https://d-nb.info/gnd/4007616-7",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

@@ -13339,7 +13339,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 243,
+        "value": "relationship_person_id__243",
+        "order": "239.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "272": {
@@ -13403,7 +13409,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 242,
+        "value": "relationship_person_id__242",
+        "order": "238.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "274": {
@@ -13422,6 +13434,108 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q302",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "271.00000000000000000000",
+    "name": "Dolci, Carlo",
+    "amp_id": "amp_person_275",
+    "gnd": "https://d-nb.info/gnd/119317869",
+    "birth_year": "1616",
+    "birth_place": [
+      {
+        "id": 14,
+        "value": "Florence",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "birth_day": "1616-05-25",
+    "death_year": "1686",
+    "death_place": [
+      {
+        "id": 14,
+        "value": "Florence",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "death_day": "1686-01-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q503322",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "272.00000000000000000000",
+    "name": "the Evangelist, John",
+    "amp_id": "amp_person_276",
+    "gnd": "https://d-nb.info/gnd/118557815",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q328804",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "273.00000000000000000000",
+    "name": "Reni, Guido",
+    "amp_id": "amp_person_277",
+    "gnd": "https://d-nb.info/gnd/118599712",
+    "birth_year": "1575",
+    "birth_place": [
+      {
+        "id": 407,
+        "value": "Bologna",
+        "order": "405.00000000000000000000"
+      }
+    ],
+    "birth_day": "1575-11-04",
+    "death_year": "1642",
+    "death_place": [
+      {
+        "id": 407,
+        "value": "Bologna",
+        "order": "405.00000000000000000000"
+      }
+    ],
+    "death_day": "1642-08-18",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q109061",
     "Title": [],
     "person_event": [],
     "maiden_name": "",

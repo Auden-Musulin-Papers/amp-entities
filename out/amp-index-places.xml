@@ -5740,6 +5740,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4528042-3</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_407">
+                  <placeName>Bologna</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_159">Italy</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3181928/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1891</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4007616-7</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

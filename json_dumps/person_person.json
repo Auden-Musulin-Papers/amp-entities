@@ -6046,5 +6046,61 @@
         "order": "6.00000000000000000000"
       }
     ]
+  },
+  "242": {
+    "id": 242,
+    "order": "238.00000000000000000000",
+    "amp_id": "relationship_person_id__242",
+    "source": [
+      {
+        "id": 273,
+        "value": "of Nazareth, Mary",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 271,
+        "value": "of Nazareth, Joseph",
+        "order": "267.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
+  },
+  "243": {
+    "id": 243,
+    "order": "239.00000000000000000000",
+    "amp_id": "relationship_person_id__243",
+    "source": [
+      {
+        "id": 271,
+        "value": "of Nazareth, Joseph",
+        "order": "267.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 273,
+        "value": "of Nazareth, Mary",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
   }
 }

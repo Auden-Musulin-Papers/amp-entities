@@ -710,6 +710,16 @@
         "id": 207,
         "value": "relationship_person_id__207",
         "order": "208.00000000000000000000"
+      },
+      {
+        "id": 242,
+        "value": "relationship_person_id__242",
+        "order": "238.00000000000000000000"
+      },
+      {
+        "id": 243,
+        "value": "relationship_person_id__243",
+        "order": "239.00000000000000000000"
       }
     ]
   },
@@ -2743,6 +2753,11 @@
         "id": 406,
         "value": "Pfalzen",
         "order": "404.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "Bologna",
+        "order": "405.00000000000000000000"
       }
     ],
     "person_place": [],
