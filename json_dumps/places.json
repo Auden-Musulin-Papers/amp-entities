@@ -3247,7 +3247,13 @@
     "death_place": [],
     "google_maps_coordinates": "48.19979820714975, 15.908621293769759",
     "comments": null,
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 154,
+        "value": "Willinger",
+        "order": "135.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 6,

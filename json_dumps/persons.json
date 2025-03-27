@@ -1214,6 +1214,11 @@
         "id": 235,
         "value": "relationship_person_id__235",
         "order": "236.00000000000000000000"
+      },
+      {
+        "id": 247,
+        "value": "relationship_person_id__247",
+        "order": "243.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5995,6 +6000,11 @@
         "id": 105,
         "value": "relationship_person_id__105",
         "order": "105.00000000000000000000"
+      },
+      {
+        "id": 246,
+        "value": "relationship_person_id__246",
+        "order": "242.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -10030,7 +10040,7 @@
       }
     ],
     "death_day": "1957-05-03",
-    "comment": "https://www.wikitree.com/wiki/Auden-8",
+    "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/wiki/Q5536493",
@@ -10048,7 +10058,7 @@
     ],
     "person_event": [],
     "maiden_name": null,
-    "alternative_website": null,
+    "alternative_website": "https://www.wikitree.com/wiki/Auden-8",
     "updated": false,
     "person_place": [],
     "person_org": [],
@@ -13550,6 +13560,43 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "274.00000000000000000000",
+    "name": "Auden, Bernard",
+    "amp_id": "amp_person_278",
+    "gnd": "",
+    "birth_year": "1900",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1978",
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.npg.org.uk/collections/search/person/mp96772/bernard-auden",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 244,
+        "value": "relationship_person_id__244",
+        "order": "240.00000000000000000000"
+      },
+      {
+        "id": 245,
+        "value": "relationship_person_id__245",
+        "order": "241.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }
