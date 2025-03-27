@@ -8421,5 +8421,47 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "212": {
+    "id": 212,
+    "order": "204.00000000000000000000",
+    "name": "Gospel of John",
+    "lit_work_id": "lit_work_id_212",
+    "is_written_by": [
+      {
+        "id": 276,
+        "value": "the Evangelist, John",
+        "order": "272.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 9984,
+        "value": "religious_text",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 12,
+        "value": "New Testament",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

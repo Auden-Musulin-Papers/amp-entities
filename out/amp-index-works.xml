@@ -1771,6 +1771,12 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3050642</idno>
                   <lang>de</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_212" type="religious_text">
+                  <title>Gospel of John</title>
+                  <author ref="#amp_person_276">
+                     <persName>the Evangelist, John</persName>
+                  </author>
+               </bibl>
             </listBibl>
          </div>
       </body>

@@ -13496,7 +13496,13 @@
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 212,
+        "value": "Gospel of John",
+        "order": "204.00000000000000000000"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/entity/Q328804",
     "Title": [],
     "person_event": [],
