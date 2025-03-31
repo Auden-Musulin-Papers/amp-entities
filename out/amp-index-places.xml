@@ -4784,17 +4784,11 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_332">
-                  <settlement type="S">
-                     <placeName>Pfarrkirche Kirchstetten (Kirchstetten parish church)</placeName>
-                  </settlement>
-                  <desc type="entity_type">spot, building, farm</desc>
-                  <country>GB, United Kingdom</country>
+                  <placeName>Pfarrkirche Kirchstetten (Kirchstetten parish church)</placeName>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_5">Kirchstetten</placeName>
                   </location>
-                  <location type="coords">
-                     <geo>51.49946, -0.12739</geo>
-                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13284683/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q38085012</idno>
                   <note/>
                </place>
