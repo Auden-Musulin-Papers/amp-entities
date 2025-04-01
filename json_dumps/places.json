@@ -7086,6 +7086,11 @@
         "id": 79,
         "value": "Henze, Hans Werner",
         "order": "79.00000000000000000000"
+      },
+      {
+        "id": 279,
+        "value": "Tappe, Horst",
+        "order": "275.00000000000000000000"
       }
     ],
     "death_place": [],
@@ -7106,7 +7111,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q11042201",
+    "wikidata": "http://www.wikidata.org/entity/Q3771",
     "gnd": "https://d-nb.info/gnd/4132018-9",
     "geonames_coordinates": "51.90693, 8.37853",
     "place_type": "city, village,...",
@@ -17624,6 +17629,51 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q1891",
     "gnd": "https://d-nb.info/gnd/4007616-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "408": {
+    "id": 408,
+    "order": "406.00000000000000000000",
+    "name": "Vevey",
+    "amp_id": "amp_place_id_408",
+    "geonames_id": "https://sws.geonames.org/2658145/",
+    "birth_place": [],
+    "death_place": [
+      {
+        "id": 279,
+        "value": "Tappe, Horst",
+        "order": "275.00000000000000000000"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 97,
+        "value": "Switzerland",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q68160",
+    "gnd": "https://d-nb.info/gnd/4063428-0",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

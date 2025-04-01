@@ -2005,7 +2005,7 @@ for any purpose, even commercially.</p>
                      <geo>51.90693, 8.37853</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2913366/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11042201</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3771</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4132018-9</idno>
                   <note/>
                </place>
@@ -5742,6 +5742,16 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3181928/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1891</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4007616-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_408">
+                  <placeName>Vevey</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_97">Switzerland</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658145/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q68160</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4063428-0</idno>
                   <note/>
                </place>
             </listPlace>

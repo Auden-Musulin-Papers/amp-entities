@@ -13623,5 +13623,43 @@
       }
     ],
     "PMB": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "275.00000000000000000000",
+    "name": "Tappe, Horst",
+    "amp_id": "amp_person_279",
+    "gnd": "https://d-nb.info/gnd/123982464",
+    "birth_year": "1938",
+    "birth_place": [
+      {
+        "id": 139,
+        "value": "Gütersloh",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "birth_day": "1938-05-13",
+    "death_year": "2005",
+    "death_place": [
+      {
+        "id": 408,
+        "value": "Vevey",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "death_day": "2005-08-21",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q101656",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
   }
 }
