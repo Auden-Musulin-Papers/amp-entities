@@ -209,7 +209,7 @@
         "order": "79.00000000000000000000"
       }
     ],
-    "is_linked_with": "https://www.wikidata.org/wiki/Q844406",
+    "is_linked_with": "https://www.wikidata.org/entity/Q844406",
     "has_year": "1966",
     "type": [
       {
@@ -228,7 +228,11 @@
     ],
     "relation_types": [],
     "is_part_of": [],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
     "Comments": null,
     "has_publisher": [],
     "has_date": null,
@@ -737,7 +741,11 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
     "Comments": null,
     "has_publisher": [],
     "has_date": null,
@@ -8457,6 +8465,111 @@
       "id": 6740,
       "value": "work",
       "color": "dark-green"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "213": {
+    "id": 213,
+    "order": "205.00000000000000000000",
+    "name": "Guest book: Kirchstetten, signatures and notes written in album",
+    "lit_work_id": "lit_work_id_213",
+    "is_written_by": [],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 9994,
+        "value": "notes",
+        "color": "light-blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      },
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "214": {
+    "id": 214,
+    "order": "206.00000000000000000000",
+    "name": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+    "lit_work_id": "lit_work_id_214",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Henze, Hans Werner",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Reinold, Helmut",
+        "order": "276.00000000000000000000"
+      },
+      {
+        "id": 281,
+        "value": "Bosse-Sporleder, Maria",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "https://www.wikidata.org/entity/Q844406",
+    "has_year": "1966",
+    "type": [
+      {
+        "id": 6665,
+        "value": "opera",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 5,
+        "value": "The Bassarids: Opera Seria with Intermezzo in One Act Based on \"The Bacchae\" of Euripides",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
     },
     "Comments": "",
     "has_publisher": [],

@@ -1225,11 +1225,6 @@
         "order": "20.00000000000000000000"
       },
       {
-        "id": 21,
-        "value": "East Berlin",
-        "order": "21.00000000000000000000"
-      },
-      {
         "id": 22,
         "value": "Sankt Radegund",
         "order": "22.00000000000000000000"
@@ -2808,6 +2803,11 @@
         "id": 408,
         "value": "Vevey",
         "order": "406.00000000000000000000"
+      },
+      {
+        "id": 410,
+        "value": "Tallinn",
+        "order": "408.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3085,6 +3085,36 @@
         "id": 219,
         "value": "relationship_person_id__219",
         "order": "220.00000000000000000000"
+      },
+      {
+        "id": 256,
+        "value": "relationship_person_id__256",
+        "order": "250.00000000000000000000"
+      },
+      {
+        "id": 257,
+        "value": "relationship_person_id__257",
+        "order": "251.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "relationship_person_id__258",
+        "order": "252.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "relationship_person_id__259",
+        "order": "253.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "relationship_person_id__260",
+        "order": "254.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "relationship_person_id__261",
+        "order": "255.00000000000000000000"
       }
     ]
   },

@@ -2390,7 +2390,7 @@
     "id": 90,
     "order": "88.00000000000000000000",
     "name": "Vienna State Opera",
-    "wikidata": "http://www.wikidata.org/entity/Q209937",
+    "wikidata": "https://www.wikidata.org/entity/Q209937",
     "amp_id": "amp_organization_90",
     "founded_in_year": "1955",
     "comments": "",
@@ -3498,6 +3498,50 @@
     "org_event": [],
     "person_org": [],
     "gnd": "",
+    "URL": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "136.00000000000000000000",
+    "name": "Deutsche Oper Berlin",
+    "wikidata": "https://www.wikidata.org/entity/Q637834",
+    "amp_id": "amp_organization_155",
+    "founded_in_year": "1961",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/3009547-5",
+    "URL": ""
+  },
+  "156": {
+    "id": 156,
+    "order": "137.00000000000000000000",
+    "name": "Österreichische Nationalbibliothek (Austrian National Library)",
+    "wikidata": "https://www.wikidata.org/entity/Q304037",
+    "amp_id": "amp_organization_156",
+    "founded_in_year": "1368",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2020893-5",
     "URL": ""
   }
 }

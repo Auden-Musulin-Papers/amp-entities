@@ -485,6 +485,11 @@
         "id": 211,
         "value": "Elegie für junge Liebende",
         "order": "203.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+        "order": "206.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1219,6 +1224,11 @@
         "id": 247,
         "value": "relationship_person_id__247",
         "order": "243.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "relationship_person_id__259",
+        "order": "253.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -1872,6 +1882,11 @@
         "id": 211,
         "value": "Elegie für junge Liebende",
         "order": "203.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+        "order": "206.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5093626",
@@ -2054,6 +2069,11 @@
         "id": 212,
         "value": "relationship_person_id__212",
         "order": "213.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "relationship_person_id__260",
+        "order": "254.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5488,6 +5508,11 @@
         "id": 6727,
         "value": "Doktor:in",
         "color": "light-green"
+      },
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
       }
     ],
     "person_event": [],
@@ -5540,6 +5565,11 @@
         "id": 211,
         "value": "Elegie für junge Liebende",
         "order": "203.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+        "order": "206.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q76915",
@@ -5566,6 +5596,11 @@
         "id": 125,
         "value": "relationship_person_id__125",
         "order": "125.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "relationship_person_id__261",
+        "order": "255.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -13660,6 +13695,98 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "276.00000000000000000000",
+    "name": "Reinold, Helmut",
+    "amp_id": "amp_person_280",
+    "gnd": "https://d-nb.info/gnd/135328640",
+    "birth_year": "1925",
+    "birth_place": [
+      {
+        "id": 107,
+        "value": "Leipzig",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "birth_day": "1925-05-11",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 214,
+        "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "281": {
+    "id": 281,
+    "order": "277.00000000000000000000",
+    "name": "Bosse-Sporleder, Maria",
+    "amp_id": "amp_person_281",
+    "gnd": "https://d-nb.info/gnd/102947284X",
+    "birth_year": "1932",
+    "birth_place": [
+      {
+        "id": 410,
+        "value": "Tallinn",
+        "order": "408.00000000000000000000"
+      }
+    ],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 214,
+        "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q95213337",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 256,
+        "value": "relationship_person_id__256",
+        "order": "250.00000000000000000000"
+      },
+      {
+        "id": 257,
+        "value": "relationship_person_id__257",
+        "order": "251.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "relationship_person_id__258",
+        "order": "252.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }

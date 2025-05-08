@@ -363,14 +363,7 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011882-4</idno>
                </place>
                <place xml:id="amp_place_id_21">
-                  <settlement type="A">
-                     <placeName>East Berlin</placeName>
-                  </settlement>
-                  <desc type="entity_type">country, state, region,...</desc>
-                  <country>DE, Germany</country>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
-                  </location>
+                  <placeName>East Berlin</placeName>
                   <location type="coords">
                      <geo>51.5, 10.5</geo>
                   </location>
@@ -3362,7 +3355,7 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>53, -2</geo>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2649994/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6269131/</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4014770-8</idno>
                   <note/>
@@ -5752,6 +5745,22 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2658145/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q68160</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4063428-0</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_409">
+                  <placeName>West Berlin</placeName>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q56036</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4069304-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_410">
+                  <placeName>Tallinn</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/588409/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1770</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5093293-7</idno>
                   <note/>
                </place>
             </listPlace>

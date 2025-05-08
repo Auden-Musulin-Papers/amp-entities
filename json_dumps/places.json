@@ -421,6 +421,11 @@
         "id": 101,
         "value": "Bundesgendarmerie (Federal Gendarmerie)",
         "order": "99.00000000000000000000"
+      },
+      {
+        "id": 156,
+        "value": "Österreichische Nationalbibliothek (Austrian National Library)",
+        "order": "137.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1655,6 +1660,11 @@
         "id": 151,
         "value": "Kunst und Bild GmbH",
         "order": "132.00000000000000000000"
+      },
+      {
+        "id": 155,
+        "value": "Deutsche Oper Berlin",
+        "order": "136.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1843,28 +1853,16 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "is_part_of": [
-      {
-        "id": 20,
-        "value": "Federal Republic of Germany",
-        "order": "20.00000000000000000000"
-      }
-    ],
-    "relation_types": [
-      {
-        "id": 16,
-        "value": "is_part_of",
-        "order": "16.00000000000000000000"
-      }
-    ],
+    "is_part_of": [],
+    "relation_types": [],
     "wikidata": "https://www.wikidata.org/wiki/Q56037",
     "gnd": "https://d-nb.info/gnd/4087295-6",
     "geonames_coordinates": "51.5, 10.5",
-    "place_type": "country, state, region,...",
-    "country": "Germany",
-    "country_code": "DE",
-    "place_type_class": "A",
-    "updated": true,
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
     "events": [],
     "alternative_link": null,
     "same_as": [],
@@ -5690,6 +5688,11 @@
         "id": 18,
         "value": "Wagner, Richard",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Reinold, Helmut",
+        "order": "276.00000000000000000000"
       }
     ],
     "death_place": [],
@@ -10710,7 +10713,7 @@
     "order": "239.00000000000000000000",
     "name": "England",
     "amp_id": "amp_place_id_239",
-    "geonames_id": "https://sws.geonames.org/2649994/",
+    "geonames_id": "https://sws.geonames.org/6269131/",
     "birth_place": [
       {
         "id": 229,
@@ -17674,6 +17677,78 @@
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q68160",
     "gnd": "https://d-nb.info/gnd/4063428-0",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "409": {
+    "id": 409,
+    "order": "407.00000000000000000000",
+    "name": "West Berlin",
+    "amp_id": "amp_place_id_409",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "https://www.wikidata.org/entity/Q56036",
+    "gnd": "https://d-nb.info/gnd/4069304-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "410": {
+    "id": 410,
+    "order": "408.00000000000000000000",
+    "name": "Tallinn",
+    "amp_id": "amp_place_id_410",
+    "geonames_id": "https://sws.geonames.org/588409/",
+    "birth_place": [
+      {
+        "id": 281,
+        "value": "Bosse-Sporleder, Maria",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1770",
+    "gnd": "https://d-nb.info/gnd/5093293-7",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

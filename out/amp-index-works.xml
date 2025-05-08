@@ -1778,6 +1778,32 @@ for any purpose, even commercially.</p>
                   </author>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q36766</idno>
                </bibl>
+               <bibl xml:id="lit_work_id_213" type="notes">
+                  <title>Guest book: Kirchstetten, signatures and notes written in album</title>
+                  <lang>en</lang>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_214" type="opera">
+                  <title>Die Bassariden: Opera seria mit Intermezzo in einem Akt</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_4">
+                     <persName>Kallman, Chester</persName>
+                  </author>
+                  <author ref="#amp_person_79">
+                     <persName>Henze, Hans Werner</persName>
+                  </author>
+                  <author ref="#amp_person_280">
+                     <persName>Reinold, Helmut</persName>
+                  </author>
+                  <author ref="#amp_person_281">
+                     <persName>Bosse-Sporleder, Maria</persName>
+                  </author>
+                  <date when="1966">1966</date>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q844406</idno>
+                  <lang>de</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>
