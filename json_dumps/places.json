@@ -1853,8 +1853,20 @@
     "google_maps_coordinates": "",
     "comments": null,
     "organizations": [],
-    "is_part_of": [],
-    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/wiki/Q56037",
     "gnd": "https://d-nb.info/gnd/4087295-6",
     "geonames_coordinates": "51.5, 10.5",
@@ -17700,8 +17712,20 @@
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "is_part_of": [],
-    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/entity/Q56036",
     "gnd": "https://d-nb.info/gnd/4069304-1",
     "geonames_coordinates": "",

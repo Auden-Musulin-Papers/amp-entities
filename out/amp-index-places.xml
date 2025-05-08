@@ -364,6 +364,9 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_21">
                   <placeName>East Berlin</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
                   <location type="coords">
                      <geo>51.5, 10.5</geo>
                   </location>
@@ -5749,6 +5752,9 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_409">
                   <placeName>West Berlin</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q56036</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4069304-1</idno>
                   <note/>
