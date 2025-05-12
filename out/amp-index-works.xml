@@ -1804,6 +1804,30 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q844406</idno>
                   <lang>de</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_215" type="poem">
+                  <title>"the German versions of the three poems I was given to translate"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+                  <date when="1970">1970</date>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_216" type="poem">
+                  <title>"the three poems I was given to translate"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_217" type="poem">
+                  <title>"a little poem of my own"</title>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+               </bibl>
             </listBibl>
          </div>
       </body>
