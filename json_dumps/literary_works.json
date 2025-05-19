@@ -8702,5 +8702,185 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "218": {
+    "id": 218,
+    "order": "210.00000000000000000000",
+    "name": "The Darkened Room",
+    "lit_work_id": "lit_work_id_218",
+    "is_written_by": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "https://d-nb.info/gnd/4449072-0",
+    "has_year": "1961",
+    "type": [
+      {
+        "id": 6663,
+        "value": "novel",
+        "color": "dark-blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "219": {
+    "id": 219,
+    "order": "211.00000000000000000000",
+    "name": "\"translations\"",
+    "lit_work_id": "lit_work_id_219",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "220": {
+    "id": 220,
+    "order": "212.00000000000000000000",
+    "name": "To Goethe: A Complaint",
+    "lit_work_id": "lit_work_id_220",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "221": {
+    "id": 221,
+    "order": "213.00000000000000000000",
+    "name": "To Goethe: a Complaint (version 1969-10-05)",
+    "lit_work_id": "lit_work_id_221",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 220,
+        "value": "To Goethe: A Complaint",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": "1969-10-05",
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
