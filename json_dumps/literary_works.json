@@ -9004,7 +9004,7 @@
   "224": {
     "id": 224,
     "order": "216.00000000000000000000",
-    "name": "\"Wien: Spektrum einer Stadt\"",
+    "name": "Wien: Spektrum einer Stadt",
     "lit_work_id": "lit_work_id_224",
     "is_written_by": [
       {
@@ -9013,7 +9013,7 @@
         "order": "78.00000000000000000000"
       }
     ],
-    "is_linked_with": "https://d-nb.info/821258230",
+    "is_linked_with": "",
     "has_year": "1971",
     "type": [
       {
@@ -9037,6 +9037,6 @@
     "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
-    "has_external_url": ""
+    "has_external_url": "https://d-nb.info/821258230"
   }
 }
