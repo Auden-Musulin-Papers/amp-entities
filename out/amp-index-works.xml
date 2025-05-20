@@ -1864,6 +1864,32 @@ for any purpose, even commercially.</p>
                   <date when="1969">1969</date>
                   <lang>en</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_222" type="poem">
+                  <title>"my verses"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_223" type="poem">
+                  <title>"your translations"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_224" type="collection_of_essays">
+                  <title>"Wien: Spektrum einer Stadt"</title>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+                  <date when="1971">1971</date>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/821258230</idno>
+                  <lang>de</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>

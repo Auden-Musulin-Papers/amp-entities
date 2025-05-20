@@ -515,6 +515,16 @@
         "id": 221,
         "value": "To Goethe: a Complaint (version 1969-10-05)",
         "order": "213.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "\"my verses\"",
+        "order": "214.00000000000000000000"
+      },
+      {
+        "id": 223,
+        "value": "\"your translations\"",
+        "order": "215.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -5545,6 +5555,16 @@
         "id": 219,
         "value": "\"translations\"",
         "order": "211.00000000000000000000"
+      },
+      {
+        "id": 223,
+        "value": "\"your translations\"",
+        "order": "215.00000000000000000000"
+      },
+      {
+        "id": 224,
+        "value": "\"Wien: Spektrum einer Stadt\"",
+        "order": "216.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
@@ -5565,8 +5585,20 @@
     "alternative_website": null,
     "updated": true,
     "person_place": [],
-    "person_org": [],
-    "person_person": [],
+    "person_org": [
+      {
+        "id": 32,
+        "value": "person_org__32",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 264,
+        "value": "relationship_person_id__264",
+        "order": "258.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "79": {
@@ -8853,7 +8885,13 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 33,
+        "value": "person_org__33",
+        "order": "33.00000000000000000000"
+      }
+    ],
     "person_person": [
       {
         "id": 230,
@@ -8864,6 +8902,11 @@
         "id": 232,
         "value": "relationship_person_id__232",
         "order": "233.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "relationship_person_id__262",
+        "order": "256.00000000000000000000"
       }
     ],
     "PMB": ""

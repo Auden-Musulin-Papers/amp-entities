@@ -1088,6 +1088,16 @@
         "id": 184,
         "value": "relationship_person_id__184",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "relationship_person_id__262",
+        "order": "256.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "relationship_person_id__264",
+        "order": "258.00000000000000000000"
       }
     ]
   },
@@ -5456,5 +5466,62 @@
         "order": "232.00000000000000000000"
       }
     ]
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "name": "is_head_of",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_headed_by",
+    "amp_id": "relation_type__45",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [
+      {
+        "id": 32,
+        "value": "person_org__32",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "person_org__33",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "person_person": []
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "name": "is_headed_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_head_of",
+    "amp_id": "relation_type__46",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": []
   }
 }

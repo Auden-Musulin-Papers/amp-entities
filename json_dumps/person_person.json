@@ -6522,5 +6522,61 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "262": {
+    "id": 262,
+    "order": "256.00000000000000000000",
+    "amp_id": "relationship_person_id__262",
+    "source": [
+      {
+        "id": 152,
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "258.00000000000000000000",
+    "amp_id": "relationship_person_id__264",
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 152,
+        "value": "Breicha, Otto",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
   }
 }
