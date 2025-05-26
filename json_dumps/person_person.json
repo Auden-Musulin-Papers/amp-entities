@@ -6578,5 +6578,61 @@
         "order": "14.00000000000000000000"
       }
     ]
+  },
+  "266": {
+    "id": 266,
+    "order": "259.00000000000000000000",
+    "amp_id": "relationship_person_id__266",
+    "source": [
+      {
+        "id": 241,
+        "value": "Bachmann, Paul",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 36,
+        "value": "is_contractor_of",
+        "order": "36.00000000000000000000"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "260.00000000000000000000",
+    "amp_id": "relationship_person_id__267",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 241,
+        "value": "Bachmann, Paul",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 24,
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
+      }
+    ]
   }
 }

@@ -525,6 +525,11 @@
         "id": 223,
         "value": "\"your translations\"",
         "order": "215.00000000000000000000"
+      },
+      {
+        "id": 225,
+        "value": "\"translations\"",
+        "order": "217.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1264,6 +1269,11 @@
         "id": 259,
         "value": "relationship_person_id__259",
         "order": "253.00000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "relationship_person_id__267",
+        "order": "260.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5565,6 +5575,11 @@
         "id": 224,
         "value": "Wien: Spektrum einer Stadt",
         "order": "216.00000000000000000000"
+      },
+      {
+        "id": 225,
+        "value": "\"translations\"",
+        "order": "217.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
@@ -12428,7 +12443,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 266,
+        "value": "relationship_person_id__266",
+        "order": "259.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "242": {

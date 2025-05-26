@@ -3548,7 +3548,7 @@
     "id": 157,
     "order": "138.00000000000000000000",
     "name": "Ver Sacrum: Neue Hefte für Kunst und Literatur",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/entity/Q134521116",
     "amp_id": "amp_organization_157",
     "founded_in_year": "1969",
     "comments": "",
@@ -3561,11 +3561,6 @@
     ],
     "part_of": [],
     "literary_works": [
-      {
-        "id": 222,
-        "value": "\"my verses\"",
-        "order": "214.00000000000000000000"
-      },
       {
         "id": 223,
         "value": "\"your translations\"",
@@ -3587,5 +3582,27 @@
     ],
     "gnd": "",
     "URL": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "139.00000000000000000000",
+    "name": "Finanzlandesdirektion für Wien, Niederösterreich und Burgenland (Provincial Tax Office for Vienna, Lower Austria and Burgenland)",
+    "wikidata": "",
+    "amp_id": "amp_organization_158",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": "https://portal.ehri-project.eu/units/at-001999-01-17000704"
   }
 }

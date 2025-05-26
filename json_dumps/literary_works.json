@@ -8921,18 +8921,12 @@
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": {
-      "id": 9869,
-      "value": "expression",
-      "color": "dark-red"
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
     },
     "Comments": "",
-    "has_publisher": [
-      {
-        "id": 157,
-        "value": "Ver Sacrum: Neue Hefte für Kunst und Literatur",
-        "order": "138.00000000000000000000"
-      }
-    ],
+    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -9038,5 +9032,57 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": "https://d-nb.info/821258230"
+  },
+  "225": {
+    "id": 225,
+    "order": "217.00000000000000000000",
+    "name": "\"translations\"",
+    "lit_work_id": "lit_work_id_225",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
