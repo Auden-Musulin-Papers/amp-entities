@@ -8892,13 +8892,18 @@
   "222": {
     "id": 222,
     "order": "214.00000000000000000000",
-    "name": "\"my verses\"",
+    "name": "Knittelverse eines Altbürgers",
     "lit_work_id": "lit_work_id_222",
     "is_written_by": [
       {
         "id": 1,
         "value": "Auden, W. H.",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
       }
     ],
     "is_linked_with": "",
@@ -8908,25 +8913,42 @@
         "id": 6664,
         "value": "poem",
         "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
       }
     ],
-    "version_of": [],
+    "version_of": [
+      {
+        "id": 57,
+        "value": "Doggerel by a Senior Citizen",
+        "order": "57.00000000000000000000"
+      }
+    ],
     "language": [
       {
-        "id": 6678,
-        "value": "en",
-        "color": "light-red"
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
       }
     ],
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": {
-      "id": 6740,
-      "value": "work",
-      "color": "dark-green"
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
     },
     "Comments": "",
-    "has_publisher": [],
+    "has_publisher": [
+      {
+        "id": 157,
+        "value": "Ver Sacrum: Neue Hefte für Kunst und Literatur",
+        "order": "138.00000000000000000000"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -8934,7 +8956,7 @@
   "223": {
     "id": 223,
     "order": "215.00000000000000000000",
-    "name": "\"your translations\"",
+    "name": "Die Höhle des Schaffens",
     "lit_work_id": "lit_work_id_223",
     "is_written_by": [
       {
@@ -8964,9 +8986,9 @@
     ],
     "version_of": [
       {
-        "id": 222,
-        "value": "\"my verses\"",
-        "order": "214.00000000000000000000"
+        "id": 37,
+        "value": "The Cave of Making",
+        "order": "37.00000000000000000000"
       }
     ],
     "language": [

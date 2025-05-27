@@ -1865,14 +1865,17 @@ for any purpose, even commercially.</p>
                   <lang>en</lang>
                </bibl>
                <bibl xml:id="lit_work_id_222" type="poem">
-                  <title>"my verses"</title>
+                  <title>Knittelverse eines Altbürgers</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
-                  <lang>en</lang>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+                  <lang>de</lang>
                </bibl>
                <bibl xml:id="lit_work_id_223" type="poem">
-                  <title>"your translations"</title>
+                  <title>Die Höhle des Schaffens</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
