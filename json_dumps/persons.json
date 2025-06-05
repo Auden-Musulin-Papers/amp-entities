@@ -13902,5 +13902,61 @@
       }
     ],
     "PMB": ""
+  },
+  "282": {
+    "id": 282,
+    "order": "278.00000000000000000000",
+    "name": "Kreisky, Bruno",
+    "amp_id": "amp_person_282",
+    "gnd": "https://d-nb.info/gnd/118566512",
+    "birth_year": "1911",
+    "birth_place": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "birth_day": "1911-01-22",
+    "death_year": "1990",
+    "death_place": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "death_day": "1990-07-29",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q44517",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 274,
+        "value": "person_event__274",
+        "order": "274.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 34,
+        "value": "person_org__34",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
   }
 }

@@ -5816,5 +5816,31 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "274": {
+    "id": 274,
+    "order": "274.00000000000000000000",
+    "amp_id": "person_event__274",
+    "source": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 115,
+        "value": "1970 Austrian legislative election",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

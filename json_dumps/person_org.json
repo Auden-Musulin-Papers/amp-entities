@@ -922,5 +922,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "person_org": "person_org__34",
+    "source": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 99,
+        "value": "Sozialistische Partei Österreichs (Socialist Party of Austria)",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

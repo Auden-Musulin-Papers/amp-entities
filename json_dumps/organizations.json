@@ -2643,7 +2643,13 @@
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 34,
+        "value": "person_org__34",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "gnd": "https://d-nb.info/gnd/3589-0",
     "URL": ""
   },

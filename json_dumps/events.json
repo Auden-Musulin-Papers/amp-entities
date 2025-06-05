@@ -4768,7 +4768,13 @@
     ],
     "start_date": "1970-03-01",
     "wikidata": "https://www.wikidata.org/entity/Q680680",
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 274,
+        "value": "person_event__274",
+        "order": "274.00000000000000000000"
+      }
+    ],
     "Comments": "",
     "end_date": "1970-03-01",
     "evidence": null,
