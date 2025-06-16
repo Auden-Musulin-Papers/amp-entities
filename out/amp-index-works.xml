@@ -851,7 +851,7 @@ for any purpose, even commercially.</p>
                   <lang>en</lang>
                </bibl>
                <bibl xml:id="lit_work_id_99" type="legal_document">
-                  <title>Statement addressed to the Austrian tax authorities (English version 1972-07-26)</title>
+                  <title>Statement addressed to the Austrian tax authorities (version 1972-07-26--1972-08-18)</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -884,7 +884,7 @@ for any purpose, even commercially.</p>
                   <lang>it</lang>
                </bibl>
                <bibl xml:id="lit_work_id_103" type="legal_document">
-                  <title>Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)</title>
+                  <title>Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-15--1972-08-23)</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -895,7 +895,7 @@ for any purpose, even commercially.</p>
                   <lang>de</lang>
                </bibl>
                <bibl xml:id="lit_work_id_104" type="legal_document">
-                  <title>Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01</title>
+                  <title>Statement addressed to the Austrian tax authorities (version The Years in Austria)</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -908,14 +908,14 @@ for any purpose, even commercially.</p>
                   <lang>en</lang>
                </bibl>
                <bibl xml:id="lit_work_id_105" type="legal_document">
-                  <title>Statement (addressed to the Austrian tax authorities)</title>
+                  <title>Statement addressed to the Austrian tax authorities</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
                   <date when="1972">1972</date>
                </bibl>
                <bibl xml:id="lit_work_id_106" type="legal_document">
-                  <title>Statement (addressed to the Austrian tax authorities) (version In Retrospect)</title>
+                  <title>Statement addressed to the Austrian tax authorities (version In Retrospect)</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -1894,6 +1894,17 @@ for any purpose, even commercially.</p>
                </bibl>
                <bibl xml:id="lit_work_id_225" type="poem">
                   <title>"translations"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_78">
+                     <persName>Spiel, Hilde</persName>
+                  </author>
+                  <date when="1972">1972</date>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_226" type="legal_document">
+                  <title>Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>

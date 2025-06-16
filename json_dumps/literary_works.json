@@ -3799,7 +3799,7 @@
   "99": {
     "id": 99,
     "order": "99.00000000000000000000",
-    "name": "Statement addressed to the Austrian tax authorities (English version 1972-07-26)",
+    "name": "Statement addressed to the Austrian tax authorities (version 1972-07-26--1972-08-18)",
     "lit_work_id": "lit_work_id_99",
     "is_written_by": [
       {
@@ -3820,7 +3820,7 @@
     "version_of": [
       {
         "id": 105,
-        "value": "Statement (addressed to the Austrian tax authorities)",
+        "value": "Statement addressed to the Austrian tax authorities",
         "order": "105.00000000000000000000"
       }
     ],
@@ -3840,7 +3840,7 @@
     },
     "Comments": "26 Jul 1972 (when he thanked her with statement enclosed, IMG_0532)",
     "has_publisher": [],
-    "has_date": "1972-07-26",
+    "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
   },
@@ -3978,7 +3978,7 @@
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "name": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)",
+    "name": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-15--1972-08-23)",
     "lit_work_id": "lit_work_id_103",
     "is_written_by": [
       {
@@ -4009,12 +4009,12 @@
     "version_of": [
       {
         "id": 99,
-        "value": "Statement addressed to the Austrian tax authorities (English version 1972-07-26)",
+        "value": "Statement addressed to the Austrian tax authorities (version 1972-07-26--1972-08-18)",
         "order": "99.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "Statement (addressed to the Austrian tax authorities)",
+        "value": "Statement addressed to the Austrian tax authorities",
         "order": "105.00000000000000000000"
       }
     ],
@@ -4041,7 +4041,7 @@
   "104": {
     "id": 104,
     "order": "104.00000000000000000000",
-    "name": "Statement (addressed to the Austrian tax authorities) (version The Years in Austria) 1976-09-04--1980-12-01",
+    "name": "Statement addressed to the Austrian tax authorities (version The Years in Austria)",
     "lit_work_id": "lit_work_id_104",
     "is_written_by": [
       {
@@ -4077,12 +4077,12 @@
     "version_of": [
       {
         "id": 103,
-        "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)",
+        "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-15--1972-08-23)",
         "order": "103.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "Statement (addressed to the Austrian tax authorities)",
+        "value": "Statement addressed to the Austrian tax authorities",
         "order": "105.00000000000000000000"
       }
     ],
@@ -4109,7 +4109,7 @@
   "105": {
     "id": 105,
     "order": "105.00000000000000000000",
-    "name": "Statement (addressed to the Austrian tax authorities)",
+    "name": "Statement addressed to the Austrian tax authorities",
     "lit_work_id": "lit_work_id_105",
     "is_written_by": [
       {
@@ -4145,7 +4145,7 @@
   "106": {
     "id": 106,
     "order": "106.00000000000000000000",
-    "name": "Statement (addressed to the Austrian tax authorities) (version In Retrospect)",
+    "name": "Statement addressed to the Austrian tax authorities (version In Retrospect)",
     "lit_work_id": "lit_work_id_106",
     "is_written_by": [
       {
@@ -4181,12 +4181,12 @@
     "version_of": [
       {
         "id": 103,
-        "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel 1972-08-23--1972-09-18)",
+        "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-15--1972-08-23)",
         "order": "103.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "Statement (addressed to the Austrian tax authorities)",
+        "value": "Statement addressed to the Austrian tax authorities",
         "order": "105.00000000000000000000"
       }
     ],
@@ -9104,6 +9104,64 @@
     "Comments": "",
     "has_publisher": [],
     "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "226": {
+    "id": 226,
+    "order": "218.00000000000000000000",
+    "name": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)",
+    "lit_work_id": "lit_work_id_226",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 9999,
+        "value": "legal_document",
+        "color": "orange"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 99,
+        "value": "Statement addressed to the Austrian tax authorities (version 1972-07-26--1972-08-18)",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": "1972-08-25",
     "is_review_of": [],
     "has_external_url": ""
   }
