@@ -5614,7 +5614,13 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 49,
+        "value": "relationship_place_id__49",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "person_org": [
       {
         "id": 32,

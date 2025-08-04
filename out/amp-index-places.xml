@@ -5769,6 +5769,14 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/5093293-7</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_411">
+                  <placeName>Cottagegasse 65/2</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13494510/</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -1342,5 +1342,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__49",
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 411,
+        "value": "Cottagegasse 65/2",
+        "order": "409.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

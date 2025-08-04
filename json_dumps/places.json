@@ -17804,5 +17804,50 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "411": {
+    "id": 411,
+    "order": "409.00000000000000000000",
+    "name": "Cottagegasse 65/2",
+    "amp_id": "amp_place_id_411",
+    "geonames_id": "https://sws.geonames.org/13494510/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 49,
+        "value": "relationship_place_id__49",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
   }
 }
