@@ -9874,5 +9874,48 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "241": {
+    "id": 241,
+    "order": "233.00000000000000000000",
+    "name": "Stravinsky: Chronicle of a Friendship: 1948-1971",
+    "lit_work_id": "lit_work_id_241",
+    "is_written_by": [
+      {
+        "id": 239,
+        "value": "Craft, Robert",
+        "order": "237.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 9992,
+        "value": "biographical_text",
+        "color": "light-green"
+      },
+      {
+        "id": 9988,
+        "value": "autobiographical_text",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

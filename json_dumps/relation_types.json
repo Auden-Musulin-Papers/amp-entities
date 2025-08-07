@@ -2838,6 +2838,16 @@
         "id": 412,
         "value": "Zlín",
         "order": "410.00000000000000000000"
+      },
+      {
+        "id": 413,
+        "value": "Haus am Bach",
+        "order": "411.00000000000000000000"
+      },
+      {
+        "id": 414,
+        "value": "St. Wolfgang im Salzkammergut",
+        "order": "412.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3617,6 +3627,11 @@
         "id": 49,
         "value": "relationship_place_id__49",
         "order": "49.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "relationship_place_id__50",
+        "order": "50.00000000000000000000"
       }
     ],
     "person_event": [],

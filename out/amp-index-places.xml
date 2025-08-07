@@ -5787,6 +5787,23 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4269986-1</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_413">
+                  <placeName>Haus am Bach</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_414">St. Wolfgang im Salzkammergut</placeName>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_414">
+                  <placeName>St. Wolfgang im Salzkammergut</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2766340/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q567835</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051632-5</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

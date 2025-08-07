@@ -17894,5 +17894,89 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "413": {
+    "id": 413,
+    "order": "411.00000000000000000000",
+    "name": "Haus am Bach",
+    "amp_id": "amp_place_id_413",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 414,
+        "value": "St. Wolfgang im Salzkammergut",
+        "order": "412.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 50,
+        "value": "relationship_place_id__50",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "414": {
+    "id": 414,
+    "order": "412.00000000000000000000",
+    "name": "St. Wolfgang im Salzkammergut",
+    "amp_id": "amp_place_id_414",
+    "geonames_id": "https://sws.geonames.org/2766340/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 10,
+        "value": "Austria",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q567835",
+    "gnd": "https://d-nb.info/gnd/4051632-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }

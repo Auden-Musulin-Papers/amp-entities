@@ -1370,5 +1370,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__50",
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 413,
+        "value": "Haus am Bach",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
