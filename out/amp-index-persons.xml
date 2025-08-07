@@ -174,6 +174,18 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_223">Die Höhle des Schaffens</bibl>
                      <bibl n="lit_work_id_225">"translations"</bibl>
                      <bibl n="lit_work_id_226">Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)</bibl>
+                     <bibl n="lit_work_id_227">Since</bibl>
+                     <bibl n="lit_work_id_228">Seither</bibl>
+                     <bibl n="lit_work_id_229">Under Sirius</bibl>
+                     <bibl n="lit_work_id_230">Unter Sirius</bibl>
+                     <bibl n="lit_work_id_231">Up There</bibl>
+                     <bibl n="lit_work_id_232">Da oben</bibl>
+                     <bibl n="lit_work_id_233">Profile</bibl>
+                     <bibl n="lit_work_id_234">Profil</bibl>
+                     <bibl n="lit_work_id_235">In Memory of Sigmund Freud</bibl>
+                     <bibl n="lit_work_id_236">Zum Gedenken an Sigmund Freud</bibl>
+                     <bibl n="lit_work_id_237">Good-bye to the Mezzogiorno</bibl>
+                     <bibl n="lit_work_id_238">Ein Lebewohl dem Mezzogiorno</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -1732,6 +1744,13 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_224">Wien: Spektrum einer Stadt</bibl>
                      <bibl n="lit_work_id_225">"translations"</bibl>
                      <bibl n="lit_work_id_226">Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)</bibl>
+                     <bibl n="lit_work_id_228">Seither</bibl>
+                     <bibl n="lit_work_id_230">Unter Sirius</bibl>
+                     <bibl n="lit_work_id_232">Da oben</bibl>
+                     <bibl n="lit_work_id_234">Profil</bibl>
+                     <bibl n="lit_work_id_236">Zum Gedenken an Sigmund Freud</bibl>
+                     <bibl n="lit_work_id_238">Ein Lebewohl dem Mezzogiorno</bibl>
+                     <bibl n="lit_work_id_240">Akrobaten</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_79">
@@ -4794,6 +4813,24 @@ for any purpose, even commercially.</p>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118566512</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q44517</idno>
+               </person>
+               <person xml:id="amp_person_283">
+                  <persName>
+                     <forename>Tom</forename>
+                     <surname>Stoppard</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1937-07-03">1937-07-03</date>
+                     <settlement key="amp_place_id_412">
+                        <placeName>Zlín</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118618695</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q294773</idno>
+                  <listBibl>
+                     <bibl n="lit_work_id_239">Jumpers</bibl>
+                     <bibl n="lit_work_id_240">Akrobaten</bibl>
+                  </listBibl>
                </person>
             </listPerson>
          </div>

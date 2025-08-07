@@ -535,6 +535,66 @@
         "id": 226,
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 227,
+        "value": "Since",
+        "order": "219.00000000000000000000"
+      },
+      {
+        "id": 228,
+        "value": "Seither",
+        "order": "220.00000000000000000000"
+      },
+      {
+        "id": 229,
+        "value": "Under Sirius",
+        "order": "221.00000000000000000000"
+      },
+      {
+        "id": 230,
+        "value": "Unter Sirius",
+        "order": "222.00000000000000000000"
+      },
+      {
+        "id": 231,
+        "value": "Up There",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 232,
+        "value": "Da oben",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 233,
+        "value": "Profile",
+        "order": "225.00000000000000000000"
+      },
+      {
+        "id": 234,
+        "value": "Profil",
+        "order": "226.00000000000000000000"
+      },
+      {
+        "id": 235,
+        "value": "In Memory of Sigmund Freud",
+        "order": "227.00000000000000000000"
+      },
+      {
+        "id": 236,
+        "value": "Zum Gedenken an Sigmund Freud",
+        "order": "228.00000000000000000000"
+      },
+      {
+        "id": 237,
+        "value": "Good-bye to the Mezzogiorno",
+        "order": "229.00000000000000000000"
+      },
+      {
+        "id": 238,
+        "value": "Ein Lebewohl dem Mezzogiorno",
+        "order": "230.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -5595,6 +5655,41 @@
         "id": 226,
         "value": "Statement addressed to the Austrian tax authorities (translation Hilde Spiel version 1972-08-25)",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 228,
+        "value": "Seither",
+        "order": "220.00000000000000000000"
+      },
+      {
+        "id": 230,
+        "value": "Unter Sirius",
+        "order": "222.00000000000000000000"
+      },
+      {
+        "id": 232,
+        "value": "Da oben",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 234,
+        "value": "Profil",
+        "order": "226.00000000000000000000"
+      },
+      {
+        "id": 236,
+        "value": "Zum Gedenken an Sigmund Freud",
+        "order": "228.00000000000000000000"
+      },
+      {
+        "id": 238,
+        "value": "Ein Lebewohl dem Mezzogiorno",
+        "order": "230.00000000000000000000"
+      },
+      {
+        "id": 240,
+        "value": "Akrobaten",
+        "order": "232.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q93872",
@@ -13972,6 +14067,60 @@
         "order": "34.00000000000000000000"
       }
     ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "283": {
+    "id": 283,
+    "order": "279.00000000000000000000",
+    "name": "Stoppard, Tom",
+    "amp_id": "amp_person_283",
+    "gnd": "https://d-nb.info/gnd/118618695",
+    "birth_year": "1937",
+    "birth_place": [
+      {
+        "id": 412,
+        "value": "Zlín",
+        "order": "410.00000000000000000000"
+      }
+    ],
+    "birth_day": "1937-07-03",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 239,
+        "value": "Jumpers",
+        "order": "231.00000000000000000000"
+      },
+      {
+        "id": 240,
+        "value": "Akrobaten",
+        "order": "232.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q294773",
+    "Title": [
+      {
+        "id": 6731,
+        "value": "Sir",
+        "color": "light-red"
+      },
+      {
+        "id": 10003,
+        "value": "Dr. h.c.",
+        "color": "orange"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
     "person_person": [],
     "PMB": ""
   }
