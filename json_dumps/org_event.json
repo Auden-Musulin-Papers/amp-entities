@@ -616,5 +616,57 @@
         "order": "118.00000000000000000000"
       }
     ]
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "org_event": "org_event__25",
+    "source": [
+      {
+        "id": 161,
+        "value": "Bundesministerium für Finanzen (Federal Ministry of Finance)",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "org_event": "org_event__26",
+    "source": [
+      {
+        "id": 158,
+        "value": "Finanzlandesdirektion für Wien, Niederösterreich und Burgenland (Provincial Tax Office for Vienna, Lower Austria and Burgenland)",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ]
   }
 }

@@ -510,6 +510,7 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_43">
                   <orgName>Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)</orgName>
+                  <desc>Was founded in year <date from-iso="1970-01-01">1970</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1511,6 +1512,18 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_160">
                   <orgName>U.S. Consulate Vienna</orgName>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_161">
+                  <orgName>Bundesministerium für Finanzen (Federal Ministry of Finance)</orgName>
+                  <desc>Was founded in year <date from-iso="1947-01-01">1947</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877814</idno>
                   <note/>
                </org>
             </listOrg>

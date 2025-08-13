@@ -1098,6 +1098,16 @@
         "id": 264,
         "value": "relationship_person_id__264",
         "order": "258.00000000000000000000"
+      },
+      {
+        "id": 268,
+        "value": "relationship_person_id__268",
+        "order": "261.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "relationship_person_id__269",
+        "order": "262.00000000000000000000"
       }
     ]
   },
@@ -2848,6 +2858,11 @@
         "id": 414,
         "value": "St. Wolfgang im Salzkammergut",
         "order": "412.00000000000000000000"
+      },
+      {
+        "id": 415,
+        "value": "Armbrustergasse 15",
+        "order": "413.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3632,6 +3647,11 @@
         "id": 50,
         "value": "relationship_place_id__50",
         "order": "50.00000000000000000000"
+      },
+      {
+        "id": 51,
+        "value": "relationship_place_id__51",
+        "order": "51.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -4243,7 +4263,18 @@
         "order": "274.00000000000000000000"
       }
     ],
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 25,
+        "value": "org_event__25",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "org_event__26",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "has_label": "is active participant in",
     "has_label_inverse": "has active participant",
     "person_org": [],

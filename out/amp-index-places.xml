@@ -5804,6 +5804,14 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051632-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_415">
+                  <placeName>Armbrustergasse 15</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13494869/</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

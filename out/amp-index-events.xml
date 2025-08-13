@@ -747,6 +747,12 @@ for any purpose, even commercially.</p>
                </event>
                <event xml:id="amp_event_id_45" notBefore-iso="1972-06-21" notAfter-iso="1972-09-19" type="personal">
                   <label>W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19</label>
+                  <org sameAs="amp_organization_161" role="is_activeparticipant_in">
+                     <orgName>Bundesministerium für Finanzen (Federal Ministry of Finance)</orgName>
+                  </org>
+                  <org sameAs="amp_organization_158" role="is_activeparticipant_in">
+                     <orgName>Finanzlandesdirektion für Wien, Niederösterreich und Burgenland (Provincial Tax Office for Vienna, Lower Austria and Burgenland)</orgName>
+                  </org>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>

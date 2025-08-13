@@ -1231,9 +1231,9 @@
     "id": 43,
     "order": "43.00000000000000000000",
     "name": "Bundesministerium für Unterricht und Kunst (Federal Ministry of Education and the Arts)",
-    "wikidata": "https://www.wikidata.org/wiki/Q606227",
+    "wikidata": "https://www.wikidata.org/entity/Q606227",
     "amp_id": "amp_organization_43",
-    "founded_in_year": null,
+    "founded_in_year": "1970",
     "comments": "",
     "location": [
       {
@@ -1252,7 +1252,7 @@
       }
     ],
     "person_org": [],
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/2029478-5",
     "URL": ""
   },
   "44": {
@@ -3611,7 +3611,13 @@
     ],
     "part_of": [],
     "literary_works": [],
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 26,
+        "value": "org_event__26",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "gnd": "",
     "URL": "https://portal.ehri-project.eu/units/at-001999-01-17000704"
@@ -3646,6 +3652,34 @@
     "org_event": [],
     "person_org": [],
     "gnd": "",
+    "URL": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "142.00000000000000000000",
+    "name": "Bundesministerium für Finanzen (Federal Ministry of Finance)",
+    "wikidata": "https://www.wikidata.org/entity/Q877814",
+    "amp_id": "amp_organization_161",
+    "founded_in_year": "1947",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 25,
+        "value": "org_event__25",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/39544-4",
     "URL": ""
   }
 }

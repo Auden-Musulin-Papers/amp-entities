@@ -6634,5 +6634,61 @@
         "order": "24.00000000000000000000"
       }
     ]
+  },
+  "268": {
+    "id": 268,
+    "order": "261.00000000000000000000",
+    "amp_id": "relationship_person_id__268",
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "262.00000000000000000000",
+    "amp_id": "relationship_person_id__269",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
   }
 }

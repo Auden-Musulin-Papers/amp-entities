@@ -1339,6 +1339,11 @@
         "id": 267,
         "value": "relationship_person_id__267",
         "order": "260.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "relationship_person_id__269",
+        "order": "262.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5733,6 +5738,11 @@
         "id": 264,
         "value": "relationship_person_id__264",
         "order": "258.00000000000000000000"
+      },
+      {
+        "id": 268,
+        "value": "relationship_person_id__268",
+        "order": "261.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -14069,7 +14079,13 @@
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 51,
+        "value": "relationship_place_id__51",
+        "order": "51.00000000000000000000"
+      }
+    ],
     "person_org": [
       {
         "id": 34,

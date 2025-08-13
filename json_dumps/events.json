@@ -1585,7 +1585,18 @@
     "evidence": null,
     "has_sub_type": null,
     "status": null,
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 25,
+        "value": "org_event__25",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "org_event__26",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "part_of": []
   },
   "46": {

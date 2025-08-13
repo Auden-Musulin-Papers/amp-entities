@@ -1398,5 +1398,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__51",
+    "source": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 415,
+        "value": "Armbrustergasse 15",
+        "order": "413.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
