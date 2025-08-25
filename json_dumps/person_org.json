@@ -215,9 +215,9 @@
     ],
     "relation_type_object": [
       {
-        "id": 34,
-        "value": "has_workplace_in",
-        "order": "34.00000000000000000000"
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
       }
     ],
     "start_date": null,
@@ -939,6 +939,34 @@
         "id": 99,
         "value": "Sozialistische Partei Österreichs (Socialist Party of Austria)",
         "order": "97.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "person_org": "person_org__35",
+    "source": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
       }
     ],
     "relation_type_object": [

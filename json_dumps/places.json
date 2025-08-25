@@ -451,6 +451,21 @@
         "id": 161,
         "value": "Bundesministerium für Finanzen (Federal Ministry of Finance)",
         "order": "142.00000000000000000000"
+      },
+      {
+        "id": 162,
+        "value": "Gesellschaft der Kunstfreunde",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Kleine Galerie",
+        "order": "144.00000000000000000000"
+      },
+      {
+        "id": 165,
+        "value": "Postamt Wien 65 (post office Vienna 65)",
+        "order": "146.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -520,6 +535,11 @@
         "id": 113,
         "value": "Opera performance \"The Rake's Progress\" Vienna State Opera 1965-03-14--1965-06-04",
         "order": "113.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Reading W. H. Auden 1971-05-25",
+        "order": "119.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -2570,7 +2590,13 @@
     "name": "Weimar",
     "amp_id": "amp_place_id_34",
     "geonames_id": "https://sws.geonames.org/2812482/",
-    "birth_place": [],
+    "birth_place": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
     "death_place": [
       {
         "id": 11,
@@ -2595,7 +2621,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "wikidata": "http://www.wikidata.org/entity/Q32067990",
+    "wikidata": "http://www.wikidata.org/entity/Q3955",
     "gnd": "https://d-nb.info/gnd/4065105-8",
     "geonames_coordinates": "50.9803, 11.32903",
     "place_type": "city, village,...",
@@ -13645,7 +13671,7 @@
   "309": {
     "id": 309,
     "order": "308.00000000000000000000",
-    "name": "Vienna West railway station",
+    "name": "Wien Westbahnhof (Vienna West railway station)",
     "amp_id": "amp_place_id_309",
     "geonames_id": "https://sws.geonames.org/2761331/",
     "birth_place": [],
@@ -18025,6 +18051,51 @@
         "id": 51,
         "value": "relationship_place_id__51",
         "order": "51.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "417": {
+    "id": 417,
+    "order": "414.00000000000000000000",
+    "name": "Schönborngasse 6",
+    "amp_id": "amp_place_id_417",
+    "geonames_id": "https://sws.geonames.org/13512528/",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 52,
+        "value": "relationship_place_id__52",
+        "order": "52.00000000000000000000"
       }
     ],
     "updated_geonames": false

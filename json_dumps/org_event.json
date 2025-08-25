@@ -668,5 +668,57 @@
         "order": "45.00000000000000000000"
       }
     ]
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "org_event": "org_event__27",
+    "source": [
+      {
+        "id": 163,
+        "value": "Kleine Galerie",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 20,
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 119,
+        "value": "Reading W. H. Auden 1971-05-25",
+        "order": "119.00000000000000000000"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "org_event": "org_event__28",
+    "source": [
+      {
+        "id": 162,
+        "value": "Gesellschaft der Kunstfreunde",
+        "order": "143.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 119,
+        "value": "Reading W. H. Auden 1971-05-25",
+        "order": "119.00000000000000000000"
+      }
+    ]
   }
 }

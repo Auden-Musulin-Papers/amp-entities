@@ -1108,6 +1108,26 @@
         "id": 269,
         "value": "relationship_person_id__269",
         "order": "262.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "relationship_person_id__270",
+        "order": "263.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "relationship_person_id__271",
+        "order": "264.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "relationship_person_id__272",
+        "order": "265.00000000000000000000"
+      },
+      {
+        "id": 273,
+        "value": "relationship_person_id__273",
+        "order": "266.00000000000000000000"
       }
     ]
   },
@@ -2401,7 +2421,7 @@
       },
       {
         "id": 309,
-        "value": "Vienna West railway station",
+        "value": "Wien Westbahnhof (Vienna West railway station)",
         "order": "308.00000000000000000000"
       },
       {
@@ -2863,6 +2883,11 @@
         "id": 415,
         "value": "Armbrustergasse 15",
         "order": "413.00000000000000000000"
+      },
+      {
+        "id": 417,
+        "value": "Schönborngasse 6",
+        "order": "414.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3047,6 +3072,11 @@
         "id": 24,
         "value": "org_event__24",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "org_event__27",
+        "order": "27.00000000000000000000"
       }
     ],
     "has_label": "is host of",
@@ -3170,6 +3200,26 @@
         "id": 261,
         "value": "relationship_person_id__261",
         "order": "255.00000000000000000000"
+      },
+      {
+        "id": 274,
+        "value": "relationship_person_id__274",
+        "order": "267.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "relationship_person_id__275",
+        "order": "268.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "relationship_person_id__276",
+        "order": "269.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "relationship_person_id__277",
+        "order": "270.00000000000000000000"
       }
     ]
   },
@@ -3652,6 +3702,11 @@
         "id": 51,
         "value": "relationship_place_id__51",
         "order": "51.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "relationship_place_id__52",
+        "order": "52.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -4261,6 +4316,16 @@
         "id": 274,
         "value": "person_event__274",
         "order": "274.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "person_event__275",
+        "order": "275.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "person_event__276",
+        "order": "276.00000000000000000000"
       }
     ],
     "org_event": [
@@ -4436,6 +4501,16 @@
         "id": 257,
         "value": "person_event__257",
         "order": "257.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "person_event__277",
+        "order": "277.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "person_event__278",
+        "order": "278.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -4995,6 +5070,11 @@
         "id": 22,
         "value": "org_event__22",
         "order": "22.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "org_event__28",
+        "order": "28.00000000000000000000"
       }
     ],
     "has_label": "is organizer of",
@@ -5072,11 +5152,6 @@
         "id": 2,
         "value": "person_org__2",
         "order": "2.00000000000000000000"
-      },
-      {
-        "id": 8,
-        "value": "person_org__8",
-        "order": "8.00000000000000000000"
       }
     ],
     "person_person": []
@@ -5565,6 +5640,11 @@
     "has_label_inverse": "",
     "person_org": [
       {
+        "id": 8,
+        "value": "person_org__8",
+        "order": "8.00000000000000000000"
+      },
+      {
         "id": 32,
         "value": "person_org__32",
         "order": "32.00000000000000000000"
@@ -5578,6 +5658,11 @@
         "id": 34,
         "value": "person_org__34",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "person_org__35",
+        "order": "35.00000000000000000000"
       }
     ],
     "person_person": []

@@ -5842,5 +5842,109 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "275": {
+    "id": 275,
+    "order": "275.00000000000000000000",
+    "amp_id": "person_event__275",
+    "source": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "order": "276.00000000000000000000",
+    "amp_id": "person_event__276",
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "order": "277.00000000000000000000",
+    "amp_id": "person_event__277",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 119,
+        "value": "Reading W. H. Auden 1971-05-25",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "order": "278.00000000000000000000",
+    "amp_id": "person_event__278",
+    "source": [
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 119,
+        "value": "Reading W. H. Auden 1971-05-25",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
   }
 }

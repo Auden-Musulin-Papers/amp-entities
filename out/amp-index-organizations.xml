@@ -807,7 +807,7 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.19811, 16.39482</geo>
                   </location>
-                  <note>also known as Postamt Wien 40</note>
+                  <note>also known as Postamt Wien 40 (post office Vienna 40)</note>
                </org>
                <org xml:id="amp_organization_74">
                   <orgName>Hauptpostamt 1040 (main post office 1040)</orgName>
@@ -822,7 +822,7 @@ for any purpose, even commercially.</p>
                <org xml:id="amp_organization_75">
                   <orgName>Postamt 101 (post office 101)</orgName>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_309">Vienna West railway station</placeName>
+                     <placeName key="amp_place_id_309">Wien Westbahnhof (Vienna West railway station)</placeName>
                   </location>
                   <location type="coords">
                      <geo>48.19667, 16.33722</geo>
@@ -1525,6 +1525,43 @@ for any purpose, even commercially.</p>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877814</idno>
                   <note/>
+               </org>
+               <org xml:id="amp_organization_162">
+                  <orgName>Gesellschaft der Kunstfreunde</orgName>
+                  <desc>Was founded in year <date from-iso="1947-01-01">1947</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_163">
+                  <orgName>Kleine Galerie</orgName>
+                  <desc>Was founded in year <date from-iso="1947-01-01">1947</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16216380</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_164">
+                  <orgName/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_165">
+                  <orgName>Postamt Wien 65 (post office Vienna 65)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <note>address Bennogasse 1</note>
                </org>
             </listOrg>
          </div>

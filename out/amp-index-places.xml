@@ -539,7 +539,7 @@ for any purpose, even commercially.</p>
                      <geo>50.9803, 11.32903</geo>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2812482/</idno>
-                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q32067990</idno>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3955</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4065105-8</idno>
                </place>
                <place xml:id="amp_place_id_35">
@@ -4440,7 +4440,7 @@ for any purpose, even commercially.</p>
                </place>
                <place xml:id="amp_place_id_309">
                   <settlement type="S">
-                     <placeName>Vienna West railway station</placeName>
+                     <placeName>Wien Westbahnhof (Vienna West railway station)</placeName>
                   </settlement>
                   <desc type="entity_type">spot, building, farm</desc>
                   <country>AT, Austria</country>
@@ -5810,6 +5810,14 @@ for any purpose, even commercially.</p>
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13494869/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_417">
+                  <placeName>Schönborngasse 6</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13512528/</idno>
                   <note/>
                </place>
             </listPlace>

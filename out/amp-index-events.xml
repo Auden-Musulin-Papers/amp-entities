@@ -753,6 +753,14 @@ for any purpose, even commercially.</p>
                   <org sameAs="amp_organization_158" role="is_activeparticipant_in">
                      <orgName>Finanzlandesdirektion für Wien, Niederösterreich und Burgenland (Provincial Tax Office for Vienna, Lower Austria and Burgenland)</orgName>
                   </org>
+                  <listPerson>
+                     <person sameAs="amp_person_282" role="is_activeparticipant_in">
+                        <persName>Kreisky, Bruno</persName>
+                     </person>
+                     <person sameAs="amp_person_78" role="is_activeparticipant_in">
+                        <persName>Spiel, Hilde</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_10" type="location" subtype="is_event_location">
                         <placeName>Austria</placeName>
@@ -1961,6 +1969,31 @@ for any purpose, even commercially.</p>
                   <org sameAs="amp_organization_107" role="is_host_of">
                      <orgName>Schlosstheater Schwetzingen (Schwetzingen palace theater)</orgName>
                   </org>
+               </event>
+               <event xml:id="amp_event_id_119" notBefore-iso="1971-05-25" notAfter-iso="1971-05-25" type="professional">
+                  <label>Reading W. H. Auden 1971-05-25</label>
+                  <org sameAs="amp_organization_163" role="is_host_of">
+                     <orgName>Kleine Galerie</orgName>
+                  </org>
+                  <org sameAs="amp_organization_162" role="is_organizer_of">
+                     <orgName>Gesellschaft der Kunstfreunde</orgName>
+                  </org>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_220" role="is_speaker_in">
+                        <persName>Staub, Herta Felicia</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
             </listEvent>
          </div>

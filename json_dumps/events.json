@@ -1579,7 +1579,18 @@
     ],
     "start_date": "1972-06-21",
     "wikidata": "",
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 275,
+        "value": "person_event__275",
+        "order": "275.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "person_event__276",
+        "order": "276.00000000000000000000"
+      }
+    ],
     "Comments": "",
     "end_date": "1972-09-19",
     "evidence": null,
@@ -4929,6 +4940,58 @@
         "id": 24,
         "value": "org_event__24",
         "order": "24.00000000000000000000"
+      }
+    ],
+    "part_of": []
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "name": "Reading W. H. Auden 1971-05-25",
+    "amp_id": "amp_event_id_119",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1971-05-25",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 277,
+        "value": "person_event__277",
+        "order": "277.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "person_event__278",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1971-05-25",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [
+      {
+        "id": 27,
+        "value": "org_event__27",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "org_event__28",
+        "order": "28.00000000000000000000"
       }
     ],
     "part_of": []

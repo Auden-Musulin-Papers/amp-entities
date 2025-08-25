@@ -6690,5 +6690,229 @@
         "order": "14.00000000000000000000"
       }
     ]
+  },
+  "270": {
+    "id": 270,
+    "order": "263.00000000000000000000",
+    "amp_id": "relationship_person_id__270",
+    "source": [
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "264.00000000000000000000",
+    "amp_id": "relationship_person_id__271",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "order": "265.00000000000000000000",
+    "amp_id": "relationship_person_id__272",
+    "source": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "273": {
+    "id": 273,
+    "order": "266.00000000000000000000",
+    "amp_id": "relationship_person_id__273",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "274": {
+    "id": 274,
+    "order": "267.00000000000000000000",
+    "amp_id": "relationship_person_id__274",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "order": "268.00000000000000000000",
+    "amp_id": "relationship_person_id__275",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "order": "269.00000000000000000000",
+    "amp_id": "relationship_person_id__276",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "order": "270.00000000000000000000",
+    "amp_id": "relationship_person_id__277",
+    "source": [
+      {
+        "id": 284,
+        "value": "Urbach, Reinhard",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }

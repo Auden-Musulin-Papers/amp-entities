@@ -318,6 +318,11 @@
         "id": 8,
         "value": "person_org__8",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "person_org__35",
+        "order": "35.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -1941,7 +1946,7 @@
     "wikidata": "",
     "amp_id": "amp_organization_73",
     "founded_in_year": null,
-    "comments": "also known as Postamt Wien 40",
+    "comments": "also known as Postamt Wien 40 (post office Vienna 40)",
     "location": [
       {
         "id": 156,
@@ -2001,7 +2006,7 @@
     "location": [
       {
         "id": 309,
-        "value": "Vienna West railway station",
+        "value": "Wien Westbahnhof (Vienna West railway station)",
         "order": "308.00000000000000000000"
       }
     ],
@@ -3680,6 +3685,106 @@
     ],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/39544-4",
+    "URL": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "143.00000000000000000000",
+    "name": "Gesellschaft der Kunstfreunde",
+    "wikidata": "",
+    "amp_id": "amp_organization_162",
+    "founded_in_year": "1947",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 28,
+        "value": "org_event__28",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/61187-6",
+    "URL": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "144.00000000000000000000",
+    "name": "Kleine Galerie",
+    "wikidata": "https://www.wikidata.org/entity/Q16216380",
+    "amp_id": "amp_organization_163",
+    "founded_in_year": "1947",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 27,
+        "value": "org_event__27",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/10111766-8",
+    "URL": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "145.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_164",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "146.00000000000000000000",
+    "name": "Postamt Wien 65 (post office Vienna 65)",
+    "wikidata": "",
+    "amp_id": "amp_organization_165",
+    "founded_in_year": null,
+    "comments": "address Bennogasse 1",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 40,
+        "value": "Österreichische Post- und Telegraphenverwaltung (Austrian Postal and Telegraph Administration)",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
     "URL": ""
   }
 }

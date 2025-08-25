@@ -1015,6 +1015,11 @@
         "id": 272,
         "value": "person_event__272",
         "order": "272.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "person_event__277",
+        "order": "277.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1344,6 +1349,21 @@
         "id": 269,
         "value": "relationship_person_id__269",
         "order": "262.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "relationship_person_id__271",
+        "order": "264.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "relationship_person_id__275",
+        "order": "268.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "relationship_person_id__276",
+        "order": "269.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5710,7 +5730,13 @@
         "color": "light-gray"
       }
     ],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 276,
+        "value": "person_event__276",
+        "order": "276.00000000000000000000"
+      }
+    ],
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
@@ -8351,7 +8377,18 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 273,
+        "value": "relationship_person_id__273",
+        "order": "266.00000000000000000000"
+      },
+      {
+        "id": 274,
+        "value": "relationship_person_id__274",
+        "order": "267.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "138": {
@@ -11826,13 +11863,31 @@
     ],
     "wikidata": "http://www.wikidata.org/entity/Q59653297",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 278,
+        "value": "person_event__278",
+        "order": "278.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 52,
+        "value": "relationship_place_id__52",
+        "order": "52.00000000000000000000"
+      }
+    ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 270,
+        "value": "relationship_person_id__270",
+        "order": "263.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "221": {
@@ -14074,6 +14129,11 @@
         "id": 274,
         "value": "person_event__274",
         "order": "274.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "person_event__275",
+        "order": "275.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -14153,6 +14213,61 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "284": {
+    "id": 284,
+    "order": "280.00000000000000000000",
+    "name": "Urbach, Reinhard",
+    "amp_id": "amp_person_284",
+    "gnd": "https://d-nb.info/gnd/11731398X",
+    "birth_year": "1939",
+    "birth_place": [
+      {
+        "id": 34,
+        "value": "Weimar",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "birth_day": "1939-11-12",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q2141065",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 35,
+        "value": "person_org__35",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 272,
+        "value": "relationship_person_id__272",
+        "order": "265.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "relationship_person_id__277",
+        "order": "270.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }
