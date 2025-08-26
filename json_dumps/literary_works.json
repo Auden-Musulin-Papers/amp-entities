@@ -9921,17 +9921,49 @@
   "242": {
     "id": 242,
     "order": "234.00000000000000000000",
-    "name": "",
+    "name": "\"Übersetzungen\"",
     "lit_work_id": "lit_work_id_242",
-    "is_written_by": [],
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
     "is_linked_with": "",
     "has_year": null,
-    "type": [],
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
-    "language": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
     "relation_types": [],
     "is_part_of": [],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
     "Comments": "",
     "has_publisher": [],
     "has_date": null,

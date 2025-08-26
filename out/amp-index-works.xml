@@ -2057,8 +2057,15 @@ for any purpose, even commercially.</p>
                   <date when="1972">1972</date>
                   <lang>en</lang>
                </bibl>
-               <bibl xml:id="lit_work_id_242">
-                  <title/>
+               <bibl xml:id="lit_work_id_242" type="poem">
+                  <title>"Übersetzungen"</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_220">
+                     <persName>Staub, Herta Felicia</persName>
+                  </author>
+                  <lang>de</lang>
                </bibl>
             </listBibl>
          </div>
