@@ -9969,5 +9969,144 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "235.00000000000000000000",
+    "name": "The Sea and the Mirror",
+    "lit_work_id": "lit_work_id_275",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1944",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "236.00000000000000000000",
+    "name": "Caliban to the Audience",
+    "lit_work_id": "lit_work_id_276",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1944",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 275,
+        "value": "The Sea and the Mirror",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "237.00000000000000000000",
+    "name": "Caliban zum Publikum",
+    "lit_work_id": "lit_work_id_277",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 276,
+        "value": "Caliban to the Audience",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
