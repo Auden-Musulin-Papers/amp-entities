@@ -320,8 +320,8 @@ for any purpose, even commercially.</p>
                   <note>https://www.furche.at/</note>
                </org>
                <org xml:id="amp_organization_26">
-                  <orgName>Europa Verlag</orgName>
-                  <desc>Was founded in year <date from-iso="1933-01-01">1933</date>.</desc>
+                  <orgName>Europa Verlags-AG Wien</orgName>
+                  <desc>Was founded in year <date from-iso="1946-01-01">1946</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_1">Vienna</placeName>
                   </location>
@@ -1562,6 +1562,10 @@ for any purpose, even commercially.</p>
                      <geo>48.20849, 16.37208</geo>
                   </location>
                   <note>address Bennogasse 1</note>
+               </org>
+               <org xml:id="amp_organization_198">
+                  <orgName/>
+                  <note/>
                </org>
             </listOrg>
          </div>

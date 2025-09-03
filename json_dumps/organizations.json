@@ -819,10 +819,10 @@
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "name": "Europa Verlag",
+    "name": "Europa Verlags-AG Wien",
     "wikidata": "https://www.wikidata.org/wiki/Q1375237",
     "amp_id": "amp_organization_26",
-    "founded_in_year": "1933",
+    "founded_in_year": "1946",
     "comments": "Vienna branch founded in 1946",
     "location": [
       {
@@ -847,7 +847,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1064731759",
     "URL": ""
   },
   "27": {
@@ -3781,6 +3781,22 @@
         "order": "40.00000000000000000000"
       }
     ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "198": {
+    "id": 198,
+    "order": "147.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_198",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
     "literary_works": [],
     "org_event": [],
     "person_org": [],
