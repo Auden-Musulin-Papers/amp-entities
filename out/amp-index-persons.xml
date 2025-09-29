@@ -190,6 +190,8 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_275">The Sea and the Mirror</bibl>
                      <bibl n="lit_work_id_276">Caliban to the Audience</bibl>
                      <bibl n="lit_work_id_277">Caliban zum Publikum</bibl>
+                     <bibl n="lit_work_id_310">Thanksgiving for a Habitat</bibl>
+                     <bibl n="lit_work_id_311">Ascension Day, 1964</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -2735,6 +2737,7 @@ for any purpose, even commercially.</p>
                      <forename>Hella</forename>
                      <surname>Bronold</surname>
                   </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1206944536</idno>
                </person>
                <person xml:id="amp_person_136">
                   <persName>
@@ -4851,6 +4854,12 @@ for any purpose, even commercially.</p>
                   </birth>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/11731398X</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q2141065</idno>
+               </person>
+               <person xml:id="amp_person_285">
+                  <persName>
+                     <forename>Peter W.</forename>
+                     <surname>Jost</surname>
+                  </persName>
                </person>
             </listPerson>
          </div>

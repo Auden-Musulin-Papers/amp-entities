@@ -5946,5 +5946,91 @@
         "order": "29.00000000000000000000"
       }
     ]
+  },
+  "311": {
+    "id": 311,
+    "order": "279.00000000000000000000",
+    "amp_id": "person_event__311",
+    "source": [],
+    "target": [],
+    "relation_type_object": []
+  },
+  "312": {
+    "id": 312,
+    "order": "280.00000000000000000000",
+    "amp_id": "person_event__312",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "order": "281.00000000000000000000",
+    "amp_id": "person_event__313",
+    "source": [
+      {
+        "id": 135,
+        "value": "Bronold, Hella",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 3,
+        "value": "Reading W. H. Auden \"Gedichte/Poems\" 1973-09-28",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ]
+  },
+  "344": {
+    "id": 344,
+    "order": "282.00000000000000000000",
+    "amp_id": "person_event__344",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 120,
+        "value": "Reading W. H. Auden 1970-09-29",
+        "order": "120.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
   }
 }

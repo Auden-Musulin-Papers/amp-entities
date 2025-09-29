@@ -720,5 +720,31 @@
         "order": "119.00000000000000000000"
       }
     ]
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "org_event": "org_event__29",
+    "source": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 120,
+        "value": "Reading W. H. Auden 1970-09-29",
+        "order": "120.00000000000000000000"
+      }
+    ]
   }
 }

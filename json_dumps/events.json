@@ -104,6 +104,16 @@
         "id": 21,
         "value": "person_event__21",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "person_event__312",
+        "order": "280.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "person_event__313",
+        "order": "281.00000000000000000000"
       }
     ],
     "Comments": null,
@@ -4992,6 +5002,48 @@
         "id": 28,
         "value": "org_event__28",
         "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": []
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "name": "Reading W. H. Auden 1970-09-29",
+    "amp_id": "amp_event_id_120",
+    "place_of_event": [
+      {
+        "id": 85,
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1970-09-29",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 344,
+        "value": "person_event__344",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1970-09-29",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [
+      {
+        "id": 29,
+        "value": "org_event__29",
+        "order": "29.00000000000000000000"
       }
     ],
     "part_of": []

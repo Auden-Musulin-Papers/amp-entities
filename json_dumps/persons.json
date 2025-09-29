@@ -615,6 +615,16 @@
         "id": 277,
         "value": "Caliban zum Publikum",
         "order": "237.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "Thanksgiving for a Habitat",
+        "order": "238.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "Ascension Day, 1964",
+        "order": "239.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1040,6 +1050,11 @@
         "id": 277,
         "value": "person_event__277",
         "order": "277.00000000000000000000"
+      },
+      {
+        "id": 344,
+        "value": "person_event__344",
+        "order": "282.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -8241,7 +8256,7 @@
     "order": "134.00000000000000000000",
     "name": "Bronold, Hella",
     "amp_id": "amp_person_135",
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1206944536",
     "birth_year": "1915",
     "birth_place": [],
     "birth_day": null,
@@ -8258,6 +8273,11 @@
         "id": 246,
         "value": "person_event__246",
         "order": "246.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "person_event__313",
+        "order": "281.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -8373,6 +8393,11 @@
         "id": 257,
         "value": "person_event__257",
         "order": "257.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "person_event__312",
+        "order": "280.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -14293,6 +14318,32 @@
         "order": "270.00000000000000000000"
       }
     ],
+    "PMB": ""
+  },
+  "285": {
+    "id": 285,
+    "order": "281.00000000000000000000",
+    "name": "Jost, Peter W.",
+    "amp_id": "amp_person_285",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": ""
   }
 }

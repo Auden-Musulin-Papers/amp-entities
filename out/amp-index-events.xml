@@ -84,6 +84,12 @@ for any purpose, even commercially.</p>
                      <person sameAs="amp_person_1" role="is_speaker_in">
                         <persName>Auden, W. H.</persName>
                      </person>
+                     <person sameAs="amp_person_137" role="is_organizer_of">
+                        <persName>Kraus, Wolfgang</persName>
+                     </person>
+                     <person sameAs="amp_person_135" role="is_organizer_of">
+                        <persName>Bronold, Hella</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
@@ -1991,6 +1997,25 @@ for any purpose, even commercially.</p>
                         <placeName>Vienna</placeName>
                         <location type="coords">
                            <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_120" notBefore-iso="1970-09-29" notAfter-iso="1970-09-29" type="professional">
+                  <label>Reading W. H. Auden 1970-09-29</label>
+                  <org sameAs="amp_organization_9" role="is_organizer_of">
+                     <orgName>Österreichische Gesellschaft für Literatur (Austrian Society for Literature)</orgName>
+                  </org>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
+                        <placeName>Palais Pálffy</placeName>
+                        <location type="coords">
+                           <geo>48.20644, 16.3678</geo>
                         </location>
                      </place>
                   </listPlace>

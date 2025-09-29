@@ -10108,5 +10108,93 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "238.00000000000000000000",
+    "name": "Thanksgiving for a Habitat",
+    "lit_work_id": "lit_work_id_310",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1962",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 134,
+        "value": "About the House",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "239.00000000000000000000",
+    "name": "Ascension Day, 1964",
+    "lit_work_id": "lit_work_id_311",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1964",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 134,
+        "value": "About the House",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
