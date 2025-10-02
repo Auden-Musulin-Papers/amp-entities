@@ -6032,5 +6032,65 @@
         "order": "29.00000000000000000000"
       }
     ]
+  },
+  "345": {
+    "id": 345,
+    "order": "283.00000000000000000000",
+    "amp_id": "person_event__345",
+    "source": [
+      {
+        "id": 285,
+        "value": "Mussi, Ingo",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "order": "284.00000000000000000000",
+    "amp_id": "person_event__346",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "order": "285.00000000000000000000",
+    "amp_id": "person_event__347",
+    "source": [],
+    "target": [],
+    "relation_type_object": []
   }
 }

@@ -8398,6 +8398,11 @@
         "id": 312,
         "value": "person_event__312",
         "order": "280.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "person_event__346",
+        "order": "284.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -14201,6 +14206,11 @@
         "id": 34,
         "value": "person_org__34",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "person_org__36",
+        "order": "36.00000000000000000000"
       }
     ],
     "person_person": [],
@@ -14323,8 +14333,58 @@
   "285": {
     "id": 285,
     "order": "281.00000000000000000000",
-    "name": "Jost, Peter W.",
+    "name": "Mussi, Ingo",
     "amp_id": "amp_person_285",
+    "gnd": "https://d-nb.info/gnd/138375976",
+    "birth_year": "1935",
+    "birth_place": [],
+    "birth_day": "1935-08-25",
+    "death_year": "2012",
+    "death_place": [],
+    "death_day": "2012-03-31",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q112448647",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 345,
+        "value": "person_event__345",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 37,
+        "value": "person_org__37",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 278,
+        "value": "relationship_person_id__278",
+        "order": "271.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "286": {
+    "id": 286,
+    "order": "282.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_286",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

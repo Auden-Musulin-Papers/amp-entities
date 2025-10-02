@@ -3751,17 +3751,34 @@
   "164": {
     "id": 164,
     "order": "145.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Bundeskanzleramt (Federal Chancellery)",
+    "wikidata": "https://www.wikidata.org/entity/Q668916",
     "amp_id": "amp_organization_164",
-    "founded_in_year": null,
+    "founded_in_year": "1920",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
-    "gnd": "",
+    "person_org": [
+      {
+        "id": 36,
+        "value": "person_org__36",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "person_org__37",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/2029382-3",
     "URL": ""
   },
   "165": {

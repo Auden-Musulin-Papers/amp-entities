@@ -978,5 +978,61 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "person_org": "person_org__36",
+    "source": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 164,
+        "value": "Bundeskanzleramt (Federal Chancellery)",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "person_org": "person_org__37",
+    "source": [
+      {
+        "id": 285,
+        "value": "Mussi, Ingo",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 164,
+        "value": "Bundeskanzleramt (Federal Chancellery)",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

@@ -6914,5 +6914,33 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "278": {
+    "id": 278,
+    "order": "271.00000000000000000000",
+    "amp_id": "relationship_person_id__278",
+    "source": [
+      {
+        "id": 285,
+        "value": "Mussi, Ingo",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 282,
+        "value": "Kreisky, Bruno",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }
