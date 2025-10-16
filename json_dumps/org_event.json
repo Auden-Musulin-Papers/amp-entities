@@ -746,5 +746,31 @@
         "order": "120.00000000000000000000"
       }
     ]
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "org_event": "org_event__30",
+    "source": [
+      {
+        "id": 164,
+        "value": "Bundeskanzleramt (Federal Chancellery)",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ]
   }
 }

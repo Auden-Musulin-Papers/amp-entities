@@ -3765,7 +3765,13 @@
     ],
     "part_of": [],
     "literary_works": [],
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 30,
+        "value": "org_event__30",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "person_org": [
       {
         "id": 36,
