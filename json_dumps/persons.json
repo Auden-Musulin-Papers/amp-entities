@@ -625,6 +625,11 @@
         "id": 311,
         "value": "Ascension Day, 1964",
         "order": "239.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "My First Name, Wystan",
+        "order": "240.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -14213,7 +14218,13 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 311,
+        "value": "relationship_person_id__311",
+        "order": "272.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "283": {
@@ -14378,6 +14389,50 @@
         "order": "271.00000000000000000000"
       }
     ],
+    "PMB": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "282.00000000000000000000",
+    "name": "Kant, Immanuel",
+    "amp_id": "amp_person_319",
+    "gnd": "https://d-nb.info/gnd/118559796",
+    "birth_year": "1724",
+    "birth_place": [
+      {
+        "id": 418,
+        "value": "Königsberg",
+        "order": "415.00000000000000000000"
+      }
+    ],
+    "birth_day": "1724-04-22",
+    "death_year": "1804",
+    "death_place": [
+      {
+        "id": 418,
+        "value": "Königsberg",
+        "order": "415.00000000000000000000"
+      }
+    ],
+    "death_day": "1804-02-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q9312",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": ""
   }
 }

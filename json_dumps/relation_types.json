@@ -2888,6 +2888,16 @@
         "id": 417,
         "value": "Schönborngasse 6",
         "order": "414.00000000000000000000"
+      },
+      {
+        "id": 418,
+        "value": "Königsberg",
+        "order": "415.00000000000000000000"
+      },
+      {
+        "id": 419,
+        "value": "Prussia",
+        "order": "416.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3225,6 +3235,11 @@
         "id": 278,
         "value": "relationship_person_id__278",
         "order": "271.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "relationship_person_id__311",
+        "order": "272.00000000000000000000"
       }
     ]
   },

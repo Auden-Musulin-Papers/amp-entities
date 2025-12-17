@@ -5820,6 +5820,25 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13512528/</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_418">
+                  <placeName>Königsberg</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_419">Prussia</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/554234/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q4120832</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4031541-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_419">
+                  <placeName>Prussia</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q38872</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4047194-9</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

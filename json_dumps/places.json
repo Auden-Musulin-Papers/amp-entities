@@ -18109,5 +18109,95 @@
       }
     ],
     "updated_geonames": false
+  },
+  "418": {
+    "id": 418,
+    "order": "415.00000000000000000000",
+    "name": "Königsberg",
+    "amp_id": "amp_place_id_418",
+    "geonames_id": "https://sws.geonames.org/554234/",
+    "birth_place": [
+      {
+        "id": 319,
+        "value": "Kant, Immanuel",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "death_place": [
+      {
+        "id": 319,
+        "value": "Kant, Immanuel",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 419,
+        "value": "Prussia",
+        "order": "416.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q4120832",
+    "gnd": "https://d-nb.info/gnd/4031541-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "419": {
+    "id": 419,
+    "order": "416.00000000000000000000",
+    "name": "Prussia",
+    "amp_id": "amp_place_id_419",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q38872",
+    "gnd": "https://d-nb.info/gnd/4047194-9",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }
