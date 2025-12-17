@@ -57,9 +57,13 @@ for any purpose, even commercially.</p>
                      <forename>{{ x.name.split(', ')[1] }}</forename>
                      <surname>{{ x.name.split(', ')[0] }}</surname>
                   </persName>
-                  {% if x.birth_day is string %}
+                  {% if x.birth_day is string or x.birth_year is string or x.birth_year is number or x.birth_place|length > 0 %}
                   <birth>
+                     {% if x.birth_day is string %}
                      <date when-iso="{{ x.birth_day }}">{{ x.birth_day }}</date>
+                     {% elif x.birth_year is string or x.birth_year is number %}
+                     <date when-iso="{{ x.birth_year }}">{{ x.birth_year }}</date>
+                     {% endif %}
                      {% if x.birth_place|length > 0 %}
                      {% for p in x.birth_place if p.data %}
                      <settlement key="{{ p.data.amp_id }}">
@@ -69,9 +73,13 @@ for any purpose, even commercially.</p>
                      {% endif %}
                   </birth>
                   {% endif %}
-                  {% if x.death_day is string %}
+                  {% if x.death_day is string or x.death_year is string or x.death_year is number or x.death_place|length > 0 %}
                   <death>
+                     {% if x.death_day is string %}
                      <date when-iso="{{ x.death_day }}">{{ x.death_day }}</date>
+                     {% elif x.death_year is string or x.death_year is number %}
+                     <date when-iso="{{ x.death_year }}">{{ x.death_year }}</date>
+                     {% endif %}
                      {% if x.death_place|length > 0 %}
                      {% for p in x.death_place if p.data %}
                      <settlement key="{{ p.data.amp_id }}">
