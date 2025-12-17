@@ -395,6 +395,12 @@ for any purpose, even commercially.</p>
                      <forename>Dante</forename>
                      <surname>Alighieri</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1265">1265</date>
+                     <settlement key="amp_place_id_14">
+                        <placeName>Florence</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1321-09-14">1321-09-14</date>
                      <settlement key="amp_place_id_31">
@@ -410,6 +416,12 @@ for any purpose, even commercially.</p>
                      <forename>William</forename>
                      <surname>Shakespeare</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1564">1564</date>
+                     <settlement key="amp_place_id_32">
+                        <placeName>Stratford-upon-Avon</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1616-04-23">1616-04-23</date>
                      <settlement key="amp_place_id_32">
@@ -453,6 +465,11 @@ for any purpose, even commercially.</p>
                      <forename>Tiziano</forename>
                      <surname>Vecellio</surname>
                   </persName>
+                  <birth>
+                     <settlement key="amp_place_id_35">
+                        <placeName>Pieve di Cadore</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date when-iso="1576-08-27">1576-08-27</date>
                      <settlement key="amp_place_id_36">
@@ -782,6 +799,17 @@ for any purpose, even commercially.</p>
                      <forename>Plato</forename>
                      <surname/>
                   </persName>
+                  <birth>
+                     <settlement key="amp_place_id_13">
+                        <placeName>Athens</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="-348">-348</date>
+                     <settlement key="amp_place_id_13">
+                        <placeName>Athens</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118594893</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q859</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/4336</idno>
@@ -2441,6 +2469,15 @@ for any purpose, even commercially.</p>
                      <forename>Peter</forename>
                      <surname>Müller</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1947">1947</date>
+                     <settlement key="amp_place_id_336">
+                        <placeName>Ollersbach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1993">1993</date>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/130202290</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q125072144</idno>
                   <listBibl>
@@ -2553,6 +2590,12 @@ for any purpose, even commercially.</p>
                      <forename>Maurice</forename>
                      <surname>Feild</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1905">1905</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1988">1988</date>
+                  </death>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6793071</idno>
                </person>
                <person xml:id="amp_person_126">
@@ -2738,6 +2781,12 @@ for any purpose, even commercially.</p>
                      <forename>Hella</forename>
                      <surname>Bronold</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1915">1915</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2002">2002</date>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1206944536</idno>
                </person>
                <person xml:id="amp_person_136">
@@ -3074,6 +3123,9 @@ for any purpose, even commercially.</p>
                      <forename>Elizabeth</forename>
                      <surname>Mayer</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1884">1884</date>
+                  </birth>
                   <death>
                      <date when-iso="1970-03-14">1970-03-14</date>
                   </death>
@@ -3184,6 +3236,16 @@ for any purpose, even commercially.</p>
                      <forename>Herod</forename>
                      <surname/>
                   </persName>
+                  <birth>
+                     <settlement key="amp_place_id_264">
+                        <placeName>Edom</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <settlement key="amp_place_id_227">
+                        <placeName>Jericho</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118549847</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q51672</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/18162</idno>
@@ -3296,6 +3358,9 @@ for any purpose, even commercially.</p>
                      <forename>Gherardo</forename>
                      <surname>Tacoli</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1911">1911</date>
+                  </birth>
                   <death>
                      <date when-iso="1996-12-21">1996-12-21</date>
                   </death>
@@ -3481,6 +3546,16 @@ for any purpose, even commercially.</p>
                      <forename>Paul</forename>
                      <surname>the Apostle</surname>
                   </persName>
+                  <birth>
+                     <settlement key="amp_place_id_246">
+                        <placeName>Tarsus</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <settlement key="amp_place_id_51">
+                        <placeName>Rome</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118641549</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q9200</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/5579</idno>
@@ -3510,12 +3585,21 @@ for any purpose, even commercially.</p>
                      <forename>Marga</forename>
                      <surname>Tacoli</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1914">1914</date>
+                  </birth>
                </person>
                <person xml:id="amp_person_193">
                   <persName>
                      <forename>Alexander</forename>
                      <surname>Tacoli</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1956">1956</date>
+                     <settlement key="amp_place_id_68">
+                        <placeName>Graz</placeName>
+                     </settlement>
+                  </birth>
                </person>
                <person xml:id="amp_person_195">
                   <persName>
@@ -3566,12 +3650,21 @@ for any purpose, even commercially.</p>
                      <forename>David</forename>
                      <surname>Protetch</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1923">1923</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1969">1969</date>
+                  </death>
                </person>
                <person xml:id="amp_person_198">
                   <persName>
                      <forename>Rudolf</forename>
                      <surname>Blaha</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1948">1948</date>
+                  </birth>
                </person>
                <person xml:id="amp_person_199">
                   <persName>
@@ -3663,6 +3756,16 @@ for any purpose, even commercially.</p>
                      <forename>Euripides</forename>
                      <surname/>
                   </persName>
+                  <birth>
+                     <settlement key="amp_place_id_281">
+                        <placeName>Salamis Island</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <settlement key="amp_place_id_282">
+                        <placeName>Pella</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118531395</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q48305</idno>
                   <idno type="URI" subtype="PMB">https://pmb.acdh.oeaw.ac.at/entity/4107</idno>
@@ -3929,6 +4032,18 @@ for any purpose, even commercially.</p>
                      <forename>Edgar</forename>
                      <surname>Lohner</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1919">1919</date>
+                     <settlement key="amp_place_id_293">
+                        <placeName>Andernach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1975">1975</date>
+                     <settlement key="amp_place_id_292">
+                        <placeName>Wiesbaden</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/117196770</idno>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55843175</idno>
                   <listBibl>
@@ -4116,6 +4231,9 @@ for any purpose, even commercially.</p>
                   <birth>
                      <date when-iso="1890-11-20">1890-11-20</date>
                   </birth>
+                  <death>
+                     <date when-iso="1975">1975</date>
+                  </death>
                </person>
                <person xml:id="amp_person_226">
                   <persName>
@@ -4203,6 +4321,12 @@ for any purpose, even commercially.</p>
                      <forename>Katherine</forename>
                      <surname>Bucknell</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1957">1957</date>
+                     <settlement key="amp_place_id_304">
+                        <placeName>Ho Chi Minh City - Saigon</placeName>
+                     </settlement>
+                  </birth>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q6376315</idno>
                </person>
                <person xml:id="amp_person_232">
@@ -4210,6 +4334,9 @@ for any purpose, even commercially.</p>
                      <forename>Nicholas</forename>
                      <surname>Jenkins</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1961">1961</date>
+                  </birth>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q75656400</idno>
                </person>
                <person xml:id="amp_person_233">
@@ -4635,6 +4762,12 @@ for any purpose, even commercially.</p>
                      <forename>Göran</forename>
                      <surname>Algård</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1917">1917</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1997">1997</date>
+                  </death>
                </person>
                <person xml:id="amp_person_268">
                   <persName>
@@ -4674,6 +4807,18 @@ for any purpose, even commercially.</p>
                      <forename>Michael</forename>
                      <surname>Pacher</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1435">1435</date>
+                     <settlement key="amp_place_id_406">
+                        <placeName>Pfalzen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1498">1498</date>
+                     <settlement key="amp_place_id_37">
+                        <placeName>Salzburg</placeName>
+                     </settlement>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/118591088</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q463922</idno>
                </person>
@@ -4798,6 +4943,12 @@ for any purpose, even commercially.</p>
                      <forename>Maria</forename>
                      <surname>Bosse-Sporleder</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1932">1932</date>
+                     <settlement key="amp_place_id_410">
+                        <placeName>Tallinn</placeName>
+                     </settlement>
+                  </birth>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/102947284X</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q95213337</idno>
                   <listBibl>
