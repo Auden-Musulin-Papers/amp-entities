@@ -1628,7 +1628,11 @@
         "order": "136.00000000000000000000"
       }
     ],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
     "Comments": null,
     "has_publisher": [],
     "has_date": null,
@@ -3080,7 +3084,11 @@
         "order": "133.00000000000000000000"
       }
     ],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
     "Comments": null,
     "has_publisher": [],
     "has_date": null,
@@ -10231,6 +10239,722 @@
     "FRBR_level": null,
     "Comments": "",
     "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "241.00000000000000000000",
+    "name": "Lied",
+    "lit_work_id": "lit_work_id_313",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Jandl, Ernst",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "242.00000000000000000000",
+    "name": "Der unbekannte Bürger",
+    "lit_work_id": "lit_work_id_314",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "315": {
+    "id": 315,
+    "order": "243.00000000000000000000",
+    "name": "Die Manager",
+    "lit_work_id": "lit_work_id_315",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "Fried, Erich",
+        "order": "211.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "316": {
+    "id": 316,
+    "order": "244.00000000000000000000",
+    "name": "Einsame Überlegene",
+    "lit_work_id": "lit_work_id_316",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "Jandl, Ernst",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "317": {
+    "id": 317,
+    "order": "245.00000000000000000000",
+    "name": "Pfingstsonntag in Kirchstetten",
+    "lit_work_id": "lit_work_id_317",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 222,
+        "value": "Pack, Claus",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 79,
+        "value": "Whitsunday in Kirchstetten",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "318": {
+    "id": 318,
+    "order": "246.00000000000000000000",
+    "name": "Elegie",
+    "lit_work_id": "lit_work_id_318",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 107,
+        "value": "Elegy",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "247.00000000000000000000",
+    "name": "Prolog mit sechzig",
+    "lit_work_id": "lit_work_id_319",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 38,
+        "value": "Prologue at Sixty",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "248.00000000000000000000",
+    "name": "Einige Zeilen für Dr. Walter Birk anlässlich der Aufgabe seiner Praxis",
+    "lit_work_id": "lit_work_id_320",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "249.00000000000000000000",
+    "name": "Altersheim",
+    "lit_work_id": "lit_work_id_321",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "250.00000000000000000000",
+    "name": "Kurze Ode an den Kuckuck",
+    "lit_work_id": "lit_work_id_322",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "Mayröcker, Friederike",
+        "order": "215.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "323": {
+    "id": 323,
+    "order": "251.00000000000000000000",
+    "name": "Mondlandung",
+    "lit_work_id": "lit_work_id_323",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Zand, Herbert",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 67,
+        "value": "Gedichte/Poems",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
