@@ -14544,5 +14544,43 @@
     "person_org": [],
     "person_person": [],
     "PMB": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "283.00000000000000000000",
+    "name": "Zbigniew, Herbert",
+    "amp_id": "amp_person_320",
+    "gnd": "https://d-nb.info/gnd/118982281",
+    "birth_year": "1924",
+    "birth_place": [
+      {
+        "id": 421,
+        "value": "Lwiw",
+        "order": "418.00000000000000000000"
+      }
+    ],
+    "birth_day": "1924-10-29",
+    "death_year": "1998",
+    "death_place": [
+      {
+        "id": 422,
+        "value": "Warschau",
+        "order": "419.00000000000000000000"
+      }
+    ],
+    "death_day": "1998-07-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q16262990",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
   }
 }

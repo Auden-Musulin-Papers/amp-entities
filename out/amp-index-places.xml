@@ -5849,6 +5849,33 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027821-9</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_421">
+                  <placeName>Lwiw</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/702550/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q36036</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4035304-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_422">
+                  <placeName>Warschau</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/756135/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q270</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4079048-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_423">
+                  <placeName>Berggasse 6</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
