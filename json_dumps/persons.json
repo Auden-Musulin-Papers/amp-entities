@@ -8478,6 +8478,11 @@
         "id": 29,
         "value": "relationship_place_id__29",
         "order": "29.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "relationship_place_id__53",
+        "order": "53.00000000000000000000"
       }
     ],
     "person_org": [
@@ -8502,6 +8507,11 @@
         "id": 274,
         "value": "relationship_person_id__274",
         "order": "267.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "relationship_person_id__312",
+        "order": "273.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -14555,7 +14565,7 @@
     "birth_place": [
       {
         "id": 421,
-        "value": "Lwiw",
+        "value": "Lviv",
         "order": "418.00000000000000000000"
       }
     ],
@@ -14564,7 +14574,7 @@
     "death_place": [
       {
         "id": 422,
-        "value": "Warschau",
+        "value": "Warsaw",
         "order": "419.00000000000000000000"
       }
     ],
@@ -14572,7 +14582,7 @@
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/entity/Q16262990",
+    "wikidata": "https://www.wikidata.org/entity/Q161363",
     "Title": [],
     "person_event": [],
     "maiden_name": "",
@@ -14580,7 +14590,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 313,
+        "value": "relationship_person_id__313",
+        "order": "274.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }

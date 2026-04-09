@@ -3870,12 +3870,72 @@
     "gnd": "",
     "URL": ""
   },
-  "198": {
-    "id": 198,
-    "order": "147.00000000000000000000",
+  "231": {
+    "id": 231,
+    "order": "148.00000000000000000000",
+    "name": "Literatur und Kritik",
+    "wikidata": "https://www.wikidata.org/entity/Q667134",
+    "amp_id": "amp_organization_231",
+    "founded_in_year": "1966",
+    "comments": "",
+    "location": [
+      {
+        "id": 37,
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4451519-4",
+    "URL": ""
+  },
+  "232": {
+    "id": 232,
+    "order": "149.00000000000000000000",
+    "name": "Wort und Wahrheit",
+    "wikidata": "https://www.wikidata.org/entity/Q2594077",
+    "amp_id": "amp_organization_232",
+    "founded_in_year": "1946",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/010704469",
+    "URL": ""
+  },
+  "233": {
+    "id": 233,
+    "order": "150.00000000000000000000",
     "name": "",
     "wikidata": "",
-    "amp_id": "amp_organization_198",
+    "amp_id": "amp_organization_233",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
+  },
+  "234": {
+    "id": 234,
+    "order": "151.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_234",
     "founded_in_year": null,
     "comments": "",
     "location": [],

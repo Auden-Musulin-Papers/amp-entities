@@ -6970,5 +6970,61 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "312": {
+    "id": 312,
+    "order": "273.00000000000000000000",
+    "amp_id": "relationship_person_id__312",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 320,
+        "value": "Zbigniew, Herbert",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "order": "274.00000000000000000000",
+    "amp_id": "relationship_person_id__313",
+    "source": [
+      {
+        "id": 320,
+        "value": "Zbigniew, Herbert",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
   }
 }

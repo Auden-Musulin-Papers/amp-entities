@@ -1454,5 +1454,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__53",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 423,
+        "value": "Berggasse 6",
+        "order": "420.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

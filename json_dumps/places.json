@@ -471,6 +471,11 @@
         "id": 165,
         "value": "Postamt Wien 65 (post office Vienna 65)",
         "order": "146.00000000000000000000"
+      },
+      {
+        "id": 232,
+        "value": "Wort und Wahrheit",
+        "order": "149.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -2778,6 +2783,11 @@
         "id": 62,
         "value": "Großes Festspielhaus (Large Festival House)",
         "order": "62.00000000000000000000"
+      },
+      {
+        "id": 231,
+        "value": "Literatur und Kritik",
+        "order": "148.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -18242,7 +18252,7 @@
   "421": {
     "id": 421,
     "order": "418.00000000000000000000",
-    "name": "Lwiw",
+    "name": "Lviv",
     "amp_id": "amp_place_id_421",
     "geonames_id": "https://sws.geonames.org/702550/",
     "birth_place": [
@@ -18287,7 +18297,7 @@
   "422": {
     "id": 422,
     "order": "419.00000000000000000000",
-    "name": "Warschau",
+    "name": "Warsaw",
     "amp_id": "amp_place_id_422",
     "geonames_id": "https://sws.geonames.org/756135",
     "birth_place": [],
@@ -18345,6 +18355,90 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 53,
+        "value": "relationship_place_id__53",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "424": {
+    "id": 424,
+    "order": "421.00000000000000000000",
+    "name": "Mariahilf",
+    "amp_id": "amp_place_id_424",
+    "geonames_id": "https://sws.geonames.org/12214071",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q654812",
+    "gnd": "https://d-nb.info/gnd/4079294-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "425": {
+    "id": 425,
+    "order": "422.00000000000000000000",
+    "name": "Gumpendorfer Straße 15",
+    "amp_id": "amp_place_id_425",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 424,
+        "value": "Mariahilf",
+        "order": "421.00000000000000000000"
       }
     ],
     "relation_types": [

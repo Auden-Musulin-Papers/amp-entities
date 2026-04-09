@@ -1571,7 +1571,35 @@ for any purpose, even commercially.</p>
                   </location>
                   <note>address Bennogasse 1</note>
                </org>
-               <org xml:id="amp_organization_198">
+               <org xml:id="amp_organization_231">
+                  <orgName>Literatur und Kritik</orgName>
+                  <desc>Was founded in year <date from-iso="1966-01-01">1966</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_37">Salzburg</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>47.79941, 13.04399</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q667134</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_232">
+                  <orgName>Wort und Wahrheit</orgName>
+                  <desc>Was founded in year <date from-iso="1946-01-01">1946</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2594077</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_233">
+                  <orgName/>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_234">
                   <orgName/>
                   <note/>
                </org>
