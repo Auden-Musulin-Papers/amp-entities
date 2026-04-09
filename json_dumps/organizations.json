@@ -3917,17 +3917,29 @@
   "233": {
     "id": 233,
     "order": "150.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Dokumentationsstelle für neuere österreichische Literatur",
+    "wikidata": "https://www.wikidata.org/entity/Q62477197",
     "amp_id": "amp_organization_233",
-    "founded_in_year": null,
-    "comments": "",
-    "location": [],
+    "founded_in_year": "1965",
+    "comments": "flats 11 and 13",
+    "location": [
+      {
+        "id": 425,
+        "value": "Gumpendorfer Straße 15",
+        "order": "422.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
-    "gnd": "",
+    "person_org": [
+      {
+        "id": 70,
+        "value": "person_org__70",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1065528116",
     "URL": ""
   },
   "234": {

@@ -18433,7 +18433,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 233,
+        "value": "Dokumentationsstelle für neuere österreichische Literatur",
+        "order": "150.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 424,

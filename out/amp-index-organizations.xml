@@ -1596,8 +1596,13 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_233">
-                  <orgName/>
-                  <note/>
+                  <orgName>Dokumentationsstelle für neuere österreichische Literatur</orgName>
+                  <desc>Was founded in year <date from-iso="1965-01-01">1965</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_425">Gumpendorfer Straße 15</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q62477197</idno>
+                  <note>flats 11 and 13</note>
                </org>
                <org xml:id="amp_organization_234">
                   <orgName/>

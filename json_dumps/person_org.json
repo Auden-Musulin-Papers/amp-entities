@@ -1034,5 +1034,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "70": {
+    "id": 70,
+    "order": "38.00000000000000000000",
+    "person_org": "person_org__70",
+    "source": [
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 233,
+        "value": "Dokumentationsstelle für neuere österreichische Literatur",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

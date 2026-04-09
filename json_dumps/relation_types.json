@@ -3169,7 +3169,13 @@
     "org_event": [],
     "has_label": "is professionally related to",
     "has_label_inverse": "is professionally related to",
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 70,
+        "value": "person_org__70",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "person_person": [
       {
         "id": 164,

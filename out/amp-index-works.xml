@@ -2236,6 +2236,22 @@ for any purpose, even commercially.</p>
                   </author>
                   <date when="1973">1973</date>
                </bibl>
+               <bibl xml:id="lit_work_id_324" type="poem">
+                  <title>In Praise of Limestone</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1948">1948</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_325" type="poem">
+                  <title>Old People's Home</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1970">1970</date>
+                  <lang>en</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>
