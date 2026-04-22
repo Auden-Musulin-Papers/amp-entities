@@ -11046,5 +11046,31 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "326": {
+    "id": 326,
+    "order": "254.00000000000000000000",
+    "name": "Wort und Wahrheit",
+    "lit_work_id": "lit_work_id_326",
+    "is_written_by": [],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "https://www.wikidata.org/wiki/Q2594077",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
