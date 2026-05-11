@@ -6089,8 +6089,26 @@
     "id": 347,
     "order": "285.00000000000000000000",
     "amp_id": "person_event__347",
-    "source": [],
-    "target": [],
-    "relation_type_object": []
+    "source": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 121,
+        "value": "Salzburger Festspiele 1970-07-26--1970-08-30",
+        "order": "121.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 30,
+        "value": "is_passiveparticipant_in",
+        "order": "30.00000000000000000000"
+      }
+    ]
   }
 }

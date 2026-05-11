@@ -1605,7 +1605,15 @@ for any purpose, even commercially.</p>
                   <note>flats 11 and 13</note>
                </org>
                <org xml:id="amp_organization_234">
-                  <orgName/>
+                  <orgName>Limes Verlag</orgName>
+                  <desc>Was founded in year <date from-iso="1945-01-01">1945</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21745455</idno>
                   <note/>
                </org>
             </listOrg>

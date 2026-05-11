@@ -5062,5 +5062,41 @@
       }
     ],
     "part_of": []
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "name": "Salzburger Festspiele 1970-07-26--1970-08-30",
+    "amp_id": "amp_event_id_121",
+    "place_of_event": [
+      {
+        "id": 37,
+        "value": "Salzburg",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1970-07-26",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 347,
+        "value": "person_event__347",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1970-08-30",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [],
+    "part_of": []
   }
 }

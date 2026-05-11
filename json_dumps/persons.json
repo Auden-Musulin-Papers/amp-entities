@@ -5845,6 +5845,11 @@
         "id": 276,
         "value": "person_event__276",
         "order": "276.00000000000000000000"
+      },
+      {
+        "id": 347,
+        "value": "person_event__347",
+        "order": "285.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -14613,6 +14618,50 @@
         "order": "274.00000000000000000000"
       }
     ],
+    "PMB": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "284.00000000000000000000",
+    "name": "Flesch-Brunningen, Hans",
+    "amp_id": "amp_person_321",
+    "gnd": "https://d-nb.info/gnd/105602213",
+    "birth_year": "1895",
+    "birth_place": [
+      {
+        "id": 458,
+        "value": "Brünn",
+        "order": "423.00000000000000000000"
+      }
+    ],
+    "birth_day": "1895-02-05",
+    "death_year": "1981",
+    "death_place": [
+      {
+        "id": 460,
+        "value": "Bad Ischl",
+        "order": "425.00000000000000000000"
+      }
+    ],
+    "death_day": "1981-08-01",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1579499",
+    "Title": [
+      {
+        "id": 9970,
+        "value": "Edler",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": ""
   }
 }

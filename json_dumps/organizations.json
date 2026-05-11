@@ -3945,17 +3945,23 @@
   "234": {
     "id": 234,
     "order": "151.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Limes Verlag",
+    "wikidata": "https://www.wikidata.org/entity/Q21745455",
     "amp_id": "amp_organization_234",
-    "founded_in_year": null,
+    "founded_in_year": "1945",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
     "person_org": [],
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/1065422857",
     "URL": ""
   }
 }

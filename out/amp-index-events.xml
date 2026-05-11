@@ -2029,6 +2029,22 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_121" notBefore-iso="1970-07-26" notAfter-iso="1970-08-30" type="historic">
+                  <label>Salzburger Festspiele 1970-07-26--1970-08-30</label>
+                  <listPerson>
+                     <person sameAs="amp_person_78" role="is_passiveparticipant_in">
+                        <persName>Spiel, Hilde</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_37" type="location" subtype="is_event_location">
+                        <placeName>Salzburg</placeName>
+                        <location type="coords">
+                           <geo>47.79941, 13.04399</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

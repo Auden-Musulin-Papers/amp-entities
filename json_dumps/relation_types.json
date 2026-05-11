@@ -2938,6 +2938,21 @@
         "id": 425,
         "value": "Gumpendorfer Straße 15",
         "order": "422.00000000000000000000"
+      },
+      {
+        "id": 458,
+        "value": "Brünn",
+        "order": "423.00000000000000000000"
+      },
+      {
+        "id": 459,
+        "value": "Czech Republic",
+        "order": "424.00000000000000000000"
+      },
+      {
+        "id": 460,
+        "value": "Bad Ischl",
+        "order": "425.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4825,6 +4840,11 @@
         "id": 266,
         "value": "person_event__266",
         "order": "266.00000000000000000000"
+      },
+      {
+        "id": 347,
+        "value": "person_event__347",
+        "order": "285.00000000000000000000"
       }
     ],
     "org_event": [],
