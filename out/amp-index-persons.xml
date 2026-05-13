@@ -206,6 +206,8 @@ for any purpose, even commercially.</p>
                      <bibl n="lit_work_id_323">Mondlandung</bibl>
                      <bibl n="lit_work_id_324">In Praise of Limestone</bibl>
                      <bibl n="lit_work_id_325">Old People's Home</bibl>
+                     <bibl n="lit_work_id_326">Freitagskind</bibl>
+                     <bibl n="lit_work_id_327">Gedenkmal für eine Stadt</bibl>
                   </listBibl>
                </person>
                <person xml:id="amp_person_2">
@@ -5106,6 +5108,45 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1579499</idno>
                </person>
                <person xml:id="amp_person_354">
+                  <persName>
+                     <forename>André</forename>
+                     <surname>Espiau de la Maëstre</surname>
+                  </persName>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/127236104</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q132961083</idno>
+               </person>
+               <person xml:id="amp_person_355">
+                  <persName>
+                     <forename>Herbert</forename>
+                     <surname>Eisenreich</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1925-02-07">1925-02-07</date>
+                     <settlement key="amp_place_id_66">
+                        <placeName>Linz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1986-06-06">1986-06-06</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118921541</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q112940</idno>
+               </person>
+               <person xml:id="amp_person_356">
+                  <persName>
+                     <forename>Zlatko</forename>
+                     <surname>Gorjan</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1901-07-15">1901-07-15</date>
+                  </birth>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/105730149</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q12645746</idno>
+               </person>
+               <person xml:id="amp_person_357">
                   <persName>
                      <forename/>
                      <surname/>

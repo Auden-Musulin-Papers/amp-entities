@@ -10919,7 +10919,7 @@
       }
     ],
     "is_linked_with": "",
-    "has_year": "1973",
+    "has_year": "1969",
     "type": [
       {
         "id": 6664,
@@ -10948,13 +10948,7 @@
       "color": "dark-red"
     },
     "Comments": "",
-    "has_publisher": [
-      {
-        "id": 26,
-        "value": "Europa Verlags-AG Wien",
-        "order": "26.00000000000000000000"
-      }
-    ],
+    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
@@ -11050,12 +11044,29 @@
   "326": {
     "id": 326,
     "order": "254.00000000000000000000",
-    "name": "",
+    "name": "Freitagskind",
     "lit_work_id": "lit_work_id_326",
-    "is_written_by": [],
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "is_linked_with": "",
-    "has_year": null,
-    "type": [],
+    "has_year": "1960",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
     "version_of": [],
     "language": [
       {
@@ -11066,8 +11077,59 @@
     ],
     "relation_types": [],
     "is_part_of": [],
-    "FRBR_level": null,
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
     "Comments": "https://www.wikidata.org/wiki/Q2594077",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "327": {
+    "id": 327,
+    "order": "255.00000000000000000000",
+    "name": "Gedenkmal für eine Stadt",
+    "lit_work_id": "lit_work_id_327",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1952",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
     "has_publisher": [],
     "has_date": null,
     "is_review_of": [],

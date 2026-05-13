@@ -695,6 +695,16 @@
         "id": 325,
         "value": "Old People's Home",
         "order": "253.00000000000000000000"
+      },
+      {
+        "id": 326,
+        "value": "Freitagskind",
+        "order": "254.00000000000000000000"
+      },
+      {
+        "id": 327,
+        "value": "Gedenkmal für eine Stadt",
+        "order": "255.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -14672,8 +14682,98 @@
   "354": {
     "id": 354,
     "order": "285.00000000000000000000",
-    "name": "",
+    "name": "Espiau de la Maëstre, André",
     "amp_id": "amp_person_354",
+    "gnd": "https://d-nb.info/gnd/127236104",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q132961083",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "355": {
+    "id": 355,
+    "order": "286.00000000000000000000",
+    "name": "Eisenreich, Herbert",
+    "amp_id": "amp_person_355",
+    "gnd": "https://d-nb.info/gnd/118921541",
+    "birth_year": "1925",
+    "birth_place": [
+      {
+        "id": 66,
+        "value": "Linz",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "birth_day": "1925-02-07",
+    "death_year": "1986",
+    "death_place": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "death_day": "1986-06-06",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q112940",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "356": {
+    "id": 356,
+    "order": "287.00000000000000000000",
+    "name": "Gorjan, Zlatko",
+    "amp_id": "amp_person_356",
+    "gnd": "https://d-nb.info/gnd/105730149",
+    "birth_year": "1901",
+    "birth_place": [],
+    "birth_day": "1901-07-15",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q12645746",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "357": {
+    "id": 357,
+    "order": "288.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_357",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],

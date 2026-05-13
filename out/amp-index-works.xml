@@ -2234,7 +2234,7 @@ for any purpose, even commercially.</p>
                   <author ref="#amp_person_218">
                      <persName>Zand, Herbert</persName>
                   </author>
-                  <date when="1973">1973</date>
+                  <date when="1969">1969</date>
                </bibl>
                <bibl xml:id="lit_work_id_324" type="poem">
                   <title>In Praise of Limestone</title>
@@ -2252,8 +2252,20 @@ for any purpose, even commercially.</p>
                   <date when="1970">1970</date>
                   <lang>en</lang>
                </bibl>
-               <bibl xml:id="lit_work_id_326">
-                  <title/>
+               <bibl xml:id="lit_work_id_326" type="poem">
+                  <title>Freitagskind</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1960">1960</date>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_327" type="poem">
+                  <title>Gedenkmal für eine Stadt</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1952">1952</date>
                   <lang>de</lang>
                </bibl>
             </listBibl>

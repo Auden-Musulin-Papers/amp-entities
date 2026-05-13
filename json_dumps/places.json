@@ -322,6 +322,11 @@
         "id": 282,
         "value": "Kreisky, Bruno",
         "order": "278.00000000000000000000"
+      },
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
       }
     ],
     "google_maps_coordinates": null,
@@ -4429,7 +4434,13 @@
     "name": "Linz",
     "amp_id": "amp_place_id_66",
     "geonames_id": "https://sws.geonames.org/2772400/",
-    "birth_place": [],
+    "birth_place": [
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
+      }
+    ],
     "death_place": [
       {
         "id": 36,
