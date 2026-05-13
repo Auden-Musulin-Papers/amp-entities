@@ -5894,20 +5894,13 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_458">
-                  <placeName>Brünn</placeName>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/11922918/</idno>
+                  <placeName>Brno</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3078610/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q14960</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4008456-5</idno>
-                  <note/>
-               </place>
-               <place xml:id="amp_place_id_459">
-                  <placeName>Czech Republic</placeName>
-                  <location type="located_in_place">
-                     <placeName key="amp_place_id_459">Czech Republic</placeName>
-                  </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3077311/</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q213</idno>
-                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4303381-7</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_460">
@@ -5915,7 +5908,7 @@ for any purpose, even commercially.</p>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_10">Austria</placeName>
                   </location>
-                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7873133/</idno>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2782052/</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q250984</idno>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4027718-5</idno>
                   <note/>

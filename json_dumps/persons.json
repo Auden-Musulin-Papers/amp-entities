@@ -14630,7 +14630,7 @@
     "birth_place": [
       {
         "id": 458,
-        "value": "Brünn",
+        "value": "Brno",
         "order": "423.00000000000000000000"
       }
     ],
@@ -14653,8 +14653,39 @@
         "id": 9970,
         "value": "Edler",
         "color": "light-green"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
       }
     ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "354": {
+    "id": 354,
+    "order": "285.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_354",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
     "person_event": [],
     "maiden_name": "",
     "alternative_website": "",

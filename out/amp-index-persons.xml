@@ -5093,7 +5093,7 @@ for any purpose, even commercially.</p>
                   <birth>
                      <date when-iso="1895-02-05">1895-02-05</date>
                      <settlement key="amp_place_id_458">
-                        <placeName>Brünn</placeName>
+                        <placeName>Brno</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -5104,6 +5104,12 @@ for any purpose, even commercially.</p>
                   </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/105602213</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1579499</idno>
+               </person>
+               <person xml:id="amp_person_354">
+                  <persName>
+                     <forename/>
+                     <surname/>
+                  </persName>
                </person>
             </listPerson>
          </div>

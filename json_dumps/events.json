@@ -5066,7 +5066,7 @@
   "121": {
     "id": 121,
     "order": "121.00000000000000000000",
-    "name": "Salzburger Festspiele 1970-07-26--1970-08-30",
+    "name": "Salzburg Festival 1970-07-26--1970-08-30",
     "amp_id": "amp_event_id_121",
     "place_of_event": [
       {
@@ -5097,6 +5097,12 @@
     "has_sub_type": null,
     "status": null,
     "org_event": [],
-    "part_of": []
+    "part_of": [
+      {
+        "id": 56,
+        "value": "Salzburg Festival",
+        "order": "56.00000000000000000000"
+      }
+    ]
   }
 }
