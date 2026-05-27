@@ -11134,5 +11134,54 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "328": {
+    "id": 328,
+    "order": "256.00000000000000000000",
+    "name": "City Without Walls",
+    "lit_work_id": "lit_work_id_328",
+    "is_written_by": [
+      {
+        "id": 78,
+        "value": "Spiel, Hilde",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 9893,
+        "value": "review",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      },
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "Wort und Wahrheit 25, pp. 280-81",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [
+      {
+        "id": 137,
+        "value": "City Without Walls",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "has_external_url": ""
   }
 }
