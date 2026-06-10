@@ -17535,7 +17535,13 @@
     "name": "Berlin-Charlottenburg",
     "amp_id": "amp_place_id_403",
     "geonames_id": "https://sws.geonames.org/2940187/",
-    "birth_place": [],
+    "birth_place": [
+      {
+        "id": 357,
+        "value": "Hamburger, Michael",
+        "order": "288.00000000000000000000"
+      }
+    ],
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
@@ -18609,18 +18615,36 @@
   "463": {
     "id": 463,
     "order": "427.00000000000000000000",
-    "name": "",
+    "name": "Middleton",
     "amp_id": "amp_place_id_463",
-    "geonames_id": "",
+    "geonames_id": "https://sws.geonames.org/2642599",
     "birth_place": [],
-    "death_place": [],
+    "death_place": [
+      {
+        "id": 357,
+        "value": "Hamburger, Michael",
+        "order": "288.00000000000000000000"
+      }
+    ],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "is_part_of": [],
-    "relation_types": [],
-    "wikidata": "",
-    "gnd": "",
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q3332576",
+    "gnd": "https://d-nb.info/gnd/5020784-2",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

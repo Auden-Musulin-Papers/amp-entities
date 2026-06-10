@@ -5144,14 +5144,45 @@ for any purpose, even commercially.</p>
                   <birth>
                      <date when-iso="1901-07-15">1901-07-15</date>
                   </birth>
+                  <death>
+                     <date when-iso="1976-06-21">1976-06-21</date>
+                  </death>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/105730149</idno>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q12645746</idno>
                </person>
                <person xml:id="amp_person_357">
                   <persName>
-                     <forename/>
-                     <surname>Hamburger,</surname>
+                     <forename>Michael</forename>
+                     <surname>Hamburger</surname>
                   </persName>
+                  <birth>
+                     <date when-iso="1924-03-22">1924-03-22</date>
+                     <settlement key="amp_place_id_403">
+                        <placeName>Berlin-Charlottenburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2007-06-07">2007-06-07</date>
+                     <settlement key="amp_place_id_463">
+                        <placeName>Middleton</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118842285</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q67436</idno>
+               </person>
+               <person xml:id="amp_person_359">
+                  <persName>
+                     <forename>Peter</forename>
+                     <surname>Härtling</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1933-11-13">1933-11-13</date>
+                  </birth>
+                  <death>
+                     <date when-iso="2017-07-10">2017-07-10</date>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118544551</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q77482</idno>
                </person>
             </listPerson>
          </div>

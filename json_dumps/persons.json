@@ -14701,7 +14701,13 @@
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q132961083",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 382,
+        "value": "person_event__382",
+        "order": "289.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -14739,7 +14745,13 @@
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q112940",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 381,
+        "value": "person_event__381",
+        "order": "288.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -14757,15 +14769,21 @@
     "birth_year": "1901",
     "birth_place": [],
     "birth_day": "1901-07-15",
-    "death_year": null,
+    "death_year": "1976",
     "death_place": [],
-    "death_day": null,
+    "death_day": "1976-06-21",
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q12645746",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 380,
+        "value": "person_event__380",
+        "order": "287.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -14777,21 +14795,76 @@
   "357": {
     "id": 357,
     "order": "288.00000000000000000000",
-    "name": "Hamburger,",
+    "name": "Hamburger, Michael",
     "amp_id": "amp_person_357",
-    "gnd": "",
-    "birth_year": null,
-    "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
-    "death_place": [],
-    "death_day": null,
+    "gnd": "https://d-nb.info/gnd/118842285",
+    "birth_year": "1924",
+    "birth_place": [
+      {
+        "id": 403,
+        "value": "Berlin-Charlottenburg",
+        "order": "401.00000000000000000000"
+      }
+    ],
+    "birth_day": "1924-03-22",
+    "death_year": "2007",
+    "death_place": [
+      {
+        "id": 463,
+        "value": "Middleton",
+        "order": "427.00000000000000000000"
+      }
+    ],
+    "death_day": "2007-06-07",
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
-    "Title": [],
+    "wikidata": "https://www.wikidata.org/entity/Q67436",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 23184,
+        "value": "OBE",
+        "color": "light-orange"
+      }
+    ],
     "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "359": {
+    "id": 359,
+    "order": "289.00000000000000000000",
+    "name": "Härtling, Peter",
+    "amp_id": "amp_person_359",
+    "gnd": "https://d-nb.info/gnd/118544551",
+    "birth_year": "1933",
+    "birth_place": [],
+    "birth_day": "1933-11-13",
+    "death_year": "2017",
+    "death_place": [],
+    "death_day": "2017-07-10",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q77482",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 379,
+        "value": "person_event__379",
+        "order": "286.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,

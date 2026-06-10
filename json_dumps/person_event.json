@@ -6110,5 +6110,109 @@
         "order": "30.00000000000000000000"
       }
     ]
+  },
+  "379": {
+    "id": 379,
+    "order": "286.00000000000000000000",
+    "amp_id": "person_event__379",
+    "source": [
+      {
+        "id": 359,
+        "value": "Härtling, Peter",
+        "order": "289.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "380": {
+    "id": 380,
+    "order": "287.00000000000000000000",
+    "amp_id": "person_event__380",
+    "source": [
+      {
+        "id": 356,
+        "value": "Gorjan, Zlatko",
+        "order": "287.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "381": {
+    "id": 381,
+    "order": "288.00000000000000000000",
+    "amp_id": "person_event__381",
+    "source": [
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "382": {
+    "id": 382,
+    "order": "289.00000000000000000000",
+    "amp_id": "person_event__382",
+    "source": [
+      {
+        "id": 354,
+        "value": "Espiau de la Maëstre, André",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
   }
 }

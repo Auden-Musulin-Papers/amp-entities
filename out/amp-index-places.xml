@@ -5921,7 +5921,13 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_463">
-                  <placeName/>
+                  <placeName>Middleton</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2642599/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3332576</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/5020784-2</idno>
                   <note/>
                </place>
                <place xml:id="amp_place_id_464">
