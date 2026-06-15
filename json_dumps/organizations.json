@@ -3958,5 +3958,122 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1065422857",
     "URL": ""
+  },
+  "235": {
+    "id": 235,
+    "order": "152.00000000000000000000",
+    "name": "Finanzamt St. Pölten (Local Tax Office St. Pölten)",
+    "wikidata": "",
+    "amp_id": "amp_organization_235",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 9,
+        "value": "St. Pölten",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 63,
+        "value": "org_event__63",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "",
+    "URL": "https://service.bmf.gv.at/service/anwend/behoerden/show_mast.asp?Typ=AW&DisTyp=FA&__ClXXX_STICHW_ALL=3100+St.+P%F6lten%2C+Daniel+Gran-Stra%DFe+8"
+  },
+  "236": {
+    "id": 236,
+    "order": "153.00000000000000000000",
+    "name": "Dagens Nyheter",
+    "wikidata": "https://www.wikidata.org/entity/Q1126918",
+    "amp_id": "amp_organization_236",
+    "founded_in_year": "1864",
+    "comments": "",
+    "location": [
+      {
+        "id": 344,
+        "value": "Stockholm",
+        "order": "343.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 71,
+        "value": "person_org__71",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/4272003-5",
+    "URL": ""
+  },
+  "237": {
+    "id": 237,
+    "order": "154.00000000000000000000",
+    "name": "Luchterhand",
+    "wikidata": "https://www.wikidata.org/entity/Q1564874",
+    "amp_id": "amp_organization_237",
+    "founded_in_year": "1924",
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 502,
+        "value": "Neuwied",
+        "order": "434.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 72,
+        "value": "person_org__72",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1065503504",
+    "URL": ""
+  },
+  "238": {
+    "id": 238,
+    "order": "155.00000000000000000000",
+    "name": "Neue Zürcher Zeitung",
+    "wikidata": "https://www.wikidata.org/entity/Q658945",
+    "amp_id": "amp_organization_238",
+    "founded_in_year": "1780",
+    "comments": "",
+    "location": [
+      {
+        "id": 503,
+        "value": "Zurich",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 73,
+        "value": "person_org__73",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/16045397-5",
+    "URL": ""
   }
 }

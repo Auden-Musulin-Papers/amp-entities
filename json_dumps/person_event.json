@@ -6214,5 +6214,343 @@
         "order": "29.00000000000000000000"
       }
     ]
+  },
+  "383": {
+    "id": 383,
+    "order": "290.00000000000000000000",
+    "amp_id": "person_event__383",
+    "source": [
+      {
+        "id": 54,
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "384": {
+    "id": 384,
+    "order": "291.00000000000000000000",
+    "amp_id": "person_event__384",
+    "source": [
+      {
+        "id": 360,
+        "value": "Höllerer, Walter",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "385": {
+    "id": 385,
+    "order": "292.00000000000000000000",
+    "amp_id": "person_event__385",
+    "source": [
+      {
+        "id": 361,
+        "value": "Ladan, Tomislav",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "386": {
+    "id": 386,
+    "order": "293.00000000000000000000",
+    "amp_id": "person_event__386",
+    "source": [
+      {
+        "id": 362,
+        "value": "Lagercrantz, Olof",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "387": {
+    "id": 387,
+    "order": "294.00000000000000000000",
+    "amp_id": "person_event__387",
+    "source": [
+      {
+        "id": 363,
+        "value": "Marteau, Robert",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "388": {
+    "id": 388,
+    "order": "295.00000000000000000000",
+    "amp_id": "person_event__388",
+    "source": [
+      {
+        "id": 364,
+        "value": "Mészöly, Miklós",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "389": {
+    "id": 389,
+    "order": "296.00000000000000000000",
+    "amp_id": "person_event__389",
+    "source": [
+      {
+        "id": 365,
+        "value": "Örkény, István",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "390": {
+    "id": 390,
+    "order": "297.00000000000000000000",
+    "amp_id": "person_event__390",
+    "source": [
+      {
+        "id": 366,
+        "value": "Pavlović, Miodrag",
+        "order": "296.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "298.00000000000000000000",
+    "amp_id": "person_event__391",
+    "source": [
+      {
+        "id": 367,
+        "value": "Pilinszky, János",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "order": "299.00000000000000000000",
+    "amp_id": "person_event__392",
+    "source": [
+      {
+        "id": 245,
+        "value": "Zatonsky, Dmitry",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "order": "300.00000000000000000000",
+    "amp_id": "person_event__393",
+    "source": [
+      {
+        "id": 368,
+        "value": "Simon, Claude",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "order": "301.00000000000000000000",
+    "amp_id": "person_event__394",
+    "source": [
+      {
+        "id": 370,
+        "value": "Walter, Otto Friedrich",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "order": "302.00000000000000000000",
+    "amp_id": "person_event__395",
+    "source": [
+      {
+        "id": 372,
+        "value": "Wirpsza, Witold",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
   }
 }

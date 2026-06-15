@@ -1062,5 +1062,89 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "71": {
+    "id": 71,
+    "order": "39.00000000000000000000",
+    "person_org": "person_org__71",
+    "source": [
+      {
+        "id": 362,
+        "value": "Lagercrantz, Olof",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 236,
+        "value": "Dagens Nyheter",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "72": {
+    "id": 72,
+    "order": "40.00000000000000000000",
+    "person_org": "person_org__72",
+    "source": [
+      {
+        "id": 370,
+        "value": "Walter, Otto Friedrich",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 237,
+        "value": "Luchterhand",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "73": {
+    "id": 73,
+    "order": "41.00000000000000000000",
+    "person_org": "person_org__73",
+    "source": [
+      {
+        "id": 371,
+        "value": "Weber, Werner",
+        "order": "301.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 238,
+        "value": "Neue Zürcher Zeitung",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

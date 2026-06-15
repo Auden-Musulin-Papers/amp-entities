@@ -1155,6 +1155,11 @@
         "id": 153,
         "value": "Niederösterreichische Pressehaus Druck- und Verlagsgesellschaft m.b.H.",
         "order": "134.00000000000000000000"
+      },
+      {
+        "id": 235,
+        "value": "Finanzamt St. Pölten (Local Tax Office St. Pölten)",
+        "order": "152.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1466,7 +1471,13 @@
     "events": [],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 100,
+        "value": "relationship_place_id__100",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "14": {
@@ -1758,7 +1769,13 @@
     ],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 102,
+        "value": "relationship_place_id__102",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "18": {
@@ -2088,6 +2105,11 @@
         "id": 234,
         "value": "Limes Verlag",
         "order": "151.00000000000000000000"
+      },
+      {
+        "id": 237,
+        "value": "Luchterhand",
+        "order": "154.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -5139,7 +5161,18 @@
     "events": [],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 92,
+        "value": "relationship_place_id__92",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "relationship_place_id__99",
+        "order": "67.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "85": {
@@ -5272,7 +5305,23 @@
     ],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 93,
+        "value": "relationship_place_id__93",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "relationship_place_id__95",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "relationship_place_id__96",
+        "order": "64.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "87": {
@@ -6641,7 +6690,13 @@
     "events": [],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 97,
+        "value": "relationship_place_id__97",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "127": {
@@ -15147,6 +15202,11 @@
         "id": 136,
         "value": "Post office Stockholm railway station",
         "order": "117.00000000000000000000"
+      },
+      {
+        "id": 236,
+        "value": "Dagens Nyheter",
+        "order": "153.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -15537,7 +15597,13 @@
     "events": [],
     "alternative_link": "",
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 98,
+        "value": "relationship_place_id__98",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "354": {
@@ -17571,7 +17637,13 @@
     "events": [],
     "alternative_link": "",
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 89,
+        "value": "relationship_place_id__89",
+        "order": "57.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   },
   "404": {
@@ -18363,7 +18435,13 @@
     "events": [],
     "alternative_link": "",
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 102,
+        "value": "relationship_place_id__102",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   },
   "423": {
@@ -18660,18 +18738,356 @@
   "464": {
     "id": 464,
     "order": "428.00000000000000000000",
-    "name": "",
+    "name": "Sandl",
     "amp_id": "amp_place_id_464",
-    "geonames_id": "",
+    "geonames_id": "https://sws.geonames.org/2766784",
     "birth_place": [],
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
     "organizations": [],
-    "is_part_of": [],
-    "relation_types": [],
-    "wikidata": "",
-    "gnd": "",
+    "is_part_of": [
+      {
+        "id": 10,
+        "value": "Austria",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q669284",
+    "gnd": "https://d-nb.info/gnd/4336894-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 86,
+        "value": "relationship_place_id__86",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "497": {
+    "id": 497,
+    "order": "429.00000000000000000000",
+    "name": "Zagreb",
+    "amp_id": "amp_place_id_497",
+    "geonames_id": "https://sws.geonames.org/3186886",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1435",
+    "gnd": "https://d-nb.info/gnd/4108914-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 87,
+        "value": "relationship_place_id__87",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "relationship_place_id__90",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "498": {
+    "id": 498,
+    "order": "430.00000000000000000000",
+    "name": "Walldorf",
+    "amp_id": "amp_place_id_498",
+    "geonames_id": "https://sws.geonames.org/3272460",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 20,
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q13487088",
+    "gnd": "https://d-nb.info/gnd/4108702-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 88,
+        "value": "relationship_place_id__88",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "499": {
+    "id": 499,
+    "order": "431.00000000000000000000",
+    "name": "Boulogne-Billancourt",
+    "amp_id": "amp_place_id_499",
+    "geonames_id": "https://sws.geonames.org/6451962",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 83,
+        "value": "France",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q172455",
+    "gnd": "https://d-nb.info/gnd/4080491-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 91,
+        "value": "relationship_place_id__91",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "500": {
+    "id": 500,
+    "order": "432.00000000000000000000",
+    "name": "Belgrade",
+    "amp_id": "amp_place_id_500",
+    "geonames_id": "https://sws.geonames.org/792680",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q3711",
+    "gnd": "https://d-nb.info/gnd/4005411-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 94,
+        "value": "relationship_place_id__94",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "501": {
+    "id": 501,
+    "order": "433.00000000000000000000",
+    "name": "Chepstow",
+    "amp_id": "amp_place_id_501",
+    "geonames_id": "https://sws.geonames.org/2653256",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q771986",
+    "gnd": "https://d-nb.info/gnd/4090357-6",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 101,
+        "value": "relationship_place_id__101",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "502": {
+    "id": 502,
+    "order": "434.00000000000000000000",
+    "name": "Neuwied",
+    "amp_id": "amp_place_id_502",
+    "geonames_id": "https://sws.geonames.org/6557317",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 237,
+        "value": "Luchterhand",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 20,
+        "value": "Federal Republic of Germany",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q3967",
+    "gnd": "https://d-nb.info/gnd/4041991-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "503": {
+    "id": 503,
+    "order": "435.00000000000000000000",
+    "name": "Zurich",
+    "amp_id": "amp_place_id_503",
+    "geonames_id": "https://sws.geonames.org/2657896",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 238,
+        "value": "Neue Zürcher Zeitung",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 97,
+        "value": "Switzerland",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q72",
+    "gnd": "https://d-nb.info/gnd/4068038-1",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

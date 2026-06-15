@@ -1482,5 +1482,486 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "86": {
+    "id": 86,
+    "order": "54.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__86",
+    "source": [
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 464,
+        "value": "Sandl",
+        "order": "428.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "87": {
+    "id": 87,
+    "order": "55.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__87",
+    "source": [
+      {
+        "id": 356,
+        "value": "Gorjan, Zlatko",
+        "order": "287.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 497,
+        "value": "Zagreb",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "88": {
+    "id": 88,
+    "order": "56.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__88",
+    "source": [
+      {
+        "id": 359,
+        "value": "Härtling, Peter",
+        "order": "289.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 498,
+        "value": "Walldorf",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "89": {
+    "id": 89,
+    "order": "57.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__89",
+    "source": [
+      {
+        "id": 360,
+        "value": "Höllerer, Walter",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 403,
+        "value": "Berlin-Charlottenburg",
+        "order": "401.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "90": {
+    "id": 90,
+    "order": "58.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__90",
+    "source": [
+      {
+        "id": 361,
+        "value": "Ladan, Tomislav",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 497,
+        "value": "Zagreb",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "91": {
+    "id": 91,
+    "order": "59.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__91",
+    "source": [
+      {
+        "id": 363,
+        "value": "Marteau, Robert",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 499,
+        "value": "Boulogne-Billancourt",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "92": {
+    "id": 92,
+    "order": "60.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__92",
+    "source": [
+      {
+        "id": 72,
+        "value": "McCarthy, Mary",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 84,
+        "value": "Paris",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "93": {
+    "id": 93,
+    "order": "61.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__93",
+    "source": [
+      {
+        "id": 364,
+        "value": "Mészöly, Miklós",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "94": {
+    "id": 94,
+    "order": "62.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__94",
+    "source": [
+      {
+        "id": 366,
+        "value": "Pavlović, Miodrag",
+        "order": "296.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 500,
+        "value": "Belgrade",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "95": {
+    "id": 95,
+    "order": "63.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__95",
+    "source": [
+      {
+        "id": 365,
+        "value": "Örkény, István",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "96": {
+    "id": 96,
+    "order": "64.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__96",
+    "source": [
+      {
+        "id": 367,
+        "value": "Pilinszky, János",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 86,
+        "value": "Budapest",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "97": {
+    "id": 97,
+    "order": "65.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__97",
+    "source": [
+      {
+        "id": 75,
+        "value": "Reich-Ranicki, Marcel",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 126,
+        "value": "Hamburg",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "98": {
+    "id": 98,
+    "order": "66.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__98",
+    "source": [
+      {
+        "id": 245,
+        "value": "Zatonsky, Dmitry",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 353,
+        "value": "Kyiv",
+        "order": "352.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "99": {
+    "id": 99,
+    "order": "67.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__99",
+    "source": [
+      {
+        "id": 368,
+        "value": "Simon, Claude",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 84,
+        "value": "Paris",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "100": {
+    "id": 100,
+    "order": "68.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__100",
+    "source": [
+      {
+        "id": 369,
+        "value": "Terzakis, Aggelos",
+        "order": "299.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 13,
+        "value": "Athens",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "101": {
+    "id": 101,
+    "order": "69.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__101",
+    "source": [
+      {
+        "id": 91,
+        "value": "Toynbee, Philip",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 501,
+        "value": "Chepstow",
+        "order": "433.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "102": {
+    "id": 102,
+    "order": "70.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__102",
+    "source": [
+      {
+        "id": 372,
+        "value": "Wirpsza, Witold",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 422,
+        "value": "Warsaw",
+        "order": "419.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

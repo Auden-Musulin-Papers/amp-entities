@@ -1479,6 +1479,96 @@
         "id": 276,
         "value": "relationship_person_id__276",
         "order": "269.00000000000000000000"
+      },
+      {
+        "id": 362,
+        "value": "relationship_person_id__362",
+        "order": "291.00000000000000000000"
+      },
+      {
+        "id": 363,
+        "value": "relationship_person_id__363",
+        "order": "292.00000000000000000000"
+      },
+      {
+        "id": 364,
+        "value": "relationship_person_id__364",
+        "order": "293.00000000000000000000"
+      },
+      {
+        "id": 365,
+        "value": "relationship_person_id__365",
+        "order": "294.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "relationship_person_id__366",
+        "order": "295.00000000000000000000"
+      },
+      {
+        "id": 367,
+        "value": "relationship_person_id__367",
+        "order": "296.00000000000000000000"
+      },
+      {
+        "id": 368,
+        "value": "relationship_person_id__368",
+        "order": "297.00000000000000000000"
+      },
+      {
+        "id": 369,
+        "value": "relationship_person_id__369",
+        "order": "298.00000000000000000000"
+      },
+      {
+        "id": 370,
+        "value": "relationship_person_id__370",
+        "order": "299.00000000000000000000"
+      },
+      {
+        "id": 371,
+        "value": "relationship_person_id__371",
+        "order": "300.00000000000000000000"
+      },
+      {
+        "id": 372,
+        "value": "relationship_person_id__372",
+        "order": "301.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "relationship_person_id__373",
+        "order": "302.00000000000000000000"
+      },
+      {
+        "id": 374,
+        "value": "relationship_person_id__374",
+        "order": "303.00000000000000000000"
+      },
+      {
+        "id": 375,
+        "value": "relationship_person_id__375",
+        "order": "304.00000000000000000000"
+      },
+      {
+        "id": 376,
+        "value": "relationship_person_id__376",
+        "order": "305.00000000000000000000"
+      },
+      {
+        "id": 377,
+        "value": "relationship_person_id__377",
+        "order": "306.00000000000000000000"
+      },
+      {
+        "id": 379,
+        "value": "relationship_person_id__379",
+        "order": "308.00000000000000000000"
+      },
+      {
+        "id": 381,
+        "value": "relationship_person_id__381",
+        "order": "310.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -4649,6 +4739,11 @@
         "id": 248,
         "value": "person_event__248",
         "order": "248.00000000000000000000"
+      },
+      {
+        "id": 383,
+        "value": "person_event__383",
+        "order": "290.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -4683,6 +4778,11 @@
         "id": 169,
         "value": "relationship_person_id__169",
         "order": "169.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "relationship_person_id__351",
+        "order": "280.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5488,7 +5588,13 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 92,
+        "value": "relationship_place_id__92",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {
@@ -5606,6 +5712,11 @@
         "id": 201,
         "value": "relationship_person_id__201",
         "order": "202.00000000000000000000"
+      },
+      {
+        "id": 347,
+        "value": "relationship_person_id__347",
+        "order": "276.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -5655,7 +5766,13 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 97,
+        "value": "relationship_place_id__97",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {
@@ -6556,7 +6673,13 @@
     "maiden_name": null,
     "alternative_website": null,
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 101,
+        "value": "relationship_place_id__101",
+        "order": "69.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {
@@ -13026,13 +13149,31 @@
         "color": "light-green"
       }
     ],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 392,
+        "value": "person_event__392",
+        "order": "299.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": true,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 98,
+        "value": "relationship_place_id__98",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 360,
+        "value": "relationship_person_id__360",
+        "order": "289.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "246": {
@@ -14713,7 +14854,13 @@
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 346,
+        "value": "relationship_person_id__346",
+        "order": "275.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "355": {
@@ -14755,9 +14902,21 @@
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 86,
+        "value": "relationship_place_id__86",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 348,
+        "value": "relationship_person_id__348",
+        "order": "277.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "356": {
@@ -14787,9 +14946,21 @@
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 87,
+        "value": "relationship_place_id__87",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 349,
+        "value": "relationship_person_id__349",
+        "order": "278.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "357": {
@@ -14865,6 +15036,1117 @@
         "order": "286.00000000000000000000"
       }
     ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 88,
+        "value": "relationship_place_id__88",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 350,
+        "value": "relationship_person_id__350",
+        "order": "279.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "360": {
+    "id": 360,
+    "order": "290.00000000000000000000",
+    "name": "Höllerer, Walter",
+    "amp_id": "amp_person_360",
+    "gnd": "https://d-nb.info/gnd/11855199X",
+    "birth_year": "1922",
+    "birth_place": [],
+    "birth_day": "1922-12-19",
+    "death_year": "2003",
+    "death_place": [],
+    "death_day": "2003-05-20",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q106602",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 384,
+        "value": "person_event__384",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 89,
+        "value": "relationship_place_id__89",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 352,
+        "value": "relationship_person_id__352",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "361": {
+    "id": 361,
+    "order": "291.00000000000000000000",
+    "name": "Ladan, Tomislav",
+    "amp_id": "amp_person_361",
+    "gnd": "https://d-nb.info/gnd/119193035",
+    "birth_year": "1932",
+    "birth_place": [],
+    "birth_day": "1932-06-25",
+    "death_year": "2008",
+    "death_place": [],
+    "death_day": "2008-09-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1264934",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 385,
+        "value": "person_event__385",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 90,
+        "value": "relationship_place_id__90",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 353,
+        "value": "relationship_person_id__353",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "362": {
+    "id": 362,
+    "order": "292.00000000000000000000",
+    "name": "Lagercrantz, Olof",
+    "amp_id": "amp_person_362",
+    "gnd": "https://d-nb.info/gnd/11872598X",
+    "birth_year": "1911",
+    "birth_place": [],
+    "birth_day": "1911-03-10",
+    "death_year": "2002",
+    "death_place": [],
+    "death_day": "2002-07-23",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1392643",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 386,
+        "value": "person_event__386",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 71,
+        "value": "person_org__71",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 354,
+        "value": "relationship_person_id__354",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "363": {
+    "id": 363,
+    "order": "293.00000000000000000000",
+    "name": "Marteau, Robert",
+    "amp_id": "amp_person_363",
+    "gnd": "https://d-nb.info/gnd/119382962",
+    "birth_year": "1925",
+    "birth_place": [],
+    "birth_day": "1925-02-08",
+    "death_year": "2011",
+    "death_place": [],
+    "death_day": "2011-05-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q3435865",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 387,
+        "value": "person_event__387",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 91,
+        "value": "relationship_place_id__91",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 355,
+        "value": "relationship_person_id__355",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "364": {
+    "id": 364,
+    "order": "294.00000000000000000000",
+    "name": "Mészöly, Miklós",
+    "amp_id": "amp_person_364",
+    "gnd": "https://d-nb.info/gnd/119122979",
+    "birth_year": "1921",
+    "birth_place": [],
+    "birth_day": "1921-01-19",
+    "death_year": "2001",
+    "death_place": [],
+    "death_day": "2001-07-22",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q926601",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 388,
+        "value": "person_event__388",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 93,
+        "value": "relationship_place_id__93",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 356,
+        "value": "relationship_person_id__356",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "365": {
+    "id": 365,
+    "order": "295.00000000000000000000",
+    "name": "Örkény, István",
+    "amp_id": "amp_person_365",
+    "gnd": "https://d-nb.info/gnd/119038706",
+    "birth_year": "1912",
+    "birth_place": [],
+    "birth_day": "1912-04-05",
+    "death_year": "1979",
+    "death_place": [],
+    "death_day": "1979-06-24",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q361918",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 389,
+        "value": "person_event__389",
+        "order": "296.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 95,
+        "value": "relationship_place_id__95",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 357,
+        "value": "relationship_person_id__357",
+        "order": "286.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "366": {
+    "id": 366,
+    "order": "296.00000000000000000000",
+    "name": "Pavlović, Miodrag",
+    "amp_id": "amp_person_366",
+    "gnd": "https://d-nb.info/gnd/119277522",
+    "birth_year": "1928",
+    "birth_place": [],
+    "birth_day": "1928-11-28",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-08-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q929359",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 390,
+        "value": "person_event__390",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 94,
+        "value": "relationship_place_id__94",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 358,
+        "value": "relationship_person_id__358",
+        "order": "287.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "367": {
+    "id": 367,
+    "order": "297.00000000000000000000",
+    "name": "Pilinszky, János",
+    "amp_id": "amp_person_367",
+    "gnd": "https://d-nb.info/gnd/119006448",
+    "birth_year": "1921",
+    "birth_place": [],
+    "birth_day": "1921-11-27",
+    "death_year": "1981",
+    "death_place": [],
+    "death_day": "1981-05-27",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q470011",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 391,
+        "value": "person_event__391",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 96,
+        "value": "relationship_place_id__96",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 359,
+        "value": "relationship_person_id__359",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "368": {
+    "id": 368,
+    "order": "298.00000000000000000000",
+    "name": "Simon, Claude",
+    "amp_id": "amp_person_368",
+    "gnd": "https://d-nb.info/gnd/118614452",
+    "birth_year": "1913",
+    "birth_place": [],
+    "birth_day": "1913-10-10",
+    "death_year": "2005",
+    "death_place": [],
+    "death_day": "2005-07-06",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q131549",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 393,
+        "value": "person_event__393",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 99,
+        "value": "relationship_place_id__99",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 361,
+        "value": "relationship_person_id__361",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "369": {
+    "id": 369,
+    "order": "299.00000000000000000000",
+    "name": "Terzakis, Aggelos",
+    "amp_id": "amp_person_369",
+    "gnd": "https://d-nb.info/gnd/123358868",
+    "birth_year": "1907",
+    "birth_place": [],
+    "birth_day": "1907-02-16",
+    "death_year": "1979",
+    "death_place": [],
+    "death_day": "1979-08-03",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q3565560",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 100,
+        "value": "relationship_place_id__100",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "370": {
+    "id": 370,
+    "order": "300.00000000000000000000",
+    "name": "Walter, Otto Friedrich",
+    "amp_id": "amp_person_370",
+    "gnd": "https://d-nb.info/gnd/118764195",
+    "birth_year": "1928",
+    "birth_place": [],
+    "birth_day": "1928-06-05",
+    "death_year": "1994",
+    "death_place": [],
+    "death_day": "1994-09-24",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q123531",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 394,
+        "value": "person_event__394",
+        "order": "301.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 72,
+        "value": "person_org__72",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 378,
+        "value": "relationship_person_id__378",
+        "order": "307.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "371": {
+    "id": 371,
+    "order": "301.00000000000000000000",
+    "name": "Weber, Werner",
+    "amp_id": "amp_person_371",
+    "gnd": "https://d-nb.info/gnd/118806440",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-11-13",
+    "death_year": "2005",
+    "death_place": [],
+    "death_day": "2005-12-01",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q122163",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 73,
+        "value": "person_org__73",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "372": {
+    "id": 372,
+    "order": "302.00000000000000000000",
+    "name": "Wirpsza, Witold",
+    "amp_id": "amp_person_372",
+    "gnd": "https://d-nb.info/gnd/117411795",
+    "birth_year": "1918",
+    "birth_place": [],
+    "birth_day": "1918-12-04",
+    "death_year": "1985",
+    "death_place": [],
+    "death_day": "1985-09-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1597576",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 395,
+        "value": "person_event__395",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 102,
+        "value": "relationship_place_id__102",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 380,
+        "value": "relationship_person_id__380",
+        "order": "309.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "373": {
+    "id": 373,
+    "order": "303.00000000000000000000",
+    "name": "Doderer, Heimito von",
+    "amp_id": "amp_person_373",
+    "gnd": "https://d-nb.info/gnd/118526162",
+    "birth_year": "1896",
+    "birth_place": [],
+    "birth_day": "1896-09-05",
+    "death_year": "1966",
+    "death_place": [],
+    "death_day": "1966-12-23",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q93797",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "374": {
+    "id": 374,
+    "order": "304.00000000000000000000",
+    "name": "Bachmann, Ingeborg",
+    "amp_id": "amp_person_374",
+    "gnd": "https://d-nb.info/gnd/118505602",
+    "birth_year": "1926",
+    "birth_place": [],
+    "birth_day": "1926-06-25",
+    "death_year": "1973",
+    "death_place": [],
+    "death_day": "1973-10-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q78506",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "375": {
+    "id": 375,
+    "order": "305.00000000000000000000",
+    "name": "Gütersloh, Albert Paris",
+    "amp_id": "amp_person_375",
+    "gnd": "https://d-nb.info/gnd/118543342",
+    "birth_year": "1887",
+    "birth_place": [],
+    "birth_day": "1887-02-05",
+    "death_year": "1973",
+    "death_place": [],
+    "death_day": "1973-05-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q697839",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "376": {
+    "id": 376,
+    "order": "306.00000000000000000000",
+    "name": "Aichinger, Ilse",
+    "amp_id": "amp_person_376",
+    "gnd": "https://d-nb.info/gnd/118501232",
+    "birth_year": "1921",
+    "birth_place": [],
+    "birth_day": "1921-11-01",
+    "death_year": "2016",
+    "death_place": [],
+    "death_day": "2016-11-11",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q93514",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "377": {
+    "id": 377,
+    "order": "307.00000000000000000000",
+    "name": "Emmanuel, Pierre",
+    "amp_id": "amp_person_377",
+    "gnd": "https://d-nb.info/gnd/118530143",
+    "birth_year": "1916",
+    "birth_place": [],
+    "birth_day": "1916-05-03",
+    "death_year": "1984",
+    "death_place": [],
+    "death_day": "1984-09-22",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q164469",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "378": {
+    "id": 378,
+    "order": "308.00000000000000000000",
+    "name": "Revel, Jean-François",
+    "amp_id": "amp_person_378",
+    "gnd": "https://d-nb.info/gnd/120259788",
+    "birth_year": "1924",
+    "birth_place": [],
+    "birth_day": "1924-01-19",
+    "death_year": "2006",
+    "death_place": [],
+    "death_day": "2006-04-30",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q455421",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "379": {
+    "id": 379,
+    "order": "309.00000000000000000000",
+    "name": "Nadeau, Maurice",
+    "amp_id": "amp_person_379",
+    "gnd": "https://d-nb.info/gnd/118996290",
+    "birth_year": "1911",
+    "birth_place": [],
+    "birth_day": "1911-05-21",
+    "death_year": "2013",
+    "death_place": [],
+    "death_day": "2013-06-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q974324",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "380": {
+    "id": 380,
+    "order": "310.00000000000000000000",
+    "name": "Pinget, Robert",
+    "amp_id": "amp_person_380",
+    "gnd": "https://d-nb.info/gnd/118594443",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-07-19",
+    "death_year": "1997",
+    "death_place": [],
+    "death_day": "1997-08-25",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q123389",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "381": {
+    "id": 381,
+    "order": "311.00000000000000000000",
+    "name": "Ionesco, Eugène",
+    "amp_id": "amp_person_381",
+    "gnd": "https://d-nb.info/gnd/118555707",
+    "birth_year": "1909",
+    "birth_place": [],
+    "birth_day": "1909-11-16",
+    "death_year": "1994",
+    "death_place": [],
+    "death_day": "1994-03-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q46706",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "382": {
+    "id": 382,
+    "order": "312.00000000000000000000",
+    "name": "Kermode, Frank",
+    "amp_id": "amp_person_382",
+    "gnd": "https://d-nb.info/gnd/119014440",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-11-29",
+    "death_year": "2010",
+    "death_place": [],
+    "death_day": "2010-08-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1443556",
+    "Title": [
+      {
+        "id": 6731,
+        "value": "Sir",
+        "color": "light-red"
+      },
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "383": {
+    "id": 383,
+    "order": "313.00000000000000000000",
+    "name": "Hauser, Arnold",
+    "amp_id": "amp_person_383",
+    "gnd": "https://d-nb.info/gnd/118547011",
+    "birth_year": "1892",
+    "birth_place": [],
+    "birth_day": "1892-05-08",
+    "death_year": "1978",
+    "death_place": [],
+    "death_day": "1978-01-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q365852",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "384": {
+    "id": 384,
+    "order": "314.00000000000000000000",
+    "name": "Jacobson, Dan",
+    "amp_id": "amp_person_384",
+    "gnd": "https://d-nb.info/gnd/121260534",
+    "birth_year": "1929",
+    "birth_place": [],
+    "birth_day": "1929-03-07",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-06-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q4388838",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "385": {
+    "id": 385,
+    "order": "315.00000000000000000000",
+    "name": "Murdoch, Iris",
+    "amp_id": "amp_person_385",
+    "gnd": "https://d-nb.info/gnd/118585835",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-07-15",
+    "death_year": "1999",
+    "death_place": [],
+    "death_day": "1999-02-08",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q217495",
+    "Title": [
+      {
+        "id": 23186,
+        "value": "Dame",
+        "color": "dark-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "386": {
+    "id": 386,
+    "order": "316.00000000000000000000",
+    "name": "Kee, Robert",
+    "amp_id": "amp_person_386",
+    "gnd": "https://d-nb.info/gnd/139002448",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-10-05",
+    "death_year": "2013",
+    "death_place": [],
+    "death_day": "2013-01-11",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q3406291",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "387": {
+    "id": 387,
+    "order": "317.00000000000000000000",
+    "name": "Bellow, Saul",
+    "amp_id": "amp_person_387",
+    "gnd": "https://d-nb.info/gnd/118508725",
+    "birth_year": "1915",
+    "birth_place": [],
+    "birth_day": "1915-06-10",
+    "death_year": "2005",
+    "death_place": [],
+    "death_day": "2005-04-05",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q83059",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "388": {
+    "id": 388,
+    "order": "318.00000000000000000000",
+    "name": "Nabokov, Vladimir",
+    "amp_id": "amp_person_388",
+    "gnd": "https://d-nb.info/gnd/1129892549",
+    "birth_year": "1899",
+    "birth_place": [],
+    "birth_day": "1899-04-22",
+    "death_year": "1977",
+    "death_place": [],
+    "death_day": "1977-07-02",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q36591",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "389": {
+    "id": 389,
+    "order": "319.00000000000000000000",
+    "name": "Wilson, Edmund",
+    "amp_id": "amp_person_389",
+    "gnd": "https://d-nb.info/gnd/118633481",
+    "birth_year": "1895",
+    "birth_place": [],
+    "birth_day": "1895-05-08",
+    "death_year": "1972",
+    "death_place": [],
+    "death_day": "1972-06-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q704931",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "390": {
+    "id": 390,
+    "order": "320.00000000000000000000",
+    "name": "",
+    "amp_id": "amp_person_390",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,

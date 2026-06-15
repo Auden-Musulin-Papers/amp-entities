@@ -1616,6 +1616,52 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21745455</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_235">
+                  <orgName>Finanzamt St. Pölten (Local Tax Office St. Pölten)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_9">St. Pölten</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.2, 15.63333</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_236">
+                  <orgName>Dagens Nyheter</orgName>
+                  <desc>Was founded in year <date from-iso="1864-01-01">1864</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_344">Stockholm</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>59.32938, 18.06871</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1126918</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_237">
+                  <orgName>Luchterhand</orgName>
+                  <desc>Was founded in year <date from-iso="1924-01-01">1924</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_502">Neuwied</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1564874</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_238">
+                  <orgName>Neue Zürcher Zeitung</orgName>
+                  <desc>Was founded in year <date from-iso="1780-01-01">1780</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_503">Zurich</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q658945</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

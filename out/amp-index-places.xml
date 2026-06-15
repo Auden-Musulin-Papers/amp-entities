@@ -5931,7 +5931,83 @@ for any purpose, even commercially.</p>
                   <note/>
                </place>
                <place xml:id="amp_place_id_464">
-                  <placeName/>
+                  <placeName>Sandl</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_10">Austria</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2766784/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q669284</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4336894-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_497">
+                  <placeName>Zagreb</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3186886/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1435</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4108914-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_498">
+                  <placeName>Walldorf</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/3272460/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q13487088</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4108702-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_499">
+                  <placeName>Boulogne-Billancourt</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_83">France</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6451962/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q172455</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4080491-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_500">
+                  <placeName>Belgrade</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/792680/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3711</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4005411-1</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_501">
+                  <placeName>Chepstow</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2653256/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q771986</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4090357-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_502">
+                  <placeName>Neuwied</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_20">Federal Republic of Germany</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6557317/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3967</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4041991-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_503">
+                  <placeName>Zurich</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_97">Switzerland</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2657896/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q72</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4068038-1</idno>
                   <note/>
                </place>
             </listPlace>

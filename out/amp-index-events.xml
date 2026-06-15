@@ -611,6 +611,45 @@ for any purpose, even commercially.</p>
                      <person sameAs="amp_person_354" role="is_speaker_in">
                         <persName>Espiau de la Maëstre, André</persName>
                      </person>
+                     <person sameAs="amp_person_54" role="is_speaker_in">
+                        <persName>Heer, Friedrich</persName>
+                     </person>
+                     <person sameAs="amp_person_360" role="is_speaker_in">
+                        <persName>Höllerer, Walter</persName>
+                     </person>
+                     <person sameAs="amp_person_361" role="is_speaker_in">
+                        <persName>Ladan, Tomislav</persName>
+                     </person>
+                     <person sameAs="amp_person_362" role="is_speaker_in">
+                        <persName>Lagercrantz, Olof</persName>
+                     </person>
+                     <person sameAs="amp_person_363" role="is_speaker_in">
+                        <persName>Marteau, Robert</persName>
+                     </person>
+                     <person sameAs="amp_person_364" role="is_speaker_in">
+                        <persName>Mészöly, Miklós</persName>
+                     </person>
+                     <person sameAs="amp_person_365" role="is_speaker_in">
+                        <persName>Örkény, István</persName>
+                     </person>
+                     <person sameAs="amp_person_366" role="is_speaker_in">
+                        <persName>Pavlović, Miodrag</persName>
+                     </person>
+                     <person sameAs="amp_person_367" role="is_speaker_in">
+                        <persName>Pilinszky, János</persName>
+                     </person>
+                     <person sameAs="amp_person_245" role="is_speaker_in">
+                        <persName>Zatonsky, Dmitry</persName>
+                     </person>
+                     <person sameAs="amp_person_368" role="is_speaker_in">
+                        <persName>Simon, Claude</persName>
+                     </person>
+                     <person sameAs="amp_person_370" role="is_speaker_in">
+                        <persName>Walter, Otto Friedrich</persName>
+                     </person>
+                     <person sameAs="amp_person_372" role="is_speaker_in">
+                        <persName>Wirpsza, Witold</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_85" type="location" subtype="is_event_location">
@@ -773,6 +812,9 @@ for any purpose, even commercially.</p>
                   </org>
                   <org sameAs="amp_organization_164" role="is_activeparticipant_in">
                      <orgName>Bundeskanzleramt (Federal Chancellery)</orgName>
+                  </org>
+                  <org sameAs="amp_organization_235" role="is_activeparticipant_in">
+                     <orgName>Finanzamt St. Pölten (Local Tax Office St. Pölten)</orgName>
                   </org>
                   <listPerson>
                      <person sameAs="amp_person_282" role="is_activeparticipant_in">
@@ -2056,6 +2098,15 @@ for any purpose, even commercially.</p>
                         </location>
                      </place>
                   </listPlace>
+               </event>
+               <event xml:id="amp_event_id_154">
+                  <label/>
+               </event>
+               <event xml:id="amp_event_id_155">
+                  <label/>
+               </event>
+               <event xml:id="amp_event_id_156">
+                  <label/>
                </event>
             </listEvent>
          </div>

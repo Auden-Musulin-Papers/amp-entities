@@ -7026,5 +7026,1013 @@
         "order": "13.00000000000000000000"
       }
     ]
+  },
+  "346": {
+    "id": 346,
+    "order": "275.00000000000000000000",
+    "amp_id": "relationship_person_id__346",
+    "source": [
+      {
+        "id": 354,
+        "value": "Espiau de la Maëstre, André",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "order": "276.00000000000000000000",
+    "amp_id": "relationship_person_id__347",
+    "source": [
+      {
+        "id": 74,
+        "value": "Etkind, Efim",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "order": "277.00000000000000000000",
+    "amp_id": "relationship_person_id__348",
+    "source": [
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "order": "278.00000000000000000000",
+    "amp_id": "relationship_person_id__349",
+    "source": [
+      {
+        "id": 356,
+        "value": "Gorjan, Zlatko",
+        "order": "287.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "order": "279.00000000000000000000",
+    "amp_id": "relationship_person_id__350",
+    "source": [
+      {
+        "id": 359,
+        "value": "Härtling, Peter",
+        "order": "289.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "order": "280.00000000000000000000",
+    "amp_id": "relationship_person_id__351",
+    "source": [
+      {
+        "id": 54,
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "order": "281.00000000000000000000",
+    "amp_id": "relationship_person_id__352",
+    "source": [
+      {
+        "id": 360,
+        "value": "Höllerer, Walter",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "353": {
+    "id": 353,
+    "order": "282.00000000000000000000",
+    "amp_id": "relationship_person_id__353",
+    "source": [
+      {
+        "id": 361,
+        "value": "Ladan, Tomislav",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "order": "283.00000000000000000000",
+    "amp_id": "relationship_person_id__354",
+    "source": [
+      {
+        "id": 362,
+        "value": "Lagercrantz, Olof",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "355": {
+    "id": 355,
+    "order": "284.00000000000000000000",
+    "amp_id": "relationship_person_id__355",
+    "source": [
+      {
+        "id": 363,
+        "value": "Marteau, Robert",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "356": {
+    "id": 356,
+    "order": "285.00000000000000000000",
+    "amp_id": "relationship_person_id__356",
+    "source": [
+      {
+        "id": 364,
+        "value": "Mészöly, Miklós",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "order": "286.00000000000000000000",
+    "amp_id": "relationship_person_id__357",
+    "source": [
+      {
+        "id": 365,
+        "value": "Örkény, István",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "287.00000000000000000000",
+    "amp_id": "relationship_person_id__358",
+    "source": [
+      {
+        "id": 366,
+        "value": "Pavlović, Miodrag",
+        "order": "296.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "order": "288.00000000000000000000",
+    "amp_id": "relationship_person_id__359",
+    "source": [
+      {
+        "id": 367,
+        "value": "Pilinszky, János",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "289.00000000000000000000",
+    "amp_id": "relationship_person_id__360",
+    "source": [
+      {
+        "id": 245,
+        "value": "Zatonsky, Dmitry",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "290.00000000000000000000",
+    "amp_id": "relationship_person_id__361",
+    "source": [
+      {
+        "id": 368,
+        "value": "Simon, Claude",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "362": {
+    "id": 362,
+    "order": "291.00000000000000000000",
+    "amp_id": "relationship_person_id__362",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 368,
+        "value": "Simon, Claude",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "363": {
+    "id": 363,
+    "order": "292.00000000000000000000",
+    "amp_id": "relationship_person_id__363",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 245,
+        "value": "Zatonsky, Dmitry",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "364": {
+    "id": 364,
+    "order": "293.00000000000000000000",
+    "amp_id": "relationship_person_id__364",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 367,
+        "value": "Pilinszky, János",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "365": {
+    "id": 365,
+    "order": "294.00000000000000000000",
+    "amp_id": "relationship_person_id__365",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 366,
+        "value": "Pavlović, Miodrag",
+        "order": "296.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "366": {
+    "id": 366,
+    "order": "295.00000000000000000000",
+    "amp_id": "relationship_person_id__366",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 365,
+        "value": "Örkény, István",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "367": {
+    "id": 367,
+    "order": "296.00000000000000000000",
+    "amp_id": "relationship_person_id__367",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 364,
+        "value": "Mészöly, Miklós",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "368": {
+    "id": 368,
+    "order": "297.00000000000000000000",
+    "amp_id": "relationship_person_id__368",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 363,
+        "value": "Marteau, Robert",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "369": {
+    "id": 369,
+    "order": "298.00000000000000000000",
+    "amp_id": "relationship_person_id__369",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 362,
+        "value": "Lagercrantz, Olof",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "370": {
+    "id": 370,
+    "order": "299.00000000000000000000",
+    "amp_id": "relationship_person_id__370",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 361,
+        "value": "Ladan, Tomislav",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "371": {
+    "id": 371,
+    "order": "300.00000000000000000000",
+    "amp_id": "relationship_person_id__371",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 360,
+        "value": "Höllerer, Walter",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "372": {
+    "id": 372,
+    "order": "301.00000000000000000000",
+    "amp_id": "relationship_person_id__372",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 54,
+        "value": "Heer, Friedrich",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "373": {
+    "id": 373,
+    "order": "302.00000000000000000000",
+    "amp_id": "relationship_person_id__373",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 359,
+        "value": "Härtling, Peter",
+        "order": "289.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "order": "303.00000000000000000000",
+    "amp_id": "relationship_person_id__374",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 356,
+        "value": "Gorjan, Zlatko",
+        "order": "287.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "375": {
+    "id": 375,
+    "order": "304.00000000000000000000",
+    "amp_id": "relationship_person_id__375",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 355,
+        "value": "Eisenreich, Herbert",
+        "order": "286.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "376": {
+    "id": 376,
+    "order": "305.00000000000000000000",
+    "amp_id": "relationship_person_id__376",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 74,
+        "value": "Etkind, Efim",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "377": {
+    "id": 377,
+    "order": "306.00000000000000000000",
+    "amp_id": "relationship_person_id__377",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 354,
+        "value": "Espiau de la Maëstre, André",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "378": {
+    "id": 378,
+    "order": "307.00000000000000000000",
+    "amp_id": "relationship_person_id__378",
+    "source": [
+      {
+        "id": 370,
+        "value": "Walter, Otto Friedrich",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "379": {
+    "id": 379,
+    "order": "308.00000000000000000000",
+    "amp_id": "relationship_person_id__379",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 370,
+        "value": "Walter, Otto Friedrich",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "380": {
+    "id": 380,
+    "order": "309.00000000000000000000",
+    "amp_id": "relationship_person_id__380",
+    "source": [
+      {
+        "id": 372,
+        "value": "Wirpsza, Witold",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  "381": {
+    "id": 381,
+    "order": "310.00000000000000000000",
+    "amp_id": "relationship_person_id__381",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 372,
+        "value": "Wirpsza, Witold",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 22,
+        "value": "is_coparticipant_of",
+        "order": "22.00000000000000000000"
+      }
+    ]
   }
 }
