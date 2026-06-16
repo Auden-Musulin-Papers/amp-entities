@@ -1963,5 +1963,145 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "103": {
+    "id": 103,
+    "order": "71.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__103",
+    "source": [
+      {
+        "id": 419,
+        "value": "Novomeský, Laco",
+        "order": "349.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 504,
+        "value": "Bratislava",
+        "order": "436.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "104": {
+    "id": 104,
+    "order": "72.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__104",
+    "source": [
+      {
+        "id": 423,
+        "value": "Löbl, Eugen",
+        "order": "353.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 504,
+        "value": "Bratislava",
+        "order": "436.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "105": {
+    "id": 105,
+    "order": "73.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__105",
+    "source": [
+      {
+        "id": 422,
+        "value": "Patočka, Jan",
+        "order": "352.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 154,
+        "value": "Prague",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "106": {
+    "id": 106,
+    "order": "74.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__106",
+    "source": [
+      {
+        "id": 412,
+        "value": "Kołakowski, Leszek",
+        "order": "342.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 422,
+        "value": "Warsaw",
+        "order": "419.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "107": {
+    "id": 107,
+    "order": "75.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__107",
+    "source": [
+      {
+        "id": 384,
+        "value": "Jacobson, Dan",
+        "order": "314.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

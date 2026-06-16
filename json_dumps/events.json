@@ -1169,7 +1169,7 @@
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "name": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+    "name": "Round table conference \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
     "amp_id": "amp_event_id_31",
     "place_of_event": [
       {
@@ -5198,15 +5198,21 @@
   "154": {
     "id": 154,
     "order": "122.00000000000000000000",
-    "name": "",
+    "name": "Round table conference \"Theater der Gegenwart - Gegenwart des Theaters\" 1965-03-22--1967-03-24",
     "amp_id": "amp_event_id_154",
     "place_of_event": [],
-    "has_type": [],
-    "start_date": null,
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1965-03-22",
     "wikidata": "",
     "person_event": [],
     "Comments": "",
-    "end_date": null,
+    "end_date": "1965-03-24",
     "evidence": null,
     "has_sub_type": null,
     "status": null,

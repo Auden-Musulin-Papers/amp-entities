@@ -8034,5 +8034,61 @@
         "order": "22.00000000000000000000"
       }
     ]
+  },
+  "382": {
+    "id": 382,
+    "order": "311.00000000000000000000",
+    "amp_id": "relationship_person_id__382",
+    "source": [
+      {
+        "id": 426,
+        "value": "Horodincă, Georgeta",
+        "order": "356.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 425,
+        "value": "Tertulian, Nicolas",
+        "order": "355.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
+  },
+  "383": {
+    "id": 383,
+    "order": "312.00000000000000000000",
+    "amp_id": "relationship_person_id__383",
+    "source": [
+      {
+        "id": 425,
+        "value": "Tertulian, Nicolas",
+        "order": "355.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 426,
+        "value": "Horodincă, Georgeta",
+        "order": "356.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
   }
 }

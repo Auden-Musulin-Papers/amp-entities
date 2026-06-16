@@ -4075,5 +4075,33 @@
     ],
     "gnd": "https://d-nb.info/gnd/16045397-5",
     "URL": ""
+  },
+  "239": {
+    "id": 239,
+    "order": "156.00000000000000000000",
+    "name": "Secker & Warburg",
+    "wikidata": "https://www.wikidata.org/entity/Q2263748",
+    "amp_id": "amp_organization_239",
+    "founded_in_year": "1935",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 74,
+        "value": "person_org__74",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/4210849-4",
+    "URL": ""
   }
 }

@@ -3988,6 +3988,11 @@
         "id": 112,
         "value": "Larkin Bros. Ltd.",
         "order": "108.00000000000000000000"
+      },
+      {
+        "id": 239,
+        "value": "Secker & Warburg",
+        "order": "156.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -4036,7 +4041,13 @@
     ],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 107,
+        "value": "relationship_place_id__107",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "57": {
@@ -5221,7 +5232,7 @@
       },
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "value": "Round table conference \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
         "order": "31.00000000000000000000"
       },
       {
@@ -5405,7 +5416,7 @@
     "events": [
       {
         "id": 31,
-        "value": "Round table \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "value": "Round table conference \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
         "order": "31.00000000000000000000"
       }
     ],
@@ -7851,7 +7862,13 @@
     "events": [],
     "alternative_link": null,
     "same_as": [],
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 105,
+        "value": "relationship_place_id__105",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "updated_geonames": true
   },
   "155": {
@@ -18440,6 +18457,11 @@
         "id": 102,
         "value": "relationship_place_id__102",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "relationship_place_id__106",
+        "order": "74.00000000000000000000"
       }
     ],
     "updated_geonames": false
@@ -19098,6 +19120,56 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "504": {
+    "id": 504,
+    "order": "436.00000000000000000000",
+    "name": "Bratislava",
+    "amp_id": "amp_place_id_504",
+    "geonames_id": "https://sws.geonames.org/3060972",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1780",
+    "gnd": "https://d-nb.info/gnd/1063318696",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 103,
+        "value": "relationship_place_id__103",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "relationship_place_id__104",
+        "order": "72.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   }
 }

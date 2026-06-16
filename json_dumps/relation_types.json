@@ -765,6 +765,16 @@
         "id": 243,
         "value": "relationship_person_id__243",
         "order": "239.00000000000000000000"
+      },
+      {
+        "id": 382,
+        "value": "relationship_person_id__382",
+        "order": "311.00000000000000000000"
+      },
+      {
+        "id": 383,
+        "value": "relationship_person_id__383",
+        "order": "312.00000000000000000000"
       }
     ]
   },
@@ -2993,6 +3003,11 @@
         "id": 503,
         "value": "Zurich",
         "order": "435.00000000000000000000"
+      },
+      {
+        "id": 504,
+        "value": "Bratislava",
+        "order": "436.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3234,6 +3249,11 @@
         "id": 71,
         "value": "person_org__71",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "person_org__74",
+        "order": "42.00000000000000000000"
       }
     ],
     "person_person": [
@@ -4103,6 +4123,31 @@
         "id": 102,
         "value": "relationship_place_id__102",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "relationship_place_id__103",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "relationship_place_id__104",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "relationship_place_id__105",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "relationship_place_id__106",
+        "order": "74.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "relationship_place_id__107",
+        "order": "75.00000000000000000000"
       }
     ],
     "person_event": [],

@@ -1146,5 +1146,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "74": {
+    "id": 74,
+    "order": "42.00000000000000000000",
+    "person_org": "person_org__74",
+    "source": [
+      {
+        "id": 386,
+        "value": "Kee, Robert",
+        "order": "316.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 239,
+        "value": "Secker & Warburg",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
