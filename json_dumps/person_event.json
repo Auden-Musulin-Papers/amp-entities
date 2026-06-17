@@ -6552,5 +6552,31 @@
         "order": "29.00000000000000000000"
       }
     ]
+  },
+  "428": {
+    "id": 428,
+    "order": "303.00000000000000000000",
+    "amp_id": "person_event__428",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 46,
+        "value": "Awarding of Austrian State Prize for European Literature to W. H. Auden 1966-10-25",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }
