@@ -1339,7 +1339,13 @@
     "evidence": null,
     "has_sub_type": null,
     "status": null,
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 65,
+        "value": "org_event__65",
+        "order": "33.00000000000000000000"
+      }
+    ],
     "part_of": []
   },
   "32": {
@@ -5198,14 +5204,25 @@
   "154": {
     "id": 154,
     "order": "122.00000000000000000000",
-    "name": "Round table conference \"Theater der Gegenwart - Gegenwart des Theaters\" 1965-03-22--1967-03-24",
+    "name": "Round table conference \"Theater der Gegenwart - Gegenwart des Theaters\" 1965-03-22--1965-03-24",
     "amp_id": "amp_event_id_154",
-    "place_of_event": [],
+    "place_of_event": [
+      {
+        "id": 85,
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Hofburg",
+        "order": "89.00000000000000000000"
+      }
+    ],
     "has_type": [
       {
-        "id": 6734,
-        "value": "professional",
-        "color": "dark-red"
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
       }
     ],
     "start_date": "1965-03-22",
@@ -5215,33 +5232,94 @@
     "end_date": "1965-03-24",
     "evidence": null,
     "has_sub_type": null,
-    "status": null,
-    "org_event": [],
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "light-red"
+    },
+    "org_event": [
+      {
+        "id": 64,
+        "value": "org_event__64",
+        "order": "32.00000000000000000000"
+      }
+    ],
     "part_of": []
   },
   "155": {
     "id": 155,
     "order": "123.00000000000000000000",
-    "name": "",
+    "name": "Round table conference \"Unser Jahrhundert und sein Roman\" 1965-10-25--1965-10-27",
     "amp_id": "amp_event_id_155",
-    "place_of_event": [],
-    "has_type": [],
-    "start_date": null,
+    "place_of_event": [
+      {
+        "id": 85,
+        "value": "Palais Pálffy",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Hofburg",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1965-10-25",
     "wikidata": "",
     "person_event": [],
     "Comments": "",
-    "end_date": null,
+    "end_date": "1965-10-27",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "light-red"
+    },
+    "org_event": [
+      {
+        "id": 66,
+        "value": "org_event__66",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "part_of": []
+  },
+  "156": {
+    "id": 156,
+    "order": "124.00000000000000000000",
+    "name": "60th Birthday W.H.Auden 1967-02-21",
+    "amp_id": "amp_event_id_156",
+    "place_of_event": [],
+    "has_type": [
+      {
+        "id": 6722,
+        "value": "personal",
+        "color": "light-green"
+      }
+    ],
+    "start_date": "1967-02-21",
+    "wikidata": "",
+    "person_event": [],
+    "Comments": "",
+    "end_date": "1967-02-21",
     "evidence": null,
     "has_sub_type": null,
     "status": null,
     "org_event": [],
     "part_of": []
   },
-  "156": {
-    "id": 156,
-    "order": "124.00000000000000000000",
+  "189": {
+    "id": 189,
+    "order": "125.00000000000000000000",
     "name": "",
-    "amp_id": "amp_event_id_156",
+    "amp_id": "amp_event_id_189",
     "place_of_event": [],
     "has_type": [],
     "start_date": null,

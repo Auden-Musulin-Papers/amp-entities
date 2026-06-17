@@ -798,5 +798,83 @@
         "order": "45.00000000000000000000"
       }
     ]
+  },
+  "64": {
+    "id": 64,
+    "order": "32.00000000000000000000",
+    "org_event": "org_event__64",
+    "source": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 154,
+        "value": "Round table conference \"Theater der Gegenwart - Gegenwart des Theaters\" 1965-03-22--1965-03-24",
+        "order": "122.00000000000000000000"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "33.00000000000000000000",
+    "org_event": "org_event__65",
+    "source": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 31,
+        "value": "Round table conference \"Literatur als Tradition und Revolution\" 1967-04-24--1967-04-26",
+        "order": "31.00000000000000000000"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "34.00000000000000000000",
+    "org_event": "org_event__66",
+    "source": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 155,
+        "value": "Round table conference \"Unser Jahrhundert und sein Roman\" 1965-10-25--1965-10-27",
+        "order": "123.00000000000000000000"
+      }
+    ]
   }
 }
