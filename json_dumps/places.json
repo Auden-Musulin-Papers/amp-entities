@@ -19191,5 +19191,266 @@
       }
     ],
     "updated_geonames": false
+  },
+  "505": {
+    "id": 505,
+    "order": "437.00000000000000000000",
+    "name": "Soviet Union",
+    "amp_id": "amp_place_id_505",
+    "geonames_id": "https://sws.geonames.org/8354411",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [],
+    "relation_types": [],
+    "wikidata": "https://www.wikidata.org/entity/Q15180",
+    "gnd": "https://d-nb.info/gnd/4077548-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "506": {
+    "id": 506,
+    "order": "438.00000000000000000000",
+    "name": "Polish People's Republic",
+    "amp_id": "amp_place_id_506",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q211274",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "507": {
+    "id": 507,
+    "order": "439.00000000000000000000",
+    "name": "German Democratic Republic",
+    "amp_id": "amp_place_id_507",
+    "geonames_id": "https://sws.geonames.org/8354410",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q16957",
+    "gnd": "https://d-nb.info/gnd/4011890-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "508": {
+    "id": 508,
+    "order": "440.00000000000000000000",
+    "name": "Hungarian People's Republic",
+    "amp_id": "amp_place_id_508",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q16410",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "509": {
+    "id": 509,
+    "order": "441.00000000000000000000",
+    "name": "Socialist Republic of Romania",
+    "amp_id": "amp_place_id_509",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q842794",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "510": {
+    "id": 510,
+    "order": "442.00000000000000000000",
+    "name": "People's Republic of Bulgaria",
+    "amp_id": "amp_place_id_510",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q121932",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "511": {
+    "id": 511,
+    "order": "443.00000000000000000000",
+    "name": "Yugoslavia",
+    "amp_id": "amp_place_id_511",
+    "geonames_id": "https://sws.geonames.org/7500737",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q36704",
+    "gnd": "https://d-nb.info/gnd/4028966-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }

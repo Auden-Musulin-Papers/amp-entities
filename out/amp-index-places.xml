@@ -6020,6 +6020,65 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1063318696</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_505">
+                  <placeName>Soviet Union</placeName>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8354411/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q15180</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4077548-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_506">
+                  <placeName>Polish People's Republic</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q211274</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_507">
+                  <placeName>German Democratic Republic</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/8354410/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q16957</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4011890-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_508">
+                  <placeName>Hungarian People's Republic</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q16410</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_509">
+                  <placeName>Socialist Republic of Romania</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q842794</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_510">
+                  <placeName>People's Republic of Bulgaria</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q121932</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_511">
+                  <placeName>Yugoslavia</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_30">Europe</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/7500737/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q36704</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4028966-7</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
