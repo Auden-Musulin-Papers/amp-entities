@@ -661,12 +661,6 @@ for any purpose, even commercially.</p>
                            <geo>48.20644, 16.3678</geo>
                         </location>
                      </place>
-                     <place sameAs="amp_place_id_89" type="location" subtype="is_event_location">
-                        <placeName>Hofburg</placeName>
-                        <location type="coords">
-                           <geo>48.20563, 16.36469</geo>
-                        </location>
-                     </place>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_32" notBefore-iso="1968-07-25" notAfter-iso="1968-07-25" type="professional">
@@ -2117,12 +2111,6 @@ for any purpose, even commercially.</p>
                            <geo>48.20644, 16.3678</geo>
                         </location>
                      </place>
-                     <place sameAs="amp_place_id_89" type="location" subtype="is_event_location">
-                        <placeName>Hofburg</placeName>
-                        <location type="coords">
-                           <geo>48.20563, 16.36469</geo>
-                        </location>
-                     </place>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_155" notBefore-iso="1965-10-25" notAfter-iso="1965-10-27" type="historic">
@@ -2135,12 +2123,6 @@ for any purpose, even commercially.</p>
                         <placeName>Palais Pálffy</placeName>
                         <location type="coords">
                            <geo>48.20644, 16.3678</geo>
-                        </location>
-                     </place>
-                     <place sameAs="amp_place_id_89" type="location" subtype="is_event_location">
-                        <placeName>Hofburg</placeName>
-                        <location type="coords">
-                           <geo>48.20563, 16.36469</geo>
                         </location>
                      </place>
                   </listPlace>
