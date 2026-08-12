@@ -8090,5 +8090,61 @@
         "order": "11.00000000000000000000"
       }
     ]
+  },
+  "384": {
+    "id": 384,
+    "order": "313.00000000000000000000",
+    "amp_id": "relationship_person_id__384",
+    "source": [
+      {
+        "id": 432,
+        "value": "Birk, Walter",
+        "order": "362.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "385": {
+    "id": 385,
+    "order": "314.00000000000000000000",
+    "amp_id": "relationship_person_id__385",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 432,
+        "value": "Birk, Walter",
+        "order": "362.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
   }
 }

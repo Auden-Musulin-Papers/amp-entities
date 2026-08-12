@@ -2103,5 +2103,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "108": {
+    "id": 108,
+    "order": "76.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__108",
+    "source": [
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 514,
+        "value": "Thaliastraße 149/7",
+        "order": "446.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

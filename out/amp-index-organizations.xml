@@ -1546,6 +1546,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_513">Neudeggergasse 8</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16216380</idno>
                   <note/>
                </org>
@@ -1672,6 +1675,17 @@ for any purpose, even commercially.</p>
                      <geo>51.50853, -0.12574</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2263748</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_240">
+                  <orgName>Wiener Stadt- und Landesbibliothek (Vienna City and State Library)</orgName>
+                  <desc>Was founded in year <date from-iso="1976-01-01">1976</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
                   <note/>
                </org>
             </listOrg>

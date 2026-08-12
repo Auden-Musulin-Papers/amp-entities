@@ -3798,6 +3798,11 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 513,
+        "value": "Neudeggergasse 8",
+        "order": "445.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -4117,6 +4122,28 @@
       }
     ],
     "gnd": "https://d-nb.info/gnd/4210849-4",
+    "URL": ""
+  },
+  "240": {
+    "id": 240,
+    "order": "157.00000000000000000000",
+    "name": "Wiener Stadt- und Landesbibliothek (Vienna City and State Library)",
+    "wikidata": "",
+    "amp_id": "amp_organization_240",
+    "founded_in_year": "1976",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2045260-3",
     "URL": ""
   }
 }

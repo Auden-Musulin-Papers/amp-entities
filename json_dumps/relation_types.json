@@ -161,7 +161,8 @@
         "value": "relationship_person_id__255",
         "order": "249.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "2": {
     "id": 2,
@@ -178,7 +179,8 @@
     "has_label": "is related to",
     "has_label_inverse": "is related to",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "3": {
     "id": 3,
@@ -342,7 +344,8 @@
         "value": "relationship_person_id__251",
         "order": "245.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "4": {
     "id": 4,
@@ -371,7 +374,8 @@
         "value": "relationship_person_id__63",
         "order": "63.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "5": {
     "id": 5,
@@ -400,7 +404,8 @@
         "value": "relationship_person_id__55",
         "order": "55.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "6": {
     "id": 6,
@@ -499,7 +504,8 @@
         "value": "relationship_person_id__247",
         "order": "243.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "7": {
     "id": 7,
@@ -528,7 +534,8 @@
         "value": "relationship_person_id__32",
         "order": "32.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "8": {
     "id": 8,
@@ -551,7 +558,8 @@
     "has_label": "was written by",
     "has_label_inverse": "wrote",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "9": {
     "id": 9,
@@ -568,7 +576,8 @@
     "has_label": "was produced by",
     "has_label_inverse": "produced",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "10": {
     "id": 10,
@@ -612,7 +621,8 @@
         "value": "relationship_person_id__22",
         "order": "22.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "11": {
     "id": 11,
@@ -776,7 +786,8 @@
         "value": "relationship_person_id__383",
         "order": "312.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "13": {
     "id": 13,
@@ -980,7 +991,8 @@
         "value": "relationship_person_id__313",
         "order": "274.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "14": {
     "id": 14,
@@ -1149,7 +1161,8 @@
         "value": "relationship_person_id__273",
         "order": "266.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "15": {
     "id": 15,
@@ -1172,7 +1185,8 @@
     "has_label": "stays with",
     "has_label_inverse": "stays with",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "16": {
     "id": 16,
@@ -3043,6 +3057,16 @@
         "id": 512,
         "value": "Turin",
         "order": "444.00000000000000000000"
+      },
+      {
+        "id": 513,
+        "value": "Neudeggergasse 8",
+        "order": "445.00000000000000000000"
+      },
+      {
+        "id": 514,
+        "value": "Thaliastraße 149/7",
+        "order": "446.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3051,7 +3075,8 @@
     "has_label": "is part of",
     "has_label_inverse": "has part",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "17": {
     "id": 17,
@@ -3074,7 +3099,8 @@
     "has_label": "parcipates in",
     "has_label_inverse": "has participants",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "18": {
     "id": 18,
@@ -3108,7 +3134,8 @@
         "value": "relationship_person_id__3",
         "order": "3.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "19": {
     "id": 19,
@@ -3158,7 +3185,8 @@
         "value": "relationship_person_id__142",
         "order": "142.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "20": {
     "id": 20,
@@ -3258,7 +3286,8 @@
         "value": "relationship_person_id__151",
         "order": "151.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "21": {
     "id": 21,
@@ -3402,7 +3431,8 @@
         "value": "relationship_person_id__311",
         "order": "272.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "22": {
     "id": 22,
@@ -3656,7 +3686,8 @@
         "value": "relationship_person_id__381",
         "order": "310.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "23": {
     "id": 23,
@@ -3710,7 +3741,8 @@
         "value": "relationship_person_id__161",
         "order": "161.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "24": {
     "id": 24,
@@ -3759,7 +3791,8 @@
         "value": "relationship_person_id__267",
         "order": "260.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "25": {
     "id": 25,
@@ -3803,7 +3836,8 @@
         "value": "relationship_person_id__150",
         "order": "150.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "26": {
     "id": 26,
@@ -3851,8 +3885,19 @@
         "id": 149,
         "value": "relationship_person_id__149",
         "order": "149.00000000000000000000"
+      },
+      {
+        "id": 384,
+        "value": "relationship_person_id__384",
+        "order": "313.00000000000000000000"
+      },
+      {
+        "id": 385,
+        "value": "relationship_person_id__385",
+        "order": "314.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "27": {
     "id": 27,
@@ -4183,6 +4228,11 @@
         "id": 107,
         "value": "relationship_place_id__107",
         "order": "75.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "relationship_place_id__108",
+        "order": "76.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -4190,7 +4240,8 @@
     "has_label": "is resident of",
     "has_label_inverse": "is residence of",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "28": {
     "id": 28,
@@ -4844,7 +4895,8 @@
     "has_label": "is active participant in",
     "has_label_inverse": "has active participant",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "29": {
     "id": 29,
@@ -5108,7 +5160,8 @@
     "has_label": "is speaker in",
     "has_label_inverse": "has speaker",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "30": {
     "id": 30,
@@ -5336,7 +5389,8 @@
     "has_label": "is passive participant in",
     "has_label_inverse": "has passive participant",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "31": {
     "id": 31,
@@ -5554,7 +5608,8 @@
     "has_label": "is attendee of",
     "has_label_inverse": "has attendee",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "32": {
     "id": 32,
@@ -5571,7 +5626,8 @@
     "has_label": "is listener of",
     "has_label_inverse": "has listener",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "33": {
     "id": 33,
@@ -5706,7 +5762,8 @@
     "has_label": "is organizer of",
     "has_label_inverse": "has organizer",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "34": {
     "id": 34,
@@ -5780,7 +5837,8 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "35": {
     "id": 35,
@@ -5905,7 +5963,8 @@
         "value": "relationship_person_id__162",
         "order": "162.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "36": {
     "id": 36,
@@ -6025,7 +6084,8 @@
         "value": "relationship_person_id__266",
         "order": "259.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "38": {
     "id": 38,
@@ -6054,7 +6114,8 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "39": {
     "id": 39,
@@ -6077,7 +6138,8 @@
     "has_label": "",
     "has_label_inverse": "",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "40": {
     "id": 40,
@@ -6106,7 +6168,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "41": {
     "id": 41,
@@ -6140,7 +6203,8 @@
         "value": "relationship_person_id__221",
         "order": "222.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "42": {
     "id": 42,
@@ -6174,7 +6238,8 @@
         "value": "relationship_person_id__222",
         "order": "223.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "43": {
     "id": 43,
@@ -6213,7 +6278,8 @@
         "value": "relationship_person_id__232",
         "order": "233.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "44": {
     "id": 44,
@@ -6252,7 +6318,8 @@
         "value": "relationship_person_id__231",
         "order": "232.00000000000000000000"
       }
-    ]
+    ],
+    "URI": ""
   },
   "45": {
     "id": 45,
@@ -6311,7 +6378,8 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
   },
   "46": {
     "id": 46,
@@ -6334,6 +6402,36 @@
     "has_label": "",
     "has_label_inverse": "",
     "person_org": [],
-    "person_person": []
+    "person_person": [],
+    "URI": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "46.00000000000000000000",
+    "name": "wd:P1344",
+    "has_broader": [],
+    "inverse": "",
+    "amp_id": "relation_type__47",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [
+      {
+        "id": 461,
+        "value": "person_event__461",
+        "order": "304.00000000000000000000"
+      },
+      {
+        "id": 462,
+        "value": "person_event__462",
+        "order": "305.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [],
+    "URI": "http://www.wikidata.org/entity/P1344"
   }
 }

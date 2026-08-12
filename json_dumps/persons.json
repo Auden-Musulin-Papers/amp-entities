@@ -705,6 +705,11 @@
         "id": 327,
         "value": "Gedenkmal für eine Stadt",
         "order": "255.00000000000000000000"
+      },
+      {
+        "id": 329,
+        "value": "Lines to Dr Walter Birk on His Retiring from General Practice",
+        "order": "257.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1135,6 +1140,11 @@
         "id": 344,
         "value": "person_event__344",
         "order": "282.00000000000000000000"
+      },
+      {
+        "id": 461,
+        "value": "person_event__461",
+        "order": "304.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1569,6 +1579,11 @@
         "id": 381,
         "value": "relationship_person_id__381",
         "order": "310.00000000000000000000"
+      },
+      {
+        "id": 385,
+        "value": "relationship_person_id__385",
+        "order": "314.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -7373,6 +7388,11 @@
         "id": 80,
         "value": "person_event__80",
         "order": "80.00000000000000000000"
+      },
+      {
+        "id": 462,
+        "value": "person_event__462",
+        "order": "305.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -12211,6 +12231,11 @@
         "id": 52,
         "value": "relationship_place_id__52",
         "order": "52.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "relationship_place_id__108",
+        "order": "76.00000000000000000000"
       }
     ],
     "person_org": [
@@ -17492,6 +17517,44 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "432": {
+    "id": 432,
+    "order": "362.00000000000000000000",
+    "name": "Birk, Walter",
+    "amp_id": "amp_person_432",
+    "gnd": "",
+    "birth_year": "1896",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1980",
+    "death_place": [],
+    "death_day": "1980-12-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 384,
+        "value": "relationship_person_id__384",
+        "order": "313.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }

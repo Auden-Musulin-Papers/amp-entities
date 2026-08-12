@@ -481,6 +481,11 @@
         "id": 232,
         "value": "Wort und Wahrheit",
         "order": "149.00000000000000000000"
+      },
+      {
+        "id": 240,
+        "value": "Wiener Stadt- und Landesbibliothek (Vienna City and State Library)",
+        "order": "157.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -555,6 +560,11 @@
         "id": 119,
         "value": "Reading W. H. Auden 1971-05-25",
         "order": "119.00000000000000000000"
+      },
+      {
+        "id": 189,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1961-08-01--1969-07-29",
+        "order": "125.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -19474,6 +19484,96 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "513": {
+    "id": 513,
+    "order": "445.00000000000000000000",
+    "name": "Neudeggergasse 8",
+    "amp_id": "amp_place_id_513",
+    "geonames_id": "https://sws.geonames.org/13512520",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 163,
+        "value": "Kleine Galerie",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "514": {
+    "id": 514,
+    "order": "446.00000000000000000000",
+    "name": "Thaliastraße 149/7",
+    "amp_id": "amp_place_id_514",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 108,
+        "value": "relationship_place_id__108",
+        "order": "76.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   }
 }

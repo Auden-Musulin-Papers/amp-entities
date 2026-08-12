@@ -11177,5 +11177,58 @@
       }
     ],
     "has_external_url": ""
+  },
+  "329": {
+    "id": 329,
+    "order": "257.00000000000000000000",
+    "name": "Lines to Dr Walter Birk on His Retiring from General Practice",
+    "lit_work_id": "lit_work_id_329",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      },
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

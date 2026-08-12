@@ -2130,8 +2130,24 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_156" notBefore-iso="1967-02-21" notAfter-iso="1967-02-21" type="personal">
                   <label>60th Birthday W.H. Auden 1967-02-21</label>
                </event>
-               <event xml:id="amp_event_id_189">
-                  <label/>
+               <event xml:id="amp_event_id_189" notBefore-iso="1961-08-01" notAfter-iso="1969-07-29" type="meeting">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1961-08-01--1969-07-29</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="wd:P1344">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="wd:P1344">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
                </event>
             </listEvent>
          </div>

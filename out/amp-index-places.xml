@@ -6089,6 +6089,21 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4061245-4</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_513">
+                  <placeName>Neudeggergasse 8</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/13512520/</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_514">
+                  <placeName>Thaliastraße 149/7</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
