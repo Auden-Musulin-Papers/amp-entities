@@ -5463,5 +5463,105 @@
     "org_event": [],
     "part_of": [],
     "revised": true
+  },
+  "222": {
+    "id": 222,
+    "order": "126.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1964-09-11",
+    "amp_id": "amp_event_id_222",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1964-09-11",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 463,
+        "value": "person_event__463",
+        "order": "306.00000000000000000000"
+      },
+      {
+        "id": 464,
+        "value": "person_event__464",
+        "order": "307.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-09-11",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "dark-gray"
+    },
+    "has_sub_type": null,
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true
+  },
+  "223": {
+    "id": 223,
+    "order": "127.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1965-05-26",
+    "amp_id": "amp_event_id_223",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1965-05-26",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 465,
+        "value": "person_event__465",
+        "order": "308.00000000000000000000"
+      },
+      {
+        "id": 466,
+        "value": "person_event__466",
+        "order": "309.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-05-26",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "dark-gray"
+    },
+    "has_sub_type": null,
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true
   }
 }

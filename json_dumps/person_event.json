@@ -6630,5 +6630,109 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "463": {
+    "id": 463,
+    "order": "306.00000000000000000000",
+    "amp_id": "person_event__463",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 222,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-09-11",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "464": {
+    "id": 464,
+    "order": "307.00000000000000000000",
+    "amp_id": "person_event__464",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 222,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-09-11",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "465": {
+    "id": 465,
+    "order": "308.00000000000000000000",
+    "amp_id": "person_event__465",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 223,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1965-05-26",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "466": {
+    "id": 466,
+    "order": "309.00000000000000000000",
+    "amp_id": "person_event__466",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 223,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1965-05-26",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }
