@@ -2187,6 +2187,47 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_224" notBefore-iso="1964-10-09" notAfter-iso="1964-10-09" type="meeting">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1964-10-09</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_225" notBefore-iso="1967-05-11" notAfter-iso="1967-05-11" type="meeting">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1967-05-11</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_226">
+                  <label/>
+               </event>
             </listEvent>
          </div>
       </body>

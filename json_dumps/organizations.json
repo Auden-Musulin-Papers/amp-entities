@@ -4178,5 +4178,33 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/2026851-8",
     "URL": ""
+  },
+  "242": {
+    "id": 242,
+    "order": "159.00000000000000000000",
+    "name": "United States Post Office Grand Central Station",
+    "wikidata": "https://www.wikidata.org/entity/Q11290",
+    "amp_id": "amp_organization_242",
+    "founded_in_year": "1913",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 84,
+        "value": "United States Post Office Department",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4440613-7",
+    "URL": ""
   }
 }

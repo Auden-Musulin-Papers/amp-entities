@@ -1699,6 +1699,18 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_242">
+                  <orgName>United States Post Office Grand Central Station</orgName>
+                  <desc>Was founded in year <date from-iso="1913-01-01">1913</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11290</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
