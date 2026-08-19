@@ -6104,6 +6104,21 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_515">
+                  <placeName>Geistingergasse 1</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_516">
+                  <placeName>Bartningallee 11-13</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q56434236</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

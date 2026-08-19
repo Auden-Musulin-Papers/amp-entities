@@ -11230,5 +11230,49 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "330": {
+    "id": 330,
+    "order": "258.00000000000000000000",
+    "name": "The Shield of Achilles",
+    "lit_work_id": "lit_work_id_330",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1955",
+    "type": [
+      {
+        "id": 9985,
+        "value": "collection_of_poems",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 5,
+        "value": "Faber & Faber",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

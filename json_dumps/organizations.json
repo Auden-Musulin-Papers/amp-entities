@@ -166,6 +166,11 @@
         "id": 202,
         "value": "W. H. Auden: Selected Poems",
         "order": "195.00000000000000000000"
+      },
+      {
+        "id": 330,
+        "value": "The Shield of Achilles",
+        "order": "258.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -4142,8 +4147,36 @@
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 75,
+        "value": "person_org__75",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "gnd": "https://d-nb.info/gnd/2045260-3",
+    "URL": ""
+  },
+  "241": {
+    "id": 241,
+    "order": "158.00000000000000000000",
+    "name": "Wiener Stadtbibliothek (Vienna City Library)",
+    "wikidata": "",
+    "amp_id": "amp_organization_241",
+    "founded_in_year": "1856",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2026851-8",
     "URL": ""
   }
 }

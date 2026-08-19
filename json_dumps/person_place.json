@@ -2131,5 +2131,61 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "109": {
+    "id": 109,
+    "order": "77.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__109",
+    "source": [
+      {
+        "id": 433,
+        "value": "Braun, Felix",
+        "order": "363.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 515,
+        "value": "Geistingergasse 1",
+        "order": "447.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "110": {
+    "id": 110,
+    "order": "78.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__110",
+    "source": [
+      {
+        "id": 435,
+        "value": "Ben-Yoets, Elazar",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 516,
+        "value": "Bartningallee 11-13",
+        "order": "448.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

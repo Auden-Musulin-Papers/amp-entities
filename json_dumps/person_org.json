@@ -1174,5 +1174,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "75": {
+    "id": 75,
+    "order": "43.00000000000000000000",
+    "person_org": "person_org__75",
+    "source": [
+      {
+        "id": 436,
+        "value": "Schick, Paul",
+        "order": "366.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 240,
+        "value": "Wiener Stadt- und Landesbibliothek (Vienna City and State Library)",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

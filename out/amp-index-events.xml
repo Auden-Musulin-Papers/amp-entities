@@ -2133,10 +2133,10 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_189" notBefore-iso="1961-08-01" notAfter-iso="1969-07-29" type="meeting">
                   <label>Meeting W. H. Auden and Hugo Kurka 1961-08-01--1969-07-29</label>
                   <listPerson>
-                     <person sameAs="amp_person_1" role="wd:P1344">
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
                      </person>
-                     <person sameAs="amp_person_107" role="wd:P1344">
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
                         <persName>Kurka, Hugo</persName>
                      </person>
                   </listPerson>

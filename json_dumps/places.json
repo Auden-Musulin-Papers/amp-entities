@@ -486,6 +486,11 @@
         "id": 240,
         "value": "Wiener Stadt- und Landesbibliothek (Vienna City and State Library)",
         "order": "157.00000000000000000000"
+      },
+      {
+        "id": 241,
+        "value": "Wiener Stadtbibliothek (Vienna City Library)",
+        "order": "158.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -861,6 +866,11 @@
         "id": 5,
         "value": "Weinheber, Josef",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 432,
+        "value": "Birk, Walter",
+        "order": "362.00000000000000000000"
       }
     ],
     "google_maps_coordinates": null,
@@ -19572,6 +19582,96 @@
         "id": 108,
         "value": "relationship_place_id__108",
         "order": "76.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "515": {
+    "id": 515,
+    "order": "447.00000000000000000000",
+    "name": "Geistingergasse 1",
+    "amp_id": "amp_place_id_515",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 109,
+        "value": "relationship_place_id__109",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "516": {
+    "id": 516,
+    "order": "448.00000000000000000000",
+    "name": "Bartningallee 11-13",
+    "amp_id": "amp_place_id_516",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q56434236",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 110,
+        "value": "relationship_place_id__110",
+        "order": "78.00000000000000000000"
       }
     ],
     "updated_geonames": false

@@ -710,6 +710,11 @@
         "id": 329,
         "value": "Lines to Dr Walter Birk on His Retiring from General Practice",
         "order": "257.00000000000000000000"
+      },
+      {
+        "id": 330,
+        "value": "The Shield of Achilles",
+        "order": "258.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1489,21 +1494,6 @@
         "id": 276,
         "value": "relationship_person_id__276",
         "order": "269.00000000000000000000"
-      },
-      {
-        "id": 362,
-        "value": "relationship_person_id__362",
-        "order": "291.00000000000000000000"
-      },
-      {
-        "id": 363,
-        "value": "relationship_person_id__363",
-        "order": "292.00000000000000000000"
-      },
-      {
-        "id": 364,
-        "value": "relationship_person_id__364",
-        "order": "293.00000000000000000000"
       },
       {
         "id": 365,
@@ -4793,11 +4783,6 @@
         "id": 169,
         "value": "relationship_person_id__169",
         "order": "169.00000000000000000000"
-      },
-      {
-        "id": 351,
-        "value": "relationship_person_id__351",
-        "order": "280.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -13197,13 +13182,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 360,
-        "value": "relationship_person_id__360",
-        "order": "289.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "246": {
@@ -15077,13 +15056,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 350,
-        "value": "relationship_person_id__350",
-        "order": "279.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "360": {
@@ -15127,13 +15100,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 352,
-        "value": "relationship_person_id__352",
-        "order": "281.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "361": {
@@ -15171,13 +15138,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 353,
-        "value": "relationship_person_id__353",
-        "order": "282.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "362": {
@@ -15215,13 +15176,7 @@
         "order": "39.00000000000000000000"
       }
     ],
-    "person_person": [
-      {
-        "id": 354,
-        "value": "relationship_person_id__354",
-        "order": "283.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "363": {
@@ -15259,13 +15214,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 355,
-        "value": "relationship_person_id__355",
-        "order": "284.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "364": {
@@ -15303,13 +15252,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 356,
-        "value": "relationship_person_id__356",
-        "order": "285.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "365": {
@@ -15347,13 +15290,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 357,
-        "value": "relationship_person_id__357",
-        "order": "286.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "366": {
@@ -15397,13 +15334,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 358,
-        "value": "relationship_person_id__358",
-        "order": "287.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "367": {
@@ -15441,13 +15372,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 359,
-        "value": "relationship_person_id__359",
-        "order": "288.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "368": {
@@ -15485,13 +15410,7 @@
       }
     ],
     "person_org": [],
-    "person_person": [
-      {
-        "id": 361,
-        "value": "relationship_person_id__361",
-        "order": "290.00000000000000000000"
-      }
-    ],
+    "person_person": [],
     "PMB": ""
   },
   "369": {
@@ -17525,11 +17444,17 @@
     "name": "Birk, Walter",
     "amp_id": "amp_person_432",
     "gnd": "",
-    "birth_year": "1896",
+    "birth_year": "1895",
     "birth_place": [],
-    "birth_day": null,
+    "birth_day": "1895-12-26",
     "death_year": "1980",
-    "death_place": [],
+    "death_place": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "death_day": "1980-12-16",
     "comment": "",
     "fictional_or_real": null,
@@ -17555,6 +17480,214 @@
         "order": "313.00000000000000000000"
       }
     ],
+    "PMB": ""
+  },
+  "433": {
+    "id": 433,
+    "order": "363.00000000000000000000",
+    "name": "Braun, Felix",
+    "amp_id": "amp_person_433",
+    "gnd": "https://d-nb.info/gnd/118514598",
+    "birth_year": "1885",
+    "birth_place": [],
+    "birth_day": "1885-11-04",
+    "death_year": "1973",
+    "death_place": [],
+    "death_day": "1973-11-29",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q89416",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 109,
+        "value": "relationship_place_id__109",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "434": {
+    "id": 434,
+    "order": "364.00000000000000000000",
+    "name": "Branscombe, Peter",
+    "amp_id": "amp_person_434",
+    "gnd": "https://d-nb.info/gnd/17198823X",
+    "birth_year": "1929",
+    "birth_place": [],
+    "birth_day": "1929-12-07",
+    "death_year": "2008",
+    "death_place": [],
+    "death_day": "2008-12-31",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q2074098",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "435": {
+    "id": 435,
+    "order": "365.00000000000000000000",
+    "name": "Ben-Yoets, Elazar",
+    "amp_id": "amp_person_435",
+    "gnd": "https://d-nb.info/gnd/11887800X",
+    "birth_year": "1937",
+    "birth_place": [],
+    "birth_day": "1937-03-24",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1325024",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 110,
+        "value": "relationship_place_id__110",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "436": {
+    "id": 436,
+    "order": "366.00000000000000000000",
+    "name": "Schick, Paul",
+    "amp_id": "amp_person_436",
+    "gnd": "https://d-nb.info/gnd/1027816762",
+    "birth_year": "1904",
+    "birth_place": [],
+    "birth_day": "1904-03-29",
+    "death_year": "1975",
+    "death_place": [],
+    "death_day": "1975-04-01",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q72159627",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 75,
+        "value": "person_org__75",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": ""
+  },
+  "437": {
+    "id": 437,
+    "order": "367.00000000000000000000",
+    "name": "Lazarus, Michael",
+    "amp_id": "amp_person_437",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": ""
+  },
+  "438": {
+    "id": 438,
+    "order": "368.00000000000000000000",
+    "name": "Bloch, Albert",
+    "amp_id": "amp_person_438",
+    "gnd": "https://d-nb.info/gnd/119427257",
+    "birth_year": "1882",
+    "birth_place": [],
+    "birth_day": "1882-08-02",
+    "death_year": "1961",
+    "death_place": [],
+    "death_day": "1961-03-23",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q321462",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": ""
   }
 }

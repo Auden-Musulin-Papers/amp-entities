@@ -6599,9 +6599,9 @@
     ],
     "relation_type_object": [
       {
-        "id": 47,
-        "value": "wd:P1344",
-        "order": "46.00000000000000000000"
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   },
@@ -6625,9 +6625,9 @@
     ],
     "relation_type_object": [
       {
-        "id": 47,
-        "value": "wd:P1344",
-        "order": "46.00000000000000000000"
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
       }
     ]
   }

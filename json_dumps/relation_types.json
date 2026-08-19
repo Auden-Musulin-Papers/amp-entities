@@ -3067,6 +3067,16 @@
         "id": 514,
         "value": "Thaliastraße 149/7",
         "order": "446.00000000000000000000"
+      },
+      {
+        "id": 515,
+        "value": "Geistingergasse 1",
+        "order": "447.00000000000000000000"
+      },
+      {
+        "id": 516,
+        "value": "Bartningallee 11-13",
+        "order": "448.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3525,81 +3535,6 @@
         "id": 349,
         "value": "relationship_person_id__349",
         "order": "278.00000000000000000000"
-      },
-      {
-        "id": 350,
-        "value": "relationship_person_id__350",
-        "order": "279.00000000000000000000"
-      },
-      {
-        "id": 351,
-        "value": "relationship_person_id__351",
-        "order": "280.00000000000000000000"
-      },
-      {
-        "id": 352,
-        "value": "relationship_person_id__352",
-        "order": "281.00000000000000000000"
-      },
-      {
-        "id": 353,
-        "value": "relationship_person_id__353",
-        "order": "282.00000000000000000000"
-      },
-      {
-        "id": 354,
-        "value": "relationship_person_id__354",
-        "order": "283.00000000000000000000"
-      },
-      {
-        "id": 355,
-        "value": "relationship_person_id__355",
-        "order": "284.00000000000000000000"
-      },
-      {
-        "id": 356,
-        "value": "relationship_person_id__356",
-        "order": "285.00000000000000000000"
-      },
-      {
-        "id": 357,
-        "value": "relationship_person_id__357",
-        "order": "286.00000000000000000000"
-      },
-      {
-        "id": 358,
-        "value": "relationship_person_id__358",
-        "order": "287.00000000000000000000"
-      },
-      {
-        "id": 359,
-        "value": "relationship_person_id__359",
-        "order": "288.00000000000000000000"
-      },
-      {
-        "id": 360,
-        "value": "relationship_person_id__360",
-        "order": "289.00000000000000000000"
-      },
-      {
-        "id": 361,
-        "value": "relationship_person_id__361",
-        "order": "290.00000000000000000000"
-      },
-      {
-        "id": 362,
-        "value": "relationship_person_id__362",
-        "order": "291.00000000000000000000"
-      },
-      {
-        "id": 363,
-        "value": "relationship_person_id__363",
-        "order": "292.00000000000000000000"
-      },
-      {
-        "id": 364,
-        "value": "relationship_person_id__364",
-        "order": "293.00000000000000000000"
       },
       {
         "id": 365,
@@ -4233,6 +4168,16 @@
         "id": 108,
         "value": "relationship_place_id__108",
         "order": "76.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "relationship_place_id__109",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "relationship_place_id__110",
+        "order": "78.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -4868,6 +4813,16 @@
         "id": 428,
         "value": "person_event__428",
         "order": "303.00000000000000000000"
+      },
+      {
+        "id": 461,
+        "value": "person_event__461",
+        "order": "304.00000000000000000000"
+      },
+      {
+        "id": 462,
+        "value": "person_event__462",
+        "order": "305.00000000000000000000"
       }
     ],
     "org_event": [
@@ -5930,6 +5885,11 @@
         "id": 73,
         "value": "person_org__73",
         "order": "41.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "person_org__75",
+        "order": "43.00000000000000000000"
       }
     ],
     "person_person": [
@@ -6404,34 +6364,5 @@
     "person_org": [],
     "person_person": [],
     "URI": ""
-  },
-  "47": {
-    "id": 47,
-    "order": "46.00000000000000000000",
-    "name": "wd:P1344",
-    "has_broader": [],
-    "inverse": "",
-    "amp_id": "relation_type__47",
-    "literary_works": [],
-    "places": [],
-    "person_place": [],
-    "person_event": [
-      {
-        "id": 461,
-        "value": "person_event__461",
-        "order": "304.00000000000000000000"
-      },
-      {
-        "id": 462,
-        "value": "person_event__462",
-        "order": "305.00000000000000000000"
-      }
-    ],
-    "org_event": [],
-    "has_label": "",
-    "has_label_inverse": "",
-    "person_org": [],
-    "person_person": [],
-    "URI": "http://www.wikidata.org/entity/P1344"
   }
 }

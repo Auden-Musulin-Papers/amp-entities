@@ -1688,6 +1688,17 @@ for any purpose, even commercially.</p>
                   </location>
                   <note/>
                </org>
+               <org xml:id="amp_organization_241">
+                  <orgName>Wiener Stadtbibliothek (Vienna City Library)</orgName>
+                  <desc>Was founded in year <date from-iso="1856-01-01">1856</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.20849, 16.37208</geo>
+                  </location>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
