@@ -11274,5 +11274,101 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "331": {
+    "id": 331,
+    "order": "259.00000000000000000000",
+    "name": "Talking to Myself",
+    "lit_work_id": "lit_work_id_331",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1971",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "first printed in bilingual edition Pesni (Izbor). Skopje: Fakel, 1971",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "364": {
+    "id": 364,
+    "order": "260.00000000000000000000",
+    "name": "Talking to Dogs",
+    "lit_work_id": "lit_work_id_364",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "first printed in Harper's, March 1971; then revised in London Magazine, April-May 1971",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

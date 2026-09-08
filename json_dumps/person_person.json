@@ -7726,5 +7726,229 @@
         "order": "26.00000000000000000000"
       }
     ]
+  },
+  "388": {
+    "id": 388,
+    "order": "315.00000000000000000000",
+    "amp_id": "relationship_person_id__388",
+    "source": [
+      {
+        "id": 437,
+        "value": "Lazarus, Michael",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 438,
+        "value": "Bloch, Albert",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "389": {
+    "id": 389,
+    "order": "316.00000000000000000000",
+    "amp_id": "relationship_person_id__389",
+    "source": [
+      {
+        "id": 438,
+        "value": "Bloch, Albert",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 437,
+        "value": "Lazarus, Michael",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "390": {
+    "id": 390,
+    "order": "317.00000000000000000000",
+    "amp_id": "relationship_person_id__390",
+    "source": [
+      {
+        "id": 437,
+        "value": "Lazarus, Michael",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 435,
+        "value": "Ben-Yoets, Elazar",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "318.00000000000000000000",
+    "amp_id": "relationship_person_id__391",
+    "source": [
+      {
+        "id": 435,
+        "value": "Ben-Yoets, Elazar",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 437,
+        "value": "Lazarus, Michael",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "order": "319.00000000000000000000",
+    "amp_id": "relationship_person_id__392",
+    "source": [
+      {
+        "id": 435,
+        "value": "Ben-Yoets, Elazar",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 436,
+        "value": "Schick, Paul",
+        "order": "366.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "order": "320.00000000000000000000",
+    "amp_id": "relationship_person_id__393",
+    "source": [
+      {
+        "id": 436,
+        "value": "Schick, Paul",
+        "order": "366.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 435,
+        "value": "Ben-Yoets, Elazar",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "order": "321.00000000000000000000",
+    "amp_id": "relationship_person_id__394",
+    "source": [
+      {
+        "id": 439,
+        "value": "Sacks, Oliver",
+        "order": "369.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "order": "322.00000000000000000000",
+    "amp_id": "relationship_person_id__395",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 439,
+        "value": "Sacks, Oliver",
+        "order": "369.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 13,
+        "value": "is_friend_of",
+        "order": "13.00000000000000000000"
+      }
+    ]
   }
 }

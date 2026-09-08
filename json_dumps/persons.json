@@ -715,6 +715,16 @@
         "id": 330,
         "value": "The Shield of Achilles",
         "order": "258.00000000000000000000"
+      },
+      {
+        "id": 331,
+        "value": "Talking to Myself",
+        "order": "259.00000000000000000000"
+      },
+      {
+        "id": 364,
+        "value": "Talking to Dogs",
+        "order": "260.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1594,6 +1604,11 @@
         "id": 385,
         "value": "relationship_person_id__385",
         "order": "314.00000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "relationship_person_id__395",
+        "order": "322.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -17631,7 +17646,18 @@
       }
     ],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 391,
+        "value": "relationship_person_id__391",
+        "order": "318.00000000000000000000"
+      },
+      {
+        "id": 392,
+        "value": "relationship_person_id__392",
+        "order": "319.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "436": {
@@ -17669,7 +17695,13 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 393,
+        "value": "relationship_person_id__393",
+        "order": "320.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "437": {
@@ -17678,24 +17710,41 @@
     "name": "Lazarus, Michael",
     "amp_id": "amp_person_437",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1906",
     "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
+    "birth_day": "1906-06-09",
+    "death_year": "1971",
     "death_place": [],
-    "death_day": null,
+    "death_day": "1971-08-06",
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "",
-    "Title": [],
+    "wikidata": "https://www.wikidata.org/entity/Q141128393",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
     "person_event": [],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 388,
+        "value": "relationship_person_id__388",
+        "order": "315.00000000000000000000"
+      },
+      {
+        "id": 390,
+        "value": "relationship_person_id__390",
+        "order": "317.00000000000000000000"
+      }
+    ],
     "PMB": ""
   },
   "438": {
@@ -17721,6 +17770,81 @@
         "color": "light-gray"
       }
     ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 389,
+        "value": "relationship_person_id__389",
+        "order": "316.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "439": {
+    "id": 439,
+    "order": "369.00000000000000000000",
+    "name": "Sacks, Oliver",
+    "amp_id": "amp_person_439",
+    "gnd": "https://d-nb.info/gnd/120512866",
+    "birth_year": "1933",
+    "birth_place": [],
+    "birth_day": "1933-07-09",
+    "death_year": "2015",
+    "death_place": [],
+    "death_day": "2015-08-30",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q258662",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 394,
+        "value": "relationship_person_id__394",
+        "order": "321.00000000000000000000"
+      }
+    ],
+    "PMB": ""
+  },
+  "472": {
+    "id": 472,
+    "order": "370.00000000000000000000",
+    "name": "Lear, Edward",
+    "amp_id": "amp_person_472",
+    "gnd": "https://d-nb.info/gnd/118779095",
+    "birth_year": "1812",
+    "birth_place": [],
+    "birth_day": "1812-05-12",
+    "death_year": "1888",
+    "death_place": [],
+    "death_day": "1888-01-29",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q309759",
+    "Title": [],
     "person_event": [],
     "maiden_name": "",
     "alternative_website": "",
