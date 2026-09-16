@@ -2187,5 +2187,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "143": {
+    "id": 143,
+    "order": "79.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__143",
+    "source": [
+      {
+        "id": 241,
+        "value": "Bachmann, Paul",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 34,
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 551,
+        "value": "Opernring 8",
+        "order": "450.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

@@ -4206,5 +4206,77 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4440613-7",
     "URL": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "160.00000000000000000000",
+    "name": "Schelhammer & Schattera",
+    "wikidata": "https://www.wikidata.org/entity/Q806782",
+    "amp_id": "amp_organization_275",
+    "founded_in_year": "1832",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/10090113-X",
+    "URL": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "161.00000000000000000000",
+    "name": "Österreichische Postsparkasse (Austrian Postal Savings Bank)",
+    "wikidata": "https://www.wikidata.org/entity/Q17101066",
+    "amp_id": "amp_organization_276",
+    "founded_in_year": "1882",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2001451-X",
+    "URL": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "162.00000000000000000000",
+    "name": "Österreichischer Verwaltungsgerichtshof (Supreme Administrative Court of Austria)",
+    "wikidata": "https://www.wikidata.org/entity/Q874053",
+    "amp_id": "amp_organization_309",
+    "founded_in_year": "1876",
+    "comments": "",
+    "location": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 67,
+        "value": "org_event__67",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/35887-3",
+    "URL": "https://www.vwgh.gv.at/english.html"
   }
 }

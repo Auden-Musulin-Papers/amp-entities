@@ -876,5 +876,31 @@
         "order": "123.00000000000000000000"
       }
     ]
+  },
+  "67": {
+    "id": 67,
+    "order": "35.00000000000000000000",
+    "org_event": "org_event__67",
+    "source": [
+      {
+        "id": 309,
+        "value": "Österreichischer Verwaltungsgerichtshof (Supreme Administrative Court of Austria)",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 45,
+        "value": "W. H. Auden's legal dispute with Austrian tax authorities 1972-06-21--1972-09-19",
+        "order": "45.00000000000000000000"
+      }
+    ]
   }
 }

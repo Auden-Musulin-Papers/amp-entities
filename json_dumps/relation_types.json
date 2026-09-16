@@ -3112,6 +3112,11 @@
         "id": 517,
         "value": "Kirchstetten railway station",
         "order": "449.00000000000000000000"
+      },
+      {
+        "id": 551,
+        "value": "Opernring 8",
+        "order": "450.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3760,6 +3765,11 @@
         "id": 267,
         "value": "relationship_person_id__267",
         "order": "260.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "relationship_person_id__396",
+        "order": "323.00000000000000000000"
       }
     ],
     "URI": ""
@@ -4960,6 +4970,11 @@
         "id": 63,
         "value": "org_event__63",
         "order": "31.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "org_event__67",
+        "order": "35.00000000000000000000"
       }
     ],
     "has_label": "is active participant in",
@@ -5894,6 +5909,11 @@
         "id": 32,
         "value": "relationship_place_id__32",
         "order": "32.00000000000000000000"
+      },
+      {
+        "id": 143,
+        "value": "relationship_place_id__143",
+        "order": "79.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -6158,6 +6178,11 @@
         "id": 266,
         "value": "relationship_person_id__266",
         "order": "259.00000000000000000000"
+      },
+      {
+        "id": 397,
+        "value": "relationship_person_id__397",
+        "order": "324.00000000000000000000"
       }
     ],
     "URI": ""

@@ -1624,6 +1624,11 @@
         "id": 395,
         "value": "relationship_person_id__395",
         "order": "322.00000000000000000000"
+      },
+      {
+        "id": 396,
+        "value": "relationship_person_id__396",
+        "order": "323.00000000000000000000"
       }
     ],
     "PMB": ""
@@ -13050,12 +13055,12 @@
     "name": "Bachmann, Paul",
     "amp_id": "amp_person_241",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1933",
     "birth_place": [],
-    "birth_day": null,
-    "death_year": null,
+    "birth_day": "1933-02-10",
+    "death_year": "2005",
     "death_place": [],
-    "death_day": null,
+    "death_day": "2005-03-05",
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
@@ -13069,9 +13074,15 @@
     ],
     "person_event": [],
     "maiden_name": "",
-    "alternative_website": "https://www.bachmann-ra.at/kanzlei/",
+    "alternative_website": "https://www.bachmann-ra.at/kanzlei/; https://www.friedhoefewien.at/verstorbenensuche-detail?fname=Paul+Bachmann&id=04%3EBF2ONJQ&initialId=04%3EBF2ONJQ&fdate=2005-03-18&c=029&hist=false",
     "updated": false,
-    "person_place": [],
+    "person_place": [
+      {
+        "id": 143,
+        "value": "relationship_place_id__143",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "person_person": [
       {
@@ -17882,6 +17893,44 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": ""
+  },
+  "505": {
+    "id": 505,
+    "order": "371.00000000000000000000",
+    "name": "Bubla, Friedrich",
+    "amp_id": "amp_person_505",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.bubla.at/kanzlei/",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 397,
+        "value": "relationship_person_id__397",
+        "order": "324.00000000000000000000"
+      }
+    ],
     "PMB": ""
   }
 }
