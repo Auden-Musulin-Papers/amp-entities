@@ -6994,5 +6994,135 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "539": {
+    "id": 539,
+    "order": "320.00000000000000000000",
+    "amp_id": "person_event__539",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 261,
+        "value": "Meeting W. H. Auden, Chester Kallman and Hugo Kurka 1966-07-02",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "540": {
+    "id": 540,
+    "order": "321.00000000000000000000",
+    "amp_id": "person_event__540",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 261,
+        "value": "Meeting W. H. Auden, Chester Kallman and Hugo Kurka 1966-07-02",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "541": {
+    "id": 541,
+    "order": "322.00000000000000000000",
+    "amp_id": "person_event__541",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 261,
+        "value": "Meeting W. H. Auden, Chester Kallman and Hugo Kurka 1966-07-02",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "542": {
+    "id": 542,
+    "order": "323.00000000000000000000",
+    "amp_id": "person_event__542",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 294,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1965-06-30",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "543": {
+    "id": 543,
+    "order": "324.00000000000000000000",
+    "amp_id": "person_event__543",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 294,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1965-06-30",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

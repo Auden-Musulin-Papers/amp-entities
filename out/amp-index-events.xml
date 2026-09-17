@@ -2133,7 +2133,7 @@ for any purpose, even commercially.</p>
                <event xml:id="amp_event_id_156" notBefore-iso="1967-02-21" notAfter-iso="1967-02-21" type="personal">
                   <label>60th Birthday W.H. Auden 1967-02-21</label>
                </event>
-               <event xml:id="amp_event_id_189" notBefore-iso="1961-08-01" notAfter-iso="1969-07-29" type="meeting">
+               <event xml:id="amp_event_id_189" notBefore-iso="1961-08-01" notAfter-iso="1969-07-29" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1961-08-01--1969-07-29</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2152,7 +2152,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_222" notBefore-iso="1964-09-11" notAfter-iso="1964-09-11" type="meeting">
+               <event xml:id="amp_event_id_222" notBefore-iso="1964-09-11" notAfter-iso="1964-09-11" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1964-09-11</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2171,7 +2171,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_223" notBefore-iso="1965-05-26" notAfter-iso="1965-05-26" type="meeting">
+               <event xml:id="amp_event_id_223" notBefore-iso="1965-05-26" notAfter-iso="1965-05-26" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1965-05-26</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2190,7 +2190,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_224" notBefore-iso="1964-10-09" notAfter-iso="1964-10-09" type="meeting">
+               <event xml:id="amp_event_id_224" notBefore-iso="1964-10-09" notAfter-iso="1964-10-09" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1964-10-09</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2209,7 +2209,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_225" notBefore-iso="1967-05-11" notAfter-iso="1967-05-11" type="meeting">
+               <event xml:id="amp_event_id_225" notBefore-iso="1967-05-11" notAfter-iso="1967-05-11" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1967-05-11</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2228,7 +2228,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_226" notBefore-iso="1967-06-07" notAfter-iso="1967-06-07" type="meeting">
+               <event xml:id="amp_event_id_226" notBefore-iso="1967-06-07" notAfter-iso="1967-06-07" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1967-06-07</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2247,7 +2247,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_259" notBefore-iso="1965-07-30" notAfter-iso="1965-07-30" type="meeting">
+               <event xml:id="amp_event_id_259" notBefore-iso="1965-07-30" notAfter-iso="1965-07-30" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1965-07-30</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
@@ -2266,8 +2266,49 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_260" notBefore-iso="1965-04-26" notAfter-iso="1965-04-26" type="meeting">
+               <event xml:id="amp_event_id_260" notBefore-iso="1965-04-26" notAfter-iso="1965-04-26" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1965-04-26</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_261" notBefore-iso="1966-07-02" notAfter-iso="1966-07-02" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden, Chester Kallman and Hugo Kurka 1966-07-02</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_47" type="location" subtype="is_event_location">
+                        <placeName>Neulengbach</placeName>
+                        <location type="coords">
+                           <geo>48.19745, 15.90219</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_294" notBefore-iso="1965-06-30" notAfter-iso="1965-06-30" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1965-06-30</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>

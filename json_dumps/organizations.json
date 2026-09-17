@@ -4278,5 +4278,43 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/35887-3",
     "URL": "https://www.vwgh.gv.at/english.html"
+  },
+  "310": {
+    "id": 310,
+    "order": "163.00000000000000000000",
+    "name": "Republic of Austria",
+    "wikidata": "https://www.wikidata.org/entity/Q131717111",
+    "amp_id": "amp_organization_310",
+    "founded_in_year": "1945",
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/7503903-5",
+    "URL": "https://www.republik.oesterreich.gv.at/"
+  },
+  "311": {
+    "id": 311,
+    "order": "164.00000000000000000000",
+    "name": "Bezirksgericht Neulengbach (Neulengbach district court)",
+    "wikidata": "https://www.wikidata.org/entity/Q38039218",
+    "amp_id": "amp_organization_311",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 47,
+        "value": "Neulengbach",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": "https://www.justiz.gv.at/bg-neulengbach/bezirksgericht-neulengbach.2c3.de.html"
   }
 }

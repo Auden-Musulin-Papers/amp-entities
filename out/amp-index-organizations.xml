@@ -1747,6 +1747,23 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q874053</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_310">
+                  <orgName>Republic of Austria</orgName>
+                  <desc>Was founded in year <date from-iso="1945-01-01">1945</date>.</desc>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q131717111</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_311">
+                  <orgName>Bezirksgericht Neulengbach (Neulengbach district court)</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_47">Neulengbach</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.19745, 15.90219</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q38039218</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
