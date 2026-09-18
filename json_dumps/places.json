@@ -19795,7 +19795,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 344,
+        "value": "Paul Bachmann law firm",
+        "order": "165.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 1,

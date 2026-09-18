@@ -4316,5 +4316,33 @@
     "person_org": [],
     "gnd": "",
     "URL": "https://www.justiz.gv.at/bg-neulengbach/bezirksgericht-neulengbach.2c3.de.html"
+  },
+  "344": {
+    "id": 344,
+    "order": "165.00000000000000000000",
+    "name": "Paul Bachmann law firm",
+    "wikidata": "",
+    "amp_id": "amp_organization_344",
+    "founded_in_year": "1964",
+    "comments": "",
+    "location": [
+      {
+        "id": 551,
+        "value": "Opernring 8",
+        "order": "450.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 109,
+        "value": "person_org__109",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "gnd": "",
+    "URL": "https://www.bachmann-ra.at/en/profile/"
   }
 }

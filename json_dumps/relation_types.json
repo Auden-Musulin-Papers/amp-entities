@@ -3739,7 +3739,13 @@
     "org_event": [],
     "has_label": "is client of",
     "has_label_inverse": "is contractor of",
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 109,
+        "value": "person_org__109",
+        "order": "44.00000000000000000000"
+      }
+    ],
     "person_person": [
       {
         "id": 88,

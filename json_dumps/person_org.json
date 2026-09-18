@@ -1202,5 +1202,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "109": {
+    "id": 109,
+    "order": "44.00000000000000000000",
+    "person_org": "person_org__109",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 344,
+        "value": "Paul Bachmann law firm",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 24,
+        "value": "is_client_of",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
