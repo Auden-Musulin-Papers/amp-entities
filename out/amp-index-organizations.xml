@@ -137,6 +137,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.20882, 16.36624</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_552">Innere Stadt (first district of Vienna)</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q303236</idno>
                   <note/>
                </org>
@@ -1720,6 +1723,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_552">Innere Stadt (first district of Vienna)</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q806782</idno>
                   <note/>
                </org>
@@ -1769,6 +1775,9 @@ for any purpose, even commercially.</p>
                   <desc>Was founded in year <date from-iso="1964-01-01">1964</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_551">Opernring 8</placeName>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_552">Innere Stadt (first district of Vienna)</placeName>
                   </location>
                   <note/>
                </org>

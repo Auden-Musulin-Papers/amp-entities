@@ -19835,5 +19835,60 @@
       }
     ],
     "updated_geonames": false
+  },
+  "552": {
+    "id": 552,
+    "order": "451.00000000000000000000",
+    "name": "Innere Stadt (first district of Vienna)",
+    "amp_id": "amp_place_id_552",
+    "geonames_id": "https://sws.geonames.org/2775259",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 9,
+        "value": "Österreichische Gesellschaft für Literatur (Austrian Society for Literature)",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Schelhammer & Schattera",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 344,
+        "value": "Paul Bachmann law firm",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q267329",
+    "gnd": "https://d-nb.info/gnd/4302711-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }
