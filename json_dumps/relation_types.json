@@ -1190,6 +1190,26 @@
         "id": 273,
         "value": "relationship_person_id__273",
         "order": "266.00000000000000000000"
+      },
+      {
+        "id": 434,
+        "value": "relationship_person_id__434",
+        "order": "329.00000000000000000000"
+      },
+      {
+        "id": 435,
+        "value": "relationship_person_id__435",
+        "order": "330.00000000000000000000"
+      },
+      {
+        "id": 436,
+        "value": "relationship_person_id__436",
+        "order": "331.00000000000000000000"
+      },
+      {
+        "id": 437,
+        "value": "relationship_person_id__437",
+        "order": "332.00000000000000000000"
       }
     ],
     "URI": ""
@@ -3122,6 +3142,16 @@
         "id": 552,
         "value": "Innere Stadt (first district of Vienna)",
         "order": "451.00000000000000000000"
+      },
+      {
+        "id": 553,
+        "value": "Hardenbergstraße 9a",
+        "order": "452.00000000000000000000"
+      },
+      {
+        "id": 554,
+        "value": "60 East 56th Street",
+        "order": "453.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3485,6 +3515,16 @@
         "id": 311,
         "value": "relationship_person_id__311",
         "order": "272.00000000000000000000"
+      },
+      {
+        "id": 432,
+        "value": "relationship_person_id__432",
+        "order": "327.00000000000000000000"
+      },
+      {
+        "id": 433,
+        "value": "relationship_person_id__433",
+        "order": "328.00000000000000000000"
       }
     ],
     "URI": ""
@@ -5955,6 +5995,11 @@
         "id": 143,
         "value": "relationship_place_id__143",
         "order": "79.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "relationship_place_id__144",
+        "order": "80.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -6522,6 +6567,11 @@
         "id": 72,
         "value": "person_org__72",
         "order": "40.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "person_org__110",
+        "order": "45.00000000000000000000"
       }
     ],
     "person_person": [],

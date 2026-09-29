@@ -1644,6 +1644,16 @@
         "id": 396,
         "value": "relationship_person_id__396",
         "order": "323.00000000000000000000"
+      },
+      {
+        "id": 433,
+        "value": "relationship_person_id__433",
+        "order": "328.00000000000000000000"
+      },
+      {
+        "id": 434,
+        "value": "relationship_person_id__434",
+        "order": "329.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -2506,6 +2516,11 @@
         "id": 430,
         "value": "relationship_person_id__430",
         "order": "326.00000000000000000000"
+      },
+      {
+        "id": 437,
+        "value": "relationship_person_id__437",
+        "order": "332.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -11863,7 +11878,18 @@
     "updated": true,
     "person_place": [],
     "person_org": [],
-    "person_person": [],
+    "person_person": [
+      {
+        "id": 435,
+        "value": "relationship_person_id__435",
+        "order": "330.00000000000000000000"
+      },
+      {
+        "id": 436,
+        "value": "relationship_person_id__436",
+        "order": "331.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   },
@@ -18299,10 +18325,10 @@
     "name": "Bubla, Friedrich",
     "amp_id": "amp_person_505",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1926",
     "birth_place": [],
     "birth_day": null,
-    "death_year": null,
+    "death_year": "2014",
     "death_place": [],
     "death_day": null,
     "comment": "",
@@ -18416,6 +18442,51 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "541": {
+    "id": 541,
+    "order": "375.00000000000000000000",
+    "name": "Perry H. Knowlton",
+    "amp_id": "amp_person_541",
+    "gnd": "",
+    "birth_year": "1927",
+    "birth_place": [],
+    "birth_day": "1927-03-25",
+    "death_year": "2007",
+    "death_place": [],
+    "death_day": "2007-07-06",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.legacy.com/us/obituaries/nytimes/name/perry-knowlton-obituary?id=14628669",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 144,
+        "value": "relationship_place_id__144",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 110,
+        "value": "person_org__110",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 432,
+        "value": "relationship_person_id__432",
+        "order": "327.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }

@@ -1230,5 +1230,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "110": {
+    "id": 110,
+    "order": "45.00000000000000000000",
+    "person_org": "person_org__110",
+    "source": [
+      {
+        "id": 541,
+        "value": "Perry H. Knowlton",
+        "order": "375.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 29,
+        "value": "Curtis Brown, Ltd.",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

@@ -359,13 +359,23 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_29">
                   <orgName>Curtis Brown, Ltd.</orgName>
-                  <desc>Was founded in year <date from-iso="1914-01-01">1914</date>.</desc>
+                  <desc>Was founded in year <date from-iso="1899-01-01">1899</date>.</desc>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_28">New York City</placeName>
                   </location>
                   <location type="coords">
                      <geo>40.71427, -74.00597</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_554">60 East 56th Street</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q130729617</idno>
                   <note>https://curtisbrown.com/</note>
                </org>
                <org xml:id="amp_organization_30">
@@ -1511,6 +1521,12 @@ for any purpose, even commercially.</p>
                </org>
                <org xml:id="amp_organization_159">
                   <orgName>Kirchstetten municipality</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_6">Lower Austria</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.33333, 15.75</geo>
+                  </location>
                   <note/>
                </org>
                <org xml:id="amp_organization_160">
@@ -1779,6 +1795,75 @@ for any purpose, even commercially.</p>
                   <location type="located_in_place">
                      <placeName key="amp_place_id_552">Innere Stadt (first district of Vienna)</placeName>
                   </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_345">
+                  <orgName>Bote &amp; Bock</orgName>
+                  <desc>Was founded in year <date from-iso="1838-01-01">1838</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_292">Wiesbaden</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.08258, 8.24932</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_553">Hardenbergstraße 9a</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4948547</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_346">
+                  <orgName>Bank für Handel und Industrie</orgName>
+                  <desc>Was founded in year <date from-iso="1949-01-01">1949</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19835187</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_347">
+                  <orgName>Berliner Bank</orgName>
+                  <desc>Was founded in year <date from-iso="1950-01-01">1950</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_17">Berlin</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q821423</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_348">
+                  <orgName>Dresdner Bank</orgName>
+                  <desc>Was founded in year <date from-iso="1872-01-01">1872</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_33">Frankfurt am Main</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.11552, 8.68417</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1258529</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_349">
+                  <orgName>Nassauische Sparkasse</orgName>
+                  <desc>Was founded in year <date from-iso="1804-01-01">1804</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_292">Wiesbaden</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>50.08258, 8.24932</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1751833</idno>
                   <note/>
                </org>
             </listOrg>

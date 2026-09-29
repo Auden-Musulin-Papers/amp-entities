@@ -2215,5 +2215,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "144": {
+    "id": 144,
+    "order": "80.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__144",
+    "source": [
+      {
+        "id": 541,
+        "value": "Perry H. Knowlton",
+        "order": "375.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 34,
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 554,
+        "value": "60 East 56th Street",
+        "order": "453.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

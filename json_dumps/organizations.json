@@ -995,22 +995,38 @@
     "id": 29,
     "order": "29.00000000000000000000",
     "name": "Curtis Brown, Ltd.",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/entity/Q130729617",
     "amp_id": "amp_organization_29",
-    "founded_in_year": "1914",
+    "founded_in_year": "1899",
     "comments": "https://curtisbrown.com/",
     "location": [
       {
         "id": 28,
         "value": "New York City",
         "order": "28.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 554,
+        "value": "60 East 56th Street",
+        "order": "453.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
-    "gnd": "",
+    "person_org": [
+      {
+        "id": 110,
+        "value": "person_org__110",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/16020016-7",
     "URL": ""
   },
   "30": {
@@ -3715,7 +3731,13 @@
     "amp_id": "amp_organization_159",
     "founded_in_year": null,
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 6,
+        "value": "Lower Austria",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
@@ -4359,5 +4381,125 @@
     ],
     "gnd": "",
     "URL": "https://www.bachmann-ra.at/en/profile/"
+  },
+  "345": {
+    "id": 345,
+    "order": "166.00000000000000000000",
+    "name": "Bote & Bock",
+    "wikidata": "https://www.wikidata.org/entity/Q4948547",
+    "amp_id": "amp_organization_345",
+    "founded_in_year": "1838",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 292,
+        "value": "Wiesbaden",
+        "order": "292.00000000000000000000"
+      },
+      {
+        "id": 553,
+        "value": "Hardenbergstraße 9a",
+        "order": "452.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2005945-0",
+    "URL": ""
+  },
+  "346": {
+    "id": 346,
+    "order": "167.00000000000000000000",
+    "name": "Bank für Handel und Industrie",
+    "wikidata": "https://www.wikidata.org/entity/Q19835187",
+    "amp_id": "amp_organization_346",
+    "founded_in_year": "1949",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1003001-3",
+    "URL": ""
+  },
+  "347": {
+    "id": 347,
+    "order": "168.00000000000000000000",
+    "name": "Berliner Bank",
+    "wikidata": "https://www.wikidata.org/entity/Q821423",
+    "amp_id": "amp_organization_347",
+    "founded_in_year": "1950",
+    "comments": "",
+    "location": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2004215-2",
+    "URL": ""
+  },
+  "348": {
+    "id": 348,
+    "order": "169.00000000000000000000",
+    "name": "Dresdner Bank",
+    "wikidata": "https://www.wikidata.org/entity/Q1258529",
+    "amp_id": "amp_organization_348",
+    "founded_in_year": "1872",
+    "comments": "",
+    "location": [
+      {
+        "id": 33,
+        "value": "Frankfurt am Main",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/63008-1",
+    "URL": ""
+  },
+  "349": {
+    "id": 349,
+    "order": "170.00000000000000000000",
+    "name": "Nassauische Sparkasse",
+    "wikidata": "https://www.wikidata.org/entity/Q1751833",
+    "amp_id": "amp_organization_349",
+    "founded_in_year": "1804",
+    "comments": "",
+    "location": [
+      {
+        "id": 292,
+        "value": "Wiesbaden",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2020029-8",
+    "URL": ""
   }
 }

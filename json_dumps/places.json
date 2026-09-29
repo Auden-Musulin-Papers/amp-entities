@@ -1011,6 +1011,11 @@
         "id": 87,
         "value": "Flughafen Wien-Schwechat (Vienna International Airport)",
         "order": "85.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Kirchstetten municipality",
+        "order": "140.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -1811,6 +1816,21 @@
         "id": 155,
         "value": "Deutsche Oper Berlin",
         "order": "136.00000000000000000000"
+      },
+      {
+        "id": 345,
+        "value": "Bote & Bock",
+        "order": "166.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "Bank für Handel und Industrie",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 347,
+        "value": "Berliner Bank",
+        "order": "168.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -2676,6 +2696,11 @@
         "id": 41,
         "value": "Die neue Rundschau",
         "order": "41.00000000000000000000"
+      },
+      {
+        "id": 348,
+        "value": "Dresdner Bank",
+        "order": "169.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -4028,6 +4053,11 @@
         "id": 28,
         "value": "BBC Radio",
         "order": "28.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "Curtis Brown, Ltd.",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 33,
@@ -13201,7 +13231,18 @@
     ],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 345,
+        "value": "Bote & Bock",
+        "order": "166.00000000000000000000"
+      },
+      {
+        "id": 349,
+        "value": "Nassauische Sparkasse",
+        "order": "170.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 20,
@@ -19889,6 +19930,102 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "553": {
+    "id": 553,
+    "order": "452.00000000000000000000",
+    "name": "Hardenbergstraße 9a",
+    "amp_id": "amp_place_id_553",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 345,
+        "value": "Bote & Bock",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 403,
+        "value": "Berlin-Charlottenburg",
+        "order": "401.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q212275",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "554": {
+    "id": 554,
+    "order": "453.00000000000000000000",
+    "name": "60 East 56th Street",
+    "amp_id": "amp_place_id_554",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 29,
+        "value": "Curtis Brown, Ltd.",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 144,
+        "value": "relationship_place_id__144",
+        "order": "80.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   }
 }
