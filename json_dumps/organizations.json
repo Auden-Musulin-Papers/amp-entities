@@ -287,11 +287,6 @@
         "id": 177,
         "value": "Palais Wilczek",
         "order": "177.00000000000000000000"
-      },
-      {
-        "id": 552,
-        "value": "Innere Stadt (first district of Vienna)",
-        "order": "451.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -997,7 +992,7 @@
     "name": "Curtis Brown, Ltd.",
     "wikidata": "https://www.wikidata.org/entity/Q130729617",
     "amp_id": "amp_organization_29",
-    "founded_in_year": "1899",
+    "founded_in_year": "1914",
     "comments": "https://curtisbrown.com/",
     "location": [
       {
@@ -1006,14 +1001,9 @@
         "order": "28.00000000000000000000"
       },
       {
-        "id": 56,
-        "value": "London",
-        "order": "56.00000000000000000000"
-      },
-      {
-        "id": 554,
+        "id": 555,
         "value": "60 East 56th Street",
-        "order": "453.00000000000000000000"
+        "order": "452.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -3830,11 +3820,6 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
-      },
-      {
-        "id": 513,
-        "value": "Neudeggergasse 8",
-        "order": "445.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -3971,9 +3956,9 @@
     "comments": "flats 11 and 13",
     "location": [
       {
-        "id": 425,
-        "value": "Gumpendorfer Straße 15",
-        "order": "422.00000000000000000000"
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -4080,11 +4065,6 @@
         "id": 26,
         "value": "Munich",
         "order": "26.00000000000000000000"
-      },
-      {
-        "id": 502,
-        "value": "Neuwied",
-        "order": "434.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -4247,11 +4227,6 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
-      },
-      {
-        "id": 552,
-        "value": "Innere Stadt (first district of Vienna)",
-        "order": "451.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -4319,7 +4294,13 @@
     "amp_id": "amp_organization_310",
     "founded_in_year": "1945",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 30,
+        "value": "Europe",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
@@ -4359,14 +4340,9 @@
     "comments": "",
     "location": [
       {
-        "id": 551,
-        "value": "Opernring 8",
-        "order": "450.00000000000000000000"
-      },
-      {
-        "id": 552,
-        "value": "Innere Stadt (first district of Vienna)",
-        "order": "451.00000000000000000000"
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -4395,16 +4371,6 @@
         "id": 17,
         "value": "Berlin",
         "order": "17.00000000000000000000"
-      },
-      {
-        "id": 292,
-        "value": "Wiesbaden",
-        "order": "292.00000000000000000000"
-      },
-      {
-        "id": 553,
-        "value": "Hardenbergstraße 9a",
-        "order": "452.00000000000000000000"
       }
     ],
     "part_of": [],
