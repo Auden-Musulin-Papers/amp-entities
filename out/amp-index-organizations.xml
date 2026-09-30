@@ -1556,6 +1556,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_513">Neudeggergasse 8</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16216380</idno>
                   <note/>
                </org>
@@ -1796,6 +1799,9 @@ for any purpose, even commercially.</p>
                   </location>
                   <location type="coords">
                      <geo>52.52437, 13.41053</geo>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_556">Hardenbergstraße 9a</placeName>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4948547</idno>
                   <note/>
