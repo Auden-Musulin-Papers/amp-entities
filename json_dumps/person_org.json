@@ -1258,5 +1258,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "111": {
+    "id": 111,
+    "order": "46.00000000000000000000",
+    "person_org": "person_org__111",
+    "source": [
+      {
+        "id": 543,
+        "value": "Stiebner, Erhardt D.",
+        "order": "377.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 350,
+        "value": "Bruckmann Verlag",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 45,
+        "value": "is_head_of",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

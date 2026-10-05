@@ -4477,5 +4477,89 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/2020029-8",
     "URL": ""
+  },
+  "350": {
+    "id": 350,
+    "order": "171.00000000000000000000",
+    "name": "Bruckmann Verlag",
+    "wikidata": "https://www.wikidata.org/entity/Q992121",
+    "amp_id": "amp_organization_350",
+    "founded_in_year": "1858",
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 111,
+        "value": "person_org__111",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/2010284-7",
+    "URL": ""
+  },
+  "351": {
+    "id": 351,
+    "order": "172.00000000000000000000",
+    "name": "Studio Bruckmann Kunst im Druck GmbH",
+    "wikidata": "",
+    "amp_id": "amp_organization_351",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 350,
+        "value": "Bruckmann Verlag",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "literary_works": [
+      {
+        "id": 398,
+        "value": "Die große Veränderung (The Great Change)",
+        "order": "262.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1065172397",
+    "URL": ""
+  },
+  "352": {
+    "id": 352,
+    "order": "173.00000000000000000000",
+    "name": "Bankhaus Reuschel & Co.",
+    "wikidata": "https://www.wikidata.org/entity/Q322784",
+    "amp_id": "amp_organization_352",
+    "founded_in_year": "1947",
+    "comments": "",
+    "location": [
+      {
+        "id": 26,
+        "value": "Munich",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/5032182-1",
+    "URL": ""
   }
 }

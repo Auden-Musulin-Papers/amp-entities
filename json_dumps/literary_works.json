@@ -10935,7 +10935,13 @@
     "version_of": [],
     "language": [],
     "relation_types": [],
-    "is_part_of": [],
+    "is_part_of": [
+      {
+        "id": 398,
+        "value": "Die große Veränderung (The Great Change)",
+        "order": "262.00000000000000000000"
+      }
+    ],
     "FRBR_level": {
       "id": 9869,
       "value": "expression",
@@ -11367,6 +11373,123 @@
     },
     "Comments": "first printed in Harper's, March 1971; then revised in London Magazine, April-May 1971",
     "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "397": {
+    "id": 397,
+    "order": "261.00000000000000000000",
+    "name": "Moon Landing",
+    "lit_work_id": "lit_work_id_397",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      },
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "Die große Veränderung (The Great Change)",
+        "order": "262.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 6740,
+      "value": "work",
+      "color": "dark-green"
+    },
+    "Comments": "first printed in New Yorker, 6 Sept 1969; rev in Wort und Wahrheit Nov-Dec 1969",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "398": {
+    "id": 398,
+    "order": "262.00000000000000000000",
+    "name": "Die große Veränderung (The Great Change)",
+    "lit_work_id": "lit_work_id_398",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 218,
+        "value": "Zand, Herbert",
+        "order": "217.00000000000000000000"
+      },
+      {
+        "id": 542,
+        "value": "Alt, Otmar",
+        "order": "376.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 23730,
+        "value": "art_book",
+        "color": "darker-brown"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      },
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 351,
+        "value": "Studio Bruckmann Kunst im Druck GmbH",
+        "order": "172.00000000000000000000"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""

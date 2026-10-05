@@ -1854,6 +1854,40 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1751833</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_350">
+                  <orgName>Bruckmann Verlag</orgName>
+                  <desc>Was founded in year <date from-iso="1858-01-01">1858</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q992121</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_351">
+                  <orgName>Studio Bruckmann Kunst im Druck GmbH</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_352">
+                  <orgName>Bankhaus Reuschel &amp; Co.</orgName>
+                  <desc>Was founded in year <date from-iso="1947-01-01">1947</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_26">Munich</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>48.13743, 11.57549</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q322784</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
