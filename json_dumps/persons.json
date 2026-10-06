@@ -1669,6 +1669,11 @@
         "id": 438,
         "value": "relationship_person_id__438",
         "order": "333.00000000000000000000"
+      },
+      {
+        "id": 442,
+        "value": "relationship_person_id__442",
+        "order": "336.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -18599,6 +18604,162 @@
     "literary_work": [],
     "wikidata": "",
     "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "546": {
+    "id": 546,
+    "order": "379.00000000000000000000",
+    "name": "Cox, Brian",
+    "amp_id": "amp_person_546",
+    "gnd": "https://d-nb.info/gnd/141041978",
+    "birth_year": "1928",
+    "birth_place": [],
+    "birth_day": "1928-09-05",
+    "death_year": "2008",
+    "death_place": [],
+    "death_day": "2008-04-24",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q19594790",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 112,
+        "value": "person_org__112",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 441,
+        "value": "relationship_person_id__441",
+        "order": "335.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "548": {
+    "id": 548,
+    "order": "380.00000000000000000000",
+    "name": "Brook, George Leslie",
+    "amp_id": "amp_person_548",
+    "gnd": "https://d-nb.info/gnd/131645382",
+    "birth_year": "1910",
+    "birth_place": [],
+    "birth_day": "1910-03-06",
+    "death_year": "1987",
+    "death_place": [],
+    "death_day": "1987-07-09",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q59628102",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 113,
+        "value": "person_org__113",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "549": {
+    "id": 549,
+    "order": "381.00000000000000000000",
+    "name": "Jump, John Davies",
+    "amp_id": "amp_person_549",
+    "gnd": "https://d-nb.info/gnd/172172950",
+    "birth_year": "1913",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1976",
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q59626696",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 114,
+        "value": "person_org__114",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "550": {
+    "id": 550,
+    "order": "382.00000000000000000000",
+    "name": "Larkin, Philip",
+    "amp_id": "amp_person_550",
+    "gnd": "https://d-nb.info/gnd/118569740",
+    "birth_year": "1922",
+    "birth_place": [],
+    "birth_day": "1922-08-09",
+    "death_year": "1985",
+    "death_place": [],
+    "death_day": "1985-12-02",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q313758",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
     "person_event": [],
     "maiden_name": "",
     "alternative_website": "",

@@ -20014,5 +20014,128 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "557": {
+    "id": 557,
+    "order": "454.00000000000000000000",
+    "name": "Manchester",
+    "amp_id": "amp_place_id_557",
+    "geonames_id": "https://sws.geonames.org/2643123",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 353,
+        "value": "University of Manchester",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q18125",
+    "gnd": "https://d-nb.info/gnd/4037286-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "558": {
+    "id": 558,
+    "order": "455.00000000000000000000",
+    "name": "Euston Station",
+    "amp_id": "amp_place_id_558",
+    "geonames_id": "https://sws.geonames.org/2649853",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q800751",
+    "gnd": "https://d-nb.info/gnd/7596304-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "559": {
+    "id": 559,
+    "order": "456.00000000000000000000",
+    "name": "Manchester Piccadilly Station",
+    "amp_id": "amp_place_id_559",
+    "geonames_id": "https://sws.geonames.org/6691418",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q600367",
+    "gnd": "https://d-nb.info/gnd/1085927148",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }

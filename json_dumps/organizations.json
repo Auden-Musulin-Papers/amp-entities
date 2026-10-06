@@ -4561,5 +4561,43 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/5032182-1",
     "URL": ""
+  },
+  "353": {
+    "id": 353,
+    "order": "174.00000000000000000000",
+    "name": "University of Manchester",
+    "wikidata": "https://www.wikidata.org/entity/Q230899",
+    "amp_id": "amp_organization_353",
+    "founded_in_year": "1824",
+    "comments": "",
+    "location": [
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 112,
+        "value": "person_org__112",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "person_org__113",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "person_org__114",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/6036820-2",
+    "URL": ""
   }
 }

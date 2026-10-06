@@ -3162,6 +3162,21 @@
         "id": 556,
         "value": "Hardenbergstraße 9a",
         "order": "453.00000000000000000000"
+      },
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      },
+      {
+        "id": 558,
+        "value": "Euston Station",
+        "order": "455.00000000000000000000"
+      },
+      {
+        "id": 559,
+        "value": "Manchester Piccadilly Station",
+        "order": "456.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3881,6 +3896,16 @@
         "id": 150,
         "value": "relationship_person_id__150",
         "order": "150.00000000000000000000"
+      },
+      {
+        "id": 441,
+        "value": "relationship_person_id__441",
+        "order": "335.00000000000000000000"
+      },
+      {
+        "id": 442,
+        "value": "relationship_person_id__442",
+        "order": "336.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6121,6 +6146,21 @@
         "id": 75,
         "value": "person_org__75",
         "order": "43.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "person_org__112",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "person_org__113",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "person_org__114",
+        "order": "49.00000000000000000000"
       }
     ],
     "person_person": [

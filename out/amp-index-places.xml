@@ -6161,6 +6161,36 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q212275</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_557">
+                  <placeName>Manchester</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2643123/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q18125</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037286-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_558">
+                  <placeName>Euston Station</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2649853/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q800751</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/7596304-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_559">
+                  <placeName>Manchester Piccadilly Station</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_557">Manchester</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/6691418/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q600367</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/1085927148</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

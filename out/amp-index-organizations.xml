@@ -1888,6 +1888,15 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q322784</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_353">
+                  <orgName>University of Manchester</orgName>
+                  <desc>Was founded in year <date from-iso="1824-01-01">1824</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_557">Manchester</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q230899</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>
