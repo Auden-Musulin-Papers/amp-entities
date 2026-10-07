@@ -3428,6 +3428,11 @@
         "id": 74,
         "value": "person_org__74",
         "order": "42.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "person_org__116",
+        "order": "50.00000000000000000000"
       }
     ],
     "person_person": [
@@ -5064,6 +5069,51 @@
         "id": 543,
         "value": "person_event__543",
         "order": "324.00000000000000000000"
+      },
+      {
+        "id": 544,
+        "value": "person_event__544",
+        "order": "325.00000000000000000000"
+      },
+      {
+        "id": 545,
+        "value": "person_event__545",
+        "order": "326.00000000000000000000"
+      },
+      {
+        "id": 546,
+        "value": "person_event__546",
+        "order": "327.00000000000000000000"
+      },
+      {
+        "id": 547,
+        "value": "person_event__547",
+        "order": "328.00000000000000000000"
+      },
+      {
+        "id": 548,
+        "value": "person_event__548",
+        "order": "329.00000000000000000000"
+      },
+      {
+        "id": 549,
+        "value": "person_event__549",
+        "order": "330.00000000000000000000"
+      },
+      {
+        "id": 550,
+        "value": "person_event__550",
+        "order": "331.00000000000000000000"
+      },
+      {
+        "id": 551,
+        "value": "person_event__551",
+        "order": "332.00000000000000000000"
+      },
+      {
+        "id": 552,
+        "value": "person_event__552",
+        "order": "333.00000000000000000000"
       }
     ],
     "org_event": [
@@ -6443,6 +6493,11 @@
         "id": 221,
         "value": "relationship_person_id__221",
         "order": "222.00000000000000000000"
+      },
+      {
+        "id": 444,
+        "value": "relationship_person_id__444",
+        "order": "338.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6478,6 +6533,11 @@
         "id": 222,
         "value": "relationship_person_id__222",
         "order": "223.00000000000000000000"
+      },
+      {
+        "id": 443,
+        "value": "relationship_person_id__443",
+        "order": "337.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6654,6 +6714,66 @@
     "has_label_inverse": "",
     "person_org": [],
     "person_person": [],
+    "URI": ""
+  },
+  "81": {
+    "id": 81,
+    "order": "46.00000000000000000000",
+    "name": "invites",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_invited_by",
+    "amp_id": "relation_type__81",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 443,
+        "value": "relationship_person_id__443",
+        "order": "337.00000000000000000000"
+      }
+    ],
+    "URI": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "47.00000000000000000000",
+    "name": "is_invited_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "invites",
+    "amp_id": "relation_type__82",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 444,
+        "value": "relationship_person_id__444",
+        "order": "338.00000000000000000000"
+      }
+    ],
     "URI": ""
   }
 }

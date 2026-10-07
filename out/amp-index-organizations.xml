@@ -1897,6 +1897,30 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q230899</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_354">
+                  <orgName>St Edmund Hall</orgName>
+                  <desc>Was founded in year <date from-iso="1278-01-01">1278</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q973884</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_355">
+                  <orgName>Cherwell</orgName>
+                  <desc>Was founded in year <date from-iso="1920-01-01">1920</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.75222, -1.25596</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5092652</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

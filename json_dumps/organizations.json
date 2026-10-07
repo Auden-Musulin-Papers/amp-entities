@@ -4599,5 +4599,61 @@
     ],
     "gnd": "https://d-nb.info/gnd/6036820-2",
     "URL": ""
+  },
+  "354": {
+    "id": 354,
+    "order": "175.00000000000000000000",
+    "name": "St Edmund Hall",
+    "wikidata": "https://www.wikidata.org/entity/Q973884",
+    "amp_id": "amp_organization_354",
+    "founded_in_year": "1278",
+    "comments": "",
+    "location": [
+      {
+        "id": 46,
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 55,
+        "value": "University of Oxford",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/5018555-X",
+    "URL": ""
+  },
+  "355": {
+    "id": 355,
+    "order": "176.00000000000000000000",
+    "name": "Cherwell",
+    "wikidata": "https://www.wikidata.org/entity/Q5092652",
+    "amp_id": "amp_organization_355",
+    "founded_in_year": "1920",
+    "comments": "",
+    "location": [
+      {
+        "id": 46,
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 116,
+        "value": "person_org__116",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "gnd": "",
+    "URL": "https://cherwell.org/"
   }
 }

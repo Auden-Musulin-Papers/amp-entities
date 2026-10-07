@@ -635,6 +635,11 @@
         "id": 294,
         "value": "Meeting W. H. Auden and Hugo Kurka 1965-06-30",
         "order": "134.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-06-30",
+        "order": "138.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -1870,6 +1875,11 @@
         "id": 27,
         "value": "W. H. Auden's Ford Foundation Residency at Berlin, 1964-1965",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 295,
+        "value": "Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1965-01-01",
+        "order": "135.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -3456,6 +3466,16 @@
         "id": 143,
         "value": "Alfred Savage Ltd.",
         "order": "124.00000000000000000000"
+      },
+      {
+        "id": 354,
+        "value": "St Edmund Hall",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 355,
+        "value": "Cherwell",
+        "order": "176.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -3538,7 +3558,7 @@
       },
       {
         "id": 261,
-        "value": "Meeting W. H. Auden, Chester Kallman and Hugo Kurka 1966-07-02",
+        "value": "Meeting W. H. Auden, Chester Kallman, and Hugo Kurka 1966-07-02",
         "order": "133.00000000000000000000"
       }
     ],
@@ -16914,7 +16934,13 @@
     "country_code": "",
     "place_type_class": "",
     "updated": false,
-    "events": [],
+    "events": [
+      {
+        "id": 298,
+        "value": "Arrival Christa Kurka and Hugo Kurka in Berlin from Vienna 1964-12-24",
+        "order": "136.00000000000000000000"
+      }
+    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
