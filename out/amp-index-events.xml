@@ -2359,8 +2359,11 @@ for any purpose, even commercially.</p>
                      </person>
                   </listPerson>
                   <listPlace>
-                     <place sameAs="amp_place_id_381" type="location" subtype="is_event_location">
-                        <placeName>Berlin-Tempelhof</placeName>
+                     <place sameAs="amp_place_id_17" type="location" subtype="is_event_location">
+                        <placeName>Berlin</placeName>
+                        <location type="coords">
+                           <geo>52.52437, 13.41053</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>
@@ -2395,7 +2398,12 @@ for any purpose, even commercially.</p>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_301" notBefore-iso="1964-06-23" notAfter-iso="1964-06-23" type="travel">
-                  <label>Arrival Chester Kallman in Kirchstetten from Athens 1964-06-23</label>
+                  <label>Arrival Chester Kallman in Kirchstetten 1964-06-23</label>
+                  <listPerson>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
                         <placeName>Kirchstetten</placeName>

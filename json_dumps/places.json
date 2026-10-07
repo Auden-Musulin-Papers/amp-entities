@@ -1007,7 +1007,7 @@
       },
       {
         "id": 301,
-        "value": "Arrival Chester Kallman in Kirchstetten from Athens 1964-06-23",
+        "value": "Arrival Chester Kallman in Kirchstetten 1964-06-23",
         "order": "139.00000000000000000000"
       }
     ],
@@ -1885,6 +1885,11 @@
         "id": 295,
         "value": "Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1965-01-01",
         "order": "135.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Arrival Christa Kurka and Hugo Kurka in Berlin from Vienna 1964-12-24",
+        "order": "136.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -16939,13 +16944,7 @@
     "country_code": "",
     "place_type_class": "",
     "updated": false,
-    "events": [
-      {
-        "id": 298,
-        "value": "Arrival Christa Kurka and Hugo Kurka in Berlin from Vienna 1964-12-24",
-        "order": "136.00000000000000000000"
-      }
-    ],
+    "events": [],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],

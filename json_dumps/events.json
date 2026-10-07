@@ -6018,7 +6018,7 @@
     "org_event": [],
     "part_of": [],
     "revised": true,
-    "needs_review": true
+    "needs_review": false
   },
   "294": {
     "id": 294,
@@ -6133,7 +6133,7 @@
     "org_event": [],
     "part_of": [],
     "revised": false,
-    "needs_review": true
+    "needs_review": false
   },
   "298": {
     "id": 298,
@@ -6142,9 +6142,9 @@
     "amp_id": "amp_event_id_298",
     "place_of_event": [
       {
-        "id": 381,
-        "value": "Berlin-Tempelhof",
-        "order": "379.00000000000000000000"
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
       }
     ],
     "has_type": [
@@ -6299,7 +6299,7 @@
   "301": {
     "id": 301,
     "order": "139.00000000000000000000",
-    "name": "Arrival Chester Kallman in Kirchstetten from Athens 1964-06-23",
+    "name": "Arrival Chester Kallman in Kirchstetten 1964-06-23",
     "amp_id": "amp_event_id_301",
     "place_of_event": [
       {
@@ -6317,7 +6317,13 @@
     ],
     "start_date": "1964-06-23",
     "wikidata": "",
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 553,
+        "value": "person_event__553",
+        "order": "334.00000000000000000000"
+      }
+    ],
     "Comments": "",
     "end_date": "1964-06-23",
     "evidence": {
@@ -6334,6 +6340,6 @@
     "org_event": [],
     "part_of": [],
     "revised": true,
-    "needs_review": true
+    "needs_review": false
   }
 }
