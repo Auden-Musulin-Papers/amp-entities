@@ -6238,7 +6238,7 @@
     },
     "org_event": [],
     "part_of": [],
-    "revised": true,
+    "revised": false,
     "needs_review": false
   },
   "300": {
@@ -6295,5 +6295,45 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "301": {
+    "id": 301,
+    "order": "139.00000000000000000000",
+    "name": "Arrival Chester Kallman in Kirchstetten from Athens 1964-06-23",
+    "amp_id": "amp_event_id_301",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23369,
+        "value": "travel",
+        "color": "cyan"
+      }
+    ],
+    "start_date": "1964-06-23",
+    "wikidata": "",
+    "person_event": [],
+    "Comments": "",
+    "end_date": "1964-06-23",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
   }
 }

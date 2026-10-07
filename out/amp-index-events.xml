@@ -2394,6 +2394,17 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_301" notBefore-iso="1964-06-23" notAfter-iso="1964-06-23" type="travel">
+                  <label>Arrival Chester Kallman in Kirchstetten from Athens 1964-06-23</label>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>
