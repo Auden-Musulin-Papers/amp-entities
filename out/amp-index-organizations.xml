@@ -1921,6 +1921,27 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5092652</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_356">
+                  <orgName>Ede &amp; Ravenscroft</orgName>
+                  <desc>Was founded in year <date from-iso="1689-01-01">1689</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5336719</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_358">
+                  <orgName>University of Sheffield</orgName>
+                  <desc>Was founded in year <date from-iso="1905-01-01">1905</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_560">Sheffield</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q823917</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

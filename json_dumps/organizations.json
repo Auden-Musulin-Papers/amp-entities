@@ -4655,5 +4655,55 @@
     ],
     "gnd": "",
     "URL": "https://cherwell.org/"
+  },
+  "356": {
+    "id": 356,
+    "order": "177.00000000000000000000",
+    "name": "Ede & Ravenscroft",
+    "wikidata": "https://www.wikidata.org/entity/Q5336719",
+    "amp_id": "amp_organization_356",
+    "founded_in_year": "1689",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1242946160",
+    "URL": ""
+  },
+  "358": {
+    "id": 358,
+    "order": "178.00000000000000000000",
+    "name": "University of Sheffield",
+    "wikidata": "https://www.wikidata.org/entity/Q823917",
+    "amp_id": "amp_organization_358",
+    "founded_in_year": "1905",
+    "comments": "",
+    "location": [
+      {
+        "id": 560,
+        "value": "Sheffield",
+        "order": "457.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 100,
+        "value": "org_event__100",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/9595-3",
+    "URL": ""
   }
 }

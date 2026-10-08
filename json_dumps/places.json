@@ -4169,6 +4169,11 @@
         "id": 239,
         "value": "Secker & Warburg Ltd",
         "order": "156.00000000000000000000"
+      },
+      {
+        "id": 356,
+        "value": "Ede & Ravenscroft",
+        "order": "177.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -20163,6 +20168,57 @@
     "place_type_class": "",
     "updated": false,
     "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "560": {
+    "id": 560,
+    "order": "457.00000000000000000000",
+    "name": "Sheffield",
+    "amp_id": "amp_place_id_560",
+    "geonames_id": "https://sws.geonames.org/2638077",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 358,
+        "value": "University of Sheffield",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q42448",
+    "gnd": "https://d-nb.info/gnd/4118617-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [
+      {
+        "id": 302,
+        "value": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden 1970",
+        "order": "140.00000000000000000000"
+      }
+    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],

@@ -3177,6 +3177,11 @@
         "id": 559,
         "value": "Manchester Piccadilly Station",
         "order": "456.00000000000000000000"
+      },
+      {
+        "id": 560,
+        "value": "Sheffield",
+        "order": "457.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -6013,6 +6018,11 @@
         "id": 66,
         "value": "org_event__66",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "org_event__100",
+        "order": "36.00000000000000000000"
       }
     ],
     "has_label": "is organizer of",

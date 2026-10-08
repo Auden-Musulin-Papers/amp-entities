@@ -18840,7 +18840,7 @@
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
-    "wikidata": "https://www.wikidata.org/wiki/Q94685616",
+    "wikidata": "https://www.wikidata.org/entity/Q94685616",
     "Title": [],
     "person_event": [],
     "maiden_name": "",
@@ -18861,6 +18861,72 @@
         "order": "337.00000000000000000000"
       }
     ],
+    "PMB": "",
+    "gender": null
+  },
+  "552": {
+    "id": 552,
+    "order": "384.00000000000000000000",
+    "name": "William III of England",
+    "amp_id": "amp_person_552",
+    "gnd": "https://d-nb.info/gnd/118643355",
+    "birth_year": "1650",
+    "birth_place": [],
+    "birth_day": "1650-11-04",
+    "death_year": "1702",
+    "death_place": [],
+    "death_day": "1702-03-08",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q129987",
+    "Title": [
+      {
+        "id": 6728,
+        "value": "King",
+        "color": "blue"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "553": {
+    "id": 553,
+    "order": "385.00000000000000000000",
+    "name": "Mary II of England",
+    "amp_id": "amp_person_553",
+    "gnd": "https://d-nb.info/gnd/118865838",
+    "birth_year": "1662",
+    "birth_place": [],
+    "birth_day": "1662-04-30",
+    "death_year": "1694",
+    "death_place": [],
+    "death_day": "1694-12-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q130812",
+    "Title": [
+      {
+        "id": 6729,
+        "value": "Queen",
+        "color": "light-blue"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": "",
     "gender": null
   }

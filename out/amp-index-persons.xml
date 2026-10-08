@@ -6461,7 +6461,35 @@ for any purpose, even commercially.</p>
                      <date when-iso="1954">1954</date>
                   </birth>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1196841993</idno>
-                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94685616</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q94685616</idno>
+               </person>
+               <person xml:id="amp_person_552">
+                  <persName>
+                     <forename/>
+                     <surname>William III of England</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1650-11-04">1650-11-04</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1702-03-08">1702-03-08</date>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118643355</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q129987</idno>
+               </person>
+               <person xml:id="amp_person_553">
+                  <persName>
+                     <forename/>
+                     <surname>Mary II of England</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1662-04-30">1662-04-30</date>
+                  </birth>
+                  <death>
+                     <date when-iso="1694-12-28">1694-12-28</date>
+                  </death>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/118865838</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q130812</idno>
                </person>
             </listPerson>
          </div>

@@ -2413,6 +2413,17 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_302" notBefore-iso="1970-04-29" notAfter-iso="1970-12-31" type="historic">
+                  <label>Conferring of Doctor of Letters Honorary Degree on W. H. Auden 1970</label>
+                  <org sameAs="amp_organization_358" role="is_organizer_of">
+                     <orgName>University of Sheffield</orgName>
+                  </org>
+                  <listPlace>
+                     <place sameAs="amp_place_id_560" type="location" subtype="is_event_location">
+                        <placeName>Sheffield</placeName>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

@@ -6341,5 +6341,47 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "302": {
+    "id": 302,
+    "order": "140.00000000000000000000",
+    "name": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden 1970",
+    "amp_id": "amp_event_id_302",
+    "place_of_event": [
+      {
+        "id": 560,
+        "value": "Sheffield",
+        "order": "457.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1970-04-29",
+    "wikidata": "",
+    "person_event": [],
+    "Comments": "",
+    "end_date": "1970-12-31",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [
+      {
+        "id": 100,
+        "value": "org_event__100",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }
