@@ -1694,6 +1694,11 @@
         "id": 444,
         "value": "relationship_person_id__444",
         "order": "338.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "relationship_person_id__446",
+        "order": "340.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -18927,6 +18932,39 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "554": {
+    "id": 554,
+    "order": "386.00000000000000000000",
+    "name": "Else, Richard",
+    "amp_id": "amp_person_554",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://repository.uwtsd.ac.uk/id/eprint/2666/1/200%20Biographies%20celebrating%20Lampeter%27s%20bicentenary%20English%20version.pdf",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 445,
+        "value": "relationship_person_id__445",
+        "order": "339.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }

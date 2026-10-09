@@ -4705,5 +4705,60 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/9595-3",
     "URL": ""
+  },
+  "360": {
+    "id": 360,
+    "order": "179.00000000000000000000",
+    "name": "University of Wales Trinity Saint David",
+    "wikidata": "https://www.wikidata.org/entity/Q1816905",
+    "amp_id": "amp_organization_360",
+    "founded_in_year": "1822",
+    "comments": "",
+    "location": [
+      {
+        "id": 561,
+        "value": "Lampeter",
+        "order": "458.00000000000000000000"
+      },
+      {
+        "id": 563,
+        "value": "Ceredigion",
+        "order": "460.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 361,
+        "value": "University of Wales",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1000996-6",
+    "URL": ""
+  },
+  "361": {
+    "id": 361,
+    "order": "180.00000000000000000000",
+    "name": "University of Wales",
+    "wikidata": "https://www.wikidata.org/entity/Q1072029",
+    "amp_id": "amp_organization_361",
+    "founded_in_year": "1893",
+    "comments": "",
+    "location": [
+      {
+        "id": 562,
+        "value": "Cardiff",
+        "order": "459.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/40115-8",
+    "URL": ""
   }
 }

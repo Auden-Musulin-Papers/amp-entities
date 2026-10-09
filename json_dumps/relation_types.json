@@ -3182,6 +3182,31 @@
         "id": 560,
         "value": "Sheffield",
         "order": "457.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "Lampeter",
+        "order": "458.00000000000000000000"
+      },
+      {
+        "id": 562,
+        "value": "Cardiff",
+        "order": "459.00000000000000000000"
+      },
+      {
+        "id": 563,
+        "value": "Ceredigion",
+        "order": "460.00000000000000000000"
+      },
+      {
+        "id": 564,
+        "value": "Wales",
+        "order": "461.00000000000000000000"
+      },
+      {
+        "id": 565,
+        "value": "Great Britain",
+        "order": "462.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -6757,6 +6782,11 @@
         "id": 443,
         "value": "relationship_person_id__443",
         "order": "337.00000000000000000000"
+      },
+      {
+        "id": 445,
+        "value": "relationship_person_id__445",
+        "order": "339.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6787,6 +6817,11 @@
         "id": 444,
         "value": "relationship_person_id__444",
         "order": "338.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "relationship_person_id__446",
+        "order": "340.00000000000000000000"
       }
     ],
     "URI": ""

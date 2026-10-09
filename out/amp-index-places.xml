@@ -6201,6 +6201,56 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4118617-5</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_561">
+                  <placeName>Lampeter</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_564">Wales</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2644981/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q728477</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4268838-3</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_562">
+                  <placeName>Cardiff</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_564">Wales</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2653822/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q10690</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4085151-5</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_563">
+                  <placeName>Ceredigion</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_564">Wales</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2653814/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q217829</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4069856-7</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_564">
+                  <placeName>Wales</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2634895/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q25</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4064435-2</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_565">
+                  <placeName>Great Britain</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2648147/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q23666</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4022153-2</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

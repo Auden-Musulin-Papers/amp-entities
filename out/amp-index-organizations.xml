@@ -1942,6 +1942,27 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q823917</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_360">
+                  <orgName>University of Wales Trinity Saint David</orgName>
+                  <desc>Was founded in year <date from-iso="1822-01-01">1822</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_561">Lampeter</placeName>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_563">Ceredigion</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1816905</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_361">
+                  <orgName>University of Wales</orgName>
+                  <desc>Was founded in year <date from-iso="1893-01-01">1893</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_562">Cardiff</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1072029</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

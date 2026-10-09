@@ -20223,5 +20223,218 @@
     "same_as": [],
     "person_place": [],
     "updated_geonames": false
+  },
+  "561": {
+    "id": 561,
+    "order": "458.00000000000000000000",
+    "name": "Lampeter",
+    "amp_id": "amp_place_id_561",
+    "geonames_id": "https://sws.geonames.org/2644981",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 360,
+        "value": "University of Wales Trinity Saint David",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 564,
+        "value": "Wales",
+        "order": "461.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q728477",
+    "gnd": "https://d-nb.info/gnd/4268838-3",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "562": {
+    "id": 562,
+    "order": "459.00000000000000000000",
+    "name": "Cardiff",
+    "amp_id": "amp_place_id_562",
+    "geonames_id": "https://sws.geonames.org/2653822",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 361,
+        "value": "University of Wales",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 564,
+        "value": "Wales",
+        "order": "461.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q10690",
+    "gnd": "https://d-nb.info/gnd/4085151-5",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "563": {
+    "id": 563,
+    "order": "460.00000000000000000000",
+    "name": "Ceredigion",
+    "amp_id": "amp_place_id_563",
+    "geonames_id": "https://sws.geonames.org/2653814",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 360,
+        "value": "University of Wales Trinity Saint David",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 564,
+        "value": "Wales",
+        "order": "461.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q217829",
+    "gnd": "https://d-nb.info/gnd/4069856-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "564": {
+    "id": 564,
+    "order": "461.00000000000000000000",
+    "name": "Wales",
+    "amp_id": "amp_place_id_564",
+    "geonames_id": "https://sws.geonames.org/2634895",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q25",
+    "gnd": "https://d-nb.info/gnd/4064435-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "565": {
+    "id": 565,
+    "order": "462.00000000000000000000",
+    "name": "Great Britain",
+    "amp_id": "amp_place_id_565",
+    "geonames_id": "https://sws.geonames.org/2648147",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q23666",
+    "gnd": "https://d-nb.info/gnd/4022153-2",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
   }
 }
