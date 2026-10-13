@@ -4794,5 +4794,55 @@
     ],
     "gnd": "https://d-nb.info/gnd/4457876-3",
     "URL": ""
+  },
+  "363": {
+    "id": 363,
+    "order": "182.00000000000000000000",
+    "name": "Novello & Co.",
+    "wikidata": "https://www.wikidata.org/entity/Q15919379",
+    "amp_id": "amp_organization_363",
+    "founded_in_year": "1811",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 400,
+        "value": "The Shield of Achilles, for Tenor, Strings, Timpani, and Percussion",
+        "order": "264.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4770371-4",
+    "URL": ""
+  },
+  "364": {
+    "id": 364,
+    "order": "183.00000000000000000000",
+    "name": "Society for the Promotion of New Music",
+    "wikidata": "https://www.wikidata.org/entity/Q7552309",
+    "amp_id": "amp_organization_364",
+    "founded_in_year": "1943",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/111705599X",
+    "URL": ""
   }
 }

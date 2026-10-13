@@ -2341,6 +2341,25 @@ for any purpose, even commercially.</p>
                   <date when="1973">1973</date>
                   <lang>en</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_400" type="musical_score">
+                  <title>The Shield of Achilles, for Tenor, Strings, Timpani, and Percussion</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_557">
+                     <persName>Kelly, Bryan</persName>
+                  </author>
+                  <date when="1967">1967</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_401" type="poem">
+                  <title>The Shield of Achilles</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1952">1952</date>
+                  <lang>en</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>

@@ -11537,5 +11537,102 @@
     "has_date": "1973-03-09",
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "400": {
+    "id": 400,
+    "order": "264.00000000000000000000",
+    "name": "The Shield of Achilles, for Tenor, Strings, Timpani, and Percussion",
+    "lit_work_id": "lit_work_id_400",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 557,
+        "value": "Kelly, Bryan",
+        "order": "389.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1967",
+    "type": [
+      {
+        "id": 23840,
+        "value": "musical_score",
+        "color": "light-brown"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 363,
+        "value": "Novello & Co.",
+        "order": "182.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "401": {
+    "id": 401,
+    "order": "265.00000000000000000000",
+    "name": "The Shield of Achilles",
+    "lit_work_id": "lit_work_id_401",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1952",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 330,
+        "value": "The Shield of Achilles",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

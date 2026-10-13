@@ -735,6 +735,16 @@
         "id": 398,
         "value": "Die große Veränderung (The Great Change)",
         "order": "262.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "The Shield of Achilles, for Tenor, Strings, Timpani, and Percussion",
+        "order": "264.00000000000000000000"
+      },
+      {
+        "id": 401,
+        "value": "The Shield of Achilles",
+        "order": "265.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1709,6 +1719,16 @@
         "id": 448,
         "value": "relationship_person_id__448",
         "order": "342.00000000000000000000"
+      },
+      {
+        "id": 450,
+        "value": "relationship_person_id__450",
+        "order": "344.00000000000000000000"
+      },
+      {
+        "id": 452,
+        "value": "relationship_person_id__452",
+        "order": "346.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19058,6 +19078,78 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "557": {
+    "id": 557,
+    "order": "389.00000000000000000000",
+    "name": "Kelly, Bryan",
+    "amp_id": "amp_person_557",
+    "gnd": "https://d-nb.info/gnd/103778810",
+    "birth_year": "1934",
+    "birth_place": [],
+    "birth_day": "1934-01-03",
+    "death_year": "2026",
+    "death_place": [],
+    "death_day": "2026-09-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 400,
+        "value": "The Shield of Achilles, for Tenor, Strings, Timpani, and Percussion",
+        "order": "264.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q16095682",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 449,
+        "value": "relationship_person_id__449",
+        "order": "343.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "558": {
+    "id": 558,
+    "order": "390.00000000000000000000",
+    "name": "Fox, Orlan",
+    "amp_id": "amp_person_558",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 451,
+        "value": "relationship_person_id__451",
+        "order": "345.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }
