@@ -5497,7 +5497,7 @@
   "156": {
     "id": 156,
     "order": "124.00000000000000000000",
-    "name": "60th Birthday W.H. Auden 1967-02-21",
+    "name": "60th Birthday W. H. Auden 1967-02-21",
     "amp_id": "amp_event_id_156",
     "place_of_event": [],
     "has_type": [
@@ -6345,7 +6345,7 @@
   "302": {
     "id": 302,
     "order": "140.00000000000000000000",
-    "name": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden 1970",
+    "name": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Sheffield 1970-07-18",
     "amp_id": "amp_event_id_302",
     "place_of_event": [
       {
@@ -6361,11 +6361,17 @@
         "color": "light-gray"
       }
     ],
-    "start_date": "1970-04-29",
+    "start_date": "1970-07-18",
     "wikidata": "",
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 554,
+        "value": "person_event__554",
+        "order": "335.00000000000000000000"
+      }
+    ],
     "Comments": "",
-    "end_date": "1970-12-31",
+    "end_date": "1970-07-18",
     "evidence": null,
     "has_sub_type": null,
     "status": {

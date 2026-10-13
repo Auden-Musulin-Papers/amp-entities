@@ -2131,7 +2131,7 @@ for any purpose, even commercially.</p>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_156" notBefore-iso="1967-02-21" notAfter-iso="1967-02-21" type="personal">
-                  <label>60th Birthday W.H. Auden 1967-02-21</label>
+                  <label>60th Birthday W. H. Auden 1967-02-21</label>
                </event>
                <event xml:id="amp_event_id_189" notBefore-iso="1961-08-01" notAfter-iso="1969-07-29" type="meeting" subtype="private">
                   <label>Meeting W. H. Auden and Hugo Kurka 1961-08-01--1969-07-29</label>
@@ -2413,11 +2413,16 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_302" notBefore-iso="1970-04-29" notAfter-iso="1970-12-31" type="historic">
-                  <label>Conferring of Doctor of Letters Honorary Degree on W. H. Auden 1970</label>
+               <event xml:id="amp_event_id_302" notBefore-iso="1970-07-18" notAfter-iso="1970-07-18" type="historic">
+                  <label>Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Sheffield 1970-07-18</label>
                   <org sameAs="amp_organization_358" role="is_organizer_of">
                      <orgName>University of Sheffield</orgName>
                   </org>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_560" type="location" subtype="is_event_location">
                         <placeName>Sheffield</placeName>

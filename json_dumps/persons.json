@@ -1230,6 +1230,11 @@
         "id": 551,
         "value": "person_event__551",
         "order": "332.00000000000000000000"
+      },
+      {
+        "id": 554,
+        "value": "person_event__554",
+        "order": "335.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1699,6 +1704,11 @@
         "id": 446,
         "value": "relationship_person_id__446",
         "order": "340.00000000000000000000"
+      },
+      {
+        "id": 448,
+        "value": "relationship_person_id__448",
+        "order": "342.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -18844,7 +18854,13 @@
     "death_day": null,
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 399,
+        "value": "Back in Time",
+        "order": "263.00000000000000000000"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/entity/Q94685616",
     "Title": [],
     "person_event": [],
@@ -18965,6 +18981,83 @@
         "order": "339.00000000000000000000"
       }
     ],
+    "PMB": "",
+    "gender": null
+  },
+  "555": {
+    "id": 555,
+    "order": "387.00000000000000000000",
+    "name": "Epstein, Barbara",
+    "amp_id": "amp_person_555",
+    "gnd": "https://d-nb.info/gnd/139072764",
+    "birth_year": "1928",
+    "birth_place": [],
+    "birth_day": "1928-08-30",
+    "death_year": "2006",
+    "death_place": [],
+    "death_day": "2006-06-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q856008",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "Zimmerman",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 117,
+        "value": "person_org__117",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 447,
+        "value": "relationship_person_id__447",
+        "order": "341.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "556": {
+    "id": 556,
+    "order": "388.00000000000000000000",
+    "name": "Bonhoeffer, Dietrich",
+    "amp_id": "amp_person_556",
+    "gnd": "https://d-nb.info/gnd/118513214",
+    "birth_year": "1906",
+    "birth_place": [],
+    "birth_day": "1906-02-04",
+    "death_year": "1945",
+    "death_place": [],
+    "death_day": "1945-04-09",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q76326",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      },
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": "",
     "gender": null
   }

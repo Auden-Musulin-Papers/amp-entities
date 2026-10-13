@@ -7384,5 +7384,31 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "554": {
+    "id": 554,
+    "order": "335.00000000000000000000",
+    "amp_id": "person_event__554",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 302,
+        "value": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Sheffield 1970-07-18",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

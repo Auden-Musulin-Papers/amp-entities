@@ -1963,6 +1963,18 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1072029</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_362">
+                  <orgName>The New York Review of Books</orgName>
+                  <desc>Was founded in year <date from-iso="1963-01-01">1963</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1426223</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

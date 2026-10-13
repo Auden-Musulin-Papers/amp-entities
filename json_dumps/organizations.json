@@ -4644,7 +4644,13 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 399,
+        "value": "Back in Time",
+        "order": "263.00000000000000000000"
+      }
+    ],
     "org_event": [],
     "person_org": [
       {
@@ -4759,6 +4765,34 @@
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/40115-8",
+    "URL": ""
+  },
+  "362": {
+    "id": 362,
+    "order": "181.00000000000000000000",
+    "name": "The New York Review of Books",
+    "wikidata": "https://www.wikidata.org/entity/Q1426223",
+    "amp_id": "amp_organization_362",
+    "founded_in_year": "1963",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 117,
+        "value": "person_org__117",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/4457876-3",
     "URL": ""
   }
 }

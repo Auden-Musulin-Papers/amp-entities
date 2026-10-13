@@ -3585,6 +3585,16 @@
         "id": 433,
         "value": "relationship_person_id__433",
         "order": "328.00000000000000000000"
+      },
+      {
+        "id": 447,
+        "value": "relationship_person_id__447",
+        "order": "341.00000000000000000000"
+      },
+      {
+        "id": 448,
+        "value": "relationship_person_id__448",
+        "order": "342.00000000000000000000"
       }
     ],
     "URI": ""
@@ -5149,6 +5159,11 @@
         "id": 553,
         "value": "person_event__553",
         "order": "334.00000000000000000000"
+      },
+      {
+        "id": 554,
+        "value": "person_event__554",
+        "order": "335.00000000000000000000"
       }
     ],
     "org_event": [
@@ -6824,6 +6839,60 @@
         "order": "340.00000000000000000000"
       }
     ],
+    "URI": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "48.00000000000000000000",
+    "name": "is_editor_of",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_edited_by",
+    "amp_id": "relation_type__83",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [
+      {
+        "id": 117,
+        "value": "person_org__117",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "URI": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "49.00000000000000000000",
+    "name": "is_edited_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_editor_of",
+    "amp_id": "relation_type__84",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [],
     "URI": ""
   }
 }

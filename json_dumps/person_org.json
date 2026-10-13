@@ -1398,5 +1398,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "117": {
+    "id": 117,
+    "order": "51.00000000000000000000",
+    "person_org": "person_org__117",
+    "source": [
+      {
+        "id": 555,
+        "value": "Epstein, Barbara",
+        "order": "387.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 362,
+        "value": "The New York Review of Books",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 83,
+        "value": "is_editor_of",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

@@ -11493,5 +11493,49 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "399": {
+    "id": 399,
+    "order": "263.00000000000000000000",
+    "name": "Back in Time",
+    "lit_work_id": "lit_work_id_399",
+    "is_written_by": [
+      {
+        "id": 551,
+        "value": "Driver, Paul",
+        "order": "383.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 9969,
+        "value": "article",
+        "color": "gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "published in Cherwell; \"preview\" of The Dog Beneath the Skin, given at the Oxford Playhouse by Oxford University Dramatic Society in a production by Mark Morris",
+    "has_publisher": [
+      {
+        "id": 355,
+        "value": "Cherwell",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "has_date": "1973-03-09",
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }
