@@ -6594,5 +6594,170 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "308": {
+    "id": 308,
+    "order": "145.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1965-08-09",
+    "amp_id": "amp_event_id_308",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1965-08-09",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 562,
+        "value": "person_event__562",
+        "order": "343.00000000000000000000"
+      },
+      {
+        "id": 563,
+        "value": "person_event__563",
+        "order": "344.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-08-09",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "309": {
+    "id": 309,
+    "order": "146.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1964-09-18",
+    "amp_id": "amp_event_id_309",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1964-09-18",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 564,
+        "value": "person_event__564",
+        "order": "345.00000000000000000000"
+      },
+      {
+        "id": 565,
+        "value": "person_event__565",
+        "order": "346.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-09-18",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "310": {
+    "id": 310,
+    "order": "147.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1964-10-01",
+    "amp_id": "amp_event_id_310",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1964-10-01",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 566,
+        "value": "person_event__566",
+        "order": "347.00000000000000000000"
+      },
+      {
+        "id": 567,
+        "value": "person_event__567",
+        "order": "348.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-10-01",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
   }
 }
