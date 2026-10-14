@@ -640,6 +640,16 @@
         "id": 300,
         "value": "Meeting W. H. Auden and Hugo Kurka 1964-06-30",
         "order": "138.00000000000000000000"
+      },
+      {
+        "id": 306,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1965-08-24",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-06-22",
+        "order": "144.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -1009,6 +1019,11 @@
         "id": 301,
         "value": "Arrival Chester Kallman in Kirchstetten 1964-06-23",
         "order": "139.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "Postcard Hugo Kurka to W. H. Auden 1968-03-28--1968-08-26",
+        "order": "141.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -8243,7 +8258,13 @@
     "country_code": "IT",
     "place_type_class": "A",
     "updated": true,
-    "events": [],
+    "events": [
+      {
+        "id": 305,
+        "value": "Stay Hugo Kurka in Italy 1968-03-28--1968-08-26",
+        "order": "142.00000000000000000000"
+      }
+    ],
     "alternative_link": null,
     "same_as": [],
     "person_place": [],
