@@ -7748,5 +7748,57 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "568": {
+    "id": 568,
+    "order": "349.00000000000000000000",
+    "amp_id": "person_event__568",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 311,
+        "value": "Communication Hugo Kurka to W. H. Auden 1966-03-01--1966-05-04",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "569": {
+    "id": 569,
+    "order": "350.00000000000000000000",
+    "amp_id": "person_event__569",
+    "source": [
+      {
+        "id": 107,
+        "value": "Kurka, Hugo",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 311,
+        "value": "Communication Hugo Kurka to W. H. Auden 1966-03-01--1966-05-04",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

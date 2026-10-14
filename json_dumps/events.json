@@ -6132,7 +6132,7 @@
     },
     "org_event": [],
     "part_of": [],
-    "revised": false,
+    "revised": true,
     "needs_review": true
   },
   "298": {
@@ -6232,7 +6232,7 @@
     },
     "org_event": [],
     "part_of": [],
-    "revised": false,
+    "revised": true,
     "needs_review": true
   },
   "300": {
@@ -6368,11 +6368,7 @@
     "end_date": "1970-07-18",
     "evidence": null,
     "has_sub_type": null,
-    "status": {
-      "id": 12194,
-      "value": "happened",
-      "color": "dark-green"
-    },
+    "status": null,
     "org_event": [
       {
         "id": 100,
@@ -6759,5 +6755,60 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "311": {
+    "id": 311,
+    "order": "148.00000000000000000000",
+    "name": "Communication Hugo Kurka to W. H. Auden 1966-03-01--1966-05-04",
+    "amp_id": "amp_event_id_311",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1966-03-01",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 568,
+        "value": "person_event__568",
+        "order": "349.00000000000000000000"
+      },
+      {
+        "id": 569,
+        "value": "person_event__569",
+        "order": "350.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1966-05-04",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
   }
 }

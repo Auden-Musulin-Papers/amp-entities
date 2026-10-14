@@ -2559,6 +2559,25 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_311" notBefore-iso="1966-03-01" notAfter-iso="1966-05-04" type="correspondence" subtype="private">
+                  <label>Communication Hugo Kurka to W. H. Auden 1966-03-01--1966-05-04</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>
