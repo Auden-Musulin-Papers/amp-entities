@@ -4844,5 +4844,27 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/111705599X",
     "URL": ""
+  },
+  "365": {
+    "id": 365,
+    "order": "184.00000000000000000000",
+    "name": "Juilliard School",
+    "wikidata": "https://www.wikidata.org/entity/Q503246",
+    "amp_id": "amp_organization_365",
+    "founded_in_year": "1905",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1052100724",
+    "URL": ""
   }
 }
