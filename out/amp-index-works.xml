@@ -2360,17 +2360,6 @@ for any purpose, even commercially.</p>
                   <date when="1952">1952</date>
                   <lang>en</lang>
                </bibl>
-               <bibl xml:id="lit_work_id_403" type="libretto">
-                  <title>The Entertainment of the Senses</title>
-                  <author ref="#amp_person_1">
-                     <persName>Auden, W. H.</persName>
-                  </author>
-                  <author ref="#amp_person_4">
-                     <persName>Kallman, Chester</persName>
-                  </author>
-                  <date when="1973">1973</date>
-                  <lang>en</lang>
-               </bibl>
                <bibl xml:id="lit_work_id_404" type="masque">
                   <title>Cupid and Death</title>
                   <author ref="#amp_person_562">
@@ -2395,7 +2384,7 @@ for any purpose, even commercially.</p>
                   <date when="1956">1956</date>
                   <lang>en</lang>
                </bibl>
-               <bibl xml:id="lit_work_id_407" type="musical_score">
+               <bibl xml:id="lit_work_id_407" type="music">
                   <title>The Entertainment of the Senses</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>

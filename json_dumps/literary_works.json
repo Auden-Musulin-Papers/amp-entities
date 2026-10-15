@@ -7105,7 +7105,7 @@
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": null,
-    "Comments": "",
+    "Comments": "antimasque written as an interpolation in a planned production of James Shirley's masque Cupid and Death (1653)",
     "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
@@ -11635,49 +11635,6 @@
     "is_review_of": [],
     "has_external_url": ""
   },
-  "403": {
-    "id": 403,
-    "order": "266.00000000000000000000",
-    "name": "The Entertainment of the Senses",
-    "lit_work_id": "lit_work_id_403",
-    "is_written_by": [
-      {
-        "id": 1,
-        "value": "Auden, W. H.",
-        "order": "1.00000000000000000000"
-      },
-      {
-        "id": 4,
-        "value": "Kallman, Chester",
-        "order": "4.00000000000000000000"
-      }
-    ],
-    "is_linked_with": "",
-    "has_year": "1973",
-    "type": [
-      {
-        "id": 6666,
-        "value": "libretto",
-        "color": "light-blue"
-      }
-    ],
-    "version_of": [],
-    "language": [
-      {
-        "id": 6678,
-        "value": "en",
-        "color": "light-red"
-      }
-    ],
-    "relation_types": [],
-    "is_part_of": [],
-    "FRBR_level": null,
-    "Comments": "antimasque written as an interpolation in a planned production of James Shirley's masque Cupid and Death (1653)",
-    "has_publisher": [],
-    "has_date": null,
-    "is_review_of": [],
-    "has_external_url": ""
-  },
   "404": {
     "id": 404,
     "order": "267.00000000000000000000",
@@ -11828,9 +11785,9 @@
     "has_year": "1974",
     "type": [
       {
-        "id": 23840,
-        "value": "musical_score",
-        "color": "light-brown"
+        "id": 9960,
+        "value": "music",
+        "color": "light-gray"
       }
     ],
     "version_of": [],
@@ -11845,13 +11802,7 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "written as an interpolation to James Shirley's seventeenth-century masque Cupid and Death; first performance in London, Queen Elizabeth Hall,  2 Feb 1974",
-    "has_publisher": [
-      {
-        "id": 69,
-        "value": "Oxford University Press",
-        "order": "67.00000000000000000000"
-      }
-    ],
+    "has_publisher": [],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
