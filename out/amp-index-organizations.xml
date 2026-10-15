@@ -627,6 +627,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>51.75222, -1.25596</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_569">Sheldonian Theatre</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q34433</idno>
                   <note/>
                </org>
@@ -2009,6 +2012,18 @@ for any purpose, even commercially.</p>
                      <geo>40.71427, -74.00597</geo>
                   </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q503246</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_366">
+                  <orgName>Arts Council of Great Britain</orgName>
+                  <desc>Was founded in year <date from-iso="1940-01-01">1940</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59746</idno>
                   <note/>
                </org>
             </listOrg>

@@ -1569,6 +1569,11 @@
         "id": 46,
         "value": "Oxford",
         "order": "46.00000000000000000000"
+      },
+      {
+        "id": 569,
+        "value": "Sheldonian Theatre",
+        "order": "466.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -1934,6 +1939,16 @@
         "id": 162,
         "value": "Auden in Kirchstetten",
         "order": "155.00000000000000000000"
+      },
+      {
+        "id": 405,
+        "value": "Bel and the Dragon",
+        "order": "268.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "The Entertainment of the Senses",
+        "order": "270.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -4865,6 +4880,28 @@
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1052100724",
+    "URL": ""
+  },
+  "366": {
+    "id": 366,
+    "order": "185.00000000000000000000",
+    "name": "Arts Council of Great Britain",
+    "wikidata": "https://www.wikidata.org/entity/Q59746",
+    "amp_id": "amp_organization_366",
+    "founded_in_year": "1940",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1024917-5",
     "URL": ""
   }
 }

@@ -4239,6 +4239,11 @@
         "id": 364,
         "value": "Society for the Promotion of New Music",
         "order": "183.00000000000000000000"
+      },
+      {
+        "id": 366,
+        "value": "Arts Council of Great Britain",
+        "order": "185.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -20523,6 +20528,135 @@
     "relation_types": [],
     "wikidata": "https://www.wikidata.org/entity/Q833",
     "gnd": "https://d-nb.info/gnd/4037203-0",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "567": {
+    "id": 567,
+    "order": "464.00000000000000000000",
+    "name": "10 Lynton Road",
+    "amp_id": "amp_place_id_567",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 568,
+        "value": "New Malden",
+        "order": "465.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 145,
+        "value": "relationship_place_id__145",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "568": {
+    "id": 568,
+    "order": "465.00000000000000000000",
+    "name": "New Malden",
+    "amp_id": "amp_place_id_568",
+    "geonames_id": "https://sws.geonames.org/2641617",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q3054629",
+    "gnd": "https://d-nb.info/gnd/140696-6",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "569": {
+    "id": 569,
+    "order": "466.00000000000000000000",
+    "name": "Sheldonian Theatre",
+    "amp_id": "amp_place_id_569",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 55,
+        "value": "University of Oxford",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 46,
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q83874",
+    "gnd": "https://d-nb.info/gnd/4997320-4",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

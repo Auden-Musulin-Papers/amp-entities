@@ -6258,6 +6258,32 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4037203-0</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_567">
+                  <placeName>10 Lynton Road</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_568">New Malden</placeName>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_568">
+                  <placeName>New Malden</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2641617/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q3054629</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/140696-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_569">
+                  <placeName>Sheldonian Theatre</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_46">Oxford</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q83874</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4997320-4</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

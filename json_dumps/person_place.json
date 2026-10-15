@@ -2243,5 +2243,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "145": {
+    "id": 145,
+    "order": "81.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__145",
+    "source": [
+      {
+        "id": 561,
+        "value": "Gardner, John",
+        "order": "393.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 567,
+        "value": "10 Lynton Road",
+        "order": "464.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

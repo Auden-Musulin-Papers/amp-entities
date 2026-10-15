@@ -11634,5 +11634,226 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "403": {
+    "id": 403,
+    "order": "266.00000000000000000000",
+    "name": "The Entertainment of the Senses",
+    "lit_work_id": "lit_work_id_403",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6666,
+        "value": "libretto",
+        "color": "light-blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "antimasque written as an interpolation in a planned production of James Shirley's masque Cupid and Death (1653)",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "404": {
+    "id": 404,
+    "order": "267.00000000000000000000",
+    "name": "Cupid and Death",
+    "lit_work_id": "lit_work_id_404",
+    "is_written_by": [
+      {
+        "id": 562,
+        "value": "Shirley, James",
+        "order": "394.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1653",
+    "type": [
+      {
+        "id": 23841,
+        "value": "masque",
+        "color": "light-purple"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "405": {
+    "id": 405,
+    "order": "268.00000000000000000000",
+    "name": "Bel and the Dragon",
+    "lit_work_id": "lit_work_id_405",
+    "is_written_by": [
+      {
+        "id": 561,
+        "value": "Gardner, John",
+        "order": "393.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6665,
+        "value": "opera",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 69,
+        "value": "Oxford University Press",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "406": {
+    "id": 406,
+    "order": "269.00000000000000000000",
+    "name": "Seven Songs",
+    "lit_work_id": "lit_work_id_406",
+    "is_written_by": [
+      {
+        "id": 561,
+        "value": "Gardner, John",
+        "order": "393.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1956",
+    "type": [
+      {
+        "id": 9960,
+        "value": "music",
+        "color": "light-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "407": {
+    "id": 407,
+    "order": "270.00000000000000000000",
+    "name": "The Entertainment of the Senses",
+    "lit_work_id": "lit_work_id_407",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "Gardner, John",
+        "order": "393.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1974",
+    "type": [
+      {
+        "id": 23840,
+        "value": "musical_score",
+        "color": "light-brown"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "written as an interpolation to James Shirley's seventeenth-century masque Cupid and Death; first performance in London, Queen Elizabeth Hall,  2 Feb 1974",
+    "has_publisher": [
+      {
+        "id": 69,
+        "value": "Oxford University Press",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

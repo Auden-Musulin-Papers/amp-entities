@@ -745,6 +745,16 @@
         "id": 401,
         "value": "The Shield of Achilles",
         "order": "265.00000000000000000000"
+      },
+      {
+        "id": 403,
+        "value": "The Entertainment of the Senses",
+        "order": "266.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "The Entertainment of the Senses",
+        "order": "270.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1774,6 +1784,11 @@
         "id": 452,
         "value": "relationship_person_id__452",
         "order": "346.00000000000000000000"
+      },
+      {
+        "id": 454,
+        "value": "relationship_person_id__454",
+        "order": "348.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -2439,6 +2454,16 @@
         "id": 214,
         "value": "Die Bassariden: Opera seria mit Intermezzo in einem Akt",
         "order": "206.00000000000000000000"
+      },
+      {
+        "id": 403,
+        "value": "The Entertainment of the Senses",
+        "order": "266.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "The Entertainment of the Senses",
+        "order": "270.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5093626",
@@ -2651,6 +2676,11 @@
         "id": 437,
         "value": "relationship_person_id__437",
         "order": "332.00000000000000000000"
+      },
+      {
+        "id": 456,
+        "value": "relationship_person_id__456",
+        "order": "350.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19291,6 +19321,165 @@
     "fictional_or_real": null,
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q1699735",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "561": {
+    "id": 561,
+    "order": "393.00000000000000000000",
+    "name": "Gardner, John",
+    "amp_id": "amp_person_561",
+    "gnd": "https://d-nb.info/gnd/1016754566",
+    "birth_year": "1917",
+    "birth_place": [],
+    "birth_day": "1917-03-02",
+    "death_year": "2011",
+    "death_place": [],
+    "death_day": "2011-12-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 405,
+        "value": "Bel and the Dragon",
+        "order": "268.00000000000000000000"
+      },
+      {
+        "id": 406,
+        "value": "Seven Songs",
+        "order": "269.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "The Entertainment of the Senses",
+        "order": "270.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q3245055",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 145,
+        "value": "relationship_place_id__145",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 453,
+        "value": "relationship_person_id__453",
+        "order": "347.00000000000000000000"
+      },
+      {
+        "id": 455,
+        "value": "relationship_person_id__455",
+        "order": "349.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "562": {
+    "id": 562,
+    "order": "394.00000000000000000000",
+    "name": "Shirley, James",
+    "amp_id": "amp_person_562",
+    "gnd": "https://d-nb.info/gnd/11879700X",
+    "birth_year": "1596",
+    "birth_place": [],
+    "birth_day": "1596-09-18",
+    "death_year": "1666",
+    "death_place": [],
+    "death_day": "1666-10-27",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 404,
+        "value": "Cupid and Death",
+        "order": "267.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1349914",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "563": {
+    "id": 563,
+    "order": "395.00000000000000000000",
+    "name": "Gardiner, John Eliot",
+    "amp_id": "amp_person_563",
+    "gnd": "https://d-nb.info/gnd/123592704",
+    "birth_year": "1943",
+    "birth_place": [],
+    "birth_day": "1943-04-20",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q160325",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "564": {
+    "id": 564,
+    "order": "396.00000000000000000000",
+    "name": "Gardiner, Rolf",
+    "amp_id": "amp_person_564",
+    "gnd": "https://d-nb.info/gnd/127020128",
+    "birth_year": "1902",
+    "birth_place": [],
+    "birth_day": "1902-11-05",
+    "death_year": "1971",
+    "death_place": [],
+    "death_day": "1971-11-26",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q7360724",
     "Title": [],
     "person_event": [],
     "maiden_name": "",

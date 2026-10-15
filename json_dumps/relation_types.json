@@ -1240,6 +1240,26 @@
         "id": 450,
         "value": "relationship_person_id__450",
         "order": "344.00000000000000000000"
+      },
+      {
+        "id": 453,
+        "value": "relationship_person_id__453",
+        "order": "347.00000000000000000000"
+      },
+      {
+        "id": 454,
+        "value": "relationship_person_id__454",
+        "order": "348.00000000000000000000"
+      },
+      {
+        "id": 455,
+        "value": "relationship_person_id__455",
+        "order": "349.00000000000000000000"
+      },
+      {
+        "id": 456,
+        "value": "relationship_person_id__456",
+        "order": "350.00000000000000000000"
       }
     ],
     "URI": ""
@@ -3227,6 +3247,21 @@
         "id": 565,
         "value": "Great Britain",
         "order": "462.00000000000000000000"
+      },
+      {
+        "id": 567,
+        "value": "10 Lynton Road",
+        "order": "464.00000000000000000000"
+      },
+      {
+        "id": 568,
+        "value": "New Malden",
+        "order": "465.00000000000000000000"
+      },
+      {
+        "id": 569,
+        "value": "Sheldonian Theatre",
+        "order": "466.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4389,6 +4424,11 @@
         "id": 110,
         "value": "relationship_place_id__110",
         "order": "78.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "relationship_place_id__145",
+        "order": "81.00000000000000000000"
       }
     ],
     "person_event": [],
