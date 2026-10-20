@@ -6920,5 +6920,65 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "345": {
+    "id": 345,
+    "order": "151.00000000000000000000",
+    "name": "Stay William Gray with W. H. Auden and Chester Kallman in Kirchstetten 1971-07-04--1971-07-05",
+    "amp_id": "amp_event_id_345",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1971-07-04",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 605,
+        "value": "person_event__605",
+        "order": "355.00000000000000000000"
+      },
+      {
+        "id": 606,
+        "value": "person_event__606",
+        "order": "356.00000000000000000000"
+      },
+      {
+        "id": 607,
+        "value": "person_event__607",
+        "order": "357.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1971-07-05",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

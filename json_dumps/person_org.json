@@ -1510,5 +1510,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "154": {
+    "id": 154,
+    "order": "55.00000000000000000000",
+    "person_org": "person_org__154",
+    "source": [
+      {
+        "id": 601,
+        "value": "Gray, William Shelton Jr.",
+        "order": "400.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 403,
+        "value": "Randolph-Macon College",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

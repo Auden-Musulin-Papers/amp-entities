@@ -5008,5 +5008,61 @@
     "person_org": [],
     "gnd": "",
     "URL": ""
+  },
+  "403": {
+    "id": 403,
+    "order": "190.00000000000000000000",
+    "name": "Randolph-Macon College",
+    "wikidata": "https://www.wikidata.org/entity/Q7291901",
+    "amp_id": "amp_organization_403",
+    "founded_in_year": "1830",
+    "comments": "",
+    "location": [
+      {
+        "id": 602,
+        "value": "Ashland",
+        "order": "467.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 154,
+        "value": "person_org__154",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1001298-9",
+    "URL": ""
+  },
+  "404": {
+    "id": 404,
+    "order": "191.00000000000000000000",
+    "name": "Harcourt, Brace & World Inc.",
+    "wikidata": "https://www.wikidata.org/entity/Q5654997",
+    "amp_id": "amp_organization_404",
+    "founded_in_year": "1919",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 441,
+        "value": "The Unexpected Universe",
+        "order": "271.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1086821378",
+    "URL": ""
   }
 }

@@ -750,6 +750,11 @@
         "id": 407,
         "value": "The Entertainment of the Senses",
         "order": "270.00000000000000000000"
+      },
+      {
+        "id": 442,
+        "value": "Plastic Sense",
+        "order": "272.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1295,6 +1300,11 @@
         "id": 572,
         "value": "person_event__572",
         "order": "353.00000000000000000000"
+      },
+      {
+        "id": 606,
+        "value": "person_event__606",
+        "order": "356.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1799,6 +1809,11 @@
         "id": 493,
         "value": "relationship_person_id__493",
         "order": "356.00000000000000000000"
+      },
+      {
+        "id": 495,
+        "value": "relationship_person_id__495",
+        "order": "358.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -2578,6 +2593,11 @@
         "id": 553,
         "value": "person_event__553",
         "order": "334.00000000000000000000"
+      },
+      {
+        "id": 607,
+        "value": "person_event__607",
+        "order": "357.00000000000000000000"
       }
     ],
     "maiden_name": null,
@@ -2686,6 +2706,11 @@
         "id": 456,
         "value": "relationship_person_id__456",
         "order": "350.00000000000000000000"
+      },
+      {
+        "id": 497,
+        "value": "relationship_person_id__497",
+        "order": "360.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19638,6 +19663,144 @@
         "order": "355.00000000000000000000"
       }
     ],
+    "PMB": "",
+    "gender": null
+  },
+  "601": {
+    "id": 601,
+    "order": "400.00000000000000000000",
+    "name": "Gray, William Shelton Jr.",
+    "amp_id": "amp_person_601",
+    "gnd": "",
+    "birth_year": "1926",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1992",
+    "death_place": [],
+    "death_day": "1992-03-13",
+    "comment": "Auden dedicated poem \"The Aliens\" to Gray",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [
+      {
+        "id": 605,
+        "value": "person_event__605",
+        "order": "355.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "https://graycollections.com/origins/  https://www.audensociety.org/neverwrote.html",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 154,
+        "value": "person_org__154",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 494,
+        "value": "relationship_person_id__494",
+        "order": "357.00000000000000000000"
+      },
+      {
+        "id": 496,
+        "value": "relationship_person_id__496",
+        "order": "359.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "602": {
+    "id": 602,
+    "order": "401.00000000000000000000",
+    "name": "Eiseley, Loren",
+    "amp_id": "amp_person_602",
+    "gnd": "https://d-nb.info/gnd/119465477",
+    "birth_year": "1907",
+    "birth_place": [],
+    "birth_day": "1907-09-03",
+    "death_year": "1977",
+    "death_place": [],
+    "death_day": "1977-07-09",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 441,
+        "value": "The Unexpected Universe",
+        "order": "271.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q2634723",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "603": {
+    "id": 603,
+    "order": "402.00000000000000000000",
+    "name": "Chazal, Malcolm de",
+    "amp_id": "amp_person_603",
+    "gnd": "https://d-nb.info/gnd/119493810",
+    "birth_year": "1902",
+    "birth_place": [],
+    "birth_day": "1902-09-12",
+    "death_year": "1981",
+    "death_place": [],
+    "death_day": "1981-10-01",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 442,
+        "value": "Plastic Sense",
+        "order": "272.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q549230",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": "",
     "gender": null
   }

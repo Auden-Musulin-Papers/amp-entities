@@ -8912,5 +8912,117 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "494": {
+    "id": 494,
+    "order": "357.00000000000000000000",
+    "amp_id": "relationship_person_id__494",
+    "source": [
+      {
+        "id": 601,
+        "value": "Gray, William Shelton Jr.",
+        "order": "400.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "order": "358.00000000000000000000",
+    "amp_id": "relationship_person_id__495",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 601,
+        "value": "Gray, William Shelton Jr.",
+        "order": "400.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "order": "359.00000000000000000000",
+    "amp_id": "relationship_person_id__496",
+    "source": [
+      {
+        "id": 601,
+        "value": "Gray, William Shelton Jr.",
+        "order": "400.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
+  },
+  "497": {
+    "id": 497,
+    "order": "360.00000000000000000000",
+    "amp_id": "relationship_person_id__497",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 601,
+        "value": "Gray, William Shelton Jr.",
+        "order": "400.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 26,
+        "value": "is_acquaintance_of",
+        "order": "26.00000000000000000000"
+      }
+    ]
   }
 }

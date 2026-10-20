@@ -2616,6 +2616,28 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_345" notBefore-iso="1971-07-04" notAfter-iso="1971-07-05" type="meeting" subtype="private">
+                  <label>Stay William Gray with W. H. Auden and Chester Kallman in Kirchstetten 1971-07-04--1971-07-05</label>
+                  <listPerson>
+                     <person sameAs="amp_person_601" role="is_activeparticipant_in">
+                        <persName>Gray, William Shelton Jr.</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

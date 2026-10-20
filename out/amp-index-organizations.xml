@@ -2074,6 +2074,27 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1107096</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_403">
+                  <orgName>Randolph-Macon College</orgName>
+                  <desc>Was founded in year <date from-iso="1830-01-01">1830</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_602">Ashland</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7291901</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_404">
+                  <orgName>Harcourt, Brace &amp; World Inc.</orgName>
+                  <desc>Was founded in year <date from-iso="1919-01-01">1919</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5654997</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

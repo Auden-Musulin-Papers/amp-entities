@@ -3262,6 +3262,11 @@
         "id": 569,
         "value": "Sheldonian Theatre",
         "order": "466.00000000000000000000"
+      },
+      {
+        "id": 602,
+        "value": "Ashland",
+        "order": "467.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4106,6 +4111,26 @@
         "id": 391,
         "value": "relationship_person_id__391",
         "order": "318.00000000000000000000"
+      },
+      {
+        "id": 494,
+        "value": "relationship_person_id__494",
+        "order": "357.00000000000000000000"
+      },
+      {
+        "id": 495,
+        "value": "relationship_person_id__495",
+        "order": "358.00000000000000000000"
+      },
+      {
+        "id": 496,
+        "value": "relationship_person_id__496",
+        "order": "359.00000000000000000000"
+      },
+      {
+        "id": 497,
+        "value": "relationship_person_id__497",
+        "order": "360.00000000000000000000"
       }
     ],
     "URI": ""
@@ -5349,6 +5374,21 @@
         "id": 573,
         "value": "person_event__573",
         "order": "354.00000000000000000000"
+      },
+      {
+        "id": 605,
+        "value": "person_event__605",
+        "order": "355.00000000000000000000"
+      },
+      {
+        "id": 606,
+        "value": "person_event__606",
+        "order": "356.00000000000000000000"
+      },
+      {
+        "id": 607,
+        "value": "person_event__607",
+        "order": "357.00000000000000000000"
       }
     ],
     "org_event": [
@@ -6466,6 +6506,11 @@
         "id": 152,
         "value": "person_org__152",
         "order": "54.00000000000000000000"
+      },
+      {
+        "id": 154,
+        "value": "person_org__154",
+        "order": "55.00000000000000000000"
       }
     ],
     "person_person": [

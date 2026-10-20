@@ -1054,6 +1054,11 @@
         "id": 312,
         "value": "Telegram Hugo Kurka to W. H. Auden 1966-05-20",
         "order": "149.00000000000000000000"
+      },
+      {
+        "id": 345,
+        "value": "Stay William Gray with W. H. Auden and Chester Kallman in Kirchstetten 1971-07-04--1971-07-05",
+        "order": "151.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -2538,6 +2543,11 @@
         "id": 402,
         "value": "The Players",
         "order": "189.00000000000000000000"
+      },
+      {
+        "id": 404,
+        "value": "Harcourt, Brace & World Inc.",
+        "order": "191.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -20678,6 +20688,51 @@
     ],
     "wikidata": "https://www.wikidata.org/entity/Q83874",
     "gnd": "https://d-nb.info/gnd/4997320-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "602": {
+    "id": 602,
+    "order": "467.00000000000000000000",
+    "name": "Ashland",
+    "amp_id": "amp_place_id_602",
+    "geonames_id": "https://sws.geonames.org/4797524",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 403,
+        "value": "Randolph-Macon College",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q725586",
+    "gnd": "https://d-nb.info/gnd/1027670-1",
     "geonames_coordinates": "",
     "place_type": "",
     "country": "",

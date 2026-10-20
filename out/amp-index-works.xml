@@ -2398,6 +2398,25 @@ for any purpose, even commercially.</p>
                   <date when="1974">1974</date>
                   <lang>en</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_441" type="collection_of_essays">
+                  <title>The Unexpected Universe</title>
+                  <author ref="#amp_person_602">
+                     <persName>Eiseley, Loren</persName>
+                  </author>
+                  <date when="1969">1969</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_442" type="book_of_aphorisms">
+                  <title>Plastic Sense</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_603">
+                     <persName>Chazal, Malcolm de</persName>
+                  </author>
+                  <date when="1971">1971</date>
+                  <lang>en</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>
