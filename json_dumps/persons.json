@@ -1784,6 +1784,21 @@
         "id": 454,
         "value": "relationship_person_id__454",
         "order": "348.00000000000000000000"
+      },
+      {
+        "id": 489,
+        "value": "relationship_person_id__489",
+        "order": "352.00000000000000000000"
+      },
+      {
+        "id": 491,
+        "value": "relationship_person_id__491",
+        "order": "354.00000000000000000000"
+      },
+      {
+        "id": 493,
+        "value": "relationship_person_id__493",
+        "order": "356.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -18795,15 +18810,15 @@
   "545": {
     "id": 545,
     "order": "378.00000000000000000000",
-    "name": "Andreae, Fritz",
+    "name": "Andreae, Friedrich Wilhelm",
     "amp_id": "amp_person_545",
     "gnd": "",
     "birth_year": null,
     "birth_place": [],
     "birth_day": null,
-    "death_year": null,
+    "death_year": "1983",
     "death_place": [],
-    "death_day": null,
+    "death_day": "1983-05-05",
     "comment": "",
     "fictional_or_real": null,
     "literary_work": [],
@@ -19092,9 +19107,9 @@
     "name": "Else, Richard",
     "amp_id": "amp_person_554",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1951",
     "birth_place": [],
-    "birth_day": null,
+    "birth_day": "1951-10-22",
     "death_year": null,
     "death_place": [],
     "death_day": null,
@@ -19478,6 +19493,151 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "597": {
+    "id": 597,
+    "order": "397.00000000000000000000",
+    "name": "Gill, Theodore A.",
+    "amp_id": "amp_person_597",
+    "gnd": "https://d-nb.info/gnd/127187952",
+    "birth_year": "1920",
+    "birth_place": [],
+    "birth_day": "1920-01-07",
+    "death_year": "2005",
+    "death_place": [],
+    "death_day": "2005-06-10",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q94934537",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6732,
+        "value": "Revd",
+        "color": "light-blue"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.log24.com/log05/saved/050807-Gill-SFTSobit.html",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 150,
+        "value": "person_org__150",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 488,
+        "value": "relationship_person_id__488",
+        "order": "351.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "598": {
+    "id": 598,
+    "order": "398.00000000000000000000",
+    "name": "Lynch, Gerald W.",
+    "amp_id": "amp_person_598",
+    "gnd": "",
+    "birth_year": "1937",
+    "birth_place": [],
+    "birth_day": "1937-03-24",
+    "death_year": "2013",
+    "death_place": [],
+    "death_day": "2013-04-17",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q5549651",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 18183,
+        "value": "Vice President",
+        "color": "darker-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 151,
+        "value": "person_org__151",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 490,
+        "value": "relationship_person_id__490",
+        "order": "353.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "599": {
+    "id": 599,
+    "order": "399.00000000000000000000",
+    "name": "Cammett, John McKay",
+    "amp_id": "amp_person_599",
+    "gnd": "",
+    "birth_year": "1927",
+    "birth_place": [],
+    "birth_day": "1927-07-08",
+    "death_year": "2008",
+    "death_place": [],
+    "death_day": "2008-07-30",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.historians.org/perspectives-article/john-mckay-cammett-1927-2008-october-2008/",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 152,
+        "value": "person_org__152",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 492,
+        "value": "relationship_person_id__492",
+        "order": "355.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }

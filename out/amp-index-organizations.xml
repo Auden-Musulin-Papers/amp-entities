@@ -2026,6 +2026,54 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59746</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_399">
+                  <orgName>Stanford University</orgName>
+                  <desc>Was founded in year <date from-iso="1885-01-01">1885</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_209">California</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>34.68743, -116.78467</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q41506</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_400">
+                  <orgName>John Jay College of Criminal Justice</orgName>
+                  <desc>Was founded in year <date from-iso="1964-01-01">1964</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1700617</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_401">
+                  <orgName>City University of New York</orgName>
+                  <desc>Was founded in year <date from-iso="1961-01-01">1961</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q762266</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_402">
+                  <orgName>The Players</orgName>
+                  <desc>Was founded in year <date from-iso="1844-01-01">1844</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1107096</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

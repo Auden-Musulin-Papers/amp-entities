@@ -4898,5 +4898,115 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1024917-5",
     "URL": ""
+  },
+  "399": {
+    "id": 399,
+    "order": "186.00000000000000000000",
+    "name": "Stanford University",
+    "wikidata": "https://www.wikidata.org/entity/Q41506",
+    "amp_id": "amp_organization_399",
+    "founded_in_year": "1885",
+    "comments": "",
+    "location": [
+      {
+        "id": 209,
+        "value": "California",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2885-X",
+    "URL": ""
+  },
+  "400": {
+    "id": 400,
+    "order": "187.00000000000000000000",
+    "name": "John Jay College of Criminal Justice",
+    "wikidata": "https://www.wikidata.org/entity/Q1700617",
+    "amp_id": "amp_organization_400",
+    "founded_in_year": "1964",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 401,
+        "value": "City University of New York",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 150,
+        "value": "person_org__150",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 151,
+        "value": "person_org__151",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "person_org__152",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1017544-1",
+    "URL": ""
+  },
+  "401": {
+    "id": 401,
+    "order": "188.00000000000000000000",
+    "name": "City University of New York",
+    "wikidata": "https://www.wikidata.org/entity/Q762266",
+    "amp_id": "amp_organization_401",
+    "founded_in_year": "1961",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/7642-9",
+    "URL": ""
+  },
+  "402": {
+    "id": 402,
+    "order": "189.00000000000000000000",
+    "name": "The Players",
+    "wikidata": "https://www.wikidata.org/entity/Q1107096",
+    "amp_id": "amp_organization_402",
+    "founded_in_year": "1844",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
+    "URL": ""
   }
 }

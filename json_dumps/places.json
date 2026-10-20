@@ -2523,6 +2523,21 @@
         "id": 365,
         "value": "Juilliard School",
         "order": "184.00000000000000000000"
+      },
+      {
+        "id": 400,
+        "value": "John Jay College of Criminal Justice",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 401,
+        "value": "City University of New York",
+        "order": "188.00000000000000000000"
+      },
+      {
+        "id": 402,
+        "value": "The Players",
+        "order": "189.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -10305,7 +10320,13 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 399,
+        "value": "Stanford University",
+        "order": "186.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 15,
