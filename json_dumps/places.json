@@ -670,6 +670,21 @@
         "id": 313,
         "value": "Meeting W. H. Auden and Hugo Kurka 1966-05-23",
         "order": "150.00000000000000000000"
+      },
+      {
+        "id": 378,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1966-08-18",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 379,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-08-25",
+        "order": "153.00000000000000000000"
+      },
+      {
+        "id": 380,
+        "value": "Meeting W. H. Auden and Hugo Kurka 1964-07-14",
+        "order": "154.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -8321,7 +8336,7 @@
     "events": [
       {
         "id": 305,
-        "value": "Stay Hugo Kurka in Italy 1968-03-28--1968-08-26",
+        "value": "Journey Hugo Kurka to Italy 1968-03-28--1968-08-26",
         "order": "142.00000000000000000000"
       }
     ],
@@ -16127,7 +16142,13 @@
     "country_code": "GR",
     "place_type_class": "A",
     "updated": true,
-    "events": [],
+    "events": [
+      {
+        "id": 381,
+        "value": "Journey W. H. Auden and Chester Kallman to Greece and Yugoslavia 1964-08-03--1964-08-10",
+        "order": "155.00000000000000000000"
+      }
+    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],

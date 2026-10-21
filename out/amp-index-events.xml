@@ -2449,7 +2449,7 @@ for any purpose, even commercially.</p>
                   </listPlace>
                </event>
                <event xml:id="amp_event_id_305" notBefore-iso="1968-03-28" notAfter-iso="1968-08-26" type="travel">
-                  <label>Stay Hugo Kurka in Italy 1968-03-28--1968-08-26</label>
+                  <label>Journey Hugo Kurka to Italy 1968-03-28--1968-08-26</label>
                   <listPerson>
                      <person sameAs="amp_person_107" role="is_activeparticipant_in">
                         <persName>Kurka, Hugo</persName>
@@ -2616,7 +2616,7 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_345" notBefore-iso="1971-07-04" notAfter-iso="1971-07-05" type="meeting" subtype="private">
+               <event xml:id="amp_event_id_345" notBefore-iso="1971-07-04" notAfter-iso="1971-07-05" type="meeting" subtype="unclear">
                   <label>Stay William Gray with W. H. Auden and Chester Kallman in Kirchstetten 1971-07-04--1971-07-05</label>
                   <listPerson>
                      <person sameAs="amp_person_601" role="is_activeparticipant_in">
@@ -2634,6 +2634,82 @@ for any purpose, even commercially.</p>
                         <placeName>Kirchstetten</placeName>
                         <location type="coords">
                            <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_378" notBefore-iso="1966-08-18" notAfter-iso="1966-08-18" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1966-08-18</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_379" notBefore-iso="1964-08-25" notAfter-iso="1964-08-25" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1964-08-25</label>
+                  <listPerson>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_380" notBefore-iso="1964-07-14" notAfter-iso="1964-07-14" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1964-07-14</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_381" notBefore-iso="1964-08-03" notAfter-iso="1964-08-10" type="travel" subtype="private">
+                  <label>Journey W. H. Auden and Chester Kallman to Greece and Yugoslavia 1964-08-03--1964-08-10</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_358" type="location" subtype="is_event_location">
+                        <placeName>Hellenic Republic</placeName>
+                        <location type="coords">
+                           <geo>39, 22</geo>
                         </location>
                      </place>
                   </listPlace>
