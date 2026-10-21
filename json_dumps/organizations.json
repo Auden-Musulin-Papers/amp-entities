@@ -2438,6 +2438,11 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 635,
+        "value": "Argentinierstraße 22",
+        "order": "468.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -2449,7 +2454,13 @@
       }
     ],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 187,
+        "value": "person_org__187",
+        "order": "56.00000000000000000000"
+      }
+    ],
     "gnd": "https://d-nb.info/gnd/2020839-X",
     "URL": ""
   },

@@ -3267,6 +3267,11 @@
         "id": 602,
         "value": "Ashland",
         "order": "467.00000000000000000000"
+      },
+      {
+        "id": 635,
+        "value": "Argentinierstraße 22",
+        "order": "468.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4041,6 +4046,16 @@
         "id": 442,
         "value": "relationship_person_id__442",
         "order": "336.00000000000000000000"
+      },
+      {
+        "id": 527,
+        "value": "relationship_person_id__527",
+        "order": "361.00000000000000000000"
+      },
+      {
+        "id": 528,
+        "value": "relationship_person_id__528",
+        "order": "362.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6405,6 +6420,11 @@
         "id": 144,
         "value": "relationship_place_id__144",
         "order": "80.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "relationship_place_id__146",
+        "order": "82.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -6551,6 +6571,11 @@
         "id": 154,
         "value": "person_org__154",
         "order": "55.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "person_org__187",
+        "order": "56.00000000000000000000"
       }
     ],
     "person_person": [

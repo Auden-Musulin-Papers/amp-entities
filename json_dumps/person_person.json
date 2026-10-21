@@ -9024,5 +9024,61 @@
         "order": "26.00000000000000000000"
       }
     ]
+  },
+  "527": {
+    "id": 527,
+    "order": "361.00000000000000000000",
+    "amp_id": "relationship_person_id__527",
+    "source": [
+      {
+        "id": 636,
+        "value": "Hansen-Löve, Friedrich Aage",
+        "order": "403.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 25,
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
+      }
+    ]
+  },
+  "528": {
+    "id": 528,
+    "order": "362.00000000000000000000",
+    "amp_id": "relationship_person_id__528",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 636,
+        "value": "Hansen-Löve, Friedrich Aage",
+        "order": "403.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 25,
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
+      }
+    ]
   }
 }

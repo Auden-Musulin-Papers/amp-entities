@@ -6294,6 +6294,14 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/1027670-1</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_635">
+                  <placeName>Argentinierstraße 22</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q106193373</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

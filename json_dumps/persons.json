@@ -1834,6 +1834,11 @@
         "id": 495,
         "value": "relationship_person_id__495",
         "order": "358.00000000000000000000"
+      },
+      {
+        "id": 528,
+        "value": "relationship_person_id__528",
+        "order": "362.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19841,6 +19846,62 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "636": {
+    "id": 636,
+    "order": "403.00000000000000000000",
+    "name": "Hansen-Löve, Friedrich Aage",
+    "amp_id": "amp_person_636",
+    "gnd": "https://d-nb.info/gnd/116460229",
+    "birth_year": "1919",
+    "birth_place": [],
+    "birth_day": "1919-12-29",
+    "death_year": "1997",
+    "death_place": [],
+    "death_day": "1997-01-07",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q59653380",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 146,
+        "value": "relationship_place_id__146",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 187,
+        "value": "person_org__187",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 527,
+        "value": "relationship_person_id__527",
+        "order": "361.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }

@@ -1538,5 +1538,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "187": {
+    "id": 187,
+    "order": "56.00000000000000000000",
+    "person_org": "person_org__187",
+    "source": [
+      {
+        "id": 636,
+        "value": "Hansen-Löve, Friedrich Aage",
+        "order": "403.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 88,
+        "value": "Österreichischer Rundfunk (Austrian Broadcasting Corporation)",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }
