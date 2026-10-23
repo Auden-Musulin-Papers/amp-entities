@@ -2714,6 +2714,18 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_414" notBefore-iso="1967-04-21" notAfter-iso="1967-04-21" type="historic">
+                  <label>1967 Greek coup d'état</label>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q13534264</idno>
+                  <listPlace>
+                     <place sameAs="amp_place_id_358" type="location" subtype="is_event_location">
+                        <placeName>Hellenic Republic</placeName>
+                        <location type="coords">
+                           <geo>39, 22</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

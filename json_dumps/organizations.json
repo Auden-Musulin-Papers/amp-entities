@@ -459,6 +459,11 @@
         "id": 196,
         "value": "Selected Poetry of W. H. Auden: Second Edition",
         "order": "189.00000000000000000000"
+      },
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -5074,6 +5079,122 @@
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/1086821378",
+    "URL": ""
+  },
+  "405": {
+    "id": 405,
+    "order": "192.00000000000000000000",
+    "name": "The Massachusetts Review",
+    "wikidata": "https://www.wikidata.org/entity/Q7750558",
+    "amp_id": "amp_organization_405",
+    "founded_in_year": "1959",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/7664701-8",
+    "URL": ""
+  },
+  "406": {
+    "id": 406,
+    "order": "193.00000000000000000000",
+    "name": "The Quest",
+    "wikidata": "",
+    "amp_id": "amp_organization_406",
+    "founded_in_year": "1965",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 220,
+        "value": "person_org__220",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "gnd": "",
+    "URL": "https://research.hrc.utexas.edu/fasearch/pdf/00078.pdf"
+  },
+  "407": {
+    "id": 407,
+    "order": "194.00000000000000000000",
+    "name": "Bantam Books",
+    "wikidata": "https://www.wikidata.org/entity/Q2609948",
+    "amp_id": "amp_organization_407",
+    "founded_in_year": "1945",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/7750151-2",
+    "URL": ""
+  },
+  "408": {
+    "id": 408,
+    "order": "195.00000000000000000000",
+    "name": "The Observer",
+    "wikidata": "https://www.wikidata.org/entity/Q336197",
+    "amp_id": "amp_organization_408",
+    "founded_in_year": "1791",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4185016-6",
+    "URL": ""
+  },
+  "409": {
+    "id": 409,
+    "order": "196.00000000000000000000",
+    "name": "Fulbright Scholarship",
+    "wikidata": "https://www.wikidata.org/entity/Q253936",
+    "amp_id": "amp_organization_409",
+    "founded_in_year": "1946",
+    "comments": "",
+    "location": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4155621-5",
     "URL": ""
   }
 }

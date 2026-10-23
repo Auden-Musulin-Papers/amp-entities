@@ -1721,7 +1721,18 @@
     "death_place": [],
     "google_maps_coordinates": "",
     "comments": null,
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 405,
+        "value": "The Massachusetts Review",
+        "order": "192.00000000000000000000"
+      },
+      {
+        "id": 409,
+        "value": "Fulbright Scholarship",
+        "order": "196.00000000000000000000"
+      }
+    ],
     "is_part_of": [],
     "relation_types": [],
     "wikidata": "http://www.wikidata.org/entity/Q30",
@@ -2563,6 +2574,16 @@
         "id": 404,
         "value": "Harcourt, Brace & World Inc.",
         "order": "191.00000000000000000000"
+      },
+      {
+        "id": 406,
+        "value": "The Quest",
+        "order": "193.00000000000000000000"
+      },
+      {
+        "id": 407,
+        "value": "Bantam Books",
+        "order": "194.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -4284,6 +4305,11 @@
         "id": 366,
         "value": "Arts Council of Great Britain",
         "order": "185.00000000000000000000"
+      },
+      {
+        "id": 408,
+        "value": "The Observer",
+        "order": "195.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -16147,6 +16173,11 @@
         "id": 381,
         "value": "Journey W. H. Auden and Chester Kallman to Greece and Yugoslavia 1964-08-03--1964-08-10",
         "order": "155.00000000000000000000"
+      },
+      {
+        "id": 414,
+        "value": "1967 Greek coup d'état",
+        "order": "156.00000000000000000000"
       }
     ],
     "alternative_link": "",
@@ -20815,6 +20846,129 @@
         "order": "82.00000000000000000000"
       }
     ],
+    "updated_geonames": false
+  },
+  "668": {
+    "id": 668,
+    "order": "469.00000000000000000000",
+    "name": "749 Washington Street",
+    "amp_id": "amp_place_id_668",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q4105528",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 179,
+        "value": "relationship_place_id__179",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "669": {
+    "id": 669,
+    "order": "470.00000000000000000000",
+    "name": "Amherst",
+    "amp_id": "amp_place_id_669",
+    "geonames_id": "https://sws.geonames.org/4929022",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q49164",
+    "gnd": "https://d-nb.info/gnd/4120880-8",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "670": {
+    "id": 670,
+    "order": "471.00000000000000000000",
+    "name": "Strasbourg",
+    "amp_id": "amp_place_id_670",
+    "geonames_id": "https://sws.geonames.org/2973783",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 83,
+        "value": "France",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q6602",
+    "gnd": "https://d-nb.info/gnd/4057878-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
     "updated_geonames": false
   }
 }

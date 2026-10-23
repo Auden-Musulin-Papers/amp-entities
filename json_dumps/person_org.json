@@ -1566,5 +1566,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "220": {
+    "id": 220,
+    "order": "57.00000000000000000000",
+    "person_org": "person_org__220",
+    "source": [
+      {
+        "id": 672,
+        "value": "Levitin, Alexis",
+        "order": "407.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 406,
+        "value": "The Quest",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 116,
+        "value": "is_founder_of",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

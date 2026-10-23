@@ -9080,5 +9080,160 @@
         "order": "25.00000000000000000000"
       }
     ]
+  },
+  "560": {
+    "id": 560,
+    "order": "363.00000000000000000000",
+    "amp_id": "relationship_person_id__560",
+    "source": [
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "561": {
+    "id": 561,
+    "order": "364.00000000000000000000",
+    "amp_id": "relationship_person_id__561",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "562": {
+    "id": 562,
+    "order": "365.00000000000000000000",
+    "amp_id": "relationship_person_id__562",
+    "source": [
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "564": {
+    "id": 564,
+    "order": "366.00000000000000000000",
+    "amp_id": "relationship_person_id__564",
+    "source": [
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 674,
+        "value": "Salus, Mary W.",
+        "order": "409.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
+  },
+  "565": {
+    "id": 565,
+    "order": "367.00000000000000000000",
+    "amp_id": "relationship_person_id__565",
+    "source": [
+      {
+        "id": 674,
+        "value": "Salus, Mary W.",
+        "order": "409.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
   }
 }

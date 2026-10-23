@@ -311,7 +311,7 @@ for any purpose, even commercially.</p>
                   <lang>en</lang>
                </bibl>
                <bibl xml:id="lit_work_id_27" type="collection_of_poems">
-                  <title>The Elder Edda</title>
+                  <title>Poetic Edda</title>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q205874</idno>
                   <lang>non</lang>
                </bibl>
@@ -2416,6 +2416,98 @@ for any purpose, even commercially.</p>
                   </author>
                   <date when="1971">1971</date>
                   <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_444" type="collection_of_poems">
+                  <title>The Elder Edda: A Selection</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_669">
+                     <persName>Salus, Peter H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <date when="1969">1969</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_445" type="poem">
+                  <title>Skirnir's Ride</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_446" type="poem">
+                  <title>The Treachery of Asmund</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_447" type="poem">
+                  <title>The Waking of Angantyr</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_448" type="poem">
+                  <title>The Lay of Vafthrudnir</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_449" type="poem">
+                  <title>The Lay of Grimnir</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_450" type="poem">
+                  <title>The Lay of Erik</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_451" type="poem">
+                  <title>The Words of the High One</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_671">
+                     <persName>Taylor, Paul Beekman</persName>
+                  </author>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_452" type="novel">
+                  <title>Buddenbrooks</title>
+                  <author ref="#amp_person_673">
+                     <persName>Mann, Thomas</persName>
+                  </author>
+                  <date when="1901">1901</date>
+                  <lang>de</lang>
                </bibl>
             </listBibl>
          </div>

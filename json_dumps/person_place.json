@@ -2299,5 +2299,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "179": {
+    "id": 179,
+    "order": "83.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__179",
+    "source": [
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 668,
+        "value": "749 Washington Street",
+        "order": "469.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

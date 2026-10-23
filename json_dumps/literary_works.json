@@ -1118,7 +1118,7 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "The Elder Edda",
+    "name": "Poetic Edda",
     "lit_work_id": "lit_work_id_27",
     "is_written_by": [],
     "is_linked_with": "https://www.wikidata.org/wiki/Q205874",
@@ -11894,6 +11894,519 @@
     "is_part_of": [],
     "FRBR_level": null,
     "Comments": "edited and translated by Irving J. Weiss; introduction by W. H. Auden",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "444": {
+    "id": 444,
+    "order": "273.00000000000000000000",
+    "name": "The Elder Edda: A Selection",
+    "lit_work_id": "lit_work_id_444",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 669,
+        "value": "Salus, Peter H.",
+        "order": "404.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 9985,
+        "value": "collection_of_poems",
+        "color": "gray"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [
+      {
+        "id": 27,
+        "value": "Poetic Edda",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "translated from the Icelandic by Paul B. Taylor and W. H. Auden; introduction by Peter H. Salus and Paul B. Taylor; notes by Peter H. Salus",
+    "has_publisher": [
+      {
+        "id": 12,
+        "value": "Random House",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "445": {
+    "id": 445,
+    "order": "274.00000000000000000000",
+    "name": "Skirnir's Ride",
+    "lit_work_id": "lit_work_id_445",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "446": {
+    "id": 446,
+    "order": "275.00000000000000000000",
+    "name": "The Treachery of Asmund",
+    "lit_work_id": "lit_work_id_446",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "447": {
+    "id": 447,
+    "order": "276.00000000000000000000",
+    "name": "The Waking of Angantyr",
+    "lit_work_id": "lit_work_id_447",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "448": {
+    "id": 448,
+    "order": "277.00000000000000000000",
+    "name": "The Lay of Vafthrudnir",
+    "lit_work_id": "lit_work_id_448",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "449": {
+    "id": 449,
+    "order": "278.00000000000000000000",
+    "name": "The Lay of Grimnir",
+    "lit_work_id": "lit_work_id_449",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "450": {
+    "id": 450,
+    "order": "279.00000000000000000000",
+    "name": "The Lay of Erik",
+    "lit_work_id": "lit_work_id_450",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "451": {
+    "id": 451,
+    "order": "280.00000000000000000000",
+    "name": "The Words of the High One",
+    "lit_work_id": "lit_work_id_451",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 671,
+        "value": "Taylor, Paul Beekman",
+        "order": "406.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": null,
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "452": {
+    "id": 452,
+    "order": "281.00000000000000000000",
+    "name": "Buddenbrooks",
+    "lit_work_id": "lit_work_id_452",
+    "is_written_by": [
+      {
+        "id": 673,
+        "value": "Mann, Thomas",
+        "order": "408.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1901",
+    "type": [
+      {
+        "id": 6663,
+        "value": "novel",
+        "color": "dark-blue"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
     "has_publisher": [],
     "has_date": null,
     "is_review_of": [],

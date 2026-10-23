@@ -785,6 +785,16 @@
         "id": 383,
         "value": "relationship_person_id__383",
         "order": "312.00000000000000000000"
+      },
+      {
+        "id": 564,
+        "value": "relationship_person_id__564",
+        "order": "366.00000000000000000000"
+      },
+      {
+        "id": 565,
+        "value": "relationship_person_id__565",
+        "order": "367.00000000000000000000"
       }
     ],
     "URI": ""
@@ -1260,6 +1270,21 @@
         "id": 456,
         "value": "relationship_person_id__456",
         "order": "350.00000000000000000000"
+      },
+      {
+        "id": 560,
+        "value": "relationship_person_id__560",
+        "order": "363.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "relationship_person_id__561",
+        "order": "364.00000000000000000000"
+      },
+      {
+        "id": 562,
+        "value": "relationship_person_id__562",
+        "order": "365.00000000000000000000"
       }
     ],
     "URI": ""
@@ -3272,6 +3297,21 @@
         "id": 635,
         "value": "Argentinierstraße 22",
         "order": "468.00000000000000000000"
+      },
+      {
+        "id": 668,
+        "value": "749 Washington Street",
+        "order": "469.00000000000000000000"
+      },
+      {
+        "id": 669,
+        "value": "Amherst",
+        "order": "470.00000000000000000000"
+      },
+      {
+        "id": 670,
+        "value": "Strasbourg",
+        "order": "471.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4499,6 +4539,11 @@
         "id": 145,
         "value": "relationship_place_id__145",
         "order": "81.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "relationship_place_id__179",
+        "order": "83.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -7194,6 +7239,60 @@
     ],
     "inverse": "is_editor_of",
     "amp_id": "relation_type__84",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [],
+    "person_person": [],
+    "URI": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "50.00000000000000000000",
+    "name": "is_founder_of",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_founded_by",
+    "amp_id": "relation_type__116",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [
+      {
+        "id": 220,
+        "value": "person_org__220",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "URI": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "51.00000000000000000000",
+    "name": "is_founded_by",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_founder_of",
+    "amp_id": "relation_type__117",
     "literary_works": [],
     "places": [],
     "person_place": [],

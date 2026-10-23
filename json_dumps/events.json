@@ -7192,5 +7192,37 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "414": {
+    "id": 414,
+    "order": "156.00000000000000000000",
+    "name": "1967 Greek coup d'état",
+    "amp_id": "amp_event_id_414",
+    "place_of_event": [
+      {
+        "id": 358,
+        "value": "Hellenic Republic",
+        "order": "357.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1967-04-21",
+    "wikidata": "https://www.wikidata.org/entity/Q13534264",
+    "person_event": [],
+    "Comments": "",
+    "end_date": "1967-04-21",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": null,
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

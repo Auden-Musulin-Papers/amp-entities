@@ -2098,6 +2098,65 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5654997</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_405">
+                  <orgName>The Massachusetts Review</orgName>
+                  <desc>Was founded in year <date from-iso="1959-01-01">1959</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7750558</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_406">
+                  <orgName>The Quest</orgName>
+                  <desc>Was founded in year <date from-iso="1965-01-01">1965</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_407">
+                  <orgName>Bantam Books</orgName>
+                  <desc>Was founded in year <date from-iso="1945-01-01">1945</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2609948</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_408">
+                  <orgName>The Observer</orgName>
+                  <desc>Was founded in year <date from-iso="1791-01-01">1791</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q336197</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_409">
+                  <orgName>Fulbright Scholarship</orgName>
+                  <desc>Was founded in year <date from-iso="1946-01-01">1946</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>39.76, -98.5</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q253936</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

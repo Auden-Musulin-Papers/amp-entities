@@ -755,6 +755,46 @@
         "id": 442,
         "value": "Plastic Sense",
         "order": "272.00000000000000000000"
+      },
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      },
+      {
+        "id": 445,
+        "value": "Skirnir's Ride",
+        "order": "274.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "The Treachery of Asmund",
+        "order": "275.00000000000000000000"
+      },
+      {
+        "id": 447,
+        "value": "The Waking of Angantyr",
+        "order": "276.00000000000000000000"
+      },
+      {
+        "id": 448,
+        "value": "The Lay of Vafthrudnir",
+        "order": "277.00000000000000000000"
+      },
+      {
+        "id": 449,
+        "value": "The Lay of Grimnir",
+        "order": "278.00000000000000000000"
+      },
+      {
+        "id": 450,
+        "value": "The Lay of Erik",
+        "order": "279.00000000000000000000"
+      },
+      {
+        "id": 451,
+        "value": "The Words of the High One",
+        "order": "280.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1839,6 +1879,11 @@
         "id": 528,
         "value": "relationship_person_id__528",
         "order": "362.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "relationship_person_id__561",
+        "order": "364.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19900,6 +19945,296 @@
         "id": 527,
         "value": "relationship_person_id__527",
         "order": "361.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "669": {
+    "id": 669,
+    "order": "404.00000000000000000000",
+    "name": "Salus, Peter H.",
+    "amp_id": "amp_person_669",
+    "gnd": "",
+    "birth_year": "1938",
+    "birth_place": [],
+    "birth_day": "1938-05-13",
+    "death_year": "2026",
+    "death_place": [],
+    "death_day": "2026-05-15",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q7174458",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 179,
+        "value": "relationship_place_id__179",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 560,
+        "value": "relationship_person_id__560",
+        "order": "363.00000000000000000000"
+      },
+      {
+        "id": 564,
+        "value": "relationship_person_id__564",
+        "order": "366.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "670": {
+    "id": 670,
+    "order": "405.00000000000000000000",
+    "name": "Lichtenberg, Georg Christoph",
+    "amp_id": "amp_person_670",
+    "gnd": "https://d-nb.info/gnd/118572628",
+    "birth_year": "1742",
+    "birth_place": [],
+    "birth_day": "1742-07-01",
+    "death_year": "1799",
+    "death_place": [],
+    "death_day": "1799-02-24",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q57554",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "671": {
+    "id": 671,
+    "order": "406.00000000000000000000",
+    "name": "Taylor, Paul Beekman",
+    "amp_id": "amp_person_671",
+    "gnd": "https://d-nb.info/gnd/129969281",
+    "birth_year": "1930",
+    "birth_place": [],
+    "birth_day": "1930-12-31",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 444,
+        "value": "The Elder Edda: A Selection",
+        "order": "273.00000000000000000000"
+      },
+      {
+        "id": 445,
+        "value": "Skirnir's Ride",
+        "order": "274.00000000000000000000"
+      },
+      {
+        "id": 446,
+        "value": "The Treachery of Asmund",
+        "order": "275.00000000000000000000"
+      },
+      {
+        "id": 447,
+        "value": "The Waking of Angantyr",
+        "order": "276.00000000000000000000"
+      },
+      {
+        "id": 448,
+        "value": "The Lay of Vafthrudnir",
+        "order": "277.00000000000000000000"
+      },
+      {
+        "id": 449,
+        "value": "The Lay of Grimnir",
+        "order": "278.00000000000000000000"
+      },
+      {
+        "id": 450,
+        "value": "The Lay of Erik",
+        "order": "279.00000000000000000000"
+      },
+      {
+        "id": 451,
+        "value": "The Words of the High One",
+        "order": "280.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q105522837",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 562,
+        "value": "relationship_person_id__562",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "672": {
+    "id": 672,
+    "order": "407.00000000000000000000",
+    "name": "Levitin, Alexis",
+    "amp_id": "amp_person_672",
+    "gnd": "https://d-nb.info/gnd/1158152310",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.plattsburgh.edu/academics/schools/arts-sciences/english/faculty/levitin-alexis.html",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 220,
+        "value": "person_org__220",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "673": {
+    "id": 673,
+    "order": "408.00000000000000000000",
+    "name": "Mann, Thomas",
+    "amp_id": "amp_person_673",
+    "gnd": "https://d-nb.info/gnd/118577166",
+    "birth_year": "1875",
+    "birth_place": [],
+    "birth_day": "1875-06-06",
+    "death_year": "1955",
+    "death_place": [],
+    "death_day": "1955-08-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 452,
+        "value": "Buddenbrooks",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entities/Q37030",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "674": {
+    "id": 674,
+    "order": "409.00000000000000000000",
+    "name": "Salus, Mary W.",
+    "amp_id": "amp_person_674",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 565,
+        "value": "relationship_person_id__565",
+        "order": "367.00000000000000000000"
       }
     ],
     "PMB": "",

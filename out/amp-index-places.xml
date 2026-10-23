@@ -6302,6 +6302,34 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q106193373</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_668">
+                  <placeName>749 Washington Street</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q4105528</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_669">
+                  <placeName>Amherst</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4929022/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q49164</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4120880-8</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_670">
+                  <placeName>Strasbourg</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_83">France</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2973783/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q6602</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4057878-1</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>
