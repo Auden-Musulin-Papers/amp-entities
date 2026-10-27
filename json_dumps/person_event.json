@@ -8190,5 +8190,57 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "677": {
+    "id": 677,
+    "order": "366.00000000000000000000",
+    "amp_id": "person_event__677",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 415,
+        "value": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "678": {
+    "id": 678,
+    "order": "367.00000000000000000000",
+    "amp_id": "person_event__678",
+    "source": [
+      {
+        "id": 546,
+        "value": "Cox, Brian",
+        "order": "379.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 415,
+        "value": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ]
   }
 }

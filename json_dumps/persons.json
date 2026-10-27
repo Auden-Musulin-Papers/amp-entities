@@ -1365,6 +1365,11 @@
         "id": 644,
         "value": "person_event__644",
         "order": "364.00000000000000000000"
+      },
+      {
+        "id": 677,
+        "value": "person_event__677",
+        "order": "366.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1884,6 +1889,11 @@
         "id": 561,
         "value": "relationship_person_id__561",
         "order": "364.00000000000000000000"
+      },
+      {
+        "id": 598,
+        "value": "relationship_person_id__598",
+        "order": "369.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -18972,7 +18982,13 @@
         "color": "light-gray"
       }
     ],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 678,
+        "value": "person_event__678",
+        "order": "367.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -18982,6 +18998,11 @@
         "id": 112,
         "value": "person_org__112",
         "order": "47.00000000000000000000"
+      },
+      {
+        "id": 221,
+        "value": "person_org__221",
+        "order": "58.00000000000000000000"
       }
     ],
     "person_person": [
@@ -20189,7 +20210,7 @@
         "order": "281.00000000000000000000"
       }
     ],
-    "wikidata": "https://www.wikidata.org/entities/Q37030",
+    "wikidata": "https://www.wikidata.org/entity/Q37030",
     "Title": [],
     "person_event": [],
     "maiden_name": "",
@@ -20237,6 +20258,132 @@
         "order": "367.00000000000000000000"
       }
     ],
+    "PMB": "",
+    "gender": null
+  },
+  "707": {
+    "id": 707,
+    "order": "410.00000000000000000000",
+    "name": "Boothby, Emily Albertine",
+    "amp_id": "amp_person_707",
+    "gnd": "",
+    "birth_year": "1948",
+    "birth_place": [],
+    "birth_day": "1948-12-23",
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entitiy/Q75488959",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "708": {
+    "id": 708,
+    "order": "411.00000000000000000000",
+    "name": "Hoggart, Richard",
+    "amp_id": "amp_person_708",
+    "gnd": "https://d-nb.info/gnd/132048264",
+    "birth_year": "1918",
+    "birth_place": [],
+    "birth_day": "1918-09-24",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-04-10",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1534871",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 254,
+        "value": "person_org__254",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 255,
+        "value": "person_org__255",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 597,
+        "value": "relationship_person_id__597",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "709": {
+    "id": 709,
+    "order": "412.00000000000000000000",
+    "name": "Hall, Stuart",
+    "amp_id": "amp_person_709",
+    "gnd": "https://d-nb.info/gnd/119345862",
+    "birth_year": "1932",
+    "birth_place": [],
+    "birth_day": "1932-02-03",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-02-10",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q450741",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 256,
+        "value": "person_org__256",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "person_person": [],
     "PMB": "",
     "gender": null
   }

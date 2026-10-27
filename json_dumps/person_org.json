@@ -1594,5 +1594,117 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "221": {
+    "id": 221,
+    "order": "58.00000000000000000000",
+    "person_org": "person_org__221",
+    "source": [
+      {
+        "id": 546,
+        "value": "Cox, Brian",
+        "order": "379.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 411,
+        "value": "Manchester Poetry Centre",
+        "order": "197.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 116,
+        "value": "is_founder_of",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "254": {
+    "id": 254,
+    "order": "59.00000000000000000000",
+    "person_org": "person_org__254",
+    "source": [
+      {
+        "id": 708,
+        "value": "Hoggart, Richard",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 443,
+        "value": "University of Birmingham Department of English",
+        "order": "198.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "255": {
+    "id": 255,
+    "order": "60.00000000000000000000",
+    "person_org": "person_org__255",
+    "source": [
+      {
+        "id": 708,
+        "value": "Hoggart, Richard",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 445,
+        "value": "Centre for Contemporary Cultural Studies",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 116,
+        "value": "is_founder_of",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "256": {
+    "id": 256,
+    "order": "61.00000000000000000000",
+    "person_org": "person_org__256",
+    "source": [
+      {
+        "id": 709,
+        "value": "Hall, Stuart",
+        "order": "412.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 445,
+        "value": "Centre for Contemporary Cultural Studies",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 116,
+        "value": "is_founder_of",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

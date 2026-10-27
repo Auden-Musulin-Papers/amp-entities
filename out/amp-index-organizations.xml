@@ -2157,6 +2157,49 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q253936</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_411">
+                  <orgName>Manchester Poetry Centre</orgName>
+                  <desc>Was founded in year <date from-iso="1971-01-01">1971</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_557">Manchester</placeName>
+                  </location>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_443">
+                  <orgName>University of Birmingham Department of English</orgName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_269">Birmingham</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.48142, -1.89983</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86019438</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_444">
+                  <orgName>University of Birmingham</orgName>
+                  <desc>Was founded in year <date from-iso="1900-01-01">1900</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_269">Birmingham</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.48142, -1.89983</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q223429</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_445">
+                  <orgName>Centre for Contemporary Cultural Studies</orgName>
+                  <desc>Was founded in year <date from-iso="1964-01-01">1964</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_269">Birmingham</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>52.48142, -1.89983</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q632550</idno>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

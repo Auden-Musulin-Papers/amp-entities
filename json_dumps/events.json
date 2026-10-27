@@ -7224,5 +7224,58 @@
     "part_of": [],
     "revised": false,
     "needs_review": false
+  },
+  "415": {
+    "id": 415,
+    "order": "157.00000000000000000000",
+    "name": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
+    "amp_id": "amp_event_id_415",
+    "place_of_event": [
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1971-10-11",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 677,
+        "value": "person_event__677",
+        "order": "366.00000000000000000000"
+      },
+      {
+        "id": 678,
+        "value": "person_event__678",
+        "order": "367.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1971-10-11",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [
+      {
+        "id": 133,
+        "value": "org_event__133",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

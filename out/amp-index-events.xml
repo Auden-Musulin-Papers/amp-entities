@@ -2726,6 +2726,25 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_415" notBefore-iso="1971-10-11" notAfter-iso="1971-10-11" type="professional">
+                  <label>Reading W. H. Auden Manchester Poetry Centre 1971-10-11</label>
+                  <org sameAs="amp_organization_411" role="is_host_of">
+                     <orgName>Manchester Poetry Centre</orgName>
+                  </org>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_546" role="is_organizer_of">
+                        <persName>Cox, Brian</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_557" type="location" subtype="is_event_location">
+                        <placeName>Manchester</placeName>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

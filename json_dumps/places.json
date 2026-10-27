@@ -12423,7 +12423,23 @@
     ],
     "google_maps_coordinates": "",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 443,
+        "value": "University of Birmingham Department of English",
+        "order": "198.00000000000000000000"
+      },
+      {
+        "id": 444,
+        "value": "University of Birmingham",
+        "order": "199.00000000000000000000"
+      },
+      {
+        "id": 445,
+        "value": "Centre for Contemporary Cultural Studies",
+        "order": "200.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 239,
@@ -20224,6 +20240,11 @@
         "id": 353,
         "value": "University of Manchester",
         "order": "174.00000000000000000000"
+      },
+      {
+        "id": 411,
+        "value": "Manchester Poetry Centre",
+        "order": "197.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -20248,7 +20269,13 @@
     "country_code": "",
     "place_type_class": "",
     "updated": false,
-    "events": [],
+    "events": [
+      {
+        "id": 415,
+        "value": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
+        "order": "157.00000000000000000000"
+      }
+    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [],

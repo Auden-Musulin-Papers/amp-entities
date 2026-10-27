@@ -9235,5 +9235,61 @@
         "order": "11.00000000000000000000"
       }
     ]
+  },
+  "597": {
+    "id": 597,
+    "order": "368.00000000000000000000",
+    "amp_id": "relationship_person_id__597",
+    "source": [
+      {
+        "id": 708,
+        "value": "Hoggart, Richard",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 25,
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
+      }
+    ]
+  },
+  "598": {
+    "id": 598,
+    "order": "369.00000000000000000000",
+    "amp_id": "relationship_person_id__598",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 708,
+        "value": "Hoggart, Richard",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 25,
+        "value": "is_professionalacquaintance_of",
+        "order": "25.00000000000000000000"
+      }
+    ]
   }
 }

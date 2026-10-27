@@ -928,5 +928,31 @@
         "order": "140.00000000000000000000"
       }
     ]
+  },
+  "133": {
+    "id": 133,
+    "order": "37.00000000000000000000",
+    "org_event": "org_event__133",
+    "source": [
+      {
+        "id": 411,
+        "value": "Manchester Poetry Centre",
+        "order": "197.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 20,
+        "value": "is_host_of",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 415,
+        "value": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
+        "order": "157.00000000000000000000"
+      }
+    ]
   }
 }

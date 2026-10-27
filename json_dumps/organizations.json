@@ -5196,5 +5196,140 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4155621-5",
     "URL": ""
+  },
+  "411": {
+    "id": 411,
+    "order": "197.00000000000000000000",
+    "name": "Manchester Poetry Centre",
+    "wikidata": "",
+    "amp_id": "amp_organization_411",
+    "founded_in_year": "1971",
+    "comments": "",
+    "location": [
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 353,
+        "value": "University of Manchester",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 133,
+        "value": "org_event__133",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 221,
+        "value": "person_org__221",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "gnd": "",
+    "URL": "https://archiveshub.jisc.ac.uk/site/gb-133/archives/a6040acd-8743-3057-a392-c49c7bbafd62?component=be2c7595-da6a-3473-a580-b72f92e5c5c7"
+  },
+  "443": {
+    "id": 443,
+    "order": "198.00000000000000000000",
+    "name": "University of Birmingham Department of English",
+    "wikidata": "https://www.wikidata.org/entity/Q86019438",
+    "amp_id": "amp_organization_443",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [
+      {
+        "id": 269,
+        "value": "Birmingham",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 444,
+        "value": "University of Birmingham",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 254,
+        "value": "person_org__254",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/669285-0",
+    "URL": ""
+  },
+  "444": {
+    "id": 444,
+    "order": "199.00000000000000000000",
+    "name": "University of Birmingham",
+    "wikidata": "https://www.wikidata.org/entity/Q223429",
+    "amp_id": "amp_organization_444",
+    "founded_in_year": "1900",
+    "comments": "",
+    "location": [
+      {
+        "id": 269,
+        "value": "Birmingham",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/40138-9",
+    "URL": ""
+  },
+  "445": {
+    "id": 445,
+    "order": "200.00000000000000000000",
+    "name": "Centre for Contemporary Cultural Studies",
+    "wikidata": "https://www.wikidata.org/entity/Q632550",
+    "amp_id": "amp_organization_445",
+    "founded_in_year": "1964",
+    "comments": "",
+    "location": [
+      {
+        "id": 269,
+        "value": "Birmingham",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "part_of": [
+      {
+        "id": 444,
+        "value": "University of Birmingham",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 255,
+        "value": "person_org__255",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 256,
+        "value": "person_org__256",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1000717-9",
+    "URL": ""
   }
 }
