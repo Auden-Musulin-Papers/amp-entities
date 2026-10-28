@@ -162,10 +162,14 @@
     "end_date": "1965-11-10",
     "evidence": null,
     "has_sub_type": null,
-    "status": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
     "org_event": [],
     "part_of": [],
-    "revised": false,
+    "revised": true,
     "needs_review": false
   },
   "5": {
@@ -200,10 +204,14 @@
     "end_date": "1966-01-13",
     "evidence": null,
     "has_sub_type": null,
-    "status": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
     "org_event": [],
     "part_of": [],
-    "revised": false,
+    "revised": true,
     "needs_review": false
   },
   "6": {
@@ -6078,7 +6086,7 @@
   "295": {
     "id": 295,
     "order": "135.00000000000000000000",
-    "name": "Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1965-01-01",
+    "name": "Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1964-12-29",
     "amp_id": "amp_event_id_295",
     "place_of_event": [
       {
@@ -6114,7 +6122,7 @@
       }
     ],
     "Comments": "",
-    "end_date": "1965-01-01",
+    "end_date": "1964-12-29",
     "evidence": {
       "id": 12189,
       "value": "internal",
@@ -6133,7 +6141,7 @@
     "org_event": [],
     "part_of": [],
     "revised": true,
-    "needs_review": true
+    "needs_review": false
   },
   "298": {
     "id": 298,
@@ -7277,5 +7285,538 @@
     "part_of": [],
     "revised": false,
     "needs_review": false
+  },
+  "448": {
+    "id": 448,
+    "order": "158.00000000000000000000",
+    "name": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Birmingham 1967-07-08",
+    "amp_id": "amp_event_id_448",
+    "place_of_event": [
+      {
+        "id": 269,
+        "value": "Birmingham",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6745,
+        "value": "historic",
+        "color": "light-gray"
+      }
+    ],
+    "start_date": "1967-07-08",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 710,
+        "value": "person_event__710",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1967-07-08",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [
+      {
+        "id": 166,
+        "value": "org_event__166",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
+  },
+  "449": {
+    "id": 449,
+    "order": "159.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1961-08-02--1968-07-31",
+    "amp_id": "amp_event_id_449",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1961-08-02",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 711,
+        "value": "person_event__711",
+        "order": "369.00000000000000000000"
+      },
+      {
+        "id": 712,
+        "value": "person_event__712",
+        "order": "370.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1968-07-31",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "450": {
+    "id": 450,
+    "order": "160.00000000000000000000",
+    "name": "Postcard Hugo Kurka to W. H. Auden 1965-08-30--1965-09-23",
+    "amp_id": "amp_event_id_450",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1965-08-30",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 713,
+        "value": "person_event__713",
+        "order": "371.00000000000000000000"
+      },
+      {
+        "id": 714,
+        "value": "person_event__714",
+        "order": "372.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-09-23",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "451": {
+    "id": 451,
+    "order": "161.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1965-09-28",
+    "amp_id": "amp_event_id_451",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1965-09-28",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 715,
+        "value": "person_event__715",
+        "order": "373.00000000000000000000"
+      },
+      {
+        "id": 716,
+        "value": "person_event__716",
+        "order": "374.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-09-28",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "452": {
+    "id": 452,
+    "order": "162.00000000000000000000",
+    "name": "Letter Hugo Kurka to W. H. Auden 1966-11-26--1967-02-21",
+    "amp_id": "amp_event_id_452",
+    "place_of_event": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1966-11-26",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 717,
+        "value": "person_event__717",
+        "order": "375.00000000000000000000"
+      },
+      {
+        "id": 718,
+        "value": "person_event__718",
+        "order": "376.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1967-02-21",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "453": {
+    "id": 453,
+    "order": "163.00000000000000000000",
+    "name": "Arrival W. H. Auden in Vienna from New York City 1967-04-15",
+    "amp_id": "amp_event_id_453",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23369,
+        "value": "travel",
+        "color": "cyan"
+      }
+    ],
+    "start_date": "1967-04-15",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 719,
+        "value": "person_event__719",
+        "order": "377.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1967-04-15",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 24011,
+      "value": "unclear",
+      "color": "red"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "454": {
+    "id": 454,
+    "order": "164.00000000000000000000",
+    "name": "Meeting W. H. Auden and Hugo Kurka 1967-04-15",
+    "amp_id": "amp_event_id_454",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1967-04-15",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 720,
+        "value": "person_event__720",
+        "order": "378.00000000000000000000"
+      },
+      {
+        "id": 721,
+        "value": "person_event__721",
+        "order": "379.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1967-04-15",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "455": {
+    "id": 455,
+    "order": "165.00000000000000000000",
+    "name": "Letter Hugo Kurka to W. H. Auden 1965-11-11--1965-12-07",
+    "amp_id": "amp_event_id_455",
+    "place_of_event": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1965-11-11",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 722,
+        "value": "person_event__722",
+        "order": "380.00000000000000000000"
+      },
+      {
+        "id": 723,
+        "value": "person_event__723",
+        "order": "381.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1965-12-07",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "456": {
+    "id": 456,
+    "order": "166.00000000000000000000",
+    "name": "Letter Hugo Kurka to W. H. Auden 1964-11-08--1964-11-16",
+    "amp_id": "amp_event_id_456",
+    "place_of_event": [
+      {
+        "id": 17,
+        "value": "Berlin",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1964-11-08",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 724,
+        "value": "person_event__724",
+        "order": "382.00000000000000000000"
+      },
+      {
+        "id": 725,
+        "value": "person_event__725",
+        "order": "383.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-11-16",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "457": {
+    "id": 457,
+    "order": "167.00000000000000000000",
+    "name": "Letter W. H. Auden to insurance company 1964-11-08--1964-11-16",
+    "amp_id": "amp_event_id_457",
+    "place_of_event": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23831,
+        "value": "correspondence",
+        "color": "dark-purple"
+      }
+    ],
+    "start_date": "1964-11-08",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 726,
+        "value": "person_event__726",
+        "order": "384.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-11-16",
+    "evidence": {
+      "id": 12189,
+      "value": "internal",
+      "color": "blue"
+    },
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12192,
+      "value": "planned",
+      "color": "dark-yellow"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
   }
 }

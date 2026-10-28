@@ -2326,8 +2326,8 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
-               <event xml:id="amp_event_id_295" notBefore-iso="1964-12-24" notAfter-iso="1965-01-01" type="meeting" subtype="private">
-                  <label>Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1965-01-01</label>
+               <event xml:id="amp_event_id_295" notBefore-iso="1964-12-24" notAfter-iso="1964-12-29" type="meeting" subtype="private">
+                  <label>Stay Christa Kurka and Hugo Kurka with W. H. Auden in Berlin 1964-12-24--1964-12-29</label>
                   <listPerson>
                      <person sameAs="amp_person_1" role="is_activeparticipant_in">
                         <persName>Auden, W. H.</persName>
@@ -2742,6 +2742,190 @@ for any purpose, even commercially.</p>
                   <listPlace>
                      <place sameAs="amp_place_id_557" type="location" subtype="is_event_location">
                         <placeName>Manchester</placeName>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_448" notBefore-iso="1967-07-08" notAfter-iso="1967-07-08" type="historic">
+                  <label>Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Birmingham 1967-07-08</label>
+                  <org sameAs="amp_organization_444" role="is_organizer_of">
+                     <orgName>University of Birmingham</orgName>
+                  </org>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_269" type="location" subtype="is_event_location">
+                        <placeName>Birmingham</placeName>
+                        <location type="coords">
+                           <geo>52.48142, -1.89983</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_449" notBefore-iso="1961-08-02" notAfter-iso="1968-07-31" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1961-08-02--1968-07-31</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_450" notBefore-iso="1965-08-30" notAfter-iso="1965-09-23" type="correspondence" subtype="private">
+                  <label>Postcard Hugo Kurka to W. H. Auden 1965-08-30--1965-09-23</label>
+                  <listPerson>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_451" notBefore-iso="1965-09-28" notAfter-iso="1965-09-28" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1965-09-28</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_452" notBefore-iso="1966-11-26" notAfter-iso="1967-02-21" type="correspondence" subtype="private">
+                  <label>Letter Hugo Kurka to W. H. Auden 1966-11-26--1967-02-21</label>
+                  <listPerson>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_28" type="location" subtype="is_event_location">
+                        <placeName>New York City</placeName>
+                        <location type="coords">
+                           <geo>40.71427, -74.00597</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_453" notBefore-iso="1967-04-15" notAfter-iso="1967-04-15" type="travel" subtype="unclear">
+                  <label>Arrival W. H. Auden in Vienna from New York City 1967-04-15</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_454" notBefore-iso="1967-04-15" notAfter-iso="1967-04-15" type="meeting" subtype="private">
+                  <label>Meeting W. H. Auden and Hugo Kurka 1967-04-15</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_455" notBefore-iso="1965-11-11" notAfter-iso="1965-12-07" type="correspondence" subtype="private">
+                  <label>Letter Hugo Kurka to W. H. Auden 1965-11-11--1965-12-07</label>
+                  <listPerson>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_28" type="location" subtype="is_event_location">
+                        <placeName>New York City</placeName>
+                        <location type="coords">
+                           <geo>40.71427, -74.00597</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_456" notBefore-iso="1964-11-08" notAfter-iso="1964-11-16" type="correspondence" subtype="private">
+                  <label>Letter Hugo Kurka to W. H. Auden 1964-11-08--1964-11-16</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_107" role="is_activeparticipant_in">
+                        <persName>Kurka, Hugo</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_17" type="location" subtype="is_event_location">
+                        <placeName>Berlin</placeName>
+                        <location type="coords">
+                           <geo>52.52437, 13.41053</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_457" notBefore-iso="1964-11-08" notAfter-iso="1964-11-16" type="correspondence" subtype="private">
+                  <label>Letter W. H. Auden to insurance company 1964-11-08--1964-11-16</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_1" type="location" subtype="is_event_location">
+                        <placeName>Vienna</placeName>
+                        <location type="coords">
+                           <geo>48.20849, 16.37208</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>

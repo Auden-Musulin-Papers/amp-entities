@@ -954,5 +954,31 @@
         "order": "157.00000000000000000000"
       }
     ]
+  },
+  "166": {
+    "id": 166,
+    "order": "38.00000000000000000000",
+    "org_event": "org_event__166",
+    "source": [
+      {
+        "id": 444,
+        "value": "University of Birmingham",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 448,
+        "value": "Conferring of Doctor of Letters Honorary Degree on W. H. Auden by University of Birmingham 1967-07-08",
+        "order": "158.00000000000000000000"
+      }
+    ]
   }
 }

@@ -5288,7 +5288,13 @@
     ],
     "part_of": [],
     "literary_works": [],
-    "org_event": [],
+    "org_event": [
+      {
+        "id": 166,
+        "value": "org_event__166",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/40138-9",
     "URL": ""
