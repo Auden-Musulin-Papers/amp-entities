@@ -795,6 +795,16 @@
         "id": 451,
         "value": "The Words of the High One",
         "order": "280.00000000000000000000"
+      },
+      {
+        "id": 485,
+        "value": "Ein Lob dem Kalkstein",
+        "order": "282.00000000000000000000"
+      },
+      {
+        "id": 519,
+        "value": "Selected Poems",
+        "order": "284.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1420,6 +1430,11 @@
         "id": 726,
         "value": "person_event__726",
         "order": "384.00000000000000000000"
+      },
+      {
+        "id": 760,
+        "value": "person_event__760",
+        "order": "386.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -1944,6 +1959,21 @@
         "id": 598,
         "value": "relationship_person_id__598",
         "order": "369.00000000000000000000"
+      },
+      {
+        "id": 600,
+        "value": "relationship_person_id__600",
+        "order": "371.00000000000000000000"
+      },
+      {
+        "id": 633,
+        "value": "relationship_person_id__633",
+        "order": "373.00000000000000000000"
+      },
+      {
+        "id": 635,
+        "value": "relationship_person_id__635",
+        "order": "375.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -3068,7 +3098,13 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 263,
+        "value": "person_org__263",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "person_person": [
       {
         "id": 51,
@@ -13006,6 +13042,11 @@
         "id": 321,
         "value": "Altersheim",
         "order": "249.00000000000000000000"
+      },
+      {
+        "id": 485,
+        "value": "Ein Lob dem Kalkstein",
+        "order": "282.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q59653297",
@@ -16535,7 +16576,13 @@
         "color": "light-green"
       }
     ],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 762,
+        "value": "person_event__762",
+        "order": "388.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -20313,7 +20360,7 @@
     "name": "Salus, Mary W.",
     "amp_id": "amp_person_674",
     "gnd": "",
-    "birth_year": null,
+    "birth_year": "1944",
     "birth_place": [],
     "birth_day": null,
     "death_year": null,
@@ -20469,6 +20516,734 @@
       }
     ],
     "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "710": {
+    "id": 710,
+    "order": "413.00000000000000000000",
+    "name": "Hughes, Ted",
+    "amp_id": "amp_person_710",
+    "gnd": "https://d-nb.info/gnd/11855459X",
+    "birth_year": "1930",
+    "birth_place": [],
+    "birth_day": "1930-08-17",
+    "death_year": "1998",
+    "death_place": [],
+    "death_day": "1998-10-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q272194",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 759,
+        "value": "person_event__759",
+        "order": "385.00000000000000000000"
+      },
+      {
+        "id": 763,
+        "value": "person_event__763",
+        "order": "389.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 212,
+        "value": "relationship_place_id__212",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 298,
+        "value": "person_org__298",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 599,
+        "value": "relationship_person_id__599",
+        "order": "370.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "711": {
+    "id": 711,
+    "order": "414.00000000000000000000",
+    "name": "Fuller, Roy",
+    "amp_id": "amp_person_711",
+    "gnd": "https://d-nb.info/gnd/118703579",
+    "birth_year": "1912",
+    "birth_place": [],
+    "birth_day": "1912-02-11",
+    "death_year": "1991",
+    "death_place": [],
+    "death_day": "1991-09-27",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q2170828",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 257,
+        "value": "person_org__257",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "712": {
+    "id": 712,
+    "order": "415.00000000000000000000",
+    "name": "White, Eric Walter",
+    "amp_id": "amp_person_712",
+    "gnd": "https://d-nb.info/gnd/1061576329",
+    "birth_year": "1905",
+    "birth_place": [],
+    "birth_day": "1905-09-10",
+    "death_year": "1985",
+    "death_place": [],
+    "death_day": "1985-09-13",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1839375",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 258,
+        "value": "person_org__258",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "713": {
+    "id": 713,
+    "order": "416.00000000000000000000",
+    "name": "Dobrée, Bonamy",
+    "amp_id": "amp_person_713",
+    "gnd": "https://d-nb.info/gnd/12403148X",
+    "birth_year": "1891",
+    "birth_place": [],
+    "birth_day": "1891-02-02",
+    "death_year": "1974",
+    "death_place": [],
+    "death_day": "1974-09-03",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q4941125",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 23184,
+        "value": "OBE",
+        "color": "light-orange"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 259,
+        "value": "person_org__259",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "714": {
+    "id": 714,
+    "order": "417.00000000000000000000",
+    "name": "Du Sautoy, Peter",
+    "amp_id": "amp_person_714",
+    "gnd": "https://d-nb.info/gnd/1186299991",
+    "birth_year": "1912",
+    "birth_place": [],
+    "birth_day": "1912-02-19",
+    "death_year": "1995",
+    "death_place": [],
+    "death_day": "1995-07-16",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q18917215",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      },
+      {
+        "id": 23184,
+        "value": "OBE",
+        "color": "light-orange"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 260,
+        "value": "person_org__260",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "715": {
+    "id": 715,
+    "order": "418.00000000000000000000",
+    "name": "Hope, Francis",
+    "amp_id": "amp_person_715",
+    "gnd": "",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "1974",
+    "death_place": [],
+    "death_day": "1974-03-04",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 261,
+        "value": "person_org__261",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "716": {
+    "id": 716,
+    "order": "419.00000000000000000000",
+    "name": "Lehmann, John",
+    "amp_id": "amp_person_716",
+    "gnd": "https://d-nb.info/gnd/121446468",
+    "birth_year": "1907",
+    "birth_place": [],
+    "birth_day": "1907-06-02",
+    "death_year": "1987",
+    "death_place": [],
+    "death_day": "1987-04-07",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1563198",
+    "Title": [
+      {
+        "id": 12985,
+        "value": "CBE",
+        "color": "pink"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 262,
+        "value": "person_org__262",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "717": {
+    "id": 717,
+    "order": "420.00000000000000000000",
+    "name": "Stallworthy, Jon",
+    "amp_id": "amp_person_717",
+    "gnd": "https://d-nb.info/gnd/121009386",
+    "birth_year": "1935",
+    "birth_place": [],
+    "birth_day": "1935-01-18",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-11-19",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q14945754",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 264,
+        "value": "person_org__264",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "718": {
+    "id": 718,
+    "order": "421.00000000000000000000",
+    "name": "Trypanis, C. A.",
+    "amp_id": "amp_person_718",
+    "gnd": "https://d-nb.info/gnd/1025494563",
+    "birth_year": "1909",
+    "birth_place": [],
+    "birth_day": "1909-01-22",
+    "death_year": "1993",
+    "death_place": [],
+    "death_day": "1993-01-18",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1128026",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 265,
+        "value": "person_org__265",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "719": {
+    "id": 719,
+    "order": "422.00000000000000000000",
+    "name": "Celan, Paul",
+    "amp_id": "amp_person_719",
+    "gnd": "https://d-nb.info/gnd/118519859",
+    "birth_year": "1920",
+    "birth_place": [],
+    "birth_day": "1920-11-23",
+    "death_year": "1970",
+    "death_place": [],
+    "death_day": "1970-04-20",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q153905",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "720": {
+    "id": 720,
+    "order": "423.00000000000000000000",
+    "name": "Montale, Eugenio",
+    "amp_id": "amp_person_720",
+    "gnd": "https://d-nb.info/gnd/118583581",
+    "birth_year": "1896",
+    "birth_place": [],
+    "birth_day": "1896-10-12",
+    "death_year": "1981",
+    "death_place": [],
+    "death_day": "1981-09-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q83174",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "721": {
+    "id": 721,
+    "order": "424.00000000000000000000",
+    "name": "Voznesensky, Andrei",
+    "amp_id": "amp_person_721",
+    "gnd": "https://d-nb.info/gnd/118805770",
+    "birth_year": "1933",
+    "birth_place": [],
+    "birth_day": "1933-05-12",
+    "death_year": "2010",
+    "death_place": [],
+    "death_day": "2010-06-01",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q236619",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "722": {
+    "id": 722,
+    "order": "425.00000000000000000000",
+    "name": "Neruda, Pablo",
+    "amp_id": "amp_person_722",
+    "gnd": "https://d-nb.info/gnd/118587005",
+    "birth_year": "1904",
+    "birth_place": [],
+    "birth_day": "1904-07-12",
+    "death_year": "1973",
+    "death_place": [],
+    "death_day": "1973-09-23",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q34189",
+    "Title": [],
+    "person_event": [
+      {
+        "id": 761,
+        "value": "person_event__761",
+        "order": "387.00000000000000000000"
+      }
+    ],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "723": {
+    "id": 723,
+    "order": "426.00000000000000000000",
+    "name": "Amichai, Yehuda",
+    "amp_id": "amp_person_723",
+    "gnd": "https://d-nb.info/gnd/118859145",
+    "birth_year": "1924",
+    "birth_place": [],
+    "birth_day": "1924-05-03",
+    "death_year": "2000",
+    "death_place": [],
+    "death_day": "2000-09-22",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q58612",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "724": {
+    "id": 724,
+    "order": "427.00000000000000000000",
+    "name": "Holub, Miroslav",
+    "amp_id": "amp_person_724",
+    "gnd": "https://d-nb.info/gnd/130180548",
+    "birth_year": "1923",
+    "birth_place": [],
+    "birth_day": "1923-09-13",
+    "death_year": "1998",
+    "death_place": [],
+    "death_day": "1998-07-14",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q1395048",
+    "Title": [
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "725": {
+    "id": 725,
+    "order": "428.00000000000000000000",
+    "name": "Lowell, Robert",
+    "amp_id": "amp_person_725",
+    "gnd": "https://d-nb.info/gnd/11878062X",
+    "birth_year": "1917",
+    "birth_place": [],
+    "birth_day": "1917-03-01",
+    "death_year": "1977",
+    "death_place": [],
+    "death_day": "1977-09-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q981448",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null
+  },
+  "758": {
+    "id": 758,
+    "order": "429.00000000000000000000",
+    "name": "Kline, George",
+    "amp_id": "amp_person_758",
+    "gnd": "https://d-nb.info/gnd/1147166676",
+    "birth_year": "1921",
+    "birth_place": [],
+    "birth_day": "1921-03-03",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-10-21",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 519,
+        "value": "Selected Poems",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q18645769",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      },
+      {
+        "id": 6727,
+        "value": "Doktor:in",
+        "color": "light-green"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 245,
+        "value": "relationship_place_id__245",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 331,
+        "value": "person_org__331",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 632,
+        "value": "relationship_person_id__632",
+        "order": "372.00000000000000000000"
+      },
+      {
+        "id": 637,
+        "value": "relationship_person_id__637",
+        "order": "377.00000000000000000000"
+      },
+      {
+        "id": 638,
+        "value": "relationship_person_id__638",
+        "order": "378.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "759": {
+    "id": 759,
+    "order": "430.00000000000000000000",
+    "name": "Brodsky, Joseph",
+    "amp_id": "amp_person_759",
+    "gnd": "https://d-nb.info/gnd/118660136",
+    "birth_year": "1940",
+    "birth_place": [],
+    "birth_day": "1940-05-24",
+    "death_year": "1996",
+    "death_place": [],
+    "death_day": "1996-01-28",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 519,
+        "value": "Selected Poems",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q862",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 634,
+        "value": "relationship_person_id__634",
+        "order": "374.00000000000000000000"
+      },
+      {
+        "id": 636,
+        "value": "relationship_person_id__636",
+        "order": "376.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null
+  },
+  "760": {
+    "id": 760,
+    "order": "431.00000000000000000000",
+    "name": "Kline, Virginia Hardy",
+    "amp_id": "amp_person_760",
+    "gnd": "",
+    "birth_year": "1918",
+    "birth_place": [],
+    "birth_day": "1918-10-28",
+    "death_year": "2014",
+    "death_place": [],
+    "death_day": "2014-04-05",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.legacy.com/us/obituaries/independentmail/name/virginia-kline-obituary?id=12851032",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 246,
+        "value": "relationship_place_id__246",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 639,
+        "value": "relationship_person_id__639",
+        "order": "379.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null
   }

@@ -12411,5 +12411,142 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "485": {
+    "id": 485,
+    "order": "282.00000000000000000000",
+    "name": "Ein Lob dem Kalkstein",
+    "lit_work_id": "lit_work_id_485",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "Staub, Herta Felicia",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      },
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 232,
+        "value": "Wort und Wahrheit",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "486": {
+    "id": 486,
+    "order": "283.00000000000000000000",
+    "name": "Modern Poetry in Translation",
+    "lit_work_id": "lit_work_id_486",
+    "is_written_by": [],
+    "is_linked_with": "",
+    "has_year": "1965",
+    "type": [
+      {
+        "id": 6701,
+        "value": "magazine",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": [],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "founded in 1965 by Ted Hughes and Daniel Weissbort",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "519": {
+    "id": 519,
+    "order": "284.00000000000000000000",
+    "name": "Selected Poems",
+    "lit_work_id": "lit_work_id_519",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      },
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book_of_poems",
+        "color": "dark-green"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

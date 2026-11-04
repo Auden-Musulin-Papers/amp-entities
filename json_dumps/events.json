@@ -7818,5 +7818,67 @@
     "part_of": [],
     "revised": true,
     "needs_review": true
+  },
+  "490": {
+    "id": 490,
+    "order": "168.00000000000000000000",
+    "name": "Poetry International Festival 1967-07-12--1967-07-16",
+    "amp_id": "amp_event_id_490",
+    "place_of_event": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1967-07-12",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 759,
+        "value": "person_event__759",
+        "order": "385.00000000000000000000"
+      },
+      {
+        "id": 760,
+        "value": "person_event__760",
+        "order": "386.00000000000000000000"
+      },
+      {
+        "id": 761,
+        "value": "person_event__761",
+        "order": "387.00000000000000000000"
+      },
+      {
+        "id": 762,
+        "value": "person_event__762",
+        "order": "388.00000000000000000000"
+      },
+      {
+        "id": 763,
+        "value": "person_event__763",
+        "order": "389.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1967-07-16",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

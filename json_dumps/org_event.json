@@ -980,5 +980,25 @@
         "order": "158.00000000000000000000"
       }
     ]
+  },
+  "199": {
+    "id": 199,
+    "order": "39.00000000000000000000",
+    "org_event": "org_event__199",
+    "source": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 33,
+        "value": "is_organizer_of",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "target": []
   }
 }

@@ -2200,6 +2200,28 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q632550</idno>
                   <note/>
                </org>
+               <org xml:id="amp_organization_446">
+                  <orgName>Poetry Book Society</orgName>
+                  <desc>Was founded in year <date from-iso="1953-01-01">1953</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_703">4 St James's Square</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q7207485</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_479">
+                  <orgName>Bryn Mawr College</orgName>
+                  <desc>Was founded in year <date from-iso="1885-01-01">1885</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_738">Bryn Mawr</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q995265</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_480">
+                  <orgName/>
+                  <note/>
+               </org>
             </listOrg>
          </div>
       </body>

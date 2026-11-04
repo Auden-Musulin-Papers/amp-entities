@@ -2327,5 +2327,89 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "212": {
+    "id": 212,
+    "order": "84.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__212",
+    "source": [
+      {
+        "id": 710,
+        "value": "Hughes, Ted",
+        "order": "413.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 704,
+        "value": "Court Green",
+        "order": "473.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "245": {
+    "id": 245,
+    "order": "85.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__245",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 739,
+        "value": "Berkshires",
+        "order": "476.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "246": {
+    "id": 246,
+    "order": "86.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__246",
+    "source": [
+      {
+        "id": 760,
+        "value": "Kline, Virginia Hardy",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 739,
+        "value": "Berkshires",
+        "order": "476.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

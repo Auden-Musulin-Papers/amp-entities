@@ -4399,6 +4399,11 @@
         "id": 106,
         "value": "Talk Stella Musulin \"Auden in Kirchstetten\" 1976-06-23",
         "order": "106.00000000000000000000"
+      },
+      {
+        "id": 490,
+        "value": "Poetry International Festival 1967-07-12--1967-07-16",
+        "order": "168.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -21047,6 +21052,230 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "703": {
+    "id": 703,
+    "order": "472.00000000000000000000",
+    "name": "4 St James's Square",
+    "amp_id": "amp_place_id_703",
+    "geonames_id": "https://sws.geonames.org/12042011",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q17549942",
+    "gnd": "https://d-nb.info/gnd/4235301-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "704": {
+    "id": 704,
+    "order": "473.00000000000000000000",
+    "name": "Court Green",
+    "amp_id": "amp_place_id_704",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 705,
+        "value": "North Tawton",
+        "order": "474.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q5178228",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 212,
+        "value": "relationship_place_id__212",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "705": {
+    "id": 705,
+    "order": "474.00000000000000000000",
+    "name": "North Tawton",
+    "amp_id": "amp_place_id_705",
+    "geonames_id": "https://sws.geonames.org/2641245",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 237,
+        "value": "Devon",
+        "order": "237.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q1221032",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "738": {
+    "id": 738,
+    "order": "475.00000000000000000000",
+    "name": "Bryn Mawr",
+    "amp_id": "amp_place_id_738",
+    "geonames_id": "https://sws.geonames.org/5182064",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 479,
+        "value": "Bryn Mawr College",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q995267",
+    "gnd": "https://d-nb.info/gnd/4080556-6",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "739": {
+    "id": 739,
+    "order": "476.00000000000000000000",
+    "name": "Berkshires",
+    "amp_id": "amp_place_id_739",
+    "geonames_id": "https://sws.geonames.org/4930410",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 15,
+        "value": "United States of America",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q820961",
+    "gnd": "https://d-nb.info/gnd/7611519-7",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 245,
+        "value": "relationship_place_id__245",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 246,
+        "value": "relationship_place_id__246",
+        "order": "86.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   }
 }

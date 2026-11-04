@@ -6330,6 +6330,53 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4057878-1</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_703">
+                  <placeName>4 St James's Square</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/12042011/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q17549942</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4235301-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_704">
+                  <placeName>Court Green</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_705">North Tawton</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q5178228</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_705">
+                  <placeName>North Tawton</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_237">Devon</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2641245/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q1221032</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_738">
+                  <placeName>Bryn Mawr</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/5182064/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q995267</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4080556-6</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_739">
+                  <placeName>Berkshires</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_15">United States of America</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/4930410/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q820961</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/7611519-7</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

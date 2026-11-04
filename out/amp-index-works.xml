@@ -2509,6 +2509,35 @@ for any purpose, even commercially.</p>
                   <date when="1901">1901</date>
                   <lang>de</lang>
                </bibl>
+               <bibl xml:id="lit_work_id_485" type="translation">
+                  <title>Ein Lob dem Kalkstein</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_220">
+                     <persName>Staub, Herta Felicia</persName>
+                  </author>
+                  <date when="1970">1970</date>
+                  <lang>de</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_486" type="magazine">
+                  <title>Modern Poetry in Translation</title>
+                  <date when="1965">1965</date>
+               </bibl>
+               <bibl xml:id="lit_work_id_519" type="book_of_poems">
+                  <title>Selected Poems</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <author ref="#amp_person_758">
+                     <persName>Kline, George</persName>
+                  </author>
+                  <author ref="#amp_person_759">
+                     <persName>Brodsky, Joseph</persName>
+                  </author>
+                  <date when="1973">1973</date>
+                  <lang>en</lang>
+               </bibl>
             </listBibl>
          </div>
       </body>

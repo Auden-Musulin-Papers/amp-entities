@@ -1706,5 +1706,313 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "257": {
+    "id": 257,
+    "order": "62.00000000000000000000",
+    "person_org": "person_org__257",
+    "source": [
+      {
+        "id": 711,
+        "value": "Fuller, Roy",
+        "order": "414.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 149,
+        "value": "is_chairperson_of",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "258": {
+    "id": 258,
+    "order": "63.00000000000000000000",
+    "person_org": "person_org__258",
+    "source": [
+      {
+        "id": 712,
+        "value": "White, Eric Walter",
+        "order": "415.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "259": {
+    "id": 259,
+    "order": "64.00000000000000000000",
+    "person_org": "person_org__259",
+    "source": [
+      {
+        "id": 713,
+        "value": "Dobrée, Bonamy",
+        "order": "416.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "260": {
+    "id": 260,
+    "order": "65.00000000000000000000",
+    "person_org": "person_org__260",
+    "source": [
+      {
+        "id": 714,
+        "value": "Du Sautoy, Peter",
+        "order": "417.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "261": {
+    "id": 261,
+    "order": "66.00000000000000000000",
+    "person_org": "person_org__261",
+    "source": [
+      {
+        "id": 715,
+        "value": "Hope, Francis",
+        "order": "418.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "262": {
+    "id": 262,
+    "order": "67.00000000000000000000",
+    "person_org": "person_org__262",
+    "source": [
+      {
+        "id": 716,
+        "value": "Lehmann, John",
+        "order": "419.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "263": {
+    "id": 263,
+    "order": "68.00000000000000000000",
+    "person_org": "person_org__263",
+    "source": [
+      {
+        "id": 8,
+        "value": "Spender, Stephen",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "264": {
+    "id": 264,
+    "order": "69.00000000000000000000",
+    "person_org": "person_org__264",
+    "source": [
+      {
+        "id": 717,
+        "value": "Stallworthy, Jon",
+        "order": "420.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "265": {
+    "id": 265,
+    "order": "70.00000000000000000000",
+    "person_org": "person_org__265",
+    "source": [
+      {
+        "id": 718,
+        "value": "Trypanis, C. A.",
+        "order": "421.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "298": {
+    "id": 298,
+    "order": "71.00000000000000000000",
+    "person_org": "person_org__298",
+    "source": [
+      {
+        "id": 710,
+        "value": "Hughes, Ted",
+        "order": "413.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 446,
+        "value": "Poetry Book Society",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
+  },
+  "331": {
+    "id": 331,
+    "order": "72.00000000000000000000",
+    "person_org": "person_org__331",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 479,
+        "value": "Bryn Mawr College",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

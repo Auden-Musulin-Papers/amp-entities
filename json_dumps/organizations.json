@@ -3971,7 +3971,13 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 485,
+        "value": "Ein Lob dem Kalkstein",
+        "order": "282.00000000000000000000"
+      }
+    ],
     "org_event": [],
     "person_org": [],
     "gnd": "https://d-nb.info/010704469",
@@ -5336,6 +5342,129 @@
       }
     ],
     "gnd": "https://d-nb.info/gnd/1000717-9",
+    "URL": ""
+  },
+  "446": {
+    "id": 446,
+    "order": "201.00000000000000000000",
+    "name": "Poetry Book Society",
+    "wikidata": "https://www.wikidata.org/entity/Q7207485",
+    "amp_id": "amp_organization_446",
+    "founded_in_year": "1953",
+    "comments": "",
+    "location": [
+      {
+        "id": 703,
+        "value": "4 St James's Square",
+        "order": "472.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [
+      {
+        "id": 199,
+        "value": "org_event__199",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 257,
+        "value": "person_org__257",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "person_org__258",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "person_org__259",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "person_org__260",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "person_org__261",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "person_org__262",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "person_org__263",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "person_org__264",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "person_org__265",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "person_org__298",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/516818-1",
+    "URL": ""
+  },
+  "479": {
+    "id": 479,
+    "order": "202.00000000000000000000",
+    "name": "Bryn Mawr College",
+    "wikidata": "https://www.wikidata.org/entity/Q995265",
+    "amp_id": "amp_organization_479",
+    "founded_in_year": "1885",
+    "comments": "",
+    "location": [
+      {
+        "id": 738,
+        "value": "Bryn Mawr",
+        "order": "475.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 331,
+        "value": "person_org__331",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1007334-6",
+    "URL": ""
+  },
+  "480": {
+    "id": 480,
+    "order": "203.00000000000000000000",
+    "name": "",
+    "wikidata": "",
+    "amp_id": "amp_organization_480",
+    "founded_in_year": null,
+    "comments": "",
+    "location": [],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "",
     "URL": ""
   }
 }

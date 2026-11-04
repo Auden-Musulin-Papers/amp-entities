@@ -9291,5 +9291,285 @@
         "order": "25.00000000000000000000"
       }
     ]
+  },
+  "599": {
+    "id": 599,
+    "order": "370.00000000000000000000",
+    "amp_id": "relationship_person_id__599",
+    "source": [
+      {
+        "id": 710,
+        "value": "Hughes, Ted",
+        "order": "413.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 81,
+        "value": "invites",
+        "order": "46.00000000000000000000"
+      }
+    ]
+  },
+  "600": {
+    "id": 600,
+    "order": "371.00000000000000000000",
+    "amp_id": "relationship_person_id__600",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 710,
+        "value": "Hughes, Ted",
+        "order": "413.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 82,
+        "value": "is_invited_by",
+        "order": "47.00000000000000000000"
+      }
+    ]
+  },
+  "632": {
+    "id": 632,
+    "order": "372.00000000000000000000",
+    "amp_id": "relationship_person_id__632",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "633": {
+    "id": 633,
+    "order": "373.00000000000000000000",
+    "amp_id": "relationship_person_id__633",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "634": {
+    "id": 634,
+    "order": "374.00000000000000000000",
+    "amp_id": "relationship_person_id__634",
+    "source": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "635": {
+    "id": 635,
+    "order": "375.00000000000000000000",
+    "amp_id": "relationship_person_id__635",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "636": {
+    "id": 636,
+    "order": "376.00000000000000000000",
+    "amp_id": "relationship_person_id__636",
+    "source": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "637": {
+    "id": 637,
+    "order": "377.00000000000000000000",
+    "amp_id": "relationship_person_id__637",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 14,
+        "value": "is_collaborator_of",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "638": {
+    "id": 638,
+    "order": "378.00000000000000000000",
+    "amp_id": "relationship_person_id__638",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 760,
+        "value": "Kline, Virginia Hardy",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
+  },
+  "639": {
+    "id": 639,
+    "order": "379.00000000000000000000",
+    "amp_id": "relationship_person_id__639",
+    "source": [
+      {
+        "id": 760,
+        "value": "Kline, Virginia Hardy",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 11,
+        "value": "is_spouse_of",
+        "order": "11.00000000000000000000"
+      }
+    ]
   }
 }
