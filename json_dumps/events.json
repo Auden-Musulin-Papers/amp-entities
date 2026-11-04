@@ -7880,5 +7880,234 @@
     "part_of": [],
     "revised": false,
     "needs_review": false
+  },
+  "523": {
+    "id": 523,
+    "order": "169.00000000000000000000",
+    "name": "Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27",
+    "amp_id": "amp_event_id_523",
+    "place_of_event": [
+      {
+        "id": 739,
+        "value": "Berkshires",
+        "order": "476.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1972-07-21",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 794,
+        "value": "person_event__794",
+        "order": "390.00000000000000000000"
+      },
+      {
+        "id": 795,
+        "value": "person_event__795",
+        "order": "391.00000000000000000000"
+      },
+      {
+        "id": 796,
+        "value": "person_event__796",
+        "order": "392.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1972-07-27",
+    "evidence": null,
+    "has_sub_type": {
+      "id": 23672,
+      "value": "professional",
+      "color": "dark-pink"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
+  },
+  "524": {
+    "id": 524,
+    "order": "170.00000000000000000000",
+    "name": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+    "amp_id": "amp_event_id_524",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1964-08-17",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 797,
+        "value": "person_event__797",
+        "order": "393.00000000000000000000"
+      },
+      {
+        "id": 798,
+        "value": "person_event__798",
+        "order": "394.00000000000000000000"
+      },
+      {
+        "id": 799,
+        "value": "person_event__799",
+        "order": "395.00000000000000000000"
+      },
+      {
+        "id": 800,
+        "value": "person_event__800",
+        "order": "396.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-08-21",
+    "evidence": null,
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
+  },
+  "525": {
+    "id": 525,
+    "order": "171.00000000000000000000",
+    "name": "Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10",
+    "amp_id": "amp_event_id_525",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1964-09-08",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 801,
+        "value": "person_event__801",
+        "order": "397.00000000000000000000"
+      },
+      {
+        "id": 802,
+        "value": "person_event__802",
+        "order": "398.00000000000000000000"
+      },
+      {
+        "id": 803,
+        "value": "person_event__803",
+        "order": "399.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1964-09-10",
+    "evidence": null,
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": true
+  },
+  "526": {
+    "id": 526,
+    "order": "172.00000000000000000000",
+    "name": "Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17",
+    "amp_id": "amp_event_id_526",
+    "place_of_event": [
+      {
+        "id": 5,
+        "value": "Kirchstetten",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1966-09-15",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 804,
+        "value": "person_event__804",
+        "order": "400.00000000000000000000"
+      },
+      {
+        "id": 805,
+        "value": "person_event__805",
+        "order": "401.00000000000000000000"
+      },
+      {
+        "id": 806,
+        "value": "person_event__806",
+        "order": "402.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1966-09-17",
+    "evidence": null,
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": true,
+    "needs_review": false
   }
 }

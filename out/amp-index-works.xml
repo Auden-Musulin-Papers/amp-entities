@@ -2525,7 +2525,7 @@ for any purpose, even commercially.</p>
                   <date when="1965">1965</date>
                </bibl>
                <bibl xml:id="lit_work_id_519" type="book_of_poems">
-                  <title>Selected Poems</title>
+                  <title>Joseph Brodsky: Selected Poems</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -2536,6 +2536,41 @@ for any purpose, even commercially.</p>
                      <persName>Brodsky, Joseph</persName>
                   </author>
                   <date when="1973">1973</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_552" type="prose">
+                  <title>Foreword</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1973">1973</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_553" type="poem">
+                  <title>Three Poems</title>
+                  <author ref="#amp_person_758">
+                     <persName>Kline, George</persName>
+                  </author>
+                  <author ref="#amp_person_759">
+                     <persName>Brodsky, Joseph</persName>
+                  </author>
+                  <date when="1973">1973</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_554" type="review">
+                  <title>A Saint-Simon of Our Time</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1972">1972</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_555" type="autobiographical_text">
+                  <title>In the Twenties: The Diaries of Harry Kessler</title>
+                  <author ref="#amp_person_794">
+                     <persName>Kessler, Harry von</persName>
+                  </author>
+                  <date when="1971">1971</date>
                   <lang>en</lang>
                </bibl>
             </listBibl>

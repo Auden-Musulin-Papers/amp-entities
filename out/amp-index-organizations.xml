@@ -2219,7 +2219,47 @@ for any purpose, even commercially.</p>
                   <note/>
                </org>
                <org xml:id="amp_organization_480">
-                  <orgName/>
+                  <orgName>Penguin Books</orgName>
+                  <desc>Was founded in year <date from-iso="1935-01-01">1935</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_56">London</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>51.50853, -0.12574</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1336200</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_513">
+                  <orgName>Saturday Review</orgName>
+                  <desc>Was founded in year <date from-iso="1924-01-01">1924</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15846515</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_514">
+                  <orgName>Holt, Rinehart, and Winston</orgName>
+                  <desc>Was founded in year <date from-iso="1960-01-01">1960</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_28">New York City</placeName>
+                  </location>
+                  <location type="coords">
+                     <geo>40.71427, -74.00597</geo>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q21809817</idno>
+                  <note/>
+               </org>
+               <org xml:id="amp_organization_515">
+                  <orgName>Linder AG</orgName>
+                  <desc>Was founded in year <date from-iso="1962-01-01">1962</date>.</desc>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_503">Zurich</placeName>
+                  </location>
                   <note/>
                </org>
             </listOrg>

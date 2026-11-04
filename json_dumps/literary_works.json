@@ -12499,7 +12499,7 @@
   "519": {
     "id": 519,
     "order": "284.00000000000000000000",
-    "name": "Selected Poems",
+    "name": "Joseph Brodsky: Selected Poems",
     "lit_work_id": "lit_work_id_519",
     "is_written_by": [
       {
@@ -12543,8 +12543,216 @@
     "relation_types": [],
     "is_part_of": [],
     "FRBR_level": null,
+    "Comments": "translated by George L. Kline, foreword by W. H. Auden",
+    "has_publisher": [
+      {
+        "id": 480,
+        "value": "Penguin Books",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "552": {
+    "id": 552,
+    "order": "285.00000000000000000000",
+    "name": "Foreword",
+    "lit_work_id": "lit_work_id_552",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6711,
+        "value": "prose",
+        "color": "light-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 519,
+        "value": "Joseph Brodsky: Selected Poems",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
     "Comments": "",
-    "has_publisher": [],
+    "has_publisher": [
+      {
+        "id": 480,
+        "value": "Penguin Books",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "553": {
+    "id": 553,
+    "order": "286.00000000000000000000",
+    "name": "Three Poems",
+    "lit_work_id": "lit_work_id_553",
+    "is_written_by": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      },
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1973",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 362,
+        "value": "The New York Review of Books",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "has_date": "1973-04-05",
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "554": {
+    "id": 554,
+    "order": "287.00000000000000000000",
+    "name": "A Saint-Simon of Our Time",
+    "lit_work_id": "lit_work_id_554",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1972",
+    "type": [
+      {
+        "id": 9893,
+        "value": "review",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 362,
+        "value": "The New York Review of Books",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "has_date": "1972-08-31",
+    "is_review_of": [
+      {
+        "id": 555,
+        "value": "In the Twenties: The Diaries of Harry Kessler",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "has_external_url": ""
+  },
+  "555": {
+    "id": 555,
+    "order": "288.00000000000000000000",
+    "name": "In the Twenties: The Diaries of Harry Kessler",
+    "lit_work_id": "lit_work_id_555",
+    "is_written_by": [
+      {
+        "id": 794,
+        "value": "Kessler, Harry von",
+        "order": "433.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1971",
+    "type": [
+      {
+        "id": 9988,
+        "value": "autobiographical_text",
+        "color": "orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 514,
+        "value": "Holt, Rinehart, and Winston",
+        "order": "205.00000000000000000000"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""

@@ -2014,5 +2014,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "364": {
+    "id": 364,
+    "order": "73.00000000000000000000",
+    "person_org": "person_org__364",
+    "source": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 480,
+        "value": "Penguin Books",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 35,
+        "value": "is_employee_of",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

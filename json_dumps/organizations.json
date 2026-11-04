@@ -4815,7 +4815,18 @@
       }
     ],
     "part_of": [],
-    "literary_works": [],
+    "literary_works": [
+      {
+        "id": 553,
+        "value": "Three Poems",
+        "order": "286.00000000000000000000"
+      },
+      {
+        "id": 554,
+        "value": "A Saint-Simon of Our Time",
+        "order": "287.00000000000000000000"
+      }
+    ],
     "org_event": [],
     "person_org": [
       {
@@ -5454,17 +5465,112 @@
   "480": {
     "id": 480,
     "order": "203.00000000000000000000",
-    "name": "",
-    "wikidata": "",
+    "name": "Penguin Books",
+    "wikidata": "https://www.wikidata.org/entity/Q1336200",
     "amp_id": "amp_organization_480",
-    "founded_in_year": null,
+    "founded_in_year": "1935",
     "comments": "",
-    "location": [],
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 519,
+        "value": "Joseph Brodsky: Selected Poems",
+        "order": "284.00000000000000000000"
+      },
+      {
+        "id": 552,
+        "value": "Foreword",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 364,
+        "value": "person_org__364",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/128644-4",
+    "URL": ""
+  },
+  "513": {
+    "id": 513,
+    "order": "204.00000000000000000000",
+    "name": "Saturday Review",
+    "wikidata": "https://www.wikidata.org/entity/Q15846515",
+    "amp_id": "amp_organization_513",
+    "founded_in_year": "1924",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
     "person_org": [],
-    "gnd": "",
+    "gnd": "https://d-nb.info/gnd/4683653-6",
     "URL": ""
+  },
+  "514": {
+    "id": 514,
+    "order": "205.00000000000000000000",
+    "name": "Holt, Rinehart, and Winston",
+    "wikidata": "https://www.wikidata.org/entity/Q21809817",
+    "amp_id": "amp_organization_514",
+    "founded_in_year": "1960",
+    "comments": "",
+    "location": [
+      {
+        "id": 28,
+        "value": "New York City",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 555,
+        "value": "In the Twenties: The Diaries of Harry Kessler",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1086239156",
+    "URL": ""
+  },
+  "515": {
+    "id": 515,
+    "order": "206.00000000000000000000",
+    "name": "Linder AG",
+    "wikidata": "",
+    "amp_id": "amp_organization_515",
+    "founded_in_year": "1962",
+    "comments": "",
+    "location": [
+      {
+        "id": 503,
+        "value": "Zurich",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/1086229207",
+    "URL": "https://fritzagency.com/die-agentur/ueber-uns/"
   }
 }

@@ -1104,6 +1104,21 @@
         "id": 450,
         "value": "Postcard Hugo Kurka to W. H. Auden 1965-08-30--1965-09-23",
         "order": "160.00000000000000000000"
+      },
+      {
+        "id": 524,
+        "value": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+        "order": "170.00000000000000000000"
+      },
+      {
+        "id": 525,
+        "value": "Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10",
+        "order": "171.00000000000000000000"
+      },
+      {
+        "id": 526,
+        "value": "Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17",
+        "order": "172.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -2619,6 +2634,16 @@
         "id": 407,
         "value": "Bantam Books",
         "order": "194.00000000000000000000"
+      },
+      {
+        "id": 513,
+        "value": "Saturday Review",
+        "order": "204.00000000000000000000"
+      },
+      {
+        "id": 514,
+        "value": "Holt, Rinehart, and Winston",
+        "order": "205.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -4355,6 +4380,11 @@
         "id": 408,
         "value": "The Observer",
         "order": "195.00000000000000000000"
+      },
+      {
+        "id": 480,
+        "value": "Penguin Books",
+        "order": "203.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -19502,6 +19532,11 @@
         "id": 238,
         "value": "Neue Zürcher Zeitung",
         "order": "155.00000000000000000000"
+      },
+      {
+        "id": 515,
+        "value": "Linder AG",
+        "order": "206.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -21261,7 +21296,13 @@
     "country_code": "",
     "place_type_class": "",
     "updated": false,
-    "events": [],
+    "events": [
+      {
+        "id": 523,
+        "value": "Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27",
+        "order": "169.00000000000000000000"
+      }
+    ],
     "alternative_link": "",
     "same_as": [],
     "person_place": [

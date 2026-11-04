@@ -2957,6 +2957,94 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_523" notBefore-iso="1972-07-21" notAfter-iso="1972-07-27" type="meeting" subtype="professional">
+                  <label>Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27</label>
+                  <listPerson>
+                     <person sameAs="amp_person_759" role="is_activeparticipant_in">
+                        <persName>Brodsky, Joseph</persName>
+                     </person>
+                     <person sameAs="amp_person_758" role="is_activeparticipant_in">
+                        <persName>Kline, George</persName>
+                     </person>
+                     <person sameAs="amp_person_760" role="is_activeparticipant_in">
+                        <persName>Kline, Virginia Hardy</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_739" type="location" subtype="is_event_location">
+                        <placeName>Berkshires</placeName>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_524" notBefore-iso="1964-08-17" notAfter-iso="1964-08-21" type="meeting" subtype="private">
+                  <label>Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_96" role="is_activeparticipant_in">
+                        <persName>Clark, Thekla</persName>
+                     </person>
+                     <person sameAs="amp_person_95" role="is_activeparticipant_in">
+                        <persName>Clark, John</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_525" notBefore-iso="1964-09-08" notAfter-iso="1964-09-10" type="meeting" subtype="private">
+                  <label>Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_795" role="is_activeparticipant_in">
+                        <persName>Spender, Philip</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_526" notBefore-iso="1966-09-15" notAfter-iso="1966-09-17" type="meeting" subtype="private">
+                  <label>Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                     <person sameAs="amp_person_160" role="is_activeparticipant_in">
+                        <persName>Kallman, Edward</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_5" type="location" subtype="is_event_location">
+                        <placeName>Kirchstetten</placeName>
+                        <location type="coords">
+                           <geo>48.18333, 15.81667</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

@@ -9571,5 +9571,173 @@
         "order": "11.00000000000000000000"
       }
     ]
+  },
+  "672": {
+    "id": 672,
+    "order": "380.00000000000000000000",
+    "amp_id": "relationship_person_id__672",
+    "source": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "673": {
+    "id": 673,
+    "order": "381.00000000000000000000",
+    "amp_id": "relationship_person_id__673",
+    "source": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "674": {
+    "id": 674,
+    "order": "382.00000000000000000000",
+    "amp_id": "relationship_person_id__674",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "675": {
+    "id": 675,
+    "order": "383.00000000000000000000",
+    "amp_id": "relationship_person_id__675",
+    "source": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "676": {
+    "id": 676,
+    "order": "384.00000000000000000000",
+    "amp_id": "relationship_person_id__676",
+    "source": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "677": {
+    "id": 677,
+    "order": "385.00000000000000000000",
+    "amp_id": "relationship_person_id__677",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 793,
+        "value": "Stangos, Nikos",
+        "order": "432.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }

@@ -8814,5 +8814,351 @@
         "order": "29.00000000000000000000"
       }
     ]
+  },
+  "794": {
+    "id": 794,
+    "order": "390.00000000000000000000",
+    "amp_id": "person_event__794",
+    "source": [
+      {
+        "id": 759,
+        "value": "Brodsky, Joseph",
+        "order": "430.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 523,
+        "value": "Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "795": {
+    "id": 795,
+    "order": "391.00000000000000000000",
+    "amp_id": "person_event__795",
+    "source": [
+      {
+        "id": 758,
+        "value": "Kline, George",
+        "order": "429.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 523,
+        "value": "Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "796": {
+    "id": 796,
+    "order": "392.00000000000000000000",
+    "amp_id": "person_event__796",
+    "source": [
+      {
+        "id": 760,
+        "value": "Kline, Virginia Hardy",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 523,
+        "value": "Stay Joseph Brodsky with George L. Kline and Virginia Hardy Kline in the Berkshires 1972-07-21--1972-07-27",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "797": {
+    "id": 797,
+    "order": "393.00000000000000000000",
+    "amp_id": "person_event__797",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 524,
+        "value": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "798": {
+    "id": 798,
+    "order": "394.00000000000000000000",
+    "amp_id": "person_event__798",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 524,
+        "value": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "799": {
+    "id": 799,
+    "order": "395.00000000000000000000",
+    "amp_id": "person_event__799",
+    "source": [
+      {
+        "id": 96,
+        "value": "Clark, Thekla",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 524,
+        "value": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "800": {
+    "id": 800,
+    "order": "396.00000000000000000000",
+    "amp_id": "person_event__800",
+    "source": [
+      {
+        "id": 95,
+        "value": "Clark, John",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 524,
+        "value": "Stay Thekla Clark and John Clark with W. H. Auden and Chester Kallman in Kirchstetten 1964-08-17--1964-08-21",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "801": {
+    "id": 801,
+    "order": "397.00000000000000000000",
+    "amp_id": "person_event__801",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 525,
+        "value": "Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "802": {
+    "id": 802,
+    "order": "398.00000000000000000000",
+    "amp_id": "person_event__802",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 525,
+        "value": "Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "803": {
+    "id": 803,
+    "order": "399.00000000000000000000",
+    "amp_id": "person_event__803",
+    "source": [
+      {
+        "id": 795,
+        "value": "Spender, Philip",
+        "order": "434.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 525,
+        "value": "Stay Philip Spender with W. H. Auden and Chester Kallman in Kirchstetten 1964-09-08--1964-09-10",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "804": {
+    "id": 804,
+    "order": "400.00000000000000000000",
+    "amp_id": "person_event__804",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 526,
+        "value": "Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "805": {
+    "id": 805,
+    "order": "401.00000000000000000000",
+    "amp_id": "person_event__805",
+    "source": [
+      {
+        "id": 4,
+        "value": "Kallman, Chester",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 526,
+        "value": "Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "806": {
+    "id": 806,
+    "order": "402.00000000000000000000",
+    "amp_id": "person_event__806",
+    "source": [
+      {
+        "id": 160,
+        "value": "Kallman, Edward",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 526,
+        "value": "Stay Edward Kallman with W. H. Auden and Chester Kallman in Kirchstetten 1966-09-15--1966-09-17",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "807": {
+    "id": 807,
+    "order": "403.00000000000000000000",
+    "amp_id": "person_event__807",
+    "source": [],
+    "target": [],
+    "relation_type_object": []
   }
 }
