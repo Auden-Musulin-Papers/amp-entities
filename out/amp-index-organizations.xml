@@ -328,6 +328,9 @@ for any purpose, even commercially.</p>
                   <location type="coords">
                      <geo>48.20849, 16.37208</geo>
                   </location>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_805">Altmannsdorfer Straße 154-156</placeName>
+                  </location>
                   <idno type="URI" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1375237</idno>
                   <note>Vienna branch founded in 1946</note>
                </org>
@@ -2258,7 +2261,7 @@ for any purpose, even commercially.</p>
                   <orgName>Linder AG</orgName>
                   <desc>Was founded in year <date from-iso="1962-01-01">1962</date>.</desc>
                   <location type="located_in_place">
-                     <placeName key="amp_place_id_503">Zurich</placeName>
+                     <placeName key="amp_place_id_772">Gerechtigkeitsgasse 22</placeName>
                   </location>
                   <note/>
                </org>

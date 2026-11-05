@@ -19532,11 +19532,6 @@
         "id": 238,
         "value": "Neue Zürcher Zeitung",
         "order": "155.00000000000000000000"
-      },
-      {
-        "id": 515,
-        "value": "Linder AG",
-        "order": "206.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -21317,6 +21312,102 @@
         "order": "86.00000000000000000000"
       }
     ],
+    "updated_geonames": false
+  },
+  "772": {
+    "id": 772,
+    "order": "477.00000000000000000000",
+    "name": "Gerechtigkeitsgasse 22",
+    "amp_id": "amp_place_id_772",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 515,
+        "value": "Linder AG",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 503,
+        "value": "Zurich",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q27322877",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 278,
+        "value": "relationship_place_id__278",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "805": {
+    "id": 805,
+    "order": "478.00000000000000000000",
+    "name": "Altmannsdorfer Straße 154-156",
+    "amp_id": "amp_place_id_805",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [
+      {
+        "id": 26,
+        "value": "Europa Verlags-AG Wien",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "is_part_of": [
+      {
+        "id": 1,
+        "value": "Vienna",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q442561",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
     "updated_geonames": false
   }
 }

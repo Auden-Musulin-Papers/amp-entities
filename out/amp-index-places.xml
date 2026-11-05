@@ -6377,6 +6377,22 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/7611519-7</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_772">
+                  <placeName>Gerechtigkeitsgasse 22</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_503">Zurich</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q27322877</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_805">
+                  <placeName>Altmannsdorfer Straße 154-156</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_1">Vienna</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q442561</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

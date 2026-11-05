@@ -9613,6 +9613,11 @@
         "id": 312,
         "value": "relationship_person_id__312",
         "order": "273.00000000000000000000"
+      },
+      {
+        "id": 679,
+        "value": "relationship_person_id__679",
+        "order": "387.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -21821,7 +21826,7 @@
     "name": "Spender, Philip",
     "amp_id": "amp_person_795",
     "gnd": "",
-    "birth_year": "1944",
+    "birth_year": "1943",
     "birth_place": [],
     "birth_day": null,
     "death_year": null,
@@ -21845,6 +21850,52 @@
     "person_place": [],
     "person_org": [],
     "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": true
+  },
+  "796": {
+    "id": 796,
+    "order": "435.00000000000000000000",
+    "name": "Sparr, Marianne",
+    "amp_id": "amp_person_796",
+    "gnd": "https://d-nb.info/gnd/1237388015",
+    "birth_year": null,
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 278,
+        "value": "relationship_place_id__278",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 365,
+        "value": "person_org__365",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "person_person": [
+      {
+        "id": 678,
+        "value": "relationship_person_id__678",
+        "order": "386.00000000000000000000"
+      }
+    ],
     "PMB": "",
     "gender": null,
     "needs_review": true

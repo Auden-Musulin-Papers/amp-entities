@@ -2411,5 +2411,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "278": {
+    "id": 278,
+    "order": "87.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__278",
+    "source": [
+      {
+        "id": 796,
+        "value": "Sparr, Marianne",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 34,
+        "value": "has_workplace_in",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 772,
+        "value": "Gerechtigkeitsgasse 22",
+        "order": "477.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

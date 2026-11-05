@@ -9739,5 +9739,61 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "678": {
+    "id": 678,
+    "order": "386.00000000000000000000",
+    "amp_id": "relationship_person_id__678",
+    "source": [
+      {
+        "id": 796,
+        "value": "Sparr, Marianne",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "679": {
+    "id": 679,
+    "order": "387.00000000000000000000",
+    "amp_id": "relationship_person_id__679",
+    "source": [
+      {
+        "id": 137,
+        "value": "Kraus, Wolfgang",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 796,
+        "value": "Sparr, Marianne",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }

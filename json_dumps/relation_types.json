@@ -3383,6 +3383,16 @@
         "id": 739,
         "value": "Berkshires",
         "order": "476.00000000000000000000"
+      },
+      {
+        "id": 772,
+        "value": "Gerechtigkeitsgasse 22",
+        "order": "477.00000000000000000000"
+      },
+      {
+        "id": 805,
+        "value": "Altmannsdorfer Straße 154-156",
+        "order": "478.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3876,6 +3886,16 @@
         "id": 677,
         "value": "relationship_person_id__677",
         "order": "385.00000000000000000000"
+      },
+      {
+        "id": 678,
+        "value": "relationship_person_id__678",
+        "order": "386.00000000000000000000"
+      },
+      {
+        "id": 679,
+        "value": "relationship_person_id__679",
+        "order": "387.00000000000000000000"
       }
     ],
     "URI": ""
@@ -6836,6 +6856,11 @@
         "id": 146,
         "value": "relationship_place_id__146",
         "order": "82.00000000000000000000"
+      },
+      {
+        "id": 278,
+        "value": "relationship_place_id__278",
+        "order": "87.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -7002,6 +7027,11 @@
         "id": 364,
         "value": "person_org__364",
         "order": "73.00000000000000000000"
+      },
+      {
+        "id": 365,
+        "value": "person_org__365",
+        "order": "74.00000000000000000000"
       }
     ],
     "person_person": [

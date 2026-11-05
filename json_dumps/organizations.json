@@ -859,6 +859,11 @@
         "id": 1,
         "value": "Vienna",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 805,
+        "value": "Altmannsdorfer Straße 154-156",
+        "order": "478.00000000000000000000"
       }
     ],
     "part_of": [],
@@ -5561,15 +5566,21 @@
     "comments": "",
     "location": [
       {
-        "id": 503,
-        "value": "Zurich",
-        "order": "435.00000000000000000000"
+        "id": 772,
+        "value": "Gerechtigkeitsgasse 22",
+        "order": "477.00000000000000000000"
       }
     ],
     "part_of": [],
     "literary_works": [],
     "org_event": [],
-    "person_org": [],
+    "person_org": [
+      {
+        "id": 365,
+        "value": "person_org__365",
+        "order": "74.00000000000000000000"
+      }
+    ],
     "gnd": "https://d-nb.info/gnd/1086229207",
     "URL": "https://fritzagency.com/die-agentur/ueber-uns/"
   }
