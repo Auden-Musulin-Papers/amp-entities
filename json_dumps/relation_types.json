@@ -3393,6 +3393,16 @@
         "id": 805,
         "value": "Altmannsdorfer Straße 154-156",
         "order": "478.00000000000000000000"
+      },
+      {
+        "id": 806,
+        "value": "Thessaloniki",
+        "order": "479.00000000000000000000"
+      },
+      {
+        "id": 807,
+        "value": "Vasilissis Olgas Avenue 85",
+        "order": "480.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -3896,6 +3906,16 @@
         "id": 679,
         "value": "relationship_person_id__679",
         "order": "387.00000000000000000000"
+      },
+      {
+        "id": 711,
+        "value": "relationship_person_id__711",
+        "order": "388.00000000000000000000"
+      },
+      {
+        "id": 712,
+        "value": "relationship_person_id__712",
+        "order": "389.00000000000000000000"
       }
     ],
     "URI": ""
@@ -4735,6 +4755,11 @@
         "id": 246,
         "value": "relationship_place_id__246",
         "order": "86.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "relationship_place_id__311",
+        "order": "88.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -5830,6 +5855,21 @@
         "id": 806,
         "value": "person_event__806",
         "order": "402.00000000000000000000"
+      },
+      {
+        "id": 807,
+        "value": "person_event__807",
+        "order": "403.00000000000000000000"
+      },
+      {
+        "id": 808,
+        "value": "person_event__808",
+        "order": "404.00000000000000000000"
+      },
+      {
+        "id": 809,
+        "value": "person_event__809",
+        "order": "405.00000000000000000000"
       }
     ],
     "org_event": [

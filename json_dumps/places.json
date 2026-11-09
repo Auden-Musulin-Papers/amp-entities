@@ -20360,6 +20360,11 @@
         "id": 415,
         "value": "Reading W. H. Auden Manchester Poetry Centre 1971-10-11",
         "order": "157.00000000000000000000"
+      },
+      {
+        "id": 527,
+        "value": "Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11",
+        "order": "173.00000000000000000000"
       }
     ],
     "alternative_link": "",
@@ -21408,6 +21413,90 @@
     "alternative_link": "",
     "same_as": [],
     "person_place": [],
+    "updated_geonames": false
+  },
+  "806": {
+    "id": 806,
+    "order": "479.00000000000000000000",
+    "name": "Thessaloniki",
+    "amp_id": "amp_place_id_806",
+    "geonames_id": "https://sws.geonames.org/734077",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 358,
+        "value": "Hellenic Republic",
+        "order": "357.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q17151",
+    "gnd": "https://d-nb.info/gnd/4051394-4",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
+    "updated_geonames": false
+  },
+  "807": {
+    "id": 807,
+    "order": "480.00000000000000000000",
+    "name": "Vasilissis Olgas Avenue 85",
+    "amp_id": "amp_place_id_807",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 806,
+        "value": "Thessaloniki",
+        "order": "479.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q18691983",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 311,
+        "value": "relationship_place_id__311",
+        "order": "88.00000000000000000000"
+      }
+    ],
     "updated_geonames": false
   }
 }

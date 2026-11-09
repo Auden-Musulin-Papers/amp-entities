@@ -2439,5 +2439,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "311": {
+    "id": 311,
+    "order": "88.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__311",
+    "source": [
+      {
+        "id": 829,
+        "value": "Kyrou, Kleitos",
+        "order": "436.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 807,
+        "value": "Vasilissis Olgas Avenue 85",
+        "order": "480.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

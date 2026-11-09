@@ -815,6 +815,46 @@
         "id": 554,
         "value": "A Saint-Simon of Our Time",
         "order": "287.00000000000000000000"
+      },
+      {
+        "id": 556,
+        "value": "Who's Who",
+        "order": "289.00000000000000000000"
+      },
+      {
+        "id": 557,
+        "value": "Look, Stranger!",
+        "order": "290.00000000000000000000"
+      },
+      {
+        "id": 558,
+        "value": "O What Is That Sound",
+        "order": "291.00000000000000000000"
+      },
+      {
+        "id": 559,
+        "value": "Epitaph on a Tyrant",
+        "order": "292.00000000000000000000"
+      },
+      {
+        "id": 560,
+        "value": "Rimbaud",
+        "order": "293.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
+      },
+      {
+        "id": 562,
+        "value": "Refugee Blues",
+        "order": "295.00000000000000000000"
+      },
+      {
+        "id": 563,
+        "value": "The Unknown Citizen",
+        "order": "296.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1460,6 +1500,11 @@
         "id": 804,
         "value": "person_event__804",
         "order": "400.00000000000000000000"
+      },
+      {
+        "id": 807,
+        "value": "person_event__807",
+        "order": "403.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -2004,6 +2049,11 @@
         "id": 677,
         "value": "relationship_person_id__677",
         "order": "385.00000000000000000000"
+      },
+      {
+        "id": 712,
+        "value": "relationship_person_id__712",
+        "order": "389.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -19517,6 +19567,11 @@
         "id": 678,
         "value": "person_event__678",
         "order": "367.00000000000000000000"
+      },
+      {
+        "id": 808,
+        "value": "person_event__808",
+        "order": "404.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -19649,7 +19704,13 @@
         "color": "light-green"
       }
     ],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 809,
+        "value": "person_event__809",
+        "order": "405.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -21899,5 +21960,45 @@
     "PMB": "",
     "gender": null,
     "needs_review": true
+  },
+  "829": {
+    "id": 829,
+    "order": "436.00000000000000000000",
+    "name": "Kyrou, Kleitos",
+    "amp_id": "amp_person_829",
+    "gnd": "https://d-nb.info/gnd/133787311",
+    "birth_year": "1921",
+    "birth_place": [],
+    "birth_day": "1921-08-13",
+    "death_year": "2006",
+    "death_place": [],
+    "death_day": "2006-04-03",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q12879116",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [
+      {
+        "id": 311,
+        "value": "relationship_place_id__311",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 711,
+        "value": "relationship_person_id__711",
+        "order": "388.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
   }
 }

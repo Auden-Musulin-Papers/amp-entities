@@ -9157,8 +9157,78 @@
     "id": 807,
     "order": "403.00000000000000000000",
     "amp_id": "person_event__807",
-    "source": [],
-    "target": [],
-    "relation_type_object": []
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 527,
+        "value": "Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "808": {
+    "id": 808,
+    "order": "404.00000000000000000000",
+    "amp_id": "person_event__808",
+    "source": [
+      {
+        "id": 546,
+        "value": "Cox, Brian",
+        "order": "379.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 527,
+        "value": "Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
+  },
+  "809": {
+    "id": 809,
+    "order": "405.00000000000000000000",
+    "amp_id": "person_event__809",
+    "source": [
+      {
+        "id": 550,
+        "value": "Larkin, Philip",
+        "order": "382.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 527,
+        "value": "Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 28,
+        "value": "is_activeparticipant_in",
+        "order": "28.00000000000000000000"
+      }
+    ]
   }
 }

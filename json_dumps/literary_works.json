@@ -12756,5 +12756,357 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "556": {
+    "id": 556,
+    "order": "289.00000000000000000000",
+    "name": "Who's Who",
+    "lit_work_id": "lit_work_id_556",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1934",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 557,
+        "value": "Look, Stranger!",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "557": {
+    "id": 557,
+    "order": "290.00000000000000000000",
+    "name": "Look, Stranger!",
+    "lit_work_id": "lit_work_id_557",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1936",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book_of_poems",
+        "color": "dark-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 5,
+        "value": "Faber & Faber",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "558": {
+    "id": 558,
+    "order": "291.00000000000000000000",
+    "name": "O What Is That Sound",
+    "lit_work_id": "lit_work_id_558",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1932",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 557,
+        "value": "Look, Stranger!",
+        "order": "290.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "559": {
+    "id": 559,
+    "order": "292.00000000000000000000",
+    "name": "Epitaph on a Tyrant",
+    "lit_work_id": "lit_work_id_559",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1939",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "560": {
+    "id": 560,
+    "order": "293.00000000000000000000",
+    "name": "Rimbaud",
+    "lit_work_id": "lit_work_id_560",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1938",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "561": {
+    "id": 561,
+    "order": "294.00000000000000000000",
+    "name": "Another Time",
+    "lit_work_id": "lit_work_id_561",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1940",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book_of_poems",
+        "color": "dark-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 5,
+        "value": "Faber & Faber",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "562": {
+    "id": 562,
+    "order": "295.00000000000000000000",
+    "name": "Refugee Blues",
+    "lit_work_id": "lit_work_id_562",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1939",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "563": {
+    "id": 563,
+    "order": "296.00000000000000000000",
+    "name": "The Unknown Citizen",
+    "lit_work_id": "lit_work_id_563",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1939",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

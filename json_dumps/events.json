@@ -8109,5 +8109,57 @@
     "part_of": [],
     "revised": true,
     "needs_review": false
+  },
+  "527": {
+    "id": 527,
+    "order": "173.00000000000000000000",
+    "name": "Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11",
+    "amp_id": "amp_event_id_527",
+    "place_of_event": [
+      {
+        "id": 557,
+        "value": "Manchester",
+        "order": "454.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1971-10-11",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 807,
+        "value": "person_event__807",
+        "order": "403.00000000000000000000"
+      },
+      {
+        "id": 808,
+        "value": "person_event__808",
+        "order": "404.00000000000000000000"
+      },
+      {
+        "id": 809,
+        "value": "person_event__809",
+        "order": "405.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1971-10-11",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

@@ -6393,6 +6393,24 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q442561</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_806">
+                  <placeName>Thessaloniki</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_358">Hellenic Republic</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/734077/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q17151</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4051394-4</idno>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_807">
+                  <placeName>Vasilissis Olgas Avenue 85</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_806">Thessaloniki</placeName>
+                  </location>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q18691983</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

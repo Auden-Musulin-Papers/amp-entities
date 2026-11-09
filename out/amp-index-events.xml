@@ -3045,6 +3045,25 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_527" notBefore-iso="1971-10-11" notAfter-iso="1971-10-11" type="meeting">
+                  <label>Lunch W. H. Auden, Brian Cox, and Philip Larkin 1971-10-11</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_546" role="is_activeparticipant_in">
+                        <persName>Cox, Brian</persName>
+                     </person>
+                     <person sameAs="amp_person_550" role="is_activeparticipant_in">
+                        <persName>Larkin, Philip</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_557" type="location" subtype="is_event_location">
+                        <placeName>Manchester</placeName>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>

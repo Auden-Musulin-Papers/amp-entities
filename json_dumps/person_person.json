@@ -9795,5 +9795,61 @@
         "order": "21.00000000000000000000"
       }
     ]
+  },
+  "711": {
+    "id": 711,
+    "order": "388.00000000000000000000",
+    "amp_id": "relationship_person_id__711",
+    "source": [
+      {
+        "id": 829,
+        "value": "Kyrou, Kleitos",
+        "order": "436.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  "712": {
+    "id": 712,
+    "order": "389.00000000000000000000",
+    "amp_id": "relationship_person_id__712",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 829,
+        "value": "Kyrou, Kleitos",
+        "order": "436.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null,
+    "relation_type_object": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ]
   }
 }
