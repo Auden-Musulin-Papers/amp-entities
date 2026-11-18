@@ -2590,7 +2590,7 @@ for any purpose, even commercially.</p>
                   <lang>en</lang>
                </bibl>
                <bibl xml:id="lit_work_id_558" type="poem">
-                  <title>O What Is That Sound</title>
+                  <title>O what is that sound which so thrills the ear</title>
                   <author ref="#amp_person_1">
                      <persName>Auden, W. H.</persName>
                   </author>
@@ -2636,6 +2636,71 @@ for any purpose, even commercially.</p>
                   </author>
                   <date when="1939">1939</date>
                   <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_564" type="book_of_poems">
+                  <title>Roman Elegies</title>
+                  <author ref="#amp_person_11">
+                     <persName>Goethe, Johann Wolfgang von</persName>
+                  </author>
+                  <author ref="#amp_person_89">
+                     <persName>Luke, Frederic Davey [David]</persName>
+                  </author>
+                  <date when="1977">1977</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_566" type="poem">
+                  <title>Natural Linguistics</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1969">1969</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_567" type="poem">
+                  <title>The Aliens</title>
+                  <author ref="#amp_person_1">
+                     <persName>Auden, W. H.</persName>
+                  </author>
+                  <date when="1970">1970</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_569" type="scholarly_work">
+                  <title>The Mystical Theology of the Eastern Church</title>
+                  <author ref="#amp_person_833">
+                     <persName>Lossky, Vladimir</persName>
+                  </author>
+                  <date when="1957">1957</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_570" type="opera">
+                  <title>Le nozze di Figaro</title>
+                  <author ref="#amp_person_13">
+                     <persName>Mozart, Wolfgang Amadeus</persName>
+                  </author>
+                  <author ref="#amp_person_206">
+                     <persName>Da Ponte, Lorenzo</persName>
+                  </author>
+                  <date when="1786">1786</date>
+                  <lang>it</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_571" type="collection_of_stories">
+                  <title>The Marquise of O and Other Stories</title>
+                  <author ref="#amp_person_89">
+                     <persName>Luke, Frederic Davey [David]</persName>
+                  </author>
+                  <author ref="#amp_person_835">
+                     <persName>Kleist, Heinrich von</persName>
+                  </author>
+                  <date when="1978">1978</date>
+                  <lang>en</lang>
+               </bibl>
+               <bibl xml:id="lit_work_id_572" type="scholarly_work">
+                  <title>Goethe 1786-1814</title>
+                  <author ref="#amp_person_405">
+                     <persName>Staiger, Emil</persName>
+                  </author>
+                  <date when="1956">1956</date>
+                  <lang>de</lang>
                </bibl>
             </listBibl>
          </div>

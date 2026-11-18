@@ -2947,6 +2947,12 @@ for any purpose, even commercially.</p>
                      <person sameAs="amp_person_710" role="is_speaker_in">
                         <persName>Hughes, Ted</persName>
                      </person>
+                     <person sameAs="amp_person_721" role="is_speaker_in">
+                        <persName>Voznesensky, Andrei</persName>
+                     </person>
+                     <person sameAs="amp_person_723" role="is_speaker_in">
+                        <persName>Amichai, Yehuda</persName>
+                     </person>
                   </listPerson>
                   <listPlace>
                      <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
@@ -3061,6 +3067,22 @@ for any purpose, even commercially.</p>
                   <listPlace>
                      <place sameAs="amp_place_id_557" type="location" subtype="is_event_location">
                         <placeName>Manchester</placeName>
+                     </place>
+                  </listPlace>
+               </event>
+               <event xml:id="amp_event_id_528" notBefore-iso="1973-06-25" notAfter-iso="1973-06-30" type="professional">
+                  <label>Poetry International Festival 1973-06-25--1973-06-30</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_speaker_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_56" type="location" subtype="is_event_location">
+                        <placeName>London</placeName>
+                        <location type="coords">
+                           <geo>51.50853, -0.12574</geo>
+                        </location>
                      </place>
                   </listPlace>
                </event>

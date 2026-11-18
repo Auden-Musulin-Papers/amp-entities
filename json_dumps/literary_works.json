@@ -12848,7 +12848,7 @@
   "558": {
     "id": 558,
     "order": "291.00000000000000000000",
-    "name": "O What Is That Sound",
+    "name": "O what is that sound which so thrills the ear",
     "lit_work_id": "lit_work_id_558",
     "is_written_by": [
       {
@@ -13012,9 +13012,9 @@
     "Comments": "",
     "has_publisher": [
       {
-        "id": 5,
-        "value": "Faber & Faber",
-        "order": "5.00000000000000000000"
+        "id": 12,
+        "value": "Random House",
+        "order": "12.00000000000000000000"
       }
     ],
     "has_date": null,
@@ -13105,6 +13105,336 @@
     "FRBR_level": null,
     "Comments": "",
     "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "564": {
+    "id": 564,
+    "order": "297.00000000000000000000",
+    "name": "Roman Elegies",
+    "lit_work_id": "lit_work_id_564",
+    "is_written_by": [
+      {
+        "id": 11,
+        "value": "Goethe, Johann Wolfgang von",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Luke, Frederic Davey [David]",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1977",
+    "type": [
+      {
+        "id": 9981,
+        "value": "book_of_poems",
+        "color": "dark-green"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": {
+      "id": 9869,
+      "value": "expression",
+      "color": "dark-red"
+    },
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 516,
+        "value": "Chatto & Windus",
+        "order": "207.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "566": {
+    "id": 566,
+    "order": "298.00000000000000000000",
+    "name": "Natural Linguistics",
+    "lit_work_id": "lit_work_id_566",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1969",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "567": {
+    "id": 567,
+    "order": "299.00000000000000000000",
+    "name": "The Aliens",
+    "lit_work_id": "lit_work_id_567",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1970",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [
+      {
+        "id": 138,
+        "value": "Epistle to a Godson and Other Poems",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "569": {
+    "id": 569,
+    "order": "300.00000000000000000000",
+    "name": "The Mystical Theology of the Eastern Church",
+    "lit_work_id": "lit_work_id_569",
+    "is_written_by": [
+      {
+        "id": 833,
+        "value": "Lossky, Vladimir",
+        "order": "440.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1957",
+    "type": [
+      {
+        "id": 24079,
+        "value": "scholarly_work",
+        "color": "darker-green"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "570": {
+    "id": 570,
+    "order": "301.00000000000000000000",
+    "name": "Le nozze di Figaro",
+    "lit_work_id": "lit_work_id_570",
+    "is_written_by": [
+      {
+        "id": 13,
+        "value": "Mozart, Wolfgang Amadeus",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 206,
+        "value": "Da Ponte, Lorenzo",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1786",
+    "type": [
+      {
+        "id": 6665,
+        "value": "opera",
+        "color": "dark-gray"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6680,
+        "value": "it",
+        "color": "green"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "571": {
+    "id": 571,
+    "order": "302.00000000000000000000",
+    "name": "The Marquise of O and Other Stories",
+    "lit_work_id": "lit_work_id_571",
+    "is_written_by": [
+      {
+        "id": 89,
+        "value": "Luke, Frederic Davey [David]",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 835,
+        "value": "Kleist, Heinrich von",
+        "order": "442.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1978",
+    "type": [
+      {
+        "id": 24080,
+        "value": "collection_of_stories",
+        "color": "muted-yellow"
+      },
+      {
+        "id": 9993,
+        "value": "translation",
+        "color": "dark-orange"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 480,
+        "value": "Penguin Books",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "572": {
+    "id": 572,
+    "order": "303.00000000000000000000",
+    "name": "Goethe 1786-1814",
+    "lit_work_id": "lit_work_id_572",
+    "is_written_by": [
+      {
+        "id": 405,
+        "value": "Staiger, Emil",
+        "order": "335.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1956",
+    "type": [
+      {
+        "id": 24079,
+        "value": "scholarly_work",
+        "color": "darker-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6679,
+        "value": "de",
+        "color": "blue"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 519,
+        "value": "Atlantis Verlag",
+        "order": "210.00000000000000000000"
+      }
+    ],
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""

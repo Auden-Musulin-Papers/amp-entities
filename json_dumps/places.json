@@ -4385,6 +4385,16 @@
         "id": 480,
         "value": "Penguin Books",
         "order": "203.00000000000000000000"
+      },
+      {
+        "id": 516,
+        "value": "Chatto & Windus",
+        "order": "207.00000000000000000000"
+      },
+      {
+        "id": 517,
+        "value": "Anvil Press Poetry",
+        "order": "208.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -4434,6 +4444,11 @@
         "id": 490,
         "value": "Poetry International Festival 1967-07-12--1967-07-16",
         "order": "168.00000000000000000000"
+      },
+      {
+        "id": 528,
+        "value": "Poetry International Festival 1973-06-25--1973-06-30",
+        "order": "174.00000000000000000000"
       }
     ],
     "alternative_link": null,
@@ -11313,7 +11328,13 @@
     "death_place": [],
     "google_maps_coordinates": "53.56861844944027, -1.7784985940278975",
     "comments": "",
-    "organizations": [],
+    "organizations": [
+      {
+        "id": 518,
+        "value": "Glyndebourne Festival Opera",
+        "order": "209.00000000000000000000"
+      }
+    ],
     "is_part_of": [
       {
         "id": 93,
@@ -19532,6 +19553,11 @@
         "id": 238,
         "value": "Neue Zürcher Zeitung",
         "order": "155.00000000000000000000"
+      },
+      {
+        "id": 519,
+        "value": "Atlantis Verlag",
+        "order": "210.00000000000000000000"
       }
     ],
     "is_part_of": [
@@ -21497,6 +21523,90 @@
         "order": "88.00000000000000000000"
       }
     ],
+    "updated_geonames": false
+  },
+  "808": {
+    "id": 808,
+    "order": "481.00000000000000000000",
+    "name": "Shotheids",
+    "amp_id": "amp_place_id_808",
+    "geonames_id": "",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 809,
+        "value": "Scotland",
+        "order": "482.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "gnd": "",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [
+      {
+        "id": 312,
+        "value": "relationship_place_id__312",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "updated_geonames": false
+  },
+  "809": {
+    "id": 809,
+    "order": "482.00000000000000000000",
+    "name": "Scotland",
+    "amp_id": "amp_place_id_809",
+    "geonames_id": "https://sws.geonames.org/2638360",
+    "birth_place": [],
+    "death_place": [],
+    "google_maps_coordinates": "",
+    "comments": "",
+    "organizations": [],
+    "is_part_of": [
+      {
+        "id": 93,
+        "value": "United Kingdom",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "relation_types": [
+      {
+        "id": 16,
+        "value": "is_part_of",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q22",
+    "gnd": "https://d-nb.info/gnd/4053233-1",
+    "geonames_coordinates": "",
+    "place_type": "",
+    "country": "",
+    "country_code": "",
+    "place_type_class": "",
+    "updated": false,
+    "events": [],
+    "alternative_link": "",
+    "same_as": [],
+    "person_place": [],
     "updated_geonames": false
   }
 }

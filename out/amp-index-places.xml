@@ -6411,6 +6411,23 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q18691983</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_808">
+                  <placeName>Shotheids</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_809">Scotland</placeName>
+                  </location>
+                  <note/>
+               </place>
+               <place xml:id="amp_place_id_809">
+                  <placeName>Scotland</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_93">United Kingdom</placeName>
+                  </location>
+                  <idno type="URI" subtype="GEONAMES">https://sws.geonames.org/2638360/</idno>
+                  <idno type="URI" subtype="WIKIDATA">https://www.wikidata.org/entity/Q22</idno>
+                  <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053233-1</idno>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

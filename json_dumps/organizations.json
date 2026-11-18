@@ -176,11 +176,6 @@
         "id": 557,
         "value": "Look, Stranger!",
         "order": "290.00000000000000000000"
-      },
-      {
-        "id": 561,
-        "value": "Another Time",
-        "order": "294.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -223,6 +218,11 @@
         "id": 2,
         "value": "person_org__2",
         "order": "2.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "person_org__398",
+        "order": "75.00000000000000000000"
       }
     ],
     "gnd": "",
@@ -474,6 +474,11 @@
         "id": 444,
         "value": "The Elder Edda: A Selection",
         "order": "273.00000000000000000000"
+      },
+      {
+        "id": 561,
+        "value": "Another Time",
+        "order": "294.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -5503,6 +5508,11 @@
         "id": 552,
         "value": "Foreword",
         "order": "285.00000000000000000000"
+      },
+      {
+        "id": 571,
+        "value": "The Marquise of O and Other Stories",
+        "order": "302.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -5593,5 +5603,111 @@
     ],
     "gnd": "https://d-nb.info/gnd/1086229207",
     "URL": "https://fritzagency.com/die-agentur/ueber-uns/"
+  },
+  "516": {
+    "id": 516,
+    "order": "207.00000000000000000000",
+    "name": "Chatto & Windus",
+    "wikidata": "https://www.wikidata.org/entity/Q3666843",
+    "amp_id": "amp_organization_516",
+    "founded_in_year": "1855",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 564,
+        "value": "Roman Elegies",
+        "order": "297.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/10108423-7",
+    "URL": ""
+  },
+  "517": {
+    "id": 517,
+    "order": "208.00000000000000000000",
+    "name": "Anvil Press Poetry",
+    "wikidata": "https://www.wikidata.org/entity/Q4034155",
+    "amp_id": "amp_organization_517",
+    "founded_in_year": "1968",
+    "comments": "",
+    "location": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [
+      {
+        "id": 399,
+        "value": "person_org__399",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "gnd": "https://d-nb.info/gnd/1281282057",
+    "URL": ""
+  },
+  "518": {
+    "id": 518,
+    "order": "209.00000000000000000000",
+    "name": "Glyndebourne Festival Opera",
+    "wikidata": "https://www.wikidata.org/entity/Q203348",
+    "amp_id": "amp_organization_518",
+    "founded_in_year": "1934",
+    "comments": "",
+    "location": [
+      {
+        "id": 239,
+        "value": "England",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4412665-7",
+    "URL": ""
+  },
+  "519": {
+    "id": 519,
+    "order": "210.00000000000000000000",
+    "name": "Atlantis Verlag",
+    "wikidata": "https://www.wikidata.org/entity/Q109662965",
+    "amp_id": "amp_organization_519",
+    "founded_in_year": "1930",
+    "comments": "",
+    "location": [
+      {
+        "id": 503,
+        "value": "Zurich",
+        "order": "435.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 572,
+        "value": "Goethe 1786-1814",
+        "order": "303.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/4003389-2",
+    "URL": ""
   }
 }

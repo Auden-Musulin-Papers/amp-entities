@@ -9230,5 +9230,83 @@
         "order": "28.00000000000000000000"
       }
     ]
+  },
+  "810": {
+    "id": 810,
+    "order": "406.00000000000000000000",
+    "amp_id": "person_event__810",
+    "source": [
+      {
+        "id": 721,
+        "value": "Voznesensky, Andrei",
+        "order": "424.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 490,
+        "value": "Poetry International Festival 1967-07-12--1967-07-16",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "811": {
+    "id": 811,
+    "order": "407.00000000000000000000",
+    "amp_id": "person_event__811",
+    "source": [
+      {
+        "id": 723,
+        "value": "Amichai, Yehuda",
+        "order": "426.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 490,
+        "value": "Poetry International Festival 1967-07-12--1967-07-16",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
+  },
+  "812": {
+    "id": 812,
+    "order": "408.00000000000000000000",
+    "amp_id": "person_event__812",
+    "source": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 528,
+        "value": "Poetry International Festival 1973-06-25--1973-06-30",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 29,
+        "value": "is_speaker_in",
+        "order": "29.00000000000000000000"
+      }
+    ]
   }
 }

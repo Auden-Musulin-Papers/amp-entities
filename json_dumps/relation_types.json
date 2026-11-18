@@ -1050,6 +1050,16 @@
         "id": 452,
         "value": "relationship_person_id__452",
         "order": "346.00000000000000000000"
+      },
+      {
+        "id": 713,
+        "value": "relationship_person_id__713",
+        "order": "390.00000000000000000000"
+      },
+      {
+        "id": 714,
+        "value": "relationship_person_id__714",
+        "order": "391.00000000000000000000"
       }
     ],
     "URI": ""
@@ -3403,6 +3413,16 @@
         "id": 807,
         "value": "Vasilissis Olgas Avenue 85",
         "order": "480.00000000000000000000"
+      },
+      {
+        "id": 808,
+        "value": "Shotheids",
+        "order": "481.00000000000000000000"
+      },
+      {
+        "id": 809,
+        "value": "Scotland",
+        "order": "482.00000000000000000000"
       }
     ],
     "person_place": [],
@@ -4760,6 +4780,11 @@
         "id": 311,
         "value": "relationship_place_id__311",
         "order": "88.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "relationship_place_id__312",
+        "order": "89.00000000000000000000"
       }
     ],
     "person_event": [],
@@ -6186,6 +6211,21 @@
         "id": 763,
         "value": "person_event__763",
         "order": "389.00000000000000000000"
+      },
+      {
+        "id": 810,
+        "value": "person_event__810",
+        "order": "406.00000000000000000000"
+      },
+      {
+        "id": 811,
+        "value": "person_event__811",
+        "order": "407.00000000000000000000"
+      },
+      {
+        "id": 812,
+        "value": "person_event__812",
+        "order": "408.00000000000000000000"
       }
     ],
     "org_event": [],
@@ -7072,6 +7112,11 @@
         "id": 365,
         "value": "person_org__365",
         "order": "74.00000000000000000000"
+      },
+      {
+        "id": 398,
+        "value": "person_org__398",
+        "order": "75.00000000000000000000"
       }
     ],
     "person_person": [
@@ -7805,6 +7850,36 @@
         "id": 257,
         "value": "person_org__257",
         "order": "62.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "URI": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "53.00000000000000000000",
+    "name": "is_director_of",
+    "has_broader": [
+      {
+        "id": 21,
+        "value": "is_professionallyrelated_to",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "inverse": "is_directed_by",
+    "amp_id": "relation_type__150",
+    "literary_works": [],
+    "places": [],
+    "person_place": [],
+    "person_event": [],
+    "org_event": [],
+    "has_label": "",
+    "has_label_inverse": "",
+    "person_org": [
+      {
+        "id": 399,
+        "value": "person_org__399",
+        "order": "76.00000000000000000000"
       }
     ],
     "person_person": [],

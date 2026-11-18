@@ -7865,6 +7865,16 @@
         "id": 763,
         "value": "person_event__763",
         "order": "389.00000000000000000000"
+      },
+      {
+        "id": 810,
+        "value": "person_event__810",
+        "order": "406.00000000000000000000"
+      },
+      {
+        "id": 811,
+        "value": "person_event__811",
+        "order": "407.00000000000000000000"
       }
     ],
     "Comments": "",
@@ -8150,6 +8160,48 @@
     ],
     "Comments": "",
     "end_date": "1971-10-11",
+    "evidence": null,
+    "has_sub_type": null,
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
+  },
+  "528": {
+    "id": 528,
+    "order": "174.00000000000000000000",
+    "name": "Poetry International Festival 1973-06-25--1973-06-30",
+    "amp_id": "amp_event_id_528",
+    "place_of_event": [
+      {
+        "id": 56,
+        "value": "London",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 6734,
+        "value": "professional",
+        "color": "dark-red"
+      }
+    ],
+    "start_date": "1973-06-25",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 812,
+        "value": "person_event__812",
+        "order": "408.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1973-06-30",
     "evidence": null,
     "has_sub_type": null,
     "status": {

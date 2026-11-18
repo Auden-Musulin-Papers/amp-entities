@@ -828,7 +828,7 @@
       },
       {
         "id": 558,
-        "value": "O What Is That Sound",
+        "value": "O what is that sound which so thrills the ear",
         "order": "291.00000000000000000000"
       },
       {
@@ -855,6 +855,16 @@
         "id": 563,
         "value": "The Unknown Citizen",
         "order": "296.00000000000000000000"
+      },
+      {
+        "id": 566,
+        "value": "Natural Linguistics",
+        "order": "298.00000000000000000000"
+      },
+      {
+        "id": 567,
+        "value": "The Aliens",
+        "order": "299.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -1505,6 +1515,11 @@
         "id": 807,
         "value": "person_event__807",
         "order": "403.00000000000000000000"
+      },
+      {
+        "id": 812,
+        "value": "person_event__812",
+        "order": "408.00000000000000000000"
       }
     ],
     "maiden_name": "",
@@ -2054,6 +2069,11 @@
         "id": 712,
         "value": "relationship_person_id__712",
         "order": "389.00000000000000000000"
+      },
+      {
+        "id": 713,
+        "value": "relationship_person_id__713",
+        "order": "390.00000000000000000000"
       }
     ],
     "PMB": "",
@@ -3350,6 +3370,11 @@
         "id": 170,
         "value": "Das Sonett",
         "order": "163.00000000000000000000"
+      },
+      {
+        "id": 564,
+        "value": "Roman Elegies",
+        "order": "297.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q5879",
@@ -3447,6 +3472,11 @@
         "id": 8,
         "value": "Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)",
         "order": "8.00000000000000000000"
+      },
+      {
+        "id": 570,
+        "value": "Le nozze di Figaro",
+        "order": "301.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q254",
@@ -7297,7 +7327,18 @@
     "death_day": "2005-12-05",
     "comment": "known also as David Luke",
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 564,
+        "value": "Roman Elegies",
+        "order": "297.00000000000000000000"
+      },
+      {
+        "id": 571,
+        "value": "The Marquise of O and Other Stories",
+        "order": "302.00000000000000000000"
+      }
+    ],
     "wikidata": "http://www.wikidata.org/entity/Q18526943",
     "Title": [],
     "person_event": [
@@ -7310,8 +7351,20 @@
     "maiden_name": null,
     "alternative_website": "https://www.independent.co.uk/news/obituaries/david-luke-518691.html",
     "updated": true,
-    "person_place": [],
-    "person_org": [],
+    "person_place": [
+      {
+        "id": 312,
+        "value": "relationship_place_id__312",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "person_org": [
+      {
+        "id": 398,
+        "value": "person_org__398",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "person_person": [
       {
         "id": 214,
@@ -12603,6 +12656,11 @@
         "id": 22,
         "value": "Il dissoluto punito ossia Il Don Giovanni (The Rake Punished, or Don Giovanni)",
         "order": "22.00000000000000000000"
+      },
+      {
+        "id": 570,
+        "value": "Le nozze di Figaro",
+        "order": "301.00000000000000000000"
       }
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q268166",
@@ -17969,7 +18027,13 @@
     "death_day": "1987-04-28",
     "comment": "",
     "fictional_or_real": null,
-    "literary_work": [],
+    "literary_work": [
+      {
+        "id": 572,
+        "value": "Goethe 1786-1814",
+        "order": "303.00000000000000000000"
+      }
+    ],
     "wikidata": "https://www.wikidata.org/entity/Q124505",
     "Title": [
       {
@@ -21460,7 +21524,13 @@
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q236619",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 810,
+        "value": "person_event__810",
+        "order": "406.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -21522,7 +21592,13 @@
     "literary_work": [],
     "wikidata": "https://www.wikidata.org/entity/Q58612",
     "Title": [],
-    "person_event": [],
+    "person_event": [
+      {
+        "id": 811,
+        "value": "person_event__811",
+        "order": "407.00000000000000000000"
+      }
+    ],
     "maiden_name": "",
     "alternative_website": "",
     "updated": false,
@@ -21997,6 +22073,204 @@
         "order": "388.00000000000000000000"
       }
     ],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "830": {
+    "id": 830,
+    "order": "437.00000000000000000000",
+    "name": "Dodds, E. R.",
+    "amp_id": "amp_person_830",
+    "gnd": "https://d-nb.info/gnd/123026288",
+    "birth_year": "1893",
+    "birth_place": [],
+    "birth_day": "1893-07-26",
+    "death_year": "1979",
+    "death_place": [],
+    "death_day": "1979-04-08",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q176172",
+    "Title": [
+      {
+        "id": 6725,
+        "value": "Professor:in",
+        "color": "light-gray"
+      }
+    ],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [
+      {
+        "id": 714,
+        "value": "relationship_person_id__714",
+        "order": "391.00000000000000000000"
+      }
+    ],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "831": {
+    "id": 831,
+    "order": "438.00000000000000000000",
+    "name": "Jay, Peter",
+    "amp_id": "amp_person_831",
+    "gnd": "https://d-nb.info/gnd/1281282863",
+    "birth_year": "1945",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": null,
+    "death_place": [],
+    "death_day": null,
+    "comment": "managing editor of Anvil Press and Carcanet Press",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "https://www.poetrysurvival.com/interviews/peter-jay/",
+    "updated": false,
+    "person_place": [],
+    "person_org": [
+      {
+        "id": 399,
+        "value": "person_org__399",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "832": {
+    "id": 832,
+    "order": "439.00000000000000000000",
+    "name": "Isaac the Syrian",
+    "amp_id": "amp_person_832",
+    "gnd": "https://d-nb.info/gnd/10251044X",
+    "birth_year": "640",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "700",
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q462966",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "833": {
+    "id": 833,
+    "order": "440.00000000000000000000",
+    "name": "Lossky, Vladimir",
+    "amp_id": "amp_person_833",
+    "gnd": "https://d-nb.info/gnd/118761420",
+    "birth_year": "1903",
+    "birth_place": [],
+    "birth_day": "1903-06-08",
+    "death_year": "1958",
+    "death_place": [],
+    "death_day": "1958-02-07",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 569,
+        "value": "The Mystical Theology of the Eastern Church",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q2292798",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "834": {
+    "id": 834,
+    "order": "441.00000000000000000000",
+    "name": "Weir, Alison",
+    "amp_id": "amp_person_834",
+    "gnd": "",
+    "birth_year": "1926",
+    "birth_place": [],
+    "birth_day": null,
+    "death_year": "2009",
+    "death_place": [],
+    "death_day": null,
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [],
+    "wikidata": "https://www.wikidata.org/entity/Q112002287",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "Walker",
+    "alternative_website": "https://www.theguardian.com/theguardian/2009/may/14/alison-weir-obituary-ayrshire-historian",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "835": {
+    "id": 835,
+    "order": "442.00000000000000000000",
+    "name": "Kleist, Heinrich von",
+    "amp_id": "amp_person_835",
+    "gnd": "https://d-nb.info/gnd/118563076",
+    "birth_year": "1777",
+    "birth_place": [],
+    "birth_day": "1777-10-18",
+    "death_year": "1811",
+    "death_place": [],
+    "death_day": "1811-11-21",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 571,
+        "value": "The Marquise of O and Other Stories",
+        "order": "302.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q28494",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
     "PMB": "",
     "gender": null,
     "needs_review": false
