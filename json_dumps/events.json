@@ -8213,5 +8213,61 @@
     "part_of": [],
     "revised": false,
     "needs_review": false
+  },
+  "529": {
+    "id": 529,
+    "order": "175.00000000000000000000",
+    "name": "Meeting Edward Mendelson with W. H. Auden and Chester Kallmann in Kirchstetten 1972-06-16",
+    "amp_id": "amp_event_id_529",
+    "place_of_event": [
+      {
+        "id": 2,
+        "value": "Hinterholz 6",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "has_type": [
+      {
+        "id": 23363,
+        "value": "meeting",
+        "color": "dark-blue"
+      }
+    ],
+    "start_date": "1972-06-16",
+    "wikidata": "",
+    "person_event": [
+      {
+        "id": 813,
+        "value": "person_event__813",
+        "order": "409.00000000000000000000"
+      },
+      {
+        "id": 814,
+        "value": "person_event__814",
+        "order": "410.00000000000000000000"
+      },
+      {
+        "id": 815,
+        "value": "person_event__815",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "Comments": "",
+    "end_date": "1972-06-16",
+    "evidence": null,
+    "has_sub_type": {
+      "id": 23673,
+      "value": "private",
+      "color": "dark-green"
+    },
+    "status": {
+      "id": 12194,
+      "value": "happened",
+      "color": "dark-green"
+    },
+    "org_event": [],
+    "part_of": [],
+    "revised": false,
+    "needs_review": false
   }
 }

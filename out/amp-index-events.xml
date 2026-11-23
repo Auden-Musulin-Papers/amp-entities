@@ -3086,6 +3086,28 @@ for any purpose, even commercially.</p>
                      </place>
                   </listPlace>
                </event>
+               <event xml:id="amp_event_id_529" notBefore-iso="1972-06-16" notAfter-iso="1972-06-16" type="meeting" subtype="private">
+                  <label>Meeting Edward Mendelson with W. H. Auden and Chester Kallmann in Kirchstetten 1972-06-16</label>
+                  <listPerson>
+                     <person sameAs="amp_person_1" role="is_activeparticipant_in">
+                        <persName>Auden, W. H.</persName>
+                     </person>
+                     <person sameAs="amp_person_98" role="is_activeparticipant_in">
+                        <persName>Mendelson, Edward</persName>
+                     </person>
+                     <person sameAs="amp_person_4" role="is_activeparticipant_in">
+                        <persName>Kallman, Chester</persName>
+                     </person>
+                  </listPerson>
+                  <listPlace>
+                     <place sameAs="amp_place_id_2" type="location" subtype="is_event_location">
+                        <placeName>Hinterholz 6</placeName>
+                        <location type="coords">
+                           <geo>48.18153, 15.81151</geo>
+                        </location>
+                     </place>
+                  </listPlace>
+               </event>
             </listEvent>
          </div>
       </body>
