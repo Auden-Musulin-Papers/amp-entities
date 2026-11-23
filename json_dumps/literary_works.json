@@ -13438,5 +13438,87 @@
     "has_date": null,
     "is_review_of": [],
     "has_external_url": ""
+  },
+  "573": {
+    "id": 573,
+    "order": "304.00000000000000000000",
+    "name": "The Oxford Book of Light Verse",
+    "lit_work_id": "lit_work_id_573",
+    "is_written_by": [
+      {
+        "id": 1,
+        "value": "Auden, W. H.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1938",
+    "type": [
+      {
+        "id": 9990,
+        "value": "anthology",
+        "color": "light-green"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [
+      {
+        "id": 520,
+        "value": "Clarendon Press",
+        "order": "211.00000000000000000000"
+      }
+    ],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
+  },
+  "574": {
+    "id": 574,
+    "order": "305.00000000000000000000",
+    "name": "The Origin of Didactic Poetry",
+    "lit_work_id": "lit_work_id_574",
+    "is_written_by": [
+      {
+        "id": 837,
+        "value": "Lowell, James Russell",
+        "order": "443.00000000000000000000"
+      }
+    ],
+    "is_linked_with": "",
+    "has_year": "1857",
+    "type": [
+      {
+        "id": 6664,
+        "value": "poem",
+        "color": "red"
+      }
+    ],
+    "version_of": [],
+    "language": [
+      {
+        "id": 6678,
+        "value": "en",
+        "color": "light-red"
+      }
+    ],
+    "relation_types": [],
+    "is_part_of": [],
+    "FRBR_level": null,
+    "Comments": "",
+    "has_publisher": [],
+    "has_date": null,
+    "is_review_of": [],
+    "has_external_url": ""
   }
 }

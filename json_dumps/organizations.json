@@ -5709,5 +5709,33 @@
     "person_org": [],
     "gnd": "https://d-nb.info/gnd/4003389-2",
     "URL": ""
+  },
+  "520": {
+    "id": 520,
+    "order": "211.00000000000000000000",
+    "name": "Clarendon Press",
+    "wikidata": "https://www.wikidata.org/entity/Q10454562",
+    "amp_id": "amp_organization_520",
+    "founded_in_year": "1585",
+    "comments": "",
+    "location": [
+      {
+        "id": 46,
+        "value": "Oxford",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "literary_works": [
+      {
+        "id": 573,
+        "value": "The Oxford Book of Light Verse",
+        "order": "304.00000000000000000000"
+      }
+    ],
+    "org_event": [],
+    "person_org": [],
+    "gnd": "https://d-nb.info/gnd/2117788-0",
+    "URL": ""
   }
 }

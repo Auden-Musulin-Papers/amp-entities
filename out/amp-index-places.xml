@@ -6428,6 +6428,13 @@ for any purpose, even commercially.</p>
                   <idno type="URI" subtype="GND">https://d-nb.info/gnd/4053233-1</idno>
                   <note/>
                </place>
+               <place xml:id="amp_place_id_811">
+                  <placeName>123 York Street</placeName>
+                  <location type="located_in_place">
+                     <placeName key="amp_place_id_222">New Haven</placeName>
+                  </location>
+                  <note/>
+               </place>
             </listPlace>
          </div>
       </body>

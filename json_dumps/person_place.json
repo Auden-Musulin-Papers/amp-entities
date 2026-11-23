@@ -2495,5 +2495,33 @@
     ],
     "start_date": null,
     "end_date": null
+  },
+  "313": {
+    "id": 313,
+    "order": "90.00000000000000000000",
+    "place_relationship_id": "relationship_place_id__313",
+    "source": [
+      {
+        "id": 98,
+        "value": "Mendelson, Edward",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "relation_type_object": [
+      {
+        "id": 27,
+        "value": "is_resident_of",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "target": [
+      {
+        "id": 811,
+        "value": "123 York Street",
+        "order": "483.00000000000000000000"
+      }
+    ],
+    "start_date": null,
+    "end_date": null
   }
 }

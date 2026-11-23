@@ -865,6 +865,11 @@
         "id": 567,
         "value": "The Aliens",
         "order": "299.00000000000000000000"
+      },
+      {
+        "id": 573,
+        "value": "The Oxford Book of Light Verse",
+        "order": "304.00000000000000000000"
       }
     ],
     "wikidata": "http://www.wikidata.org/entity/Q178698",
@@ -7898,6 +7903,11 @@
         "id": 12,
         "value": "relationship_place_id__12",
         "order": "12.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "relationship_place_id__313",
+        "order": "90.00000000000000000000"
       }
     ],
     "person_org": [
@@ -22263,6 +22273,40 @@
       }
     ],
     "wikidata": "https://www.wikidata.org/entity/Q28494",
+    "Title": [],
+    "person_event": [],
+    "maiden_name": "",
+    "alternative_website": "",
+    "updated": false,
+    "person_place": [],
+    "person_org": [],
+    "person_person": [],
+    "PMB": "",
+    "gender": null,
+    "needs_review": false
+  },
+  "837": {
+    "id": 837,
+    "order": "443.00000000000000000000",
+    "name": "Lowell, James Russell",
+    "amp_id": "amp_person_837",
+    "gnd": "https://d-nb.info/gnd/118780611",
+    "birth_year": "1819",
+    "birth_place": [],
+    "birth_day": "1819-02-22",
+    "death_year": "1891",
+    "death_place": [],
+    "death_day": "1891-08-12",
+    "comment": "",
+    "fictional_or_real": null,
+    "literary_work": [
+      {
+        "id": 574,
+        "value": "The Origin of Didactic Poetry",
+        "order": "305.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/entity/Q449670",
     "Title": [],
     "person_event": [],
     "maiden_name": "",
